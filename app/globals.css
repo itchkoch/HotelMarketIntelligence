@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { @apply bg-mist text-gray-900 antialiased; }
+.th { @apply px-3 py-2 text-left text-[11px] font-semibold uppercase tracking-wide text-white whitespace-nowrap select-none; }
+.td { @apply px-3 py-2 text-sm whitespace-nowrap; }
+.card { @apply rounded-lg border border-line bg-white; }
+.input { @apply w-full rounded-md border border-line bg-white px-2.5 py-1.5 text-sm outline-none focus:border-navy; }
+.label { @apply mb-1 block text-[11px] font-semibold uppercase tracking-wide text-gray-600; }
+
+/* ── Hotel report styles (ported from HISV report pages, scoped to .rpt) ── */
+.rpt { font-family: "Segoe UI", Arial, sans-serif; font-size: 12px; color: #1a1a1a; }
+.rpt .h1 { font-family: Georgia, serif; font-size: 15px; font-weight: 700; color: #1A3A5C; margin: 24px 0 8px; padding-bottom: 3px; border-bottom: 2px solid #1A3A5C; }
+.rpt .h2 { font-size: 11px; font-weight: 700; color: #2471A3; margin: 11px 0 4px; text-transform: uppercase; letter-spacing: .4px; }
+.rpt p { margin: 5px 0 9px; line-height: 1.7; }
+.rpt .para { font-size: 11.5px; line-height: 1.75; color: #2a2a2a; }
+.rpt ul { list-style: disc; padding-left: 18px; }
+.rpt li { line-height: 1.7; }
+.rpt a { color: #1565C0; }
+.rpt table { width: 100%; border-collapse: collapse; }
+.rpt-body { overflow-x: auto; }
+.rpt .rate-box { display: flex; gap: 12px; margin: 10px 0 16px; flex-wrap: wrap; }
+.rpt .rate-card { background: #D6EAF8; border: 1px solid #B0CCE8; border-radius: 8px; padding: 10px 16px; text-align: center; min-width: 90px; }
+.rpt .rate-v { font-family: Georgia, serif; font-size: 19px; font-weight: 700; color: #1A3A5C; }
+.rpt .rate-l { font-size: 9px; color: #555; text-transform: uppercase; letter-spacing: .4px; margin-top: 2px; }
+.rpt .kv-t { margin: 8px 0 14px; }
+.rpt .kv-t th { background: #1A3A5C; color: #fff; padding: 7px 9px; font-size: 11px; font-weight: 700; text-align: left; }
+.rpt .kv-t td.lbl { width: 175px; background: #D6EAF8; padding: 5px 8px; font-size: 10.5px; font-weight: 700; color: #1A3A5C; vertical-align: top; }
+.rpt .kv-t td.val { padding: 5px 8px; font-size: 11px; border-bottom: 1px solid #E8EFF8; }
+.rpt .sw-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 8px 0; }
+@media (max-width: 640px) { .rpt .sw-grid { grid-template-columns: 1fr; } .rpt .kv-t td.lbl { width: 120px; } }
+.rpt .sw-box { border-radius: 6px; padding: 11px 14px; }
+.rpt .sw-box.str { background: #E8F8EE; border: 1px solid #82D09A; }
+.rpt .sw-box.wkn { background: #FEF0F0; border: 1px solid #F4AAAA; }
+.rpt .sw-box h4 { font-size: 10.5px; font-weight: 700; text-transform: uppercase; letter-spacing: .5px; margin-bottom: 6px; }
+.rpt .sw-box ul { font-size: 11px; line-height: 1.75; color: #333; }
+.rpt .comp-tbl th, .rpt .hp-tbl th { background: #1A3A5C; color: #fff; padding: 6px 9px; font-size: 10px; font-weight: 600; text-align: left; }
+.rpt .ds-list { font-size: 11px; line-height: 1.9; color: #333; }
+
+/* ── Print / PDF ── */
+@page {
+  size: Letter;
+  margin: 12mm 10mm 14mm;
+  @bottom-left { content: "Hotel Intelligence \00B7  research data, not an appraisal \00B7  itchkochapps@gmail.com"; font-size: 7pt; color: #888; }
+  @bottom-right { content: "Page " counter(page) " of " counter(pages); font-size: 7pt; color: #888; }
+}
+@media print {
+  .no-print { display: none !important; }
+  body, .rpt { background: #fff; font-family: Arial, 'Liberation Sans', Helvetica, sans-serif !important; }
+  main { padding: 0 !important; max-width: none !important; }
+  .card { border: none; box-shadow: none; }
+  .rpt section { break-inside: auto; }
+  .rpt .h1 { break-after: avoid; }
+  .rpt .rate-box { flex-wrap: nowrap; gap: 8px; }
+  .rpt .rate-card { flex: 1 1 0; min-width: 0; padding: 9px 6px; }
+  .rpt table, .rpt .rate-box, .rpt .sw-grid, .rpt li { break-inside: avoid; }
+  a { color: inherit; text-decoration: none; }
+}

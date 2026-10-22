@@ -1,0 +1,366 @@
+{
+ "_meta": {
+  "checked": "2026-10-21",
+  "fx": {
+   "CADUSD": 0.7112,
+   "source": "https://www.poundsterlinglive.com/history/CAD-USD-2026",
+   "date": "2026-10-21"
+  },
+  "priceMethod": "Kayak.com (US site, USD) hotel page, 'last 12 months' figures. OTA low = cheapest-month average nightly price; OTA high = most-expensive-month average; blended ADR = average of the two. Kayak averages are search prices, may include taxes/fees, and are not achieved ADR.",
+  "rule": "Rooms and street address require 2 independent sources. Postal code is kept only when no fetched source conflicts."
+ },
+ "HIR-010": {
+  "address": "188 University Avenue, Toronto, ON M5H 0A3, Canada",
+  "keys": 202,
+  "keysNote": "202 rooms incl. 49 suites",
+  "opened": "October 2012",
+  "amenities": {
+   "dining": "Bosk (signature restaurant, 80 seats + 30-seat private dining); The Bar (30 seats); Lobby Lounge (90 seats)",
+   "spa": "Miraj Hammam Spa by Caudalie (9 treatment suites)",
+   "pool": "20 m salt-water lap pool, level 5 health club",
+   "fitness": "Health club / gym",
+   "meeting": "9 meeting rooms, 14,626 sq ft total; largest (Queen's Park) 3,670 sq ft",
+   "other": "One MICHELIN Key; rooms 490–2,200 sq ft; parking CAD 68/day"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Shangri-La-Hotel-Toronto.473662.ksp",
+   "cheapMonth": "January",
+   "low": 438,
+   "peakMonth": "September",
+   "high": 661,
+   "weekday2w": 638,
+   "weekend2w": 601,
+   "recentMin": 320,
+   "recentMax": 1140
+  },
+  "sources": [
+   {
+    "label": "Hospitality Net — opening announcement (Oct 2012)",
+    "url": "https://www.hospitalitynet.org/news/4057918.html"
+   },
+   {
+    "label": "MICHELIN Guide — Shangri-La Hotel, Toronto",
+    "url": "https://guide.michelin.com/us/en/hotels-stays/toronto/shangrila-hotel-toronto-7646"
+   },
+   {
+    "label": "Trip.com hotel page",
+    "url": "https://www.trip.com/hotels/toronto-hotel-detail-2196125/shangri-la-hotel-toronto/"
+   },
+   {
+    "label": "Kayak (CAD) hotel page",
+    "url": "https://www.ca.kayak.com/Toronto-Hotels-Shangri-La-Hotel-Toronto.473662.lfr.ksp"
+   }
+  ],
+  "keysCheck": "2+ sources"
+ },
+ "HIR-008": {
+  "address": "100 Front Street West, Toronto, ON M5J 1E3, Canada",
+  "keys": 1363,
+  "keysNote": "1,363 rooms and suites",
+  "opened": "June 11, 1929",
+  "amenities": {
+   "dining": "Library Bar (afternoon tea); Benihana Japanese Steakhouse; restaurant, coffee shop, room service",
+   "spa": "Spa, sauna, steam room, hot tub",
+   "pool": "Indoor heated pool",
+   "fitness": "Fitness centre",
+   "meeting": "Full floor of function rooms incl. the Ballroom, Concert Hall (Casavant Frères pipe organ) and Imperial Room",
+   "other": "C$100M restoration 1988–1993; C$50M renovation announced after 2014 sale; operated by Fairmont Hotels & Resorts"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Fairmont-Royal-York.33482.ksp",
+   "cheapMonth": "February",
+   "low": 155,
+   "peakMonth": "October",
+   "high": 392,
+   "weekday2w": 346,
+   "weekend2w": 339,
+   "recentMin": 158,
+   "recentMax": 681
+  },
+  "sources": [
+   {
+    "label": "Wikipedia — Fairmont Royal York",
+    "url": "https://en.wikipedia.org/wiki/Fairmont_Royal_York"
+   }
+  ],
+  "keysCheck": "1 source (matches original data)"
+ },
+ "HIR-012": {
+  "address": "60 Yorkville Avenue, Toronto, ON M4W 0A4, Canada",
+  "keys": 259,
+  "keysNote": "217 rooms + 42 suites; 210 private residences in the building",
+  "opened": "October 2012",
+  "amenities": {
+   "dining": "Café Boulud (French brasserie); d|bar (120 indoor + 40 outdoor seats)",
+   "spa": "30,000 sq ft spa, 19 treatment rooms",
+   "pool": "Indoor pool with whirlpool",
+   "fitness": "Fitness centre",
+   "meeting": "14,300 sq ft of meeting space",
+   "other": "Valet parking; business centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Four-Seasons-Hotel-Toronto.671432.ksp",
+   "cheapMonth": "February",
+   "low": 525,
+   "peakMonth": "August",
+   "high": 892,
+   "weekday2w": 879,
+   "weekend2w": 665,
+   "recentMin": 540,
+   "recentMax": 1329
+  },
+  "sources": [
+   {
+    "label": "Four Seasons press room — Hotel facts",
+    "url": "https://press.fourseasons.com/toronto/hotel-facts"
+   },
+   {
+    "label": "Kayak (CAD) hotel page — currency cross-check",
+    "url": "https://www.ca.kayak.com/Toronto-Hotels-Four-Seasons-Hotel-Toronto.671432.ksp"
+   }
+  ],
+  "keysCheck": "2+ sources"
+ },
+ "HIR-013": {
+  "address": "118 Yorkville Avenue, Toronto, ON M5R 1H5, Canada",
+  "keys": 77,
+  "keysNote": "62 rooms + 15 suites",
+  "opened": null,
+  "amenities": {
+   "dining": "ONE Restaurant",
+   "spa": "Spa by Valmont",
+   "pool": "Indoor salt-water pool",
+   "fitness": "Fitness centre",
+   "meeting": null,
+   "other": "Norman Jewison Cinema (private screening room); valet parking"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-The-Hazelton-Hotel.181275.ksp",
+   "cheapMonth": "January",
+   "low": 508,
+   "peakMonth": "September",
+   "high": 968,
+   "weekday2w": 746,
+   "weekend2w": 821,
+   "recentMin": 736,
+   "recentMax": 1350
+  },
+  "sources": [
+   {
+    "label": "The Luxury Editor — The Hazelton Hotel Toronto",
+    "url": "https://theluxuryeditor.com/accommodation/the-hazelton-hotel-toronto/"
+   }
+  ],
+  "keysCheck": "1 source (matches original data)"
+ },
+ "HIR-016": {
+  "address": "550 Wellington Street West, Toronto, ON M5V 2V4, Canada",
+  "keys": 112,
+  "keysNote": "112 rooms incl. 21 suites (largest: 2,000 sq ft Birch House); former Thompson Toronto",
+  "opened": "August 2021 (after ~2-year conversion of the Thompson Hotel)",
+  "amenities": {
+   "dining": "1 Kitchen; Casa Madera; Bar Flora; Harriet's (rooftop)",
+   "spa": null,
+   "pool": "Rooftop pool deck",
+   "fitness": "Yoga and wellness classes",
+   "meeting": "Meeting and event spaces (size not published)",
+   "other": "Owner: Mohari Hospitality; design by Rockwell Group; 3,300+ plants on property"
+  },
+  "owner": "Mohari Hospitality",
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-1-Hotel-Toronto.311320.ksp",
+   "cheapMonth": "January",
+   "low": 390,
+   "peakMonth": "June",
+   "high": 665,
+   "weekday2w": 948,
+   "weekend2w": 807,
+   "recentMin": 485,
+   "recentMax": 1496
+  },
+  "sources": [
+   {
+    "label": "Toronto Life — first look inside 1 Hotel (Aug 2021)",
+    "url": "https://torontolife.com/life/a-first-look-inside-1-hotel-the-thompsons-verdant-replacement/"
+   },
+   {
+    "label": "1 Hotels — Toronto property page",
+    "url": "https://1hotels.com/fr/node/2079"
+   }
+  ],
+  "keysCheck": "2+ sources"
+ },
+ "HIR-017": {
+  "address": "4 Avenue Road, Toronto, ON M5R 2E8, Canada",
+  "keys": 219,
+  "keysNote": "219 rooms",
+  "opened": "1936 (as Park Plaza Hotel); reopened September 15, 2021 after renovation (closed Dec 2017)",
+  "amenities": {
+   "dining": "Restaurant and bar/lounge (two restaurants)",
+   "spa": "Spa, hot tub, sauna, steam room",
+   "pool": null,
+   "fitness": "Fitness centre",
+   "meeting": null,
+   "other": "Owner: Oxford Properties (acquired 2014); valet parking"
+  },
+  "owner": "Oxford Properties",
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Park-Hyatt-Toronto.4662600.ksp",
+   "cheapMonth": "January",
+   "low": 466,
+   "peakMonth": "June",
+   "high": 696,
+   "weekday2w": 693,
+   "weekend2w": 638,
+   "recentMin": 524,
+   "recentMax": 827
+  },
+  "sources": [
+   {
+    "label": "Wikipedia — Park Hyatt Toronto",
+    "url": "https://en.wikipedia.org/wiki/Park_Hyatt_Toronto"
+   }
+  ],
+  "keysCheck": "2+ sources"
+ },
+ "HIR-015": {
+  "address": "181 Wellington Street West, Toronto, ON M5V 3G7, Canada",
+  "keys": 263,
+  "keysNote": "263 rooms",
+  "opened": null,
+  "amenities": {
+   "dining": "TOCA (Italian); EPOCH Bar & Kitchen; Ritz Bar; DEQ Terrace & Lounge",
+   "spa": "Spa My Blend by Clarins",
+   "pool": "Indoor pool",
+   "fitness": "Fitness centre",
+   "meeting": null,
+   "other": "One MICHELIN Key"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-The-Ritz-Carlton-Toronto.396978.ksp",
+   "cheapMonth": "February",
+   "low": 480,
+   "peakMonth": "June",
+   "high": 797,
+   "weekday2w": 797,
+   "weekend2w": 1437,
+   "recentMin": 346,
+   "recentMax": 1571
+  },
+  "sources": [
+   {
+    "label": "MICHELIN Guide — The Ritz-Carlton Toronto",
+    "url": "https://guide.michelin.com/ie/en/hotels-stays/toronto/the-ritz-carlton-toronto-9004"
+   }
+  ],
+  "keysCheck": "1 source (matches original data)"
+ },
+ "HIR-014": {
+  "address": "325 Bay Street, Toronto, ON M5H 4G3, Canada",
+  "keys": 258,
+  "keysNote": "258 rooms",
+  "opened": "December 2018 (St. Regis opening, per Daily Commercial News)",
+  "amenities": {
+   "dining": "Louix Louis (31st floor); Astor Lounge (lobby)",
+   "spa": "Spa",
+   "pool": "Indoor pool",
+   "fitness": "Gym",
+   "meeting": null,
+   "other": "65-storey tower; valet and self parking"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-The-St-Regis-Toronto.382984.ksp",
+   "cheapMonth": "January",
+   "low": 448,
+   "peakMonth": "August",
+   "high": 689,
+   "weekday2w": 430,
+   "weekend2w": 486,
+   "recentMin": 340,
+   "recentMax": 1138
+  },
+  "sources": [
+   {
+    "label": "MICHELIN Guide — The St. Regis Toronto",
+    "url": "https://guide.michelin.com/ca/en/hotels-stays/toronto/the-st-regis-toronto-12191"
+   },
+   {
+    "label": "Daily Commercial News — Marriott opens 65-storey St. Regis Toronto (2018)",
+    "url": "https://canada.constructconnect.com/dcn/news/projects/2018/12/marriott-opens-65-storey-st-regis-toronto"
+   }
+  ],
+  "keysCheck": "2+ sources"
+ },
+ "HIR-011": {
+  "address": "80 Blue Jays Way, Toronto, ON M5V 2G3, Canada",
+  "keys": 96,
+  "keysNote": "96 rooms and suites",
+  "opened": null,
+  "amenities": {
+   "dining": "French Made (café); KŌST (44th floor, California/Baja); four restaurants and bars in total",
+   "spa": null,
+   "pool": "Seasonal outdoor pool",
+   "fitness": "Gym",
+   "meeting": null,
+   "other": "BISHA, a Luxury Collection Hotel; One MICHELIN Key"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Bisha-Hotel-Toronto.2936491.ksp",
+   "cheapMonth": "January",
+   "low": 329,
+   "peakMonth": "June",
+   "high": 669,
+   "weekday2w": 780,
+   "weekend2w": 597,
+   "recentMin": 442,
+   "recentMax": 1228
+  },
+  "sources": [
+   {
+    "label": "MICHELIN Guide — Bisha Hotel Toronto",
+    "url": "https://guide.michelin.com/sg/zh_CN/hotels-stays/toronto/bisha-hotel-toronto-11757"
+   }
+  ],
+  "keysCheck": "1 source (matches original data)"
+ },
+ "HIR-009": {
+  "address": "318 Wellington Street West, Toronto, ON, Canada",
+  "keys": 145,
+  "keysNote": "145 rooms",
+  "opened": null,
+  "amenities": {
+   "dining": "In-house restaurant and café",
+   "spa": "Jacuzzi and steam rooms",
+   "pool": "Indoor pool",
+   "fitness": "Gym",
+   "meeting": "Tribeca (35 seated / 56 standing); Greenwich (60 seated); Boardroom (6)",
+   "other": "Formerly Soho Metropolitan. Corrected: rooms 96 → 145; address 1 Water Street → 318 Wellington Street West"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Soho-Metropolitan-Hotel.26393.ksp",
+   "cheapMonth": "January",
+   "low": 269,
+   "peakMonth": "June",
+   "high": 518,
+   "weekday2w": 491,
+   "weekend2w": 406,
+   "recentMin": 332,
+   "recentMax": 1083
+  },
+  "sources": [
+   {
+    "label": "MICHELIN Guide — SoHo Hotel Toronto",
+    "url": "https://guide.michelin.com/gb/en/hotels-stays/toronto/the-soho-hotel-residences-5385"
+   },
+   {
+    "label": "Kayak (Vietnam site) — room count",
+    "url": "https://www.vn.kayak.com/Toronto-Hotels-Soho-Metropolitan-Hotel.26393.len.ksp"
+   },
+   {
+    "label": "Tagvenue — meeting rooms",
+    "url": "https://tagvenue.com/ca/venues/toronto/50947/soho-hotel-toronto"
+   }
+  ],
+  "keysCheck": "2+ sources"
+ }
+}
