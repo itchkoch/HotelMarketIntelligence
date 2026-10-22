@@ -106,6 +106,11 @@ export default function HotelsTable({ hotels }: { hotels: Hotel[] }) {
                   <a href={`/reports/${h.slug}.pdf`} target="_blank" rel="noopener noreferrer" className="text-navy hover:underline">
                     {h.name}
                   </a>
+                  {h.flag && (
+                    <span title={h.flag} className="ml-1.5 rounded bg-red-100 px-1.5 py-0.5 text-[10px] font-semibold text-red-800">
+                      Flagged
+                    </span>
+                  )}
                   {h.verified && (
                     <span title={`Verified ${h.verified}`} className="ml-1.5 rounded bg-emerald-100 px-1.5 py-0.5 text-[10px] font-semibold text-emerald-800">
                       Verified

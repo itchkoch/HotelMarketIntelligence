@@ -20,6 +20,7 @@ export type Hotel = {
   otaHigh: number;
   seasonal: Seasonal[];
   verified: string | null;
+  flag: string | null;
 };
 
 export type Transaction = {

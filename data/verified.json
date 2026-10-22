@@ -362,5 +362,4340 @@
    }
   ],
   "keysCheck": "2+ sources"
+ },
+ "HIR-166": {
+  "address": "900 West Georgia Street, Vancouver, BC V6C 2W6, Canada",
+  "lat": 49.283839,
+  "lon": -123.120959,
+  "keys": 557,
+  "keysNote": "557 guest rooms and suites; 17 floors",
+  "keysCheck": "2 sources (Northstar 557; Wikipedia body text 557 — its infobox says 507)",
+  "opened": "May 28, 1939; renovated 2014–2018 (C$12M: lobby, restaurant, guest rooms); Northstar lists last renovation 2019",
+  "owner": "Larco Enterprises (acquired 2015, C$180M)",
+  "amenities": {
+   "architecture": "Châteauesque design by John Smith Archibald and John Schofield; 17 floors, 112 m (369 ft) to the tip — Vancouver's tallest structure when it opened; King George VI and Queen Elizabeth stayed during the 1939 Royal Tour",
+   "dining": "Notch8 Restaurant & Bar; afternoon tea service",
+   "spa": "Spa on site (beauty centre, hot tub and sauna listed)",
+   "pool": "Indoor pool",
+   "fitness": "Fitness centre",
+   "meeting": "50,000 sq ft of meeting space across 24 meeting rooms; 21,000 sq ft exhibit space",
+   "accreditations": "Member of Historic Hotels Worldwide",
+   "other": "Operated by Fairmont Hotels & Resorts; club floor; pets allowed (fee); paid parking and valet"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Vancouver-Hotels-Fairmont-Hotel-Vancouver.32807.ksp",
+   "cheapMonth": "January",
+   "low": 244,
+   "peakMonth": "July",
+   "high": 554,
+   "weekday2w": 354,
+   "weekend2w": 428,
+   "recentMin": 243,
+   "recentMax": 562
+  },
+  "sources": [
+   {
+    "label": "Wikipedia — Hotel Vancouver",
+    "url": "https://en.wikipedia.org/wiki/Hotel_Vancouver"
+   },
+   {
+    "label": "Northstar Meetings Group — The Fairmont Hotel Vancouver",
+    "url": "https://www.northstarmeetingsgroup.com/Meeting-Event-Venues/Vancouver/Convention-Hotel/The-Fairmont-Hotel-Vancouver-p52749531"
+   },
+   {
+    "label": "Historic Hotels Worldwide — Fairmont Hotel Vancouver history",
+    "url": "https://historichotels.org/hotels-resorts/fairmont-hotel-vancouver/history.php"
+   }
+  ],
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-d220237"
+ },
+ "HIR-1362": {
+  "address": "15 Richmond Street East, Toronto, ON M5C 1N2, Canada",
+  "keys": 231,
+  "keysNote": "all-suite hotel, 23 storeys",
+  "keysCheck": "2 sources (STAY Magazine 231 suites; Northstar 230 rooms)",
+  "opened": "Built 1989; renovated 2010 (Northstar)",
+  "owner": "Manga Hotels (acquired 2025)",
+  "amenities": {
+   "architecture": "23-storey all-suite tower at Yonge and Richmond, Financial District; suite types Deluxe, Executive and two-storey Penthouse; connected to the PATH underground network",
+   "dining": "Portico Restaurant (3,200 sq ft of restaurant space)",
+   "fitness": "Rooftop fitness centre",
+   "meeting": "About 3,000 sq ft of meeting space (STAY Magazine); Northstar lists 2,868 sq ft across Victoria B, Executive Boardroom, Richmond Room and Club Room",
+   "other": "In-suite wet bars, refrigerators and microwaves; underground parking; business centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Cambridge-Suites-Hotel---Toronto.32713.ksp",
+   "cheapMonth": "January",
+   "low": 152,
+   "peakMonth": "September",
+   "high": 335,
+   "weekday2w": 197,
+   "weekend2w": 202,
+   "recentMin": 141,
+   "recentMax": 778
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-d183057",
+  "sources": [
+   {
+    "label": "STAY Magazine — Manga Hotels buys Cambridge Suites Toronto (Oct 2025)",
+    "url": "https://www.staymagazine.ca/articles/manga-hotels-buys-cambridge-suites-toronto-in-downtown-acquisition"
+   },
+   {
+    "label": "Northstar Meetings Group — Cambridge Suites Hotel",
+    "url": "https://www.northstarmeetingsgroup.com/Meeting-Event-Venues/Toronto/Convention-Hotel/Cambridge-Suites-Hotel-p52715775"
+   }
+  ]
+ },
+ "HIR-1357": {
+  "address": "33 Gerrard Street West, Toronto, ON M5G 1Z4, Canada",
+  "keys": 1590,
+  "keysNote": "1,590 guest rooms and suites — Canada's largest hotel",
+  "keysCheck": "3 sources (Wikipedia 1,590; Northstar 1,590; Kayak 'more than 1,500')",
+  "opened": "October 15, 1975 (as the Delta Chelsea Inn); Northstar lists last renovation 2025",
+  "owner": "Great Eagle Holdings (acquired 1996)",
+  "amenities": {
+   "architecture": "Opened 1975 as the Delta Chelsea Inn; Canada's largest hotel by room count",
+   "dining": "Market Garden; Elm Street Bar & Lounge; T Bar; espresso coffee and wine bar; Market Garden on the Go",
+   "spa": "Hot tub, sauna and steam room",
+   "pool": "Indoor pools, including a rooftop pool and a children's pool",
+   "fitness": "Fitness centre",
+   "meeting": "44,768 sq ft across 23 meeting rooms; largest is Churchill (5,200 sq ft)",
+   "other": "Paid parking; EV charging"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Chelsea-Hotel-Toronto.32729.ksp",
+   "cheapMonth": "March",
+   "low": 151,
+   "peakMonth": "June",
+   "high": 299,
+   "weekday2w": 261,
+   "weekend2w": 376,
+   "recentMin": 185,
+   "recentMax": 686
+  },
+  "tripadvisor": "https://www.tripadvisor.ca/Hotel_Review-g155019-d183778-Reviews-Chelsea_Hotel_Toronto-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Wikipedia — Chelsea Hotel, Toronto",
+    "url": "https://en.wikipedia.org/wiki/Chelsea_Hotel,_Toronto"
+   },
+   {
+    "label": "Northstar Meetings Group — Chelsea Hotel, Toronto",
+    "url": "https://www.northstarmeetingsgroup.com/Meeting-Event-Venues/Toronto/Convention-Hotel/Chelsea-Hotel-Toronto-p52759167"
+   }
+  ]
+ },
+ "HIR-1347": {
+  "address": "475 Yonge Street, Toronto, ON M4Y 1X7, Canada",
+  "keys": 575,
+  "keysNote": "575 guest rooms (Kayak lists 550 incl. 25 suites)",
+  "keysCheck": "2 sources (Northstar 575; Trip.com 575) — Kayak says 550",
+  "opened": "Sources conflict: Northstar lists built 1958, renovated 2007; Trip.com lists opened 1999, renovated 2016",
+  "amenities": {
+   "dining": "Yonge Street Grille; Fireside Lounge",
+   "pool": "Indoor pool",
+   "fitness": "24-hour fitness centre",
+   "meeting": "10,017 sq ft across 10 meeting rooms; largest is Porter (1,314 sq ft); 14,000 sq ft exhibit space",
+   "other": "Valet parking"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Courtyard-by-Marriott-Toronto-Downtown.32414.ksp",
+   "cheapMonth": "December",
+   "low": 161,
+   "peakMonth": "June",
+   "high": 379,
+   "weekday2w": 536,
+   "weekend2w": 322,
+   "recentMin": 200,
+   "recentMax": 744
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d186891-Reviews-Courtyard_by_Marriott_Toronto_Downtown-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Northstar Meetings Group — Courtyard by Marriott Toronto Downtown",
+    "url": "https://www.northstarmeetingsgroup.com/Meeting-Event-Venues/Toronto/Convention-Hotel/Courtyard-by-Marriott-Toronto-Downtown-p55155047"
+   },
+   {
+    "label": "Trip.com — Courtyard Toronto Downtown",
+    "url": "https://uk.trip.com/hotels/toronto-hotel-detail-2080617/courtyard-by-marriott-toronto-downtown"
+   }
+  ]
+ },
+ "HIR-1341": {
+  "address": "33 Carlson Court, Toronto, ON M9W 6H5, Canada",
+  "keys": 528,
+  "keysNote": "528 guest rooms",
+  "keysCheck": "2 sources (Northstar 528; Meetings & Conventions 528)",
+  "opened": "Built 1982; renovated 2014",
+  "amenities": {
+   "architecture": "Airport hotel near Toronto Pearson International Airport, with a free airport shuttle",
+   "dining": "La Brasserie; Rendezvous Bar & Lounge",
+   "pool": "Indoor pool with sauna",
+   "fitness": "Fitness centre",
+   "meeting": "4,550 sq ft of event space; 7 meeting rooms; largest is Algonquin (4,550 sq ft)",
+   "other": "Self-parking about C$20/night; 4 accessible rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Crowne-Plaza-Toronto-Airport-By-IHG.33298.ksp",
+   "cheapMonth": "December",
+   "low": 112,
+   "peakMonth": "June",
+   "high": 176,
+   "weekday2w": 142,
+   "weekend2w": 153,
+   "recentMin": 115,
+   "recentMax": 235
+  },
+  "tripadvisor": "https://www.tripadvisor.ca/Hotel_Review-g155019-d182004-Reviews-Crowne_Plaza_Toronto_Airport_by_IHG-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Northstar Meetings Group — Crowne Plaza Toronto Airport",
+    "url": "https://www.northstarmeetingsgroup.com/Meeting-Event-Venues/Toronto/Convention-Hotel/Crowne-Plaza-Toronto-Airport-p52671591"
+   },
+   {
+    "label": "Meetings & Conventions — Crowne Plaza Toronto Airport",
+    "url": "https://www.meetings-conventions.com/Meeting-Event-Venues/toronto/convention-hotel/crowne-plaza-toronto-airport-p2264384"
+   }
+  ]
+ },
+ "HIR-1360": {
+  "address": "900 York Mills Road, Toronto, ON M3B 3H2, Canada",
+  "keys": 405,
+  "keysNote": "405 guest rooms and suites; 21 floors",
+  "keysCheck": "2 sources (Kayak 405; Hotels.com 405). Address corrected — the original record said 2737 Keele Street, which is a condominium",
+  "opened": "Built 1974 (Hotels.com); formerly the Westin Prince and Pan Pacific Toronto",
+  "amenities": {
+   "architecture": "21-floor tower on 15 acres of landscaped parkland with wooded walking trails; previously known as the Westin Prince and Pan Pacific Toronto",
+   "dining": "Seasons Restaurant; 900 Lounge; Gilaneh; Katsura (Japanese)",
+   "pool": "Seasonal outdoor pool (June to early September)",
+   "fitness": "24-hour fitness centre; outdoor tennis courts",
+   "meeting": "16 meeting rooms with about 20,000 sq ft of flexible space, for groups of up to 500",
+   "accreditations": "Kayak's listing states the hotel has held the AAA Four Diamond Award for 50 consecutive years (hotel's own claim)",
+   "other": "Pet-friendly; paid and valet parking"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Crowne-Plaza-Toronto---North-York-by-IHG.6003693.ksp",
+   "cheapMonth": "December",
+   "low": 123,
+   "peakMonth": "June",
+   "high": 246,
+   "weekday2w": 192,
+   "weekend2w": 174,
+   "recentMin": 126,
+   "recentMax": 295
+  },
+  "tripadvisor": "https://www.tripadvisor.ca/Hotel_Review-g155019-d183098-Reviews-Crowne_Plaza_Toronto_North_York_by_IHG-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Hotels.com — Crowne Plaza Toronto North York by IHG",
+    "url": "https://www.hotels.com/ho145318/pan-pacific-toronto-toronto-canada/"
+   },
+   {
+    "label": "Northstar Meetings Group — Crowne Plaza (900 York Mills Rd)",
+    "url": "https://www.northstarmeetingsgroup.com/Meeting-Event-Venues/Toronto/Convention-Hotel/Crowne-Plaza-p60812107"
+   }
+  ]
+ },
+ "HIR-1358": {
+  "address": "75 Lower Simcoe Street, Toronto, ON M5J 3A6, Canada",
+  "keys": 567,
+  "keysNote": "567 guest rooms",
+  "keysCheck": "2 sources (Kayak 567; Northstar 567)",
+  "amenities": {
+   "architecture": "About 100 m from the Metro Toronto Convention Centre and 260 m from the CN Tower (Kayak); guests report CN Tower and Lake Ontario views",
+   "dining": "SOCO Kitchen + Bar; SOCO TO GO",
+   "pool": "Indoor pool with hot tub",
+   "fitness": "24-hour fitness centre",
+   "meeting": "9,298 sq ft across 11 meeting rooms (Northstar); largest are Soco A, B and C at 2,176 sq ft each; Kayak lists 13 event rooms",
+   "other": "Business centre; paid parking; room service"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Delta-Hotels-by-Marriott-Toronto.2161318.ksp",
+   "cheapMonth": "December",
+   "low": 263,
+   "peakMonth": "August",
+   "high": 529,
+   "weekday2w": 636,
+   "weekend2w": 444,
+   "recentMin": 324,
+   "recentMax": 837
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d6678171-Reviews-Delta_Hotels_Toronto-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Northstar Meetings Group — Delta Hotels by Marriott Toronto",
+    "url": "https://www.northstarmeetingsgroup.com/Meeting-Event-Venues/Toronto/Convention-Hotel/Delta-Hotels-by-Marriott-Toronto-p55154983"
+   },
+   {
+    "label": "Kayak (CAD) — Delta Hotels by Marriott Toronto",
+    "url": "https://www.ca.kayak.com/Toronto-Hotels-Delta-Hotels-by-Marriott-Toronto.2161318.ksp"
+   }
+  ]
+ },
+ "HIR-1337": {
+  "address": "108 Chestnut Street, Toronto, ON M5G 1R3, Canada",
+  "keys": 490,
+  "keysNote": "490 guest rooms",
+  "keysCheck": "2 sources (Northstar 490; Trip.com 490) — original data said 461",
+  "opened": "Opened as DoubleTree 2013; renovated 2014",
+  "amenities": {
+   "dining": "Hemispheres Restaurant; Hemispheres Bistro; Lai Wah Heen (Cantonese)",
+   "pool": "Heated indoor pool",
+   "fitness": "24-hour fitness room with sauna",
+   "meeting": "18 meeting rooms; largest is the Mandarin Ballroom (3,484 sq ft); Kayak lists over 13,000 sq ft of conference space",
+   "other": "24-hour business centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-DoubleTree-by-Hilton-Toronto-Downtown.37466.ksp",
+   "cheapMonth": "January",
+   "low": 165,
+   "peakMonth": "June",
+   "high": 398,
+   "weekday2w": 379,
+   "weekend2w": 258,
+   "recentMin": 208,
+   "recentMax": 613
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d186919-Reviews-Doubletree_By_Hilton_Hotel_Toronto_Downtown-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Northstar Meetings Group — DoubleTree by Hilton Toronto Downtown",
+    "url": "https://www.northstarmeetingsgroup.com/Meeting-Event-Venues/Toronto/Convention-Hotel/DoubleTree-by-Hilton-Toronto-Downtown-p52777607"
+   },
+   {
+    "label": "Trip.com — DoubleTree by Hilton Toronto Downtown",
+    "url": "https://uk.trip.com/hotels/toronto-hotel-detail-2157610/doubletree-by-hilton-toronto-downtown"
+   }
+  ]
+ },
+ "HIR-1342": {
+  "address": "5515 Eglinton Avenue West, Toronto, ON M9C 5K5, Canada",
+  "keys": 126,
+  "keysNote": "126 guest rooms",
+  "keysCheck": "2 sources (Kayak 126; Northstar 126) — original data said 163",
+  "opened": "Built 2010",
+  "amenities": {
+   "architecture": "In the Toronto Airport Corporate Centre area; free shuttle to Toronto Pearson International Airport",
+   "dining": "Free hot breakfast buffet",
+   "pool": "Indoor pool",
+   "fitness": "Fitness centre",
+   "meeting": "5 meeting rooms; largest is Toronto AB (2,160 sq ft)",
+   "other": "Free self-parking with EV charging; dogs allowed (fee)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Hampton-Inn-by-Hilton-Toronto-Airport-Corporate-Centre.314654.ksp",
+   "cheapMonth": "January",
+   "low": 113,
+   "peakMonth": "June",
+   "high": 187,
+   "weekday2w": 253,
+   "weekend2w": 180,
+   "recentMin": 145,
+   "recentMax": 300
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d1554329-Reviews-Hampton_Inn_by_Hilton_Toronto_Airport_Corporate_Centre-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Hilton — Hampton Inn Toronto Airport Corporate Centre, hotel info",
+    "url": "https://www.hilton.com/en/hotels/ytosohx-hampton-toronto-airport-corporate-centre/hotel-info/"
+   },
+   {
+    "label": "Northstar Meetings Group — Hampton Inn Toronto Airport Corp Centre",
+    "url": "https://www.northstarmeetingsgroup.com/Meeting-Event-Venues/Toronto/Convention-Hotel/Hampton-Inn-Toronto-Airport-Corp-Centre-p52728769"
+   }
+  ]
+ },
+ "HIR-1340": {
+  "address": "145 Richmond Street West, Toronto, ON M5H 2L2, Canada",
+  "keys": 600,
+  "keysNote": "600 guest rooms (Trip.com lists 592)",
+  "keysCheck": "2 sources (Northstar 600; Trip.com 592)",
+  "opened": "Built 1975; renovated 2024 (Northstar). Trip.com lists 1997 and 2015",
+  "amenities": {
+   "dining": "Frenchy Bar et Brasserie; Ruth's Chris Steak House; Level Two Lounge; Tundra Restaurant (Kayak/Trip.com)",
+   "spa": "Hot tub and sauna",
+   "pool": "Indoor and outdoor pools on a second-floor pool deck",
+   "fitness": "24/7 fitness centre with sauna; weekly sunrise yoga",
+   "meeting": "25 meeting rooms, about 35,800 sq ft (3,326 m²); largest is the Toronto Ballroom (9,348 sq ft)",
+   "other": "Executive floor and executive lounge"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Hilton-Toronto.18849.ksp",
+   "cheapMonth": "January",
+   "low": 181,
+   "peakMonth": "August",
+   "high": 383,
+   "weekday2w": 573,
+   "weekend2w": 391,
+   "recentMin": 223,
+   "recentMax": 615
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d183091-Reviews-Hilton_Toronto-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Northstar Meetings Group — Hilton Toronto",
+    "url": "https://www.northstarmeetingsgroup.com/Meeting-Event-Venues/Toronto/Convention-Hotel/Hilton-Toronto-p52671356"
+   },
+   {
+    "label": "Trip.com — Hilton Toronto",
+    "url": "https://us.trip.com/hotels/toronto-hotel-detail-2225529/hilton-toronto/"
+   }
+  ]
+ },
+ "HIR-1351": {
+  "address": "30 Carlton Street, Toronto, ON M5B 2E9, Canada",
+  "keys": 513,
+  "keysNote": "513 guest rooms (Kayak: plus 25 suites)",
+  "keysCheck": "2 sources (Kayak 513; Trip.com 513)",
+  "opened": "Opened 1975; renovated 2023 (Trip.com); formerly a Days Inn",
+  "amenities": {
+   "architecture": "About half a block from the subway (Kayak)",
+   "dining": "Thirty Restaurant; Thirty Lounge; coffee shop",
+   "spa": "Signature Spa",
+   "pool": "Indoor heated pool",
+   "fitness": "Fitness centre",
+   "meeting": "9 meeting and event rooms with AV equipment and catering",
+   "other": "Underground parking (small and mid-size vehicles only); no pets"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Holiday-Inn-Toronto-Downtown-Centre.338353.ksp",
+   "cheapMonth": "January",
+   "low": 128,
+   "peakMonth": "June",
+   "high": 285,
+   "weekday2w": 206,
+   "weekend2w": 203,
+   "recentMin": 154,
+   "recentMax": 570
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d188212-Reviews-Holiday_Inn_Toronto_Downtown_Centre_By_Ihg-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — Holiday Inn Toronto Downtown Centre by IHG",
+    "url": "https://us.trip.com/hotels/toronto-hotel-detail-2081877/holiday-inn-toronto-downtown-centre-by-ihg/"
+   }
+  ]
+ },
+ "HIR-1356": {
+  "address": "30 Widmer Street, Toronto, ON M5V 2E7, Canada",
+  "keys": 352,
+  "keysNote": "352 rooms on 23 floors",
+  "keysCheck": "2 sources (Kayak 352; TravelPulse 352). Original data had 468 rooms and the address 90 Blue Jays Way — both corrected",
+  "opened": "2025 — RIU Hotels & Resorts' first hotel in Canada",
+  "amenities": {
+   "architecture": "Occupies 23 floors of one of two new 49-storey twin towers in the Entertainment District; brick-clad base matching the area's heritage buildings, glass tower above",
+   "dining": "Lobby bar; second-floor restaurant with buffet breakfast; main restaurant",
+   "fitness": "24-hour gym",
+   "meeting": "One conference room for up to 40 guests"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Hotel-Riu-Plaza-Toronto.11209229.ksp",
+   "cheapMonth": "February",
+   "low": 191,
+   "peakMonth": "June",
+   "high": 399,
+   "weekday2w": 286,
+   "weekend2w": 252,
+   "recentMin": 157,
+   "recentMax": 766
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d33031851-Reviews-Hotel_Riu_Plaza_Toronto-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "TravelPulse — RIU opens its first property in Canada (2025)",
+    "url": "https://www.travelpulse.com/news/hotels-and-resorts/riu-hotels-resorts-opens-its-first-property-in-canada-introducing-the-riu-plaza-toronto"
+   }
+  ]
+ },
+ "HIR-1359": {
+  "address": "56 Yonge Street, Toronto, ON M5E 1G5, Canada",
+  "keys": 56,
+  "keysNote": "56 rooms",
+  "keysCheck": "2 sources (Kayak 56; Trip.com 56)",
+  "opened": "Opened 1909; renovated 2023",
+  "amenities": {
+   "architecture": "Historic boutique hotel, opened 1909; single elevator",
+   "dining": "Mossop's Social House; lobby bar and café",
+   "fitness": "No on-site gym; complimentary access to a nearby fitness centre and pool",
+   "other": "No on-site pool"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Hotel-Victoria.17318.ksp",
+   "cheapMonth": "February",
+   "low": 148,
+   "peakMonth": "June",
+   "high": 288,
+   "weekday2w": 256,
+   "weekend2w": 220,
+   "recentMin": 191,
+   "recentMax": 299
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d155573-Reviews-Hotel_Victoria-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hotel Victoria",
+    "url": "https://www.trip.com/hotels/toronto-hotel-detail-2225499/hotel-victoria/"
+   }
+  ]
+ },
+ "HIR-1355": {
+  "address": "111 Princes' Boulevard, Toronto, ON M6K 3C3, Canada",
+  "keys": 404,
+  "keysNote": "404 rooms incl. 39 suites",
+  "keysCheck": "2 sources (Kayak 404; Trip.com 404)",
+  "opened": "Trip.com lists 2025 (reflecting the rebrand as Hotel X Toronto, a Destination by Hyatt); formerly Hotel X Toronto by Library Hotel Collection",
+  "amenities": {
+   "architecture": "Lakefront tower at Exhibition Place with a tri-level rooftop sky bar and a year-round heated rooftop pool overlooking Lake Ontario and the skyline",
+   "dining": "Valerie Toronto (Japanese, three-level rooftop); Roses Social (Latin); CafeX; Starbucks",
+   "spa": "Guerlain Spa Toronto (10 treatment rooms)",
+   "pool": "Year-round heated rooftop pool",
+   "fitness": "10XTO Athletic Facility — 90,000 sq ft private members' club; four indoor tennis courts and nine squash courts; 24-hour gym access for guests",
+   "meeting": "Two grand ballrooms; New Fort Hall with a historic glass floor; multiple breakout rooms",
+   "other": "250-seat cinema; art gallery; library; 10XTO Kids' Play Centre; pet-friendly"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Hotel-X-Toronto-By-Library-Hotel-Collection.3594913.ksp",
+   "cheapMonth": "December",
+   "low": 311,
+   "peakMonth": "June",
+   "high": 457,
+   "weekday2w": 365,
+   "weekend2w": 362,
+   "recentMin": 247,
+   "recentMax": 544
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d13234261-Reviews-Hotel_X_Toronto_A_Destination_By_Hyatt_Hotel-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hotel X Toronto, a Destination by Hyatt Hotel",
+    "url": "https://www.trip.com/hotels/toronto-hotel-detail-9118375/hotel-x-toronto-a-destination-by-hyatt-hotel/"
+   }
+  ]
+ },
+ "HIR-1344": {
+  "address": "370 King Street West, Toronto, ON M5V 1J9, Canada",
+  "keys": 394,
+  "keysNote": "394 non-smoking rooms",
+  "keysCheck": "2 sources (Kayak 394; Trip.com 394)",
+  "opened": "Trip.com lists 2009",
+  "amenities": {
+   "dining": "King Street Social Kitchen; Mix Bistro Bar",
+   "spa": "Sauna",
+   "pool": "Seasonal rooftop outdoor pool",
+   "fitness": "24-hour StayFit gym on the 17th floor",
+   "meeting": "About 34,000 sq ft of convention and meeting space (Trip.com)",
+   "other": "Overnight parking about C$32/night; pet-friendly (fee)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Hyatt-Regency-Toronto.9462.ksp",
+   "cheapMonth": "December",
+   "low": 181,
+   "peakMonth": "September",
+   "high": 415,
+   "weekday2w": 401,
+   "weekend2w": 286,
+   "recentMin": 188,
+   "recentMax": 388
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d181946-Reviews-Hyatt_Regency_Toronto-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hyatt Regency Toronto",
+    "url": "https://sg.trip.com/hotels/toronto-hotel-detail-1926198/hyatt-regency-toronto/"
+   }
+  ]
+ },
+ "HIR-1336": {
+  "address": "225 Front Street West, Toronto, ON M5V 2X3, Canada",
+  "keys": 584,
+  "keysNote": "584 guest rooms and suites",
+  "keysCheck": "2 sources (Kayak 584; Northstar 584)",
+  "opened": "Built 1984; renovated 2007 (Northstar)",
+  "amenities": {
+   "architecture": "Next door to the Metro Toronto Convention Centre; rooms with downtown or Lake Ontario views",
+   "dining": "Azure Restaurant & Bar; lobby bar",
+   "spa": "On-site spa (massage, body and skin care)",
+   "pool": "Indoor heated saltwater pool",
+   "fitness": "24/7 fitness centre",
+   "meeting": "15 meeting rooms; largest is the Ballroom (5,760 sq ft)",
+   "other": "Club rooms with club lounge and library; valet parking"
+  },
+  "kayak": {
+   "url": "https://www.ca.kayak.com/Toronto-Hotels-Intercontinental-Hotels-Toronto-Centre.47938.ksp",
+   "cheapMonth": "February",
+   "low": 240,
+   "peakMonth": "September",
+   "high": 478,
+   "weekday2w": 354,
+   "weekend2w": 321,
+   "recentMin": 245,
+   "recentMax": 824,
+   "note": "Kayak's US page gave no monthly averages; figures converted from Kayak Canada (C$337 / C$672) at 0.7112"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d181962-Reviews-Intercontinental_Toronto_Centre_By_IHG-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Northstar Meetings Group — InterContinental Toronto Centre",
+    "url": "https://www.northstarmeetingsgroup.com/Meeting-Event-Venues/Toronto/Convention-Hotel/InterContinental-Toronto-Centre-p52613524"
+   },
+   {
+    "label": "Kayak (US) — InterContinental Toronto Centre",
+    "url": "https://www.kayak.com/Toronto-Hotels-Intercontinental-Hotels-Toronto-Centre.47938.ksp"
+   }
+  ]
+ },
+ "HIR-1349": {
+  "address": "75 Bremner Boulevard, Toronto, ON M5J 0A1, Canada",
+  "keys": 167,
+  "keysNote": "167 guest rooms",
+  "keysCheck": "3 sources (Kayak 167; Northstar 167; Germain Hotels press release '167-room hotel')",
+  "opened": "Fall 2010 (Germain Hotels press release)",
+  "amenities": {
+   "architecture": "Boutique hotel at Maple Leaf Square, next to Scotiabank Arena",
+   "dining": "Bar Le Germain",
+   "fitness": "Gym",
+   "meeting": "7,268 sq ft across 8 meeting rooms; largest is the All Star Room (1,850 sq ft)",
+   "other": "Outdoor terrace; valet parking; babysitting; 24-hour reception"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Le-Germain-Hotel-Maple-Leaf-Square.364615.ksp",
+   "cheapMonth": "January",
+   "low": 256,
+   "peakMonth": "May",
+   "high": 426,
+   "weekday2w": 389,
+   "weekend2w": 260,
+   "recentMin": 215,
+   "recentMax": 638
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d1940841-Reviews-Le_Germain_Hotel_Toronto_Maple_Leaf_Square-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Northstar Meetings Group — Le Germain Toronto Maple Leaf Square",
+    "url": "https://www.northstarmeetingsgroup.com/Meeting-Event-Venues/Toronto/Convention-Hotel/Le-Germain-Toronto-Maple-Leaf-Square-p59604848"
+   },
+   {
+    "label": "Germain Hotels — opening announcement (Fall 2010)",
+    "url": "https://www.germainhotels.com/en/about/mediaroom/canadas-newest-urban-boutique-hotel-opens-at-pace-setting-sports-and-entertainment-venue-maple-leaf-square-in-fall-2010"
+   }
+  ]
+ },
+ "HIR-1354": {
+  "address": "45 The Esplanade, Toronto, ON M5E 1W2, Canada",
+  "keys": 262,
+  "keysNote": "262 guest rooms",
+  "keysCheck": "2 sources (Northstar 262; Trip.com 262)",
+  "opened": "Built 1979; renovated 2023",
+  "amenities": {
+   "dining": "Café Nicole Bar + Bistro; The Lounge",
+   "spa": "Sauna and hot tubs",
+   "pool": "Indoor pool",
+   "fitness": "Gym",
+   "meeting": "9 meeting rooms, about 8,300 sq ft (770 m²); 10,000 sq ft exhibit space",
+   "other": "Business centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Novotel-Toronto-Centre.33094.ksp",
+   "cheapMonth": "December",
+   "low": 173,
+   "peakMonth": "June",
+   "high": 389,
+   "weekday2w": 301,
+   "weekend2w": 225,
+   "recentMin": 132,
+   "recentMax": 827
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d183075-Reviews-Novotel_Toronto_Centre-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Northstar Meetings Group — Novotel Toronto Centre",
+    "url": "https://www.northstarmeetingsgroup.com/Meeting-Event-Venues/Toronto/Convention-Hotel/Novotel-Toronto-Centre-p52778659"
+   },
+   {
+    "label": "Trip.com — The Novotel Toronto Centre",
+    "url": "https://www.trip.com/hotels/toronto-hotel-detail-2225542/the-novotel-toronto-centre/"
+   }
+  ]
+ },
+ "HIR-1353": {
+  "address": "3 Park Home Avenue, Toronto, ON M2N 6L3, Canada",
+  "keys": 260,
+  "keysNote": "260 guest rooms",
+  "keysCheck": "1 source (Northstar 260; original data 262; Kayak does not state)",
+  "opened": "Built 1987; renovated 2018 (Northstar)",
+  "amenities": {
+   "architecture": "North York Centre; subway access in the same building (Kayak)",
+   "dining": "Trio Restaurant; Trio Bar",
+   "spa": "Sauna",
+   "pool": "Indoor pool",
+   "fitness": "Fitness centre; outdoor tennis courts",
+   "meeting": "7 meeting rooms, about 7,400 sq ft (686 m²); largest is the Gibson Ballroom",
+   "other": "Pet-friendly (fee)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Novotel-Toronto-North-York.36587.ksp",
+   "cheapMonth": "December",
+   "low": 173,
+   "peakMonth": "June",
+   "high": 328,
+   "weekday2w": 245,
+   "weekend2w": 245,
+   "recentMin": 163,
+   "recentMax": 281
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d183103-Reviews-Novotel_Toronto_North_York-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Northstar Meetings Group — Novotel Toronto North York",
+    "url": "https://www.northstarmeetingsgroup.com/Meeting-Event-Venues/North-York-ON/Convention-Hotel/Novotel-Toronto-North-York-p52778701"
+   }
+  ]
+ },
+ "HIR-1352": {
+  "address": "21 Old Mill Road, Toronto, ON M8X 1G5, Canada",
+  "lat": 43.65083,
+  "lon": -79.49333,
+  "keys": 57,
+  "keysNote": "57 rooms (at opening, October 2001)",
+  "keysCheck": "1 source (Wikipedia 57, matches original data)",
+  "opened": "Hotel opened October 2001; the Old Mill Tea Garden restaurant opened 1914",
+  "owner": "OMT Hospitality Inc. (acquired 2015; Kalmar family from 1991)",
+  "amenities": {
+   "architecture": "Built in the architectural style of the adjoining 1914 restaurant (Kayak notes a Tudor-style facade), on the site of Toronto's first sawmill (c. 1793); the ruins of William Tyrell's 1848 mill stood until 2000",
+   "dining": "Old Mill restaurant (former Tea Garden); jazz bar",
+   "spa": "Spa with hot tub, massage and sauna",
+   "fitness": "Fitness centre; tennis courts",
+   "meeting": "16 banquet rooms; wedding chapel and wedding garden",
+   "other": "Flower shop; gardens and waterfall"
+  },
+  "kayak": {
+   "url": "https://www.ca.kayak.com/Toronto-Hotels-Old-Mill-Toronto.19515.ksp",
+   "cheapMonth": "January",
+   "low": 230,
+   "peakMonth": "June",
+   "high": 350,
+   "weekday2w": 331,
+   "weekend2w": 279,
+   "recentMin": 269,
+   "recentMax": 419,
+   "note": "Kayak's US page gave no monthly averages; converted from Kayak Canada (C$324 / C$492) at 0.7112"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d224676-Reviews-Old_Mill_Toronto_Hotel-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Wikipedia — Old Mill Toronto",
+    "url": "https://en.wikipedia.org/wiki/Old_Mill_Toronto"
+   },
+   {
+    "label": "Kayak (US) — Old Mill Toronto",
+    "url": "https://www.kayak.com/Toronto-Hotels-Old-Mill-Toronto.19515.ksp"
+   }
+  ]
+ },
+ "HIR-1334": {
+  "address": "1 King Street West, Toronto, ON M5H 1A1, Canada",
+  "lat": 43.648808,
+  "lon": -79.378104,
+  "keys": 575,
+  "keysNote": "575 individually owned suites (Wikipedia); hotel website says 'over 500'; Trip.com lists 370",
+  "keysCheck": "Sources conflict — Wikipedia 575; hotel website 'over 500'; Trip.com 370",
+  "opened": "Dominion Bank building 1914; 51-storey tower completed 2006",
+  "amenities": {
+   "architecture": "Former Dominion Bank of Canada headquarters (1914, Darling and Pearson, Beaux-Arts with Renaissance Revival detailing), an Ontario Heritage designated site, joined in 2006 to a 51-storey, 176 m tower; historic suites on floors 5–14 around a five-storey atrium",
+   "dining": "Teller's Bar & Lounge; Bistro on King",
+   "spa": "Sauna and whirlpool",
+   "fitness": "17th-floor fitness centre with lake and downtown views",
+   "meeting": "Grand Banking Hall (meeting room with bar); historic basement bank vault for private meetings and meals; banquet room for up to 300",
+   "other": "King subway station at the front door; in-room kitchenettes; valet parking"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-One-King-West-Hotel-and-Residence.155983.ksp",
+   "cheapMonth": "January",
+   "low": 161,
+   "peakMonth": "June",
+   "high": 340,
+   "weekday2w": 279,
+   "weekend2w": 317,
+   "recentMin": 154,
+   "recentMax": 629
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d573658-Reviews-One_King_West_Hotel_Residence-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Wikipedia — One King West Hotel & Residence",
+    "url": "https://en.wikipedia.org/wiki/One_King_West_Hotel_%26_Residence"
+   },
+   {
+    "label": "One King West — Historic Dominion Bank Building suites",
+    "url": "https://www.onekingwest.com/historic-suites/"
+   },
+   {
+    "label": "Trip.com — One King West Hotel and Residence",
+    "url": "https://us.trip.com/hotels/toronto-hotel-detail-2195244/one-king-west-hotel-and-residence/"
+   }
+  ]
+ },
+ "HIR-1335": {
+  "address": "249 Queens Quay West, Toronto, ON M5J 2N5, Canada",
+  "keys": 157,
+  "keysNote": "157 guest rooms and suites",
+  "keysCheck": "2 sources (Kayak 157; Trip.com description 157 — its summary says 151)",
+  "opened": "Trip.com lists 1991; formerly the Radisson Admiral Hotel Toronto-Harbourfront",
+  "amenities": {
+   "architecture": "On the Lake Ontario waterfront at Queens Quay; select studio rooms with lake views; rooftop pool with CN Tower views",
+   "dining": "Restaurant, café and bar/lounge",
+   "pool": "Seasonal outdoor rooftop pool",
+   "fitness": "Fitness centre",
+   "meeting": "17 meeting and event rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Radisson-Blu-Toronto-Downtown.35757.ksp",
+   "cheapMonth": "January",
+   "low": 173,
+   "peakMonth": "June",
+   "high": 425,
+   "weekday2w": 323,
+   "weekend2w": 342,
+   "recentMin": 203,
+   "recentMax": 1076
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d183080-Reviews-Radisson_Blu_Toronto_Downtown-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — Radisson Blu Toronto Downtown",
+    "url": "https://us.trip.com/hotels/toronto-hotel-detail-2471776/radisson-admiral-toronto-harbourfront/"
+   }
+  ]
+ },
+ "HIR-1348": {
+  "address": "255 Wellington Street West, Toronto, ON M5V 3P9, Canada",
+  "keys": 256,
+  "keysNote": "256 suites with full kitchens",
+  "keysCheck": "2 sources (Kayak 256; Trip.com description 256 — its summary says 250)",
+  "opened": "Opened 2007; renovated 2015 (Trip.com)",
+  "amenities": {
+   "architecture": "All-suite extended-stay hotel in the Entertainment District",
+   "dining": "Free daily breakfast buffet; bar and lobby bar",
+   "pool": "Indoor heated pool with hot tub",
+   "fitness": "Fitness centre",
+   "meeting": "Small to medium meeting rooms; business centre",
+   "other": "Fully equipped kitchens and separate sitting/dining areas in every suite; guest laundry"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Residence-Inn-by-Marriott-Toronto-Downtown.167859.ksp",
+   "cheapMonth": "December",
+   "low": 191,
+   "peakMonth": "August",
+   "high": 405,
+   "weekday2w": 520,
+   "weekend2w": 274,
+   "recentMin": 184,
+   "recentMax": 1154
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d647813-Reviews-Residence_Inn_by_Marriott_Toronto_Downtown_Entertainment_District-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — Residence Inn by Marriott Toronto Downtown / Entertainment District",
+    "url": "https://us.trip.com/hotels/toronto-hotel-detail-2193414/residence-inn-by-marriott-toronto-downtown-entertainment-district/"
+   }
+  ]
+ },
+ "HIR-1345": {
+  "address": "123 Queen Street West, Toronto, ON M5H 2M9, Canada",
+  "lat": 43.65111,
+  "lon": -79.38417,
+  "keys": 1372,
+  "keysNote": "1,372 guest rooms (Northstar); Wikipedia says about 1,300",
+  "keysCheck": "2 sources (Northstar 1,372 — matches original data; Wikipedia ~1,300)",
+  "opened": "October 16, 1972 (as the Four Seasons Sheraton); lobby renovation completed 2021; Northstar lists last renovation 2022",
+  "owner": "Brookfield Asset Management (acquired from Marriott in 2017 for C$335M)",
+  "amenities": {
+   "architecture": "43-floor, 135 m tower by John B. Parkin Associates, opened 1972 as a Sheraton–Four Seasons joint venture; second-tallest all-hotel building in Toronto; landscaped inner garden with a waterfall by J. Austin Floyd; walk bridge to Nathan Phillips Square; lobby is a node of the PATH network",
+   "dining": "Quinn's Steakhouse & Irish Bar; 43 Down; Dual Citizen",
+   "pool": "Year-round heated indoor/outdoor pool (about 25 m) with a glass partition",
+   "fitness": "24-hour fitness centre",
+   "meeting": "About 130,000 sq ft across 60 meeting rooms; largest is the Grand Ballroom (20,212 sq ft)",
+   "accreditations": "Ontario's Leading Hotel, World Travel Awards (multiple years, per Kayak)",
+   "other": "Club rooms; 24-hour room service; pet-friendly (fee)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Sheraton-Centre-Toronto-Hotel.47933.ksp",
+   "cheapMonth": "December",
+   "low": 215,
+   "peakMonth": "June",
+   "high": 443,
+   "weekday2w": 501,
+   "weekend2w": 302,
+   "recentMin": 229,
+   "recentMax": 1192
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d183085-Reviews-Sheraton_Centre_Toronto_Hotel-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Wikipedia — Sheraton Centre Toronto Hotel",
+    "url": "https://en.wikipedia.org/wiki/Sheraton_Centre_Toronto_Hotel"
+   },
+   {
+    "label": "Northstar Meetings Group — Sheraton Centre Toronto Hotel",
+    "url": "https://www.northstarmeetingsgroup.com/Meeting-Event-Venues/Toronto/Convention-Hotel/Sheraton-Centre-Toronto-Hotel-p52558531"
+   }
+  ]
+ },
+ "HIR-1346": {
+  "address": "1150 Queen Street West, Toronto, ON M6J 1J3, Canada",
+  "lat": 43.643197,
+  "lon": -79.424661,
+  "keys": 51,
+  "keysNote": "51 rooms (original data said 20)",
+  "keysCheck": "1 source (Wikipedia 51)",
+  "opened": "Built 1890 as Small's Hotel; reopened February 14, 2004 as a boutique hotel after about C$6M of renovations; Modern Wing expansion 2020–2021 (Diamond Schmitt Architects)",
+  "owner": "Jeff Stober (purchased October 2001 for C$860,000)",
+  "amenities": {
+   "architecture": "1890 building on West Queen West, reopened in 2004; Modern Wing added 2020–2021 by Diamond Schmitt Architects",
+   "dining": "Sky Yard rooftop patio; café",
+   "fitness": "No on-site gym; complimentary fitness programs at nearby facilities",
+   "meeting": "Drake Underground performance venue",
+   "other": "Art gallery and artwork throughout; Drake General Store"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-The-Drake-Hotel.141646.ksp",
+   "cheapMonth": "January",
+   "low": 242,
+   "peakMonth": "September",
+   "high": 437,
+   "weekday2w": 384,
+   "weekend2w": 406,
+   "recentMin": 293,
+   "recentMax": 683
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d496106-Reviews-The_Drake_Hotel-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Wikipedia — Drake Hotel (Toronto)",
+    "url": "https://en.wikipedia.org/wiki/Drake_Hotel_(Toronto)"
+   }
+  ]
+ },
+ "HIR-1338": {
+  "address": "37 King Street East, Toronto, ON M5C 1E9, Canada",
+  "keys": 301,
+  "keysNote": "301 guest rooms (Trip.com summary says 291)",
+  "keysCheck": "2 sources (Kayak 301; Trip.com description 301)",
+  "opened": "Opened 1903 — one of Toronto's first luxury hotels (Kayak)",
+  "amenities": {
+   "architecture": "Historic hotel opened in 1903, with a chandeliered lobby",
+   "dining": "Victoria's Restaurant; Consort Bar",
+   "spa": "Mokara Spa (massage, body treatments, facials, sauna)",
+   "fitness": "24-hour fitness centre",
+   "meeting": "About 26,000–27,000 sq ft of event space across 12 meeting rooms (Kayak; Trip.com lists 22), including the Sovereign Ballroom"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-The-Omni-King-Edward-Hotel.47931.ksp",
+   "cheapMonth": "December",
+   "low": 225,
+   "peakMonth": "June",
+   "high": 418,
+   "weekday2w": 415,
+   "weekend2w": 434,
+   "recentMin": 269,
+   "recentMax": 822
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d183071-Reviews-The_Omni_King_Edward_Hotel-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Omni King Edward Hotel",
+    "url": "https://www.trip.com/hotels/toronto-hotel-detail-1635250/the-omni-king-edward-hotel/"
+   }
+  ]
+ },
+ "HIR-1339": {
+  "address": "1 Harbour Square, Toronto, ON M5J 1A6, Canada",
+  "lat": 43.640641,
+  "lon": -79.375716,
+  "keys": 977,
+  "keysNote": "977 rooms after a 2025 renovation (963 at opening)",
+  "keysCheck": "1 source (Wikipedia 977, matches original data)",
+  "opened": "April 1975 as the Harbour Castle Hotel; renovated 2025",
+  "amenities": {
+   "architecture": "Twin-tower hotel on the waterfront, built by Campeau Corporation; beside the Jack Layton Ferry Terminal; glass walkway to the Harbour Square condominiums; managed by Hilton from 1977 and by Westin since 1987",
+   "dining": "The Mizzen; The Chartroom Bar & Lounge; Don Alfonso 1890 (Michelin-starred Italian); Harbour coffee bar; Savoury chef's table",
+   "spa": "Day spa with sauna",
+   "pool": "Indoor pool",
+   "fitness": "Fitness centre",
+   "meeting": "Attached conference centre north of Queens Quay with 31 rooms, including the 24,990 sq ft Metropolitan Ballroom",
+   "other": "Hosted the 32nd Genie Awards"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-The-Westin-Harbour-Castle-Toronto.23240.ksp",
+   "cheapMonth": "December",
+   "low": 204,
+   "peakMonth": "June",
+   "high": 469,
+   "weekday2w": 359,
+   "weekend2w": 455,
+   "recentMin": 291,
+   "recentMax": 675
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d183090-Reviews-The_Westin_Harbour_Castle_Toronto-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Wikipedia — Westin Harbour Castle Hotel",
+    "url": "https://en.wikipedia.org/wiki/Westin_Harbour_Castle_Hotel"
+   }
+  ]
+ },
+ "HIR-1343": {
+  "address": "1 Blue Jays Way, Toronto, ON M5V 1J4, Canada",
+  "keys": 348,
+  "keysNote": "348 rooms, including 55 rooms and suites with views into the stadium",
+  "keysCheck": "2 sources (Kayak 348; Trip.com 348)",
+  "opened": "Trip.com lists 2017 (renovated 2019)",
+  "amenities": {
+   "architecture": "Built into the Rogers Centre stadium: 55 rooms and suites look directly onto the playing field, plus four skyboxes",
+   "dining": "Sportsnet Grill (overlooking the ballpark); OnDeck Café & Bar; Arriba",
+   "pool": "Heated indoor pool with hot tub",
+   "fitness": "24-hour fitness room",
+   "meeting": "Meeting rooms and multi-function event space; business centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Toronto-Hotels-Toronto-Marriott-City-Centre-Hotel.33545.ksp",
+   "cheapMonth": "December",
+   "low": 189,
+   "peakMonth": "June",
+   "high": 577,
+   "weekday2w": 355,
+   "weekend2w": 262,
+   "recentMin": 221,
+   "recentMax": 576
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d155586-Reviews-Toronto_Marriott_City_Centre_Hotel-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — Toronto Marriott City Centre Hotel",
+    "url": "https://ca.trip.com/hotels/toronto-hotel-detail-2225711/toronto-marriott-city-centre-hotel/"
+   }
+  ]
+ },
+ "HIR-1363": {
+  "address": "620 Church Street, Toronto, ON M4Y 2G2, Canada",
+  "keys": 200,
+  "keysNote": "200 one- and two-bedroom suites with full kitchens",
+  "keysCheck": "1 source (Trip.com 200, matches original data)",
+  "amenities": {
+   "architecture": "All-suite hotel near Bloor-Yorkville",
+   "dining": "Restaurant with cooked-to-order breakfast (extra fee)",
+   "spa": "Hot tub and sauna",
+   "fitness": "Rooftop gym (Lyft Fitness); tennis",
+   "meeting": "Meeting and event space",
+   "other": "Full kitchens in all suites; monthly rates for 30+ night stays; EV charging; no pool"
+  },
+  "kayak": {
+   "url": "https://www.ca.kayak.com/Toronto-Hotels-Town-Inn-Suites.33057.ksp",
+   "cheapMonth": "January",
+   "low": 127,
+   "peakMonth": "June",
+   "high": 321,
+   "weekday2w": 204,
+   "weekend2w": 194,
+   "recentMin": 172,
+   "recentMax": 369,
+   "note": "Kayak's US page gave no monthly averages; converted from Kayak Canada (C$179 / C$451) at 0.7112"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155019-d183093-Reviews-Town_Inn_Suites-Toronto_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — Town Inn Suites",
+    "url": "https://www.trip.com/hotels/toronto-hotel-detail-2195239/town-inn-suites/"
+   },
+   {
+    "label": "Kayak (US) — Town Inn Suites",
+    "url": "https://www.kayak.com/Toronto-Hotels-Town-Inn-Suites.33057.ksp"
+   }
+  ]
+ },
+ "HIR-043": {
+  "address": "900 René-Lévesque Boulevard West, Montréal, QC H3B 4A5, Canada",
+  "keys": 950,
+  "keysNote": "950 rooms and suites — Montréal's largest hotel",
+  "keysCheck": "2 sources (Kayak 950; Trip.com 950)",
+  "opened": "April 15, 1958; renovated 2017",
+  "amenities": {
+   "architecture": "Built above Central Station, designed to block train vibrations, and connected to Montréal's underground city; reportedly the first hotel in North America with centralized air conditioning, direct-dial phones and escalators; John Lennon and Yoko Ono held their 1969 'Bed-In' here and recorded 'Give Peace a Chance'; 2017 renovation blends 1960s and contemporary design",
+   "dining": "Rosélys (restaurant); Marché Artisans (gourmet market); Nacarat Bar",
+   "spa": "Spa with massage room and sauna",
+   "pool": "Indoor pool",
+   "fitness": "24-hour fitness centre, recently redesigned and expanded",
+   "meeting": "Conference and multi-function rooms; atrium event space; business centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Montreal-Hotels-Fairmont-The-Queen-Elizabeth.2783746.ksp",
+   "cheapMonth": "January",
+   "low": 232,
+   "peakMonth": "October",
+   "high": 412,
+   "weekday2w": 394,
+   "weekend2w": 446,
+   "recentMin": 343,
+   "recentMax": 643
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155032-d185747-Reviews-Fairmont_The_Queen_Elizabeth-Montreal_Quebec.html",
+  "sources": [
+   {
+    "label": "Trip.com — Fairmont The Queen Elizabeth",
+    "url": "https://us.trip.com/hotels/montreal-hotel-detail-2218490/fairmont-the-queen-elizabeth-montreal/"
+   }
+  ]
+ },
+ "HIR-039": {
+  "address": "1440 Rue de la Montagne, Montréal, QC H3G 1Z5, Canada",
+  "keys": 169,
+  "keysNote": "169 rooms, including 19 suites",
+  "keysCheck": "2 sources (Kayak 169; Trip.com 169)",
+  "amenities": {
+   "architecture": "Connected to the Holt Renfrew Ogilvy department store (2020)",
+   "dining": "Three dining and drinks venues presented by a celebrity chef, including a Japanese restaurant and a bar",
+   "spa": "Full-service spa",
+   "pool": "Skylit indoor pool",
+   "fitness": "24-hour fitness centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Montreal-Hotels-Four-Seasons-Hotel-Montreal.4743758.ksp",
+   "cheapMonth": "January",
+   "low": 517,
+   "peakMonth": "August",
+   "high": 933,
+   "weekday2w": 961,
+   "weekend2w": 987,
+   "recentMin": 926,
+   "recentMax": 1338
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155032-d16722291-Reviews-Four_Seasons_Hotel_Montreal-Montreal_Quebec.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Hotel Montreal",
+    "url": "https://us.trip.com/hotels/montreal-hotel-detail-30942883/four-seasons-hotel-montreal/"
+   }
+  ]
+ },
+ "HIR-186": {
+  "address": "1240 Phillips Square, Montréal, QC H3B 3H4, Canada",
+  "keys": 132,
+  "keysNote": "132 rooms and suites on the former office floors (2nd–4th)",
+  "keysCheck": "3 sources (Kayak 132; Tourisme Montréal 132; Trip.com description 132)",
+  "opened": "Hotel opened 2018 inside the 1894 Birks Building; renovated 2020 (Trip.com)",
+  "amenities": {
+   "architecture": "Birks Building, built 1894 to designs by Edward Maxwell as Henry Birks' jewellery store; converted in 2018 with the original architecture restored. The Birks jewellery store still operates on the ground floor",
+   "dining": "Henri Brasserie Française",
+   "spa": "Valmont Spa (facials, massages, sauna)",
+   "fitness": "24/7 fitness centre",
+   "meeting": "Two meeting and reception rooms (largest about 624 sq ft); up to 100 people per group"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Montreal-Hotels-Hotel-Birks-Montreal.3903833.ksp",
+   "cheapMonth": "March",
+   "low": 265,
+   "peakMonth": "July",
+   "high": 401,
+   "weekday2w": 397,
+   "weekend2w": 471,
+   "recentMin": 348,
+   "recentMax": 709
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155032-d14134983-Reviews-Hotel_Birks_Montreal-Montreal_Quebec.html",
+  "sources": [
+   {
+    "label": "Tourisme Montréal — Birks Building",
+    "url": "https://www.mtl.org/en/what-to-do/heritage-and-architecture/birks-building-montreal"
+   },
+   {
+    "label": "Tourisme Montréal Meetings — Hotel Birks Montreal",
+    "url": "https://meet.mtl.org/en/plan/accommodations/hotel-birks-montreal"
+   },
+   {
+    "label": "Trip.com — Hôtel Birks Montréal",
+    "url": "https://www.trip.com/hotels/montreal-hotel-detail-21850544/htel-birks-montral/"
+   }
+  ]
+ },
+ "HIR-042": {
+  "address": "1100 Rue de la Montagne, Montréal, QC H3G 0A1, Canada",
+  "keys": 131,
+  "keysNote": "131 suites; now Warwick Le Crystal – Montréal",
+  "keysCheck": "2 sources (Kayak 131; Trip.com 131). Address corrected — original record said 1100 De La Gauchetière Street W",
+  "opened": "Trip.com lists 2007",
+  "amenities": {
+   "architecture": "All-suite hotel, rebranded Warwick Le Crystal",
+   "dining": "Siam Centre-ville (Thai restaurant and bar)",
+   "spa": "Éléments Maison de Beauté; spa, sauna and hot tub on the 12th floor",
+   "pool": "Indoor pool",
+   "fitness": "Fitness centre",
+   "meeting": "9 meeting rooms totalling 7,249 sq ft (673 m²), grouped on one floor"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Montreal-Hotels-Hotel-Le-Crystal-Montreal.186987.ksp",
+   "cheapMonth": "January",
+   "low": 222,
+   "peakMonth": "August",
+   "high": 342,
+   "weekday2w": 435,
+   "weekend2w": 353,
+   "recentMin": 255,
+   "recentMax": 764
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155032-d24113902-Reviews-Warwick_Le_Crystal_Montreal-Montreal_Quebec.html",
+  "sources": [
+   {
+    "label": "Trip.com — Warwick Le Crystal Montreal",
+    "url": "https://www.trip.com/hotels/montreal-hotel-detail-3165224/warwick-le-crystal-montreal/"
+   }
+  ]
+ },
+ "HIR-040": {
+  "address": "355 Saint-Jacques Street, Montréal, QC H2Y 1N9, Canada",
+  "keys": 60,
+  "keysNote": "60 rooms (Frommer's lists 61 units)",
+  "keysCheck": "2 sources (Kayak 60; Trip.com 60) — original data said 61",
+  "opened": "Building opened 1870 as a merchants' bank (Frommer's)",
+  "amenities": {
+   "architecture": "Former merchants' bank building of 1870 in Old Montréal; the restaurant occupies the former stock exchange hall",
+   "dining": "XO Le Restaurant; bar",
+   "spa": "Spa with facial and body treatments and sauna",
+   "fitness": "Exercise room",
+   "accreditations": "Leading Small Hotels of the World (Frommer's)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Montreal-Hotels-Hotel-Le-St-James-Montreal.47968.ksp",
+   "unavailable": true
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155032-d252386-Reviews-Hotel_Le_St_James-Montreal_Quebec.html",
+  "sources": [
+   {
+    "label": "Frommer's — Hôtel Le St-James",
+    "url": "https://www.frommers.com/destinations/montreal/hotels/htel-le-st-james"
+   },
+   {
+    "label": "Trip.com — Hotel le St-James Montréal",
+    "url": "https://us.trip.com/hotels/montreal-hotel-detail-3483478/hotel-le-st-james-montreal/"
+   }
+  ]
+ },
+ "HIR-191": {
+  "address": "106 Saint-Paul Street West, Montréal, QC H2Y 1Z3, Canada",
+  "keys": 105,
+  "keysNote": "105 rooms and suites",
+  "keysCheck": "1 source (Kayak 105, matches original data)",
+  "opened": "Buildings date to the 1850s (Kayak)",
+  "amenities": {
+   "architecture": "Boutique hotel in Old Montréal buildings dating to the 1850s, with original stone and brick walls in the rooms",
+   "dining": "Verses restaurant; Méchant Boeuf; Terrasse Nelligan rooftop lounge",
+   "spa": "Spa with massage and hot tub",
+   "fitness": "Fitness centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Montreal-Hotels-Hotel-Nelligan.100058.ksp",
+   "basis": "2wk",
+   "cheapMonth": "January",
+   "low": 623,
+   "peakMonth": "August",
+   "high": 889,
+   "weekday2w": 623,
+   "weekend2w": 889,
+   "recentMin": 635,
+   "recentMax": 727,
+   "note": "Kayak shows no monthly averages for this hotel; low/high are the 2-week weeknight and weekend averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155032-d263978-Reviews-Hotel_Nelligan-Montreal_Quebec.html",
+  "sources": [
+   {
+    "label": "Kayak (Canada) — Hotel Nelligan",
+    "url": "https://www.ca.kayak.com/Montreal-Hotels-Hotel-Nelligan.100058.ksp"
+   }
+  ]
+ },
+ "HIR-192": {
+  "address": "55 Saint-Jacques Street West, Montréal, QC H2Y 1K9, Canada",
+  "keys": 169,
+  "keysNote": "169 rooms",
+  "keysCheck": "1 source (Trip.com 169) — original data said 163",
+  "amenities": {
+   "dining": "Brasserie 701; Japanese restaurant (sushi bar); rooftop sky bar; café",
+   "spa": "Rainspa with hammam (Turkish bath), steam room, massages and facials",
+   "fitness": "24-hour fitness centre with hot tub",
+   "meeting": "Business centre with meeting rooms",
+   "other": "Free downtown shuttle; paid on-site parking; suites with jet bathtubs"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Montreal-Hotels-Hotel-Place-D-armes.26049.ksp",
+   "cheapMonth": "January",
+   "low": 197,
+   "peakMonth": "July",
+   "high": 388,
+   "weekday2w": 375,
+   "weekend2w": 393,
+   "recentMin": 226,
+   "recentMax": 1023
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155032-d254461-Reviews-Hotel_Place_d_Armes_Old_Montreal-Montreal_Quebec.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hotel Place d'Armes",
+    "url": "https://www.trip.com/hotels/montreal-hotel-detail-3264119/hotel-place-d-armes/"
+   }
+  ]
+ },
+ "HIR-188": {
+  "address": "421 Saint-Vincent Street, Montréal, QC H2Y 3A6, Canada",
+  "keys": 127,
+  "keysNote": "127 rooms",
+  "keysCheck": "1 source (Trip.com 127, matches original data)",
+  "opened": "Hotel opened 2016; historic buildings date from 1785",
+  "amenities": {
+   "architecture": "Incorporates two 1785 buildings — a warehouse and auction shops (north) and a residence (south) — described as the only surviving 18th-century example combining residence and workplace; restored after a March 1968 fire and classified a historic monument in 1969",
+   "dining": "Maggie Oakes restaurant; The Living Room bar (library, pool table, vinyl collection); rooftop terraces",
+   "spa": "Spa with thermal circuit, massages and facials",
+   "fitness": "Fitness centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Montreal-Hotels-Hotel-William-Gray.2611984.ksp",
+   "cheapMonth": "January",
+   "low": 249,
+   "peakMonth": "July",
+   "high": 507,
+   "weekday2w": 398,
+   "weekend2w": 711,
+   "recentMin": 329,
+   "recentMax": 1089
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155032-d10439823-Reviews-Hotel_William_Gray-Montreal_Quebec.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hotel William Gray",
+    "url": "https://ca.trip.com/hotels/montreal-hotel-detail-9107140/hotel-william-gray/"
+   }
+  ]
+ },
+ "HIR-190": {
+  "address": "340 De La Gauchetière Street West, Montréal, QC H2Z 0C3, Canada",
+  "keys": 193,
+  "keysNote": "193 rooms",
+  "keysCheck": "1 source (Trip.com 193) — original data said 170",
+  "opened": "2021",
+  "amenities": {
+   "architecture": "One of Québec's first Autograph Collection hotels, in a mixed-use tower",
+   "dining": "h3 Restaurant and Lounge; lobby café",
+   "spa": "Spa Humaniti with sauna",
+   "pool": "Rooftop outdoor pool",
+   "fitness": "Two-level gym",
+   "meeting": "Hemisphere Ballroom (3,000 sq ft); boardroom",
+   "other": "Valet and self-parking; dogs allowed (C$75 fee)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Montreal-Hotels-Humaniti-Hotel-Montreal-Autograph-Collection.1070248668.ksp",
+   "cheapMonth": "March",
+   "low": 232,
+   "peakMonth": "July",
+   "high": 403,
+   "weekday2w": 351,
+   "weekend2w": 435,
+   "recentMin": 227,
+   "recentMax": 473
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155032-d21310045-Reviews-Humaniti_Hotel_Montreal_Autograph_Collection-Montreal_Quebec.html",
+  "sources": [
+   {
+    "label": "Trip.com — Humaniti Hotel Montreal, Autograph Collection",
+    "url": "https://us.trip.com/hotels/montreal-hotel-detail-65379773/humaniti-montreal/"
+   }
+  ]
+ },
+ "HIR-187": {
+  "address": "1440 Drummond Street, Montréal, QC H3G 1V9, Canada",
+  "keys": 90,
+  "keysNote": "90 rooms",
+  "keysCheck": "1 source (Trip.com 90, matches original data)",
+  "opened": "Trip.com lists 2017",
+  "amenities": {
+   "architecture": "Hotel built around a restored 19th-century mansion (per guest reviews on Trip.com)",
+   "dining": "Bar George (restaurant and bar)",
+   "spa": "Spa with massages, body treatments and facials",
+   "fitness": "Gym"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Montreal-Hotels-Le-Mount-Stephen.2782064.ksp",
+   "cheapMonth": "January",
+   "low": 265,
+   "peakMonth": "May",
+   "high": 398,
+   "weekday2w": 369,
+   "weekend2w": 401,
+   "recentMin": 283,
+   "recentMax": 945
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155032-d12294679-Reviews-Le_Mount_Stephen-Montreal_Quebec.html",
+  "sources": [
+   {
+    "label": "Trip.com — Le Mount Stephen",
+    "url": "https://us.trip.com/hotels/montreal-hotel-detail-8664517/le-mount-stephen/"
+   }
+  ]
+ },
+ "HIR-1389": {
+  "address": "1228 Sherbrooke Street West, Montréal, QC H3G 1H6, Canada",
+  "keys": 129,
+  "keysNote": "96 rooms and 33 suites",
+  "keysCheck": "2 sources (MICHELIN Guide 129; Forbes Travel Guide 96 + 33 = 129)",
+  "opened": "December 31, 1912",
+  "amenities": {
+   "architecture": "Historic 1912 hotel on Sherbrooke Street, with a modern glass addition on one side",
+   "dining": "Maison Boulud (Daniel Boulud, 130 seats); Palm Court (afternoon tea); Dom Pérignon Bar",
+   "spa": "Spa St. James",
+   "pool": "Heated rooftop saltwater pool",
+   "fitness": "24-hour fitness centre",
+   "meeting": "12,000 sq ft of event space",
+   "accreditations": "One MICHELIN Key; Forbes Travel Guide Four-Star (2026)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Montreal-Hotels-The-Ritz-Carlton-Montreal.421181.ksp",
+   "cheapMonth": "February",
+   "low": 612,
+   "peakMonth": "July",
+   "high": 860,
+   "weekday2w": 726,
+   "weekend2w": 599,
+   "recentMin": 450,
+   "recentMax": 1521
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155032-d155207-Reviews-The_Ritz_Carlton_Montreal-Montreal_Quebec.html",
+  "sources": [
+   {
+    "label": "MICHELIN Guide — The Ritz-Carlton Montreal",
+    "url": "https://guide.michelin.com/gb/en/hotels-stays/montreal/the-ritz-carlton-montreal-7576"
+   },
+   {
+    "label": "Forbes Travel Guide — The Ritz-Carlton, Montreal",
+    "url": "https://forbestravelguide.com/hotels/montreal-canada/the-ritz-carlton-montreal"
+   }
+  ]
+ },
+ "HIR-041": {
+  "address": "1155 Sherbrooke Street West, Montréal, QC H3A 2N3, Canada",
+  "keys": 203,
+  "keysNote": "203 rooms",
+  "keysCheck": "1 source (Trip.com 203) — original data said 258",
+  "opened": "Opened 2002; renovated 2025 (Trip.com)",
+  "amenities": {
+   "dining": "RENOIR Restaurant (French); lounge bar",
+   "spa": "Sauna, hot tub and massage room",
+   "pool": "Indoor pool",
+   "fitness": "Gym; indoor and outdoor tennis courts (Kayak)",
+   "meeting": "Conference rooms, banquet halls and business centre",
+   "other": "Valet parking; walking distance to the Underground City"
+  },
+  "kayak": {
+   "url": "https://www.ca.kayak.com/Montreal-Hotels-Sofitel-Montreal-Golden-Mile.31790.ksp",
+   "cheapMonth": "November",
+   "low": 270,
+   "peakMonth": "May",
+   "high": 452,
+   "weekday2w": 324,
+   "weekend2w": 377,
+   "recentMin": 319,
+   "recentMax": 595,
+   "note": "Converted from Kayak Canada (C$379 / C$636) at 0.7112"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155032-d254354-Reviews-Sofitel_Montreal_Golden_Mile-Montreal_Quebec.html",
+  "sources": [
+   {
+    "label": "Trip.com — Sofitel Montréal Golden Mile",
+    "url": "https://us.trip.com/hotels/montreal-hotel-detail-2213926/sofitel-montral-golden-mile/"
+   }
+  ]
+ },
+ "HIR-189": {
+  "address": "1425 Rue de la Montagne, Montréal, QC H3G 1Z3, Canada",
+  "keys": 142,
+  "keysNote": "142 rooms (Trip.com lists 148)",
+  "keysCheck": "2 sources (Kayak 142; Trip.com 148)",
+  "opened": "Trip.com lists 2020 (current branding); formerly Loews Hotel Vogue",
+  "amenities": {
+   "dining": "Yama (Chef Antonio Park, restaurant and cocktail bar); Café Bazin; La Société",
+   "spa": "Facial and body treatments",
+   "fitness": "Gym",
+   "meeting": "Conference room and boardroom; 24-hour business centre",
+   "other": "Walking distance to Central Station, the Underground City, McGill University and the Bell Centre; valet parking"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Montreal-Hotels-Loews-Hotel-Vogue.31723.ksp",
+   "cheapMonth": "February",
+   "low": 265,
+   "peakMonth": "May",
+   "high": 423,
+   "weekday2w": 399,
+   "weekend2w": 624,
+   "recentMin": 337,
+   "recentMax": 887
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155032-d183258-Reviews-Vogue_Hotel_Montreal_Downtown_Curio_Collection_by_Hilton-Montreal_Quebec.html",
+  "sources": [
+   {
+    "label": "Trip.com — Vogue Hotel Montreal Downtown, Curio Collection by Hilton",
+    "url": "https://us.trip.com/hotels/montreal-hotel-detail-3062664/loews-hotel-vogue/"
+   }
+  ]
+ },
+ "HIR-054": {
+  "address": "700 Tunnel Mountain Road, Banff, AB T1L 1B3, Canada",
+  "keys": 108,
+  "keysNote": "108 guest rooms (Trip.com summary lists 111)",
+  "keysCheck": "1 source (Trip.com description 108, matches original data; its summary says 111)",
+  "amenities": {
+   "architecture": "Rustic lodge in Banff's Tunnel Mountain district, within the Canadian Rocky Mountain Parks World Heritage Site; rooms with wood-burning fireplaces and mountain views",
+   "dining": "Sleeping Buffalo Restaurant and Lounge; Buffalo Mountain Café (Kayak); Trip.com names the restaurant The Prow",
+   "spa": "Hot tub and sauna",
+   "fitness": "24-hour fitness centre",
+   "other": "Some rooms with kitchenettes"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Banff-Hotels-Buffalo-Mountain-Lodge.16218.ksp",
+   "cheapMonth": "November",
+   "low": 125,
+   "peakMonth": "August",
+   "high": 608,
+   "weekday2w": 282,
+   "weekend2w": 373,
+   "recentMin": 129,
+   "recentMax": 553
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154911-d155280-Reviews-Buffalo_Mountain_Lodge-Banff_Banff_National_Park_Alberta.html",
+  "sources": [
+   {
+    "label": "Trip.com — Buffalo Mountain Lodge",
+    "url": "https://us.trip.com/hotels/banff-hotel-detail-2545151/buffalo-mountain-lodge/"
+   }
+  ]
+ },
+ "HIR-050": {
+  "address": "405 Spray Avenue, Banff, AB T1L 1J4, Canada",
+  "lat": 51.16444,
+  "lon": -115.56194,
+  "keys": 757,
+  "keysNote": "757 guest rooms and suites (Wikipedia text; its infobox says 764)",
+  "keysCheck": "1 source (Wikipedia 757/764) — original data said 724",
+  "opened": "1888; present main block built 1927–1928 after the 1926 fire; winterized 1968; renamed Fairmont Banff Springs 2001",
+  "owner": "Oxford Properties (since 2006)",
+  "amenities": {
+   "architecture": "Châteauesque with Scottish baronial and Arts and Crafts elements; one of Canada's earliest grand railway hotels, built by the Canadian Pacific Railway; original wooden hotel by Bruce Price, 1914 tower by Walter S. Painter (for a time Canada's tallest building), main block by John W. Orrock; overlooks Mount Rundle",
+   "dining": "1888 Chop House; Waldhaus (pub and patio); Rundle Bar; Vermillion Room; Samurai Sushi Bar; Stock Food & Drinks market; Rocky Mountain Afternoon Tea",
+   "spa": "Willow Stream Spa",
+   "pool": "Indoor and outdoor pools",
+   "accreditations": "National Historic Site of Canada (designated 24 June 1988)",
+   "other": "27-hole golf course designed by Stanley Thompson; King George VI and Queen Elizabeth visited in 1939"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Banff-Hotels-Fairmont-Banff-Springs.19792.ksp",
+   "cheapMonth": "April",
+   "low": 581,
+   "peakMonth": "June",
+   "high": 1442,
+   "weekday2w": 696,
+   "weekend2w": 1136,
+   "recentMin": 563,
+   "recentMax": 1677
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154911-d184171-Reviews-Fairmont_Banff_Springs-Banff_Banff_National_Park_Alberta.html",
+  "sources": [
+   {
+    "label": "Wikipedia — Banff Springs Hotel",
+    "url": "https://en.wikipedia.org/wiki/Banff_Springs_Hotel"
+   }
+  ]
+ },
+ "HIR-053": {
+  "address": "345 Banff Avenue, Banff, AB T1L 1H8, Canada",
+  "keys": 174,
+  "keysNote": "174 rooms and suites",
+  "keysCheck": "2 sources (Kayak 174; Trip.com 174) — original data said 172",
+  "amenities": {
+   "dining": "Pacini (Italian)",
+   "spa": "Spa with body treatments, facials and massage; two rooftop hot tubs",
+   "pool": "Indoor pool",
+   "fitness": "Fitness centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Banff-Hotels-Moose-Hotel-and-Suites.2562826.ksp",
+   "cheapMonth": "November",
+   "low": 252,
+   "peakMonth": "August",
+   "high": 907,
+   "weekday2w": 423,
+   "weekend2w": 766,
+   "recentMin": 241,
+   "recentMax": 1456
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154911-d10155680-Reviews-Moose_Hotel_and_Suites-Banff_Banff_National_Park_Alberta.html",
+  "sources": [
+   {
+    "label": "Trip.com — Moose Hotel and Suites",
+    "url": "https://www.trip.com/hotels/banff-hotel-detail-5716945/moose-hotel-and-suites-banff/"
+   }
+  ]
+ },
+ "HIR-055": {
+  "address": "138 Banff Avenue, Banff, AB, Canada",
+  "keys": 133,
+  "keysNote": "133 rooms",
+  "keysCheck": "1 source (Trip.com 133). Address corrected — the original record listed a Montréal address (1455 Rue Peel)",
+  "opened": "1908",
+  "amenities": {
+   "architecture": "Hotel opened in 1908 on Banff Avenue, renovated with a modern mountain style; lobby museum with art, artifacts and photographs of Banff, and a small library",
+   "dining": "Brazen restaurant; lobby bar; rooftop sky bar",
+   "spa": "Rooftop outdoor hot tubs with mountain views"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Banff-Hotels-Mount-Royal-Hotel.14843.ksp",
+   "cheapMonth": "November",
+   "low": 156,
+   "peakMonth": "September",
+   "high": 600,
+   "weekday2w": 338,
+   "weekend2w": 511,
+   "recentMin": 143,
+   "recentMax": 531
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154911-d182227-Reviews-Mount_Royal_Hotel-Banff_Banff_National_Park_Alberta.html",
+  "sources": [
+   {
+    "label": "Trip.com — Mount Royal Hotel",
+    "url": "https://ca.trip.com/hotels/banff-hotel-detail-2562231/mount-royal-hotel/"
+   }
+  ]
+ },
+ "HIR-051": {
+  "address": "300 Mountain Avenue, Banff, AB T1L 1J2, Canada",
+  "keys": 320,
+  "keysNote": "320 rooms (Trip.com); now Rimrock Banff, Emblems Collection",
+  "keysCheck": "1 source (Trip.com 320) — original data said 346; RENX reported 343 keys at the 2023 sale",
+  "opened": "Opened 1993; renovations under way 2026 (Trip.com)",
+  "owner": "Oxford Properties Group with an institutional partner (acquired 2023, C$170M — see Transactions)",
+  "amenities": {
+   "architecture": "Mountainside resort on Sulphur Mountain above Banff; rebranded Rimrock Banff, Emblems Collection",
+   "dining": "Primrose; Larkspur Lounge; Divas Bar; vinyl listening room",
+   "spa": "The Rimrock Resort Spa",
+   "pool": "Indoor and outdoor pools",
+   "fitness": "Fitness centre with squash court; sauna",
+   "meeting": "17 meeting rooms"
+  },
+  "kayak": {
+   "url": "https://www.ca.kayak.com/Banff-Hotels-The-Rimrock-Resort-Hotel.70700.ksp",
+   "cheapMonth": "January",
+   "low": 505,
+   "peakMonth": "September",
+   "high": 1060,
+   "weekday2w": 855,
+   "weekend2w": 797,
+   "recentMin": 524,
+   "recentMax": 917,
+   "note": "Converted from Kayak Canada (C$710 / C$1,491) at 0.7112"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154911-d182229-Reviews-Rimrock_Resort_Hotel-Banff_Banff_National_Park_Alberta.html",
+  "sources": [
+   {
+    "label": "Trip.com — Rimrock Banff, Emblems Collection",
+    "url": "https://www.trip.com/hotels/improvement-district-no-9-hotel-detail-2562232/rimrock-banff-emblems-collection/"
+   }
+  ]
+ },
+ "HIR-052": {
+  "address": "111 Lake Louise Drive, Lake Louise, AB T0L 1E0, Canada",
+  "lat": 51.41778,
+  "lon": -116.21722,
+  "keys": 539,
+  "keysNote": "539 rooms; 8 floors",
+  "keysCheck": "1 source (Wikipedia 539) — original data said 342",
+  "opened": "1890 as a lakeshore chalet; Painter Wing 1913 (oldest surviving part); Barott Wing 1925; winterized 1982; Mount Temple Wing 2004",
+  "owner": "Oxford Properties (OMERS)",
+  "amenities": {
+   "architecture": "Canadian Pacific Railway hotel on the eastern shore of Lake Louise in Banff National Park (UNESCO World Heritage Site); Painter Wing (1913), Barott Wing (1925) and Mount Temple Wing (2004)",
+   "dining": "Fairview; Lakeview Lounge; Walliser Stube; Lago (seasonal Italian); Alpine Social; Louiza; Guide's Pantry",
+   "spa": "The Spa at Fairmont",
+   "pool": "Indoor pool in the Health Club",
+   "fitness": "24-hour Health Club",
+   "meeting": "Mount Temple Ballroom and function rooms in the Mount Temple Wing",
+   "other": "Winter skating, sleigh rides and snowshoeing; paid or valet parking"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Lake-Louise-Hotels-Fairmont-Chateau-Lake-Louise.19788.ksp",
+   "cheapMonth": "November",
+   "low": 519,
+   "peakMonth": "August",
+   "high": 1880,
+   "weekday2w": 836,
+   "weekend2w": 1359,
+   "recentMin": 518,
+   "recentMax": 2169
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154912-d186815-Reviews-Fairmont_Chateau_Lake_Louise-Lake_Louise_Banff_National_Park_Alberta.html",
+  "sources": [
+   {
+    "label": "Wikipedia — Chateau Lake Louise",
+    "url": "https://en.wikipedia.org/wiki/Chateau_Lake_Louise"
+   }
+  ]
+ },
+ "HIR-178": {
+  "address": "635 Confluence Way SE, Calgary, AB T2G 0G1, Canada",
+  "keys": 152,
+  "keysNote": "152 rooms (Trip.com summary lists 150)",
+  "keysCheck": "2 sources (Kayak 152; Trip.com description 152) — original data said 213",
+  "opened": "2018",
+  "amenities": {
+   "architecture": "East Village hotel; guest rooms on floors 3–10",
+   "dining": "CHIX Eggshop (breakfast and lunch); Nupo (Japanese); café",
+   "fitness": "24-hour fitness centre",
+   "meeting": "5 meeting rooms; 24-hour business centre",
+   "other": "Smoke-free; paid self-parking"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Calgary-Hotels-Alt-Hotel-Calgary-East-Village.4298924.ksp",
+   "cheapMonth": "December",
+   "low": 132,
+   "peakMonth": "July",
+   "high": 256,
+   "weekday2w": 191,
+   "weekend2w": 168,
+   "recentMin": 133,
+   "recentMax": 190
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154913-d15229568-Reviews-Alt_Hotel_Calgary_East_Village-Calgary_Alberta.html",
+  "sources": [
+   {
+    "label": "Trip.com — Alt Hotel Calgary East Village",
+    "url": "https://www.trip.com/hotels/calgary-hotel-detail-25550585/alt-hotel-calgary-east-village/"
+   }
+  ]
+ },
+ "HIR-176": {
+  "address": "110 9 Avenue SE, Calgary, AB T2G 5A6, Canada",
+  "keys": 384,
+  "keysNote": "Room count unconfirmed — Trip.com lists 256; original data 384; Marriott's page does not state it",
+  "keysCheck": "Sources conflict (Trip.com 256 vs original data 384); original figure kept pending confirmation",
+  "opened": "Trip.com lists 1997 (renovated 2015)",
+  "amenities": {
+   "architecture": "Direct access to the Calgary TELUS Convention Centre (110,000 sq ft), for which the hotel is the exclusive catering partner",
+   "dining": "ONE18 EMPIRE (bar with 300+ whiskies, bourbons and scotches); GREATROOM; Starbucks; M Club lounge (2nd floor)",
+   "fitness": "2,850 sq ft 24-hour fitness centre, newly renovated",
+   "meeting": "11,000 sq ft of event space plus a 5,500 sq ft rooftop patio; Speakeasy lounge and Tower View Patio event venues",
+   "other": "Trip.com guest reviews note there is no pool"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Calgary-Hotels-Calgary-Marriott-Downtown-Hotel.12298.ksp",
+   "cheapMonth": "December",
+   "low": 162,
+   "peakMonth": "July",
+   "high": 464,
+   "weekday2w": 547,
+   "weekend2w": 240,
+   "recentMin": 195,
+   "recentMax": 195
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154913-d185312-Reviews-Calgary_Marriott_Downtown_Hotel-Calgary_Alberta.html",
+  "sources": [
+   {
+    "label": "Marriott — Calgary Marriott Downtown Hotel",
+    "url": "https://www.marriott.com/en-us/hotels/yycdt-calgary-marriott-downtown-hotel/overview/"
+   },
+   {
+    "label": "Trip.com — Calgary Marriott Downtown Hotel",
+    "url": "https://www.trip.com/hotels/calgary-hotel-detail-2217619/calgary-marriott-downtown-hotel/"
+   }
+  ]
+ },
+ "HIR-172": {
+  "address": "133 9th Avenue SW, Calgary, AB T2P 2M3, Canada",
+  "keys": 407,
+  "keysNote": "407 rooms; 12 floors",
+  "keysCheck": "1 source (Wikipedia 407, matches original data)",
+  "opened": "June 1, 1914; four floors added 1929; C$28M renovation completed 2000",
+  "owner": "InnVest Hotels (managed by Fairmont Hotels & Resorts)",
+  "amenities": {
+   "architecture": "Edwardian, Chicago school-style railway hotel built by the Canadian Pacific Railway; architects Lawrence Gotch and Edward and W.S. Maxwell; named after explorer Captain John Palliser; Calgary's tallest building from 1929 until 1958",
+   "dining": "Restaurant and bar terrace",
+   "spa": "rnr Wellness Spa",
+   "pool": "Indoor heated pool",
+   "fitness": "Fitness centre",
+   "other": "Held one of Alberta's first two liquor licences after Prohibition (1924); former Prime Minister R. B. Bennett lived in the hotel"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Calgary-Hotels-Fairmont-Palliser.32323.ksp",
+   "cheapMonth": "January",
+   "low": 168,
+   "peakMonth": "July",
+   "high": 320,
+   "weekday2w": 327,
+   "weekend2w": 508,
+   "recentMin": 193,
+   "recentMax": 580
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154913-d185694-Reviews-Fairmont_Palliser-Calgary_Alberta.html",
+  "sources": [
+   {
+    "label": "Wikipedia — Fairmont Palliser Hotel",
+    "url": "https://en.wikipedia.org/wiki/Fairmont_Palliser_Hotel"
+   }
+  ]
+ },
+ "HIR-173": {
+  "address": "119 12 Avenue SW, Calgary, AB T2R 0G8, Canada",
+  "keys": 185,
+  "keysNote": "185 rooms",
+  "keysCheck": "1 source (Trip.com 185, matches original data)",
+  "amenities": {
+   "architecture": "Beltline hotel known for its art and sculpture collection (guest reviews)",
+   "dining": "Freestyle Social Club (poolside restaurant and bar)",
+   "pool": "Seasonal outdoor heated pool",
+   "fitness": "Fitness centre",
+   "meeting": "Conference and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Calgary-Hotels-Hotel-Arts.20197.ksp",
+   "cheapMonth": "December",
+   "low": 159,
+   "peakMonth": "July",
+   "high": 245,
+   "weekday2w": 274,
+   "weekend2w": 311,
+   "recentMin": 190,
+   "recentMax": 340
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154913-d184251-Reviews-Hotel_Arts-Calgary_Alberta.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hotel Arts",
+    "url": "https://us.trip.com/hotels/calgary-hotel-detail-3165461/hotel-arts/"
+   }
+  ]
+ },
+ "HIR-175": {
+  "address": "700 Centre Street SE, Calgary, AB T2G 5P6, Canada",
+  "keys": 355,
+  "keysNote": "355 rooms (Trip.com lists 352); 21-storey atrium hotel",
+  "keysCheck": "2 sources (RENX sale report 355, matches original data; Trip.com 352)",
+  "opened": "Trip.com lists 2000; renovated 2018",
+  "owner": "Fallsview Group (acquired 2025 — see Transactions)",
+  "amenities": {
+   "architecture": "21-storey atrium hotel; about 140 m from the Calgary TELUS Convention Centre",
+   "dining": "Thomsons Restaurant; lounge bar",
+   "spa": "European spa on site (Stillwater Spa per the RENX sale report)",
+   "pool": "Indoor pool with hot tub",
+   "fitness": "Fitness centre",
+   "meeting": "Meeting rooms, conference suite and coworking space"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Calgary-Hotels-Hyatt-Regency-Calgary.32394.ksp",
+   "cheapMonth": "January",
+   "low": 183,
+   "peakMonth": "July",
+   "high": 335,
+   "weekday2w": 519,
+   "weekend2w": 254,
+   "recentMin": 169,
+   "recentMax": 726
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154913-d184252-Reviews-Hyatt_Regency_Calgary-Calgary_Alberta.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hyatt Regency Calgary",
+    "url": "https://ca.trip.com/hotels/calgary-hotel-detail-4605894/hyatt-regency-calgary/"
+   },
+   {
+    "label": "RENX — Fallsview acquires Calgary's Hyatt Regency downtown",
+    "url": "https://renx.ca/fallsview-acquires-calgarys-hyatt-regency-downtown-for-100m"
+   }
+  ]
+ },
+ "HIR-174": {
+  "address": "899 Centre Street SW, Calgary, AB T2G 1B8, Canada",
+  "keys": 143,
+  "keysNote": "143 rooms",
+  "keysCheck": "2 sources (Kayak 143; Trip.com 143)",
+  "opened": "2010",
+  "amenities": {
+   "dining": "CHARCUT (restaurant and bar); café and lobby bar",
+   "spa": "Spa with massages, facials and sauna",
+   "fitness": "Gym",
+   "meeting": "8 meeting rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Calgary-Hotels-Hotel-Le-Germain-Calgary.331966.ksp",
+   "cheapMonth": "February",
+   "low": 176,
+   "peakMonth": "July",
+   "high": 287,
+   "weekday2w": 285,
+   "weekend2w": 290,
+   "recentMin": 192,
+   "recentMax": 1141
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154913-d1587398-Reviews-Le_Germain_Hotel_Calgary-Calgary_Alberta.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hotel le Germain Calgary",
+    "url": "https://us.trip.com/hotels/calgary-hotel-detail-2165726/hotel-le-germain-calgary/"
+   }
+  ]
+ },
+ "HIR-177": {
+  "address": "630 4 Avenue SW, Calgary, AB T2P 0J9, Canada",
+  "keys": 104,
+  "keysNote": "104 rooms",
+  "keysCheck": "2 sources (Kayak 104; Trip.com 104) — original data said 222",
+  "opened": "Trip.com lists 2021 (Tapestry Collection by Hilton)",
+  "amenities": {
+   "dining": "Fonda Fora restaurant; lobby bar",
+   "fitness": "24-hour sunlit fitness facility",
+   "meeting": "Two hybrid-capable meeting rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Calgary-Hotels-The-Westley-Calgary-Downtown-Tapestry-Collection-by-Hilton.7650122.ksp",
+   "cheapMonth": "January",
+   "low": 125,
+   "peakMonth": "July",
+   "high": 269,
+   "weekday2w": 262,
+   "weekend2w": 287,
+   "recentMin": 108,
+   "recentMax": 668
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154913-d23335367-Reviews-The_Westley_Calgary_Downtown_Tapestry_Collection_by_Hilton-Calgary_Alberta.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Westley Calgary Downtown, Tapestry Collection by Hilton",
+    "url": "https://au.trip.com/hotels/calgary-hotel-detail-62718909/hotel-calgary-downtown-tapestry-collection-by-hilton/"
+   }
+  ]
+ },
+ "HIR-183": {
+  "address": "10222 102 Street NW, Edmonton, AB T5J 4C5, Canada",
+  "keys": 169,
+  "keysNote": "169 rooms",
+  "keysCheck": "1 source (Trip.com 169, matches original data)",
+  "opened": "Opened 1987; renovated 2019 (Trip.com)",
+  "amenities": {
+   "architecture": "Connected to Edmonton City Centre mall, the pedway system and LRT stations",
+   "dining": "District 102 Drink + Eatery; Cocoa's Restaurant and Lounge (Kayak)",
+   "fitness": "Fitness centre",
+   "meeting": "Over 10,000 sq ft of event space",
+   "other": "No pool or hot tub; parking garage accessed through the mall"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Edmonton-Hotels-Delta-Hotels-by-Marriott-Edmonton-Centre-Suites.13766.ksp",
+   "cheapMonth": "February",
+   "low": 174,
+   "peakMonth": "June",
+   "high": 386,
+   "weekday2w": 339,
+   "weekend2w": 231,
+   "recentMin": 311,
+   "recentMax": 311
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154914-d182270-Reviews-Delta_Hotels_by_Marriott_Edmonton_Centre_Suites-Edmonton_Alberta.html",
+  "sources": [
+   {
+    "label": "Trip.com — Delta Hotels by Marriott Edmonton Centre Suites",
+    "url": "https://www.trip.com/hotels/edmonton-hotel-detail-2239623/delta-hotels-by-marriott-edmonton-centre-suites/"
+   }
+  ]
+ },
+ "HIR-179": {
+  "address": "10065 100 Street NW, Edmonton, AB T5J 0N6, Canada",
+  "lat": 53.54028,
+  "lon": -113.48917,
+  "keys": 198,
+  "keysNote": "198 guest rooms and suites; 11 floors",
+  "keysCheck": "1 source (Wikipedia 198, matches original data)",
+  "opened": "July 5, 1915; reopened May 15, 1991 after Canadian Pacific purchase; renamed Fairmont Hotel Macdonald 2001",
+  "owner": "InnVest Hotels (operated by Fairmont Hotels & Resorts)",
+  "amenities": {
+   "architecture": "Châteauesque Grand Trunk Pacific Railway hotel by Ross and MacFarlane, 11 floors (47.7 m); named after Sir John A. Macdonald; a 1953 16-storey wing ('The Box') was later demolished",
+   "dining": "The Harvest Room; Confederation Lounge",
+   "spa": "Spa (guest tips on Kayak)",
+   "pool": "Indoor pool",
+   "fitness": "Fitness centre",
+   "accreditations": "Designated historic resource under the Alberta Historic Resources Act (27 November 1984)",
+   "other": "King George VI and Queen Elizabeth stayed in 1939; Queen Elizabeth suite renovated for Queen Elizabeth II's 2005 visit"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Edmonton-Hotels-Fairmont-Hotel-Macdonald.47653.ksp",
+   "cheapMonth": "February",
+   "low": 271,
+   "peakMonth": "August",
+   "high": 339,
+   "weekday2w": 368,
+   "weekend2w": 291,
+   "recentMin": 197,
+   "recentMax": 325
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154914-d155512-Reviews-Fairmont_Hotel_Macdonald-Edmonton_Alberta.html",
+  "sources": [
+   {
+    "label": "Wikipedia — Hotel Macdonald",
+    "url": "https://en.wikipedia.org/wiki/Hotel_Macdonald"
+   }
+  ]
+ },
+ "HIR-180": {
+  "address": "10344 102 Street NW, Edmonton, AB T5J 0K9, Canada",
+  "keys": 346,
+  "keysNote": "346 rooms",
+  "keysCheck": "1 source (Trip.com 346, matches original data)",
+  "opened": "2019",
+  "amenities": {
+   "architecture": "Connected to Rogers Place arena in the ICE District",
+   "dining": "Braven; Kindred Food + Drink; Alchemy bar (guest review)",
+   "spa": "Spa by JW",
+   "pool": "Indoor pool within Archetype Fitness Club",
+   "fitness": "Archetype Fitness Club on the hotel's well-being floors",
+   "meeting": "Meeting and multi-function rooms; business centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Edmonton-Hotels-JW-Marriott-Edmonton-ICE-District.4584098.ksp",
+   "cheapMonth": "February",
+   "low": 255,
+   "peakMonth": "September",
+   "high": 367,
+   "weekday2w": 502,
+   "weekend2w": 337,
+   "recentMin": 259,
+   "recentMax": 259
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154914-d15501142-Reviews-JW_Marriott_Edmonton_ICE_District-Edmonton_Alberta.html",
+  "sources": [
+   {
+    "label": "Trip.com — JW Marriott Edmonton ICE District",
+    "url": "https://sg.trip.com/hotels/edmonton-hotel-detail-25763998/jw-marriott-edmonton-ice-district/"
+   }
+  ]
+ },
+ "HIR-182": {
+  "address": "10640 100 Avenue NW, Edmonton, AB T5J 3N8, Canada",
+  "keys": 184,
+  "keysNote": "184 rooms",
+  "keysCheck": "1 source (Trip.com 184) — original data said 183",
+  "opened": "Trip.com lists 2007",
+  "amenities": {
+   "dining": "LOFT106 (restaurant and bar); café; complimentary evening cocktail ('The Ritual')",
+   "fitness": "Fitness centre",
+   "meeting": "About 8,167 sq ft (759 m²) of conference space in 4 meeting rooms",
+   "other": "Dog-friendly; paid parking (about C$30/night per guest reviews); short walk to Bay/Enterprise Square LRT station"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Edmonton-Hotels-Matrix-Hotel.17306.ksp",
+   "cheapMonth": "January",
+   "low": 130,
+   "peakMonth": "August",
+   "high": 170,
+   "weekday2w": 143,
+   "weekend2w": 149,
+   "recentMin": 118,
+   "recentMax": 178
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154914-d953658-Reviews-Matrix_Hotel-Edmonton_Alberta.html",
+  "sources": [
+   {
+    "label": "Trip.com — Matrix Hotel",
+    "url": "https://us.trip.com/hotels/edmonton-hotel-detail-3107548/matrix-hotel/"
+   }
+  ]
+ },
+ "HIR-181": {
+  "address": "10135 100 Street NW, Edmonton, AB T5J 0N7, Canada",
+  "keys": 416,
+  "keysNote": "416 rooms and suites (Trip.com description; its summary lists 382)",
+  "keysCheck": "1 source, internally inconsistent (Trip.com 416 / 382) — original data said 413",
+  "opened": "Trip.com lists 1998; renovated 2020",
+  "amenities": {
+   "dining": "Share Restaurant; bar and café",
+   "spa": "Sauna",
+   "pool": "Indoor heated pool",
+   "fitness": "Gym",
+   "meeting": "Over 27,000 sq ft of event space with 15 seating layouts"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Edmonton-Hotels-The-Westin-Edmonton.16058.ksp",
+   "cheapMonth": "September",
+   "low": 156,
+   "peakMonth": "May",
+   "high": 203,
+   "weekday2w": 239,
+   "weekend2w": 182,
+   "recentMin": 166,
+   "recentMax": 397
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154914-d185695-Reviews-The_Westin_Edmonton-Edmonton_Alberta.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Westin Edmonton",
+    "url": "https://us.trip.com/hotels/edmonton-hotel-detail-2239660/the-westin-edmonton/"
+   }
+  ]
+ },
+ "HIR-185": {
+  "address": "10053 Jasper Avenue, Edmonton, AB T5J 1S5, Canada",
+  "keys": 34,
+  "keysNote": "34 rooms",
+  "keysCheck": "1 source (Trip.com 34, matches original data)",
+  "amenities": {
+   "architecture": "On Jasper Avenue, about 200 m from Central station (Trip.com)",
+   "other": "Business centre; airport shuttle (Kayak); no pets; breakfast not offered (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.ca.kayak.com/Edmonton-Hotels-Union-Bank-Inn.47651.ksp",
+   "unavailable": true
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154914-d183502-Reviews-Union_Bank_Inn-Edmonton_Alberta.html",
+  "sources": [
+   {
+    "label": "Trip.com — Union Bank Inn",
+    "url": "https://www.trip.com/hotels/edmonton-hotel-detail-4224127/union-bank-inn/"
+   }
+  ]
+ },
+ "HIR-184": {
+  "address": "8208 106 Street NW, Edmonton, AB T6E 6R9, Canada",
+  "keys": 89,
+  "keysNote": "89 rooms (Trip.com; Kayak says 70)",
+  "keysCheck": "Sources differ (Trip.com 88–89, matches original data; Kayak 70)",
+  "opened": "Trip.com lists 2007",
+  "amenities": {
+   "architecture": "On Whyte Avenue in Old Strathcona, near the High Level Bridge Streetcar and Princess Theatre",
+   "dining": "The Ampersand27 (restaurant); bar/lounge",
+   "fitness": "24-hour fitness centre",
+   "meeting": "About 4,000 sq ft (372 m²) of conference space and a banquet hall"
+  },
+  "kayak": {
+   "url": "https://www.ca.kayak.com/Edmonton-Hotels-Varscona-Hotel-on-Whyte.9406.ksp",
+   "cheapMonth": "December",
+   "low": 105,
+   "peakMonth": "June",
+   "high": 156,
+   "weekday2w": 165,
+   "weekend2w": 115,
+   "recentMin": 115,
+   "recentMax": 120,
+   "note": "Converted from Kayak Canada (C$148 / C$219) at 0.7112"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154914-d155515-Reviews-Varscona_Hotel_on_Whyte-Edmonton_Alberta.html",
+  "sources": [
+   {
+    "label": "Trip.com — Varscona Hotel on Whyte",
+    "url": "https://www.trip.com/hotels/edmonton-hotel-detail-3798639/varscona-hotel-on-whyte/"
+   }
+  ]
+ },
+ "HIR-164": {
+  "address": "140 Slater Street, Ottawa, ON K1P 5H6, Canada",
+  "keys": 112,
+  "keysNote": "112 rooms",
+  "keysCheck": "1 source (Trip.com 112, matches original data)",
+  "opened": "Opened 1959; renovated 2000 (Trip.com)",
+  "amenities": {
+   "dining": "ARC Lounge (Kayak); à la carte breakfast 07:00–11:30 (Trip.com)",
+   "meeting": "Conference room and multi-function room (Trip.com)",
+   "other": "No on-site fitness facility listed (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Ottawa-Hotels-Arc-The-Hotel.36872.ksp",
+   "cheapMonth": "April",
+   "low": 119,
+   "peakMonth": "May",
+   "high": 207,
+   "weekday2w": 160,
+   "weekend2w": 151,
+   "recentMin": 111,
+   "recentMax": 265
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155004-d182981-Reviews-ARC_The_Hotel-Ottawa_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — ARC The Hotel",
+    "url": "https://www.trip.com/hotels/ottawa-hotel-detail-2545000/arc-the-hotel/"
+   }
+  ]
+ },
+ "HIR-159": {
+  "address": "325 Dalhousie Street, Ottawa, ON K1N 7G2, Canada",
+  "keys": 200,
+  "keysNote": "200 rooms",
+  "keysCheck": "2 sources (Kayak 200, Trip.com 200)",
+  "opened": "Opened 2016 (Trip.com)",
+  "amenities": {
+   "architecture": "ByWard Market location",
+   "dining": "Restaurant, lounge bar and coffee shop (Kayak); rooftop sky bar (Trip.com)",
+   "fitness": "Gym",
+   "meeting": "Conference room and multi-function room (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Ottawa-Hotels-Andaz-Ottawa-Byward-Market.2589907.ksp",
+   "cheapMonth": "January",
+   "low": 155,
+   "peakMonth": "October",
+   "high": 261,
+   "weekday2w": 192,
+   "weekend2w": 248,
+   "recentMin": 166,
+   "recentMax": 444
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155004-d10343280-Reviews-Andaz_Ottawa_Byward_Market-Ottawa_Ontario.html",
+  "sources": [
+   {
+    "label": "Kayak — Andaz Ottawa ByWard Market (room count)",
+    "url": "https://www.ca.kayak.com/Ottawa-Hotels-Andaz-Ottawa-Byward-Market.2589907.ksp"
+   },
+   {
+    "label": "Trip.com — Andaz Ottawa ByWard Market",
+    "url": "https://www.trip.com/hotels/ottawa-hotel-detail-8991881/andaz-ottawa-byward-market-a-concept-by-hyatt/"
+   }
+  ]
+ },
+ "HIR-445": {
+  "address": "525 Legget Drive, Kanata (Ottawa), ON K2K 2W2, Canada",
+  "keys": 274,
+  "keysNote": "274 rooms (Trip.com listing; its description also says 276)",
+  "keysCheck": "1 source with internal conflict (Trip.com 274 / 276; original data 276)",
+  "opened": "Opened 2003 (Trip.com)",
+  "amenities": {
+   "architecture": "Located in Kanata, west Ottawa; described by Trip.com as a golf hotel",
+   "dining": "Perspectives Restaurant; bar/lounge and jazz bar (Trip.com)",
+   "spa": "Spa with massages, body treatments and facials; sauna and Jacuzzi",
+   "pool": "Indoor pool and outdoor pool",
+   "fitness": "Gym",
+   "meeting": "About 27,986 sq ft (2,600 m²) of conference and meeting space (Trip.com)",
+   "other": "Golf course listed on Trip.com (location on- or off-site not specified)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Ottawa-Hotels-Brookstreet.31255.ksp",
+   "cheapMonth": "February",
+   "low": 151,
+   "peakMonth": "May",
+   "high": 194,
+   "weekday2w": 194,
+   "weekend2w": 185,
+   "recentMin": 163,
+   "recentMax": 267
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155004-d274639-Reviews-Brookstreet_Hotel-Ottawa_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — Brookstreet Hotel",
+    "url": "https://www.trip.com/hotels/kanata-hotel-detail-3064418/brookstreet-hotel-ottawa-west-kanata/"
+   }
+  ]
+ },
+ "HIR-441": {
+  "address": "101 Lyon Street North, Ottawa, ON K1R 5T9, Canada",
+  "keys": 410,
+  "keysNote": "410 rooms (387 guest rooms + 23 suites)",
+  "keysCheck": "2 sources (Kayak 387+23, Trip.com 410); original data 328 corrected",
+  "opened": "Opened 1967; renovated 2012 (Trip.com)",
+  "amenities": {
+   "dining": "Prova Bar & Kitchen, Italian-inspired (Trip.com); LIFT Resto Lounge and LIFT Bar (Kayak); café and convenience kiosk",
+   "pool": "Indoor saltwater pool",
+   "fitness": "Fitness room",
+   "meeting": "28,934 sq ft of flexible space across 19 rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Ottawa-Hotels-Delta-Hotels-by-Marriott-Ottawa-City-Centre.37056.ksp",
+   "cheapMonth": "January",
+   "low": 160,
+   "peakMonth": "May",
+   "high": 256,
+   "weekday2w": 294,
+   "weekend2w": 237,
+   "recentMin": 168,
+   "recentMax": 213
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155004-d181986-Reviews-Delta_Hotels_by_Marriott_Ottawa_City_Centre-Ottawa_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — Delta Hotels Ottawa City Centre",
+    "url": "https://uk.trip.com/hotels/ottawa-hotel-detail-2220370/delta-hotels-by-marriott-ottawa-city-centre/"
+   },
+   {
+    "label": "Kayak (CA) — room count and restaurant names",
+    "url": "https://www.ca.kayak.com/Ottawa-Hotels-Delta-Hotels-by-Marriott-Ottawa-City-Centre.37056.ksp"
+   }
+  ]
+ },
+ "HIR-158": {
+  "address": "1 Rideau Street, Ottawa, ON K1N 8S7, Canada",
+  "lat": 45.42557,
+  "lon": -75.69511,
+  "keys": 429,
+  "keysNote": "429 guest rooms",
+  "keysCheck": "1 source (Wikipedia 429, matches original data)",
+  "opened": "Opened June 12, 1912; east wing added 1929",
+  "owner": "Capital Hotel L.P.; operated by Fairmont Hotels and Resorts (Wikipedia)",
+  "amenities": {
+   "architecture": "French Gothic Revival / Châteauesque; designed by Bradford Gilbert, completed by Ross and Macfarlane; 1929 east wing by John Archibald and John Schofield. Overlooks the Ottawa Locks of the Rideau Canal; nicknamed \"the third chamber of Parliament\"",
+   "dining": "Wilfrid's (fine dining); Zoe's Lounge (Wikipedia)",
+   "spa": "Spa services: sauna and massage (Kayak)",
+   "pool": "Indoor pool",
+   "fitness": "Fitness centre",
+   "accreditations": "National Historic Site of Canada"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Ottawa-Hotels-Fairmont-Chateau-Laurier.33114.ksp",
+   "cheapMonth": "December",
+   "low": 197,
+   "peakMonth": "May",
+   "high": 348,
+   "weekday2w": 406,
+   "weekend2w": 328,
+   "recentMin": 267,
+   "recentMax": 740
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155004-d182974-Reviews-Fairmont_Chateau_Laurier-Ottawa_Ontario.html",
+  "sources": [
+   {
+    "label": "Wikipedia — Château Laurier",
+    "url": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Laurier"
+   }
+  ]
+ },
+ "HIR-442": {
+  "address": "392 Rue Notre-Dame, Montebello, QC J0V 1L0, Canada",
+  "keys": 211,
+  "keysNote": "211 guest rooms and suites (incl. 14 suites)",
+  "keysCheck": "1 source (Wikipedia 211, matches original data)",
+  "opened": "Opened July 1, 1930",
+  "owner": "In receivership since November 2025 (PwC receiver; former owner Evergrande Group); operated by Fairmont (Wikipedia)",
+  "amenities": {
+   "architecture": "Scandinavian log style, built by Finnish log builder Victor Nymark from about 10,000 western red cedar logs; claims to be the largest log building in the world. Located in Montebello, Québec, about an hour east of Ottawa",
+   "dining": "Lobby Bar (Kayak)",
+   "pool": "Indoor and outdoor pools",
+   "fitness": "Fitness centre",
+   "meeting": "Hosted the 1981 G7 summit and the 2007 North American Leaders' Summit (Wikipedia)",
+   "other": "18-hole, par-70 golf course designed by Stanley Thompson"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Montebello-Hotels-Fairmont-Le-Chateau-Montebello.39081.ksp",
+   "cheapMonth": "April",
+   "low": 289,
+   "peakMonth": "August",
+   "high": 423,
+   "weekday2w": 367,
+   "weekend2w": 430,
+   "recentMin": 282,
+   "recentMax": 476
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g499355-d262889-Reviews-Fairmont_Le_Chateau_Montebello-Montebello_Quebec.html",
+  "sources": [
+   {
+    "label": "Wikipedia — Château Montebello",
+    "url": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Montebello"
+   }
+  ]
+ },
+ "HIR-160": {
+  "address": "30 Daly Avenue, Ottawa, ON K1N 6E2, Canada",
+  "keys": 115,
+  "keysNote": "115 rooms",
+  "keysCheck": "1 source (Trip.com 115, matches original data)",
+  "amenities": {
+   "dining": "Norca Restaurant & Bar (Trip.com)",
+   "fitness": "Fitness centre",
+   "meeting": "Conference room, multi-function room and banquet hall (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Ottawa-Hotels-Le-Germain-Hotel-Ottawa.3724682.ksp",
+   "cheapMonth": "January",
+   "low": 219,
+   "peakMonth": "May",
+   "high": 406,
+   "weekday2w": 355,
+   "weekend2w": 309,
+   "recentMin": 240,
+   "recentMax": 360
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155004-d13962693-Reviews-Le_Germain_Hotel_Ottawa-Ottawa_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — Le Germain Hotel Ottawa",
+    "url": "https://us.trip.com/hotels/ottawa-hotel-detail-22152694/le-germain-hotel-ottawa/"
+   }
+  ]
+ },
+ "HIR-446": {
+  "address": "130 Besserer Street, Ottawa, ON K1N 9M9, Canada",
+  "keys": 237,
+  "keysNote": "237 suites (original data); Trip.com listing shows 220 and its description 239",
+  "keysCheck": "Conflicting (Trip.com 220 / 239); original figure kept",
+  "opened": "Listed opened 2012; renovated 2025 (Trip.com)",
+  "amenities": {
+   "architecture": "All-suite property; suites have kitchenettes with microwave, dishwasher and refrigerator (Kayak)",
+   "dining": "Urban Brew Café (Trip.com)",
+   "pool": "Indoor heated pool",
+   "fitness": "Gym and sun deck",
+   "meeting": "Three meeting rooms totalling 2,235 sq ft (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Ottawa-Hotels-Les-Suites-Hotel-Ottawa.31852.ksp",
+   "cheapMonth": "January",
+   "low": 131,
+   "peakMonth": "May",
+   "high": 186,
+   "weekday2w": 171,
+   "weekend2w": 178,
+   "recentMin": 116,
+   "recentMax": 262
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155004-d184085-Reviews-Les_Suites_Hotel_Ottawa-Ottawa_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — Les Suites Hotel Ottawa",
+    "url": "https://www.trip.com/hotels/ottawa-hotel-detail-2195000/les-suites-hotel-ottawa/"
+   }
+  ]
+ },
+ "HIR-162": {
+  "address": "100 Elgin Street, Ottawa, ON K1P 5K8, Canada",
+  "keys": 355,
+  "keysNote": "355 rooms (Trip.com listing; description says 356)",
+  "keysCheck": "1 source (Trip.com 355, matches original data)",
+  "opened": "Opened 1941; renovated 2017 (Trip.com)",
+  "amenities": {
+   "architecture": "Art Deco style (Trip.com)",
+   "dining": "Restaurant with open terrace and licensed bar (Kayak)",
+   "pool": "Indoor heated pool and hot tub",
+   "fitness": "Gym / health club",
+   "meeting": "Conference and multi-function rooms; wedding services (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Ottawa-Hotels-Lord-Elgin-Hotel.22185.ksp",
+   "cheapMonth": "December",
+   "low": 162,
+   "peakMonth": "September",
+   "high": 246,
+   "weekday2w": 332,
+   "weekend2w": 245,
+   "recentMin": 157,
+   "recentMax": 299
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155004-d182982-Reviews-Lord_Elgin-Ottawa_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — Lord Elgin Hotel",
+    "url": "https://www.trip.com/hotels/ottawa-hotel-detail-2194999/lord-elgin-hotel/"
+   }
+  ]
+ },
+ "HIR-443": {
+  "address": "100 Kent Street, Ottawa, ON K1P 5R7, Canada",
+  "keys": 489,
+  "keysNote": "489 rooms and suites",
+  "keysCheck": "2 sources (Kayak 489, Trip.com 489)",
+  "opened": "Opened 1999; renovated 2014 (Trip.com)",
+  "amenities": {
+   "architecture": "Described as Ottawa's tallest hotel (Trip.com)",
+   "dining": "On-site restaurant and coffee shop (Kayak)",
+   "spa": "Sauna",
+   "pool": "Indoor pool with pool ramp",
+   "fitness": "Gym",
+   "meeting": "Conference and multi-function rooms, business centre, wedding services (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Ottawa-Hotels-Ottawa-Marriott-Hotel.36607.ksp",
+   "cheapMonth": "January",
+   "low": 143,
+   "peakMonth": "May",
+   "high": 220,
+   "weekday2w": 448,
+   "weekend2w": 278,
+   "recentMin": 199,
+   "recentMax": 473
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155004-d186918-Reviews-Ottawa_Marriott_Hotel-Ottawa_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — Ottawa Marriott Hotel",
+    "url": "https://ae.trip.com/hotels/ottawa-hotel-detail-2193317/ottawa-marriott-hotel/"
+   }
+  ]
+ },
+ "HIR-161": {
+  "address": "11 Colonel By Drive, Ottawa, ON K1N 9H4, Canada",
+  "keys": 497,
+  "keysNote": "497 rooms",
+  "keysCheck": "1 source (Trip.com 497); original data 487 corrected",
+  "opened": "Opened 1998; renovated 2009 (Trip.com)",
+  "amenities": {
+   "architecture": "Rooms on floors 1–24; connected to Rogers Centre Ottawa (convention centre) and a shopping mall (Trip.com)",
+   "dining": "The Shore Club; Daly's Express (Kayak)",
+   "pool": "Indoor heated saltwater pool and Jacuzzi",
+   "fitness": "Fitness centre; running concierge (Kayak)",
+   "meeting": "Meeting and multi-function rooms connected to Rogers Centre Ottawa"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Ottawa-Hotels-The-Westin-Ottawa.19698.ksp",
+   "cheapMonth": "December",
+   "low": 193,
+   "peakMonth": "May",
+   "high": 361,
+   "weekday2w": 347,
+   "weekend2w": 328,
+   "recentMin": 188,
+   "recentMax": 515
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155004-d185620-Reviews-The_Westin_Ottawa-Ottawa_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Westin Ottawa",
+    "url": "https://sg.trip.com/hotels/ottawa-hotel-detail-2220197/the-westin-ottawa/"
+   }
+  ]
+ },
+ "HIR-163": {
+  "address": "101 Queen Street, Ottawa, ON K1P 5C7, Canada",
+  "keys": 220,
+  "keysNote": "220 (original data); Trip.com shows 53 in its listing and 111 in its description",
+  "keysCheck": "Conflicting (Trip.com 53 / 111); original figure kept — unconfirmed",
+  "opened": "Opened 2021 (Trip.com)",
+  "amenities": {
+   "architecture": "Suite-style units with full kitchens (full-size fridge/freezer and oven); 24/7 front desk (Trip.com)",
+   "fitness": "Fitness room and sauna",
+   "other": "No restaurant or pool listed"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Ottawa-Hotels.9618.hotel.ksp",
+   "unavailable": true,
+   "note": "No Kayak hotel page found for reStays Ottawa"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155004-d23112012-Reviews-ReStays-Ottawa_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — ReStays Ottawa",
+    "url": "https://sg.trip.com/hotels/ottawa-hotel-detail-71504404/restays-ottawa/"
+   }
+  ]
+ },
+ "HIR-557": {
+  "address": "124 Queen Street, Niagara-on-the-Lake, ON L0S 1J0, Canada",
+  "keys": 62,
+  "keysNote": "62 rooms (Trip.com listing; its description says 72)",
+  "keysCheck": "1 source with internal conflict (Trip.com 62 / 72); original data 22 corrected",
+  "opened": "Opened 2011 (Trip.com)",
+  "amenities": {
+   "architecture": "On Queen Street in Niagara-on-the-Lake",
+   "dining": "Treadwell Cuisine (lunch and dinner); Starbucks coffee shop; bar/lounge (Kayak)",
+   "spa": "On-site spa and wellness centre with massages, body treatments and facials",
+   "fitness": "Fitness room",
+   "meeting": "3 meeting rooms and a banquet hall (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Niagara-on-the-Lake-Hotels-124-on-Queen-Hotel-Spa.487508.ksp",
+   "cheapMonth": "February",
+   "low": 214,
+   "peakMonth": "September",
+   "high": 460,
+   "weekday2w": 421,
+   "weekend2w": 583,
+   "recentMin": 455,
+   "recentMax": 603
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154999-d2617091-Reviews-124_on_Queen_Hotel_and_Spa-Niagara_on_the_Lake_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — 124 on Queen Hotel & Spa",
+    "url": "https://ca.trip.com/hotels/niagara-on-the-lake-hotel-detail-7177071/124-on-queen-hotel-and-spa/"
+   }
+  ]
+ },
+ "HIR-555": {
+  "address": "1530 Stone Church Road East, Hamilton, ON L8W 3P9, Canada",
+  "keys": 52,
+  "keysNote": "52 rooms",
+  "keysCheck": "1 source (Trip.com 52); original data 150 corrected",
+  "opened": "Opened 2011 (Trip.com)",
+  "amenities": {
+   "dining": "Italian restaurant, bar and lobby bar (Trip.com, Kayak)",
+   "pool": "Indoor heated \"Oasis\" pool and hot tub",
+   "fitness": "Fitness room",
+   "meeting": "Ballroom and banquet hall; meeting and banquet facilities for groups of 10 to 125 (Trip.com, Kayak)",
+   "other": "In-room spa baths (Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Hamilton-Hotels-Best-Western-Premier-C-Hotel-by-Carmen-s.415319.ksp",
+   "cheapMonth": "November",
+   "low": 139,
+   "peakMonth": "September",
+   "high": 217,
+   "weekday2w": 185,
+   "weekend2w": 232,
+   "recentMin": 155,
+   "recentMax": 273
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154990-d2306404-Reviews-C_Hotel_By_Carmen_s_BW_Premier_Collection-Hamilton_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — Best Western Premier C Hotel by Carmen's",
+    "url": "https://ca.trip.com/hotels/hamilton-hotel-detail-2124671/best-western-premier-c-hotel-by-carmen-s/"
+   }
+  ]
+ },
+ "HIR-553": {
+  "address": "116 King Street West, Hamilton, ON L8P 4V3, Canada",
+  "keys": 301,
+  "keysNote": "301 rooms",
+  "keysCheck": "1 source (Trip.com 301, matches original data)",
+  "opened": "Opened 1990; renovated 2024 (Trip.com)",
+  "amenities": {
+   "architecture": "Directly connected to the Hamilton Convention Centre; next to Jackson Square; near FirstOntario Concert Hall and TD Coliseum (Trip.com)",
+   "dining": "Chagall's Restaurant (continental cuisine, craft cocktails); evening lounge bar",
+   "pool": "Indoor pool",
+   "fitness": "24-hour Sheraton Fitness Centre",
+   "meeting": "More than 20,000 sq ft of event space (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Hamilton-Hotels-Sheraton-Hamilton-Hotel.22037.ksp",
+   "cheapMonth": "October",
+   "low": 158,
+   "peakMonth": "May",
+   "high": 222,
+   "weekday2w": 148,
+   "weekend2w": 179,
+   "recentMin": 131,
+   "recentMax": 259,
+   "note": "Kayak's seasonal table on the same page names different months (December cheapest, October most expensive)"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154990-d182858-Reviews-Sheraton_Hamilton_Hotel-Hamilton_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — Sheraton Hamilton Hotel",
+    "url": "https://us.trip.com/hotels/hamilton-hotel-detail-3136785/sheraton-hamilton-hotel/"
+   }
+  ]
+ },
+ "HIR-556": {
+  "address": "425 Wilson Street East, Ancaster (Hamilton), ON L9G 2C4, Canada",
+  "keys": 18,
+  "keysNote": "18 individually decorated guest rooms",
+  "keysCheck": "1 source (Trip.com 18); original data 26 corrected",
+  "opened": "Opened 2015 (Trip.com)",
+  "amenities": {
+   "architecture": "Individually decorated rooms in an older building in Ancaster (Trip.com)",
+   "dining": "Complimentary on-the-go breakfast 7:00–10:00; no on-site restaurant listed",
+   "meeting": "2 meeting rooms; business centre, lounges and outdoor patio (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Hamilton-Hotels-The-Barracks-Inn.2760703.ksp",
+   "unavailable": true,
+   "note": "Kayak shows only \"rates from $177\" with no price history for this inn"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g499248-d8873280-Reviews-The_Barracks_Inn-Ancaster_Hamilton_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Barracks Inn",
+    "url": "https://ca.trip.com/hotels/ancaster-hotel-detail-10163137/the-barracks-inn/"
+   }
+  ]
+ },
+ "HIR-554": {
+  "address": "3 Elizabeth Street, Burlington, ON L7R 0A4, Canada",
+  "keys": 151,
+  "keysNote": "151 rooms",
+  "keysCheck": "2 sources (Kayak 151, Trip.com description 151; Trip.com listing 144); original data 130 corrected",
+  "opened": "Opened 2021 (Trip.com)",
+  "amenities": {
+   "architecture": "On the Burlington waterfront with Lake Ontario as its backdrop (Trip.com)",
+   "dining": "Two dining outlets: Isabelle restaurant and Pearle café (named in guest reviews); bar/lounge",
+   "spa": "On-site spa",
+   "pool": "Indoor pool",
+   "fitness": "Fitness room",
+   "meeting": "Meeting and event space"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Burlington-Hotels-The-Pearle-Hotel-Spa-Autograph-Collection.6966245.ksp",
+   "cheapMonth": "February",
+   "low": 314,
+   "peakMonth": "September",
+   "high": 423,
+   "weekday2w": 349,
+   "weekend2w": 386,
+   "recentMin": 321,
+   "recentMax": 375
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154984-d23149727-Reviews-The_Pearle_Hotel_Spa_Autograph_Collection-Burlington_Ontario.html",
+  "sources": [
+   {
+    "label": "Kayak — The Pearle (room count)",
+    "url": "https://www.kayak.com/Burlington-Hotels-The-Pearle-Hotel-Spa-Autograph-Collection.6966245.ksp"
+   },
+   {
+    "label": "Trip.com — The Pearle Hotel & Spa",
+    "url": "https://sg.trip.com/hotels/burlington-hotel-detail-68576595/the-pearle-hotel-spa-autograph-collection/"
+   }
+  ]
+ },
+ "HIR-1394": {
+  "address": "1288 Water Street, Kelowna, BC V1Y 9P4, Canada",
+  "keys": 63,
+  "keysNote": "63 accommodations with fireplaces and washer/dryers",
+  "keysCheck": "2 sources (Kayak 63, Trip.com description 63; Trip.com listing 44); original data 44 corrected",
+  "opened": "Opened 2006 (Trip.com)",
+  "amenities": {
+   "architecture": "Suites with full kitchens, fireplaces and washer/dryers; about 0.3 km from Okanagan Lake (Kayak, Trip.com)",
+   "pool": "Rooftop heated infinity pool and 3 hot tubs",
+   "fitness": "Fitness centre and steam room",
+   "other": "No on-site dining (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Kelowna-Hotels-The-Royal-Kelowna.4568221.ksp",
+   "cheapMonth": "January",
+   "low": 177,
+   "peakMonth": "August",
+   "high": 561,
+   "weekday2w": 366,
+   "weekend2w": 465,
+   "recentMin": 317,
+   "recentMax": 465
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154933-d1382466-Reviews-The_Royal_Kelowna_Bellstar_Hotels_Resorts-Kelowna_Okanagan_Valley_British_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Royal Kelowna",
+    "url": "https://us.trip.com/hotels/kelowna-hotel-detail-3066191/the-royal-kelowna-bellstar-hotels-and-resorts/"
+   }
+  ]
+ },
+ "HIR-560": {
+  "address": "105 King Street East, Kitchener, ON N2G 2K8, Canada",
+  "keys": 201,
+  "keysNote": "201 rooms",
+  "keysCheck": "1 source (Trip.com 201); original data 196 corrected",
+  "opened": "Renovated 2015 (Trip.com)",
+  "amenities": {
+   "architecture": "Downtown Kitchener, 1.2 km from Kitchener GO Station; near Centre in the Square, THEMUSEUM and Kitchener Memorial Auditorium (Trip.com)",
+   "dining": "Restaurant, bar and lobby bar",
+   "pool": "Indoor heated pool",
+   "fitness": "Fitness room",
+   "meeting": "Over 15,000 sq ft of event space (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Kitchener-Hotels-Crowne-Plaza-Kitchener-Waterloo.34952.ksp",
+   "cheapMonth": "December",
+   "low": 102,
+   "peakMonth": "August",
+   "high": 163,
+   "weekday2w": 134,
+   "weekend2w": 208,
+   "recentMin": 113,
+   "recentMax": 248
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g181747-d182884-Reviews-Crowne_Plaza_Kitchener_Waterloo_an_IHG_Hotel-Kitchener_Region_of_Waterloo_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — Crowne Plaza Kitchener-Waterloo",
+    "url": "https://ca.trip.com/hotels/kitchener-hotel-detail-3064241/crowne-plaza-kitchener-waterloo-by-ihg/"
+   }
+  ]
+ },
+ "HIR-559": {
+  "address": "110 Erb Street West, Waterloo, ON N2L 0C6, Canada",
+  "keys": 194,
+  "keysNote": "194 rooms (Trip.com); Kayak lists 179",
+  "keysCheck": "Conflicting (Trip.com 194, Kayak 179); original 195",
+  "opened": "Opened 2014 (Trip.com)",
+  "amenities": {
+   "architecture": "Steps from the University of Waterloo and Wilfrid Laurier University (hotel description on Trip.com)",
+   "dining": "Proof Kitchen + Lounge",
+   "pool": "Indoor heated pool",
+   "fitness": "Fitness room and sauna",
+   "meeting": "Six flexible venues with full AV (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Waterloo-Hotels-Delta-Hotels-by-Marriott-Waterloo.777015.ksp",
+   "cheapMonth": "January",
+   "low": 195,
+   "peakMonth": "June",
+   "high": 255,
+   "weekday2w": 261,
+   "weekend2w": 233,
+   "recentMin": 190,
+   "recentMax": 253
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g181736-d7093777-Reviews-Delta_Hotels_by_Marriott_Waterloo-Waterloo_Region_of_Waterloo_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — Delta Hotels Waterloo",
+    "url": "https://sg.trip.com/hotels/waterloo-3-hotel-detail-3121011/delta-hotels-waterloo/"
+   }
+  ]
+ },
+ "HIR-561": {
+  "address": "45 Benjamin Road, Waterloo, ON N2V 2J9, Canada",
+  "keys": 97,
+  "keysNote": "97 rooms",
+  "keysCheck": "1 source (Kayak 97); original data 105 corrected",
+  "amenities": {
+   "architecture": "All-suite; fully equipped kitchen in each room (Kayak)",
+   "dining": "Complimentary breakfast",
+   "pool": "Indoor pool",
+   "fitness": "Fitness centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Waterloo-Hotels-Homewood-Suites-by-Hilton-Waterloo-St-Jacobs-Canada.2137549.ksp",
+   "cheapMonth": "December",
+   "low": 124,
+   "peakMonth": "June",
+   "high": 190,
+   "weekday2w": 162,
+   "weekend2w": 250,
+   "recentMin": 119,
+   "recentMax": 197
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g181736-d6594645-Reviews-Homewood_Suites_by_Hilton_Waterloo_St_Jacobs_Ontario_Canada-Waterloo_Region_of_Waterloo_Ontario.html",
+  "sources": [
+   {
+    "label": "Kayak — Homewood Suites Waterloo/St. Jacobs",
+    "url": "https://www.kayak.com/Waterloo-Hotels-Homewood-Suites-by-Hilton-Waterloo-St-Jacobs-Canada.2137549.ksp"
+   }
+  ]
+ },
+ "HIR-558": {
+  "address": "20 Queen Street South, Kitchener, ON N2G 1V6, Canada",
+  "keys": 92,
+  "keysNote": "92 rooms",
+  "keysCheck": "1 source (Trip.com 92, matches original data)",
+  "opened": "Landmark building dating from 1893 (Trip.com)",
+  "amenities": {
+   "architecture": "Historic red-brick 1893 landmark; Eleanor Roosevelt is said to have preferred breakfast on its interior terrace (Trip.com, Kayak)",
+   "dining": "TWH Social; Barrister Lounge (Kayak)",
+   "fitness": "Gym",
+   "meeting": "Crystal Ballroom and a renovated 2nd-floor event space with AV (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Kitchener-Hotels-The-Walper-Hotel.8263.ksp",
+   "cheapMonth": "April",
+   "low": 137,
+   "peakMonth": "February",
+   "high": 190,
+   "weekday2w": 153,
+   "weekend2w": 196,
+   "recentMin": 134,
+   "recentMax": 191
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g181747-d185221-Reviews-The_Walper_Hotel-Kitchener_Region_of_Waterloo_Ontario.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Walper Hotel",
+    "url": "https://us.trip.com/hotels/kitchener-hotel-detail-3162516/the-walper-hotel/"
+   }
+  ]
+ },
+ "HIR-562": {
+  "address": "601 Spadina Crescent East, Saskatoon, SK S7K 3G8, Canada",
+  "keys": 225,
+  "keysNote": "225 guest rooms and suites",
+  "keysCheck": "2 sources (Wikipedia 225, Trip.com 225)",
+  "opened": "Opened 1935; renovated 2013",
+  "owner": "Leadon Investment Inc.; managed by Delta Hotels (Marriott) (Wikipedia)",
+  "amenities": {
+   "architecture": "10-storey Châteauesque hotel by Archibald and Schofield, on 4.9 acres of private gardens backing onto the South Saskatchewan River (Wikipedia)",
+   "dining": "Two dining outlets (Trip.com)",
+   "spa": "Full-service spa; sauna",
+   "pool": "Indoor pool",
+   "fitness": "Fitness centre",
+   "meeting": "Conference and multi-function rooms, business centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Saskatoon-Hotels-Delta-Hotels-by-Marriott-Bessborough.14744.ksp",
+   "basis": "2wk",
+   "cheapMonth": "September",
+   "low": 178,
+   "peakMonth": "April",
+   "high": 247,
+   "weekday2w": 178,
+   "weekend2w": 247,
+   "recentMin": 171,
+   "recentMax": 250,
+   "note": "Kayak shows no monthly averages for this hotel; low/high are the 2-week weeknight and weekend averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155043-d183391-Reviews-Delta_Hotels_Bessborough-Saskatoon_Saskatchewan.html",
+  "sources": [
+   {
+    "label": "Wikipedia — Delta Bessborough",
+    "url": "https://en.wikipedia.org/wiki/Delta_Bessborough"
+   },
+   {
+    "label": "Trip.com — Delta Hotels Bessborough",
+    "url": "https://us.trip.com/hotels/saskatoon-hotel-detail-2219876/delta-hotels-by-marriott-bessborough/"
+   }
+  ]
+ },
+ "HIR-564": {
+  "address": "405 20th Street East, Saskatoon, SK S7K 6X6, Canada",
+  "keys": 290,
+  "keysNote": "290 rooms",
+  "keysCheck": "1 source (Trip.com 290); original data 291",
+  "opened": "Kayak and Trip.com list this address as Delta Hotels by Marriott Saskatoon Downtown",
+  "amenities": {
+   "architecture": "River views; access to walking paths along the South Saskatchewan River (Trip.com). Now operating as Delta Hotels by Marriott Saskatoon Downtown",
+   "dining": "Aroma Restaurant; The Grind Coffee Bar",
+   "pool": "Indoor waterpark with two heated pools, whirlpool and a three-storey waterslide",
+   "fitness": "1,400 sq ft fitness centre",
+   "meeting": "Over 20,000 sq ft of meeting space (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Saskatoon-Hotels-Delta-Hotels-by-Marriott-Saskatoon-Downtown.37923.ksp",
+   "cheapMonth": "January",
+   "low": 152,
+   "peakMonth": "April",
+   "high": 250,
+   "weekday2w": 210,
+   "weekend2w": 165,
+   "recentMin": 185,
+   "recentMax": 185
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155043-d183395-Reviews-Delta_Hotels_Saskatoon_Downtown-Saskatoon_Saskatchewan.html",
+  "sources": [
+   {
+    "label": "Trip.com — Delta Hotels Saskatoon Downtown",
+    "url": "https://sg.trip.com/hotels/saskatoon-hotel-detail-2219884/delta-hotels-by-marriott-saskatoon-downtown/"
+   }
+  ]
+ },
+ "HIR-563": {
+  "address": "2125 Victoria Avenue, Regina, SK S4P 0S3, Canada",
+  "keys": 237,
+  "keysNote": "237 rooms (Trip.com); Wikipedia gives 224 rooms plus 27 suites",
+  "keysCheck": "Conflicting (Trip.com 237, Wikipedia 224 + 27 suites); original 217",
+  "opened": "Built 1927 by the Canadian Pacific Railway (Wikipedia)",
+  "amenities": {
+   "architecture": "10-storey Neoclassical hotel by Ross and Macdonald overlooking Victoria Park in downtown Regina (Wikipedia). Note: located in Regina, not Saskatoon",
+   "dining": "Restaurant, lobby bar and coffee shop",
+   "spa": "Spa with massage and body-care services",
+   "fitness": "Fitness room",
+   "meeting": "Meeting and multi-function rooms, business centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Regina-Hotels-The-Hotel-Saskatchewan-Autograph-Collection.836138.ksp",
+   "cheapMonth": "February",
+   "low": 158,
+   "peakMonth": "September",
+   "high": 214,
+   "weekday2w": 185,
+   "weekend2w": 197,
+   "recentMin": 147,
+   "recentMax": 222
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g155042-d183384-Reviews-The_Hotel_Saskatchewan_Autograph_Collection-Regina_Saskatchewan.html",
+  "sources": [
+   {
+    "label": "Wikipedia — Hotel Saskatchewan",
+    "url": "https://en.wikipedia.org/wiki/Hotel_Saskatchewan"
+   },
+   {
+    "label": "Trip.com — The Hotel Saskatchewan",
+    "url": "https://ca.trip.com/hotels/regina-hotel-detail-3358600/the-hotel-saskatchewan-autograph-collection/"
+   }
+  ]
+ },
+ "HIR-1142": {
+  "address": "4591 Blackcomb Way, Whistler, BC V8E 0Y4, Canada",
+  "keys": 273,
+  "keysNote": "273 guest rooms, suites and townhouses",
+  "keysCheck": "1 source (Trip.com 273, matches original data)",
+  "opened": "Opened 2004; renovated 2010 (Trip.com)",
+  "amenities": {
+   "architecture": "At the foot of Blackcomb Mountain; ski gear storage and rental, ski valet (Trip.com, Kayak)",
+   "dining": "Sidecut Modern Steak + Bar (Kayak); Braidwood Tavern; The Terrace (Trip.com)",
+   "spa": "Alpine spa",
+   "pool": "75 ft (23 m) sunken courtyard outdoor pool",
+   "fitness": "2,185 sq ft workout facility",
+   "meeting": "Conference and multi-function rooms, business centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Whistler-Hotels-Four-Seasons-Resort-Whistler.420548.ksp",
+   "cheapMonth": "November",
+   "low": 405,
+   "peakMonth": "March",
+   "high": 1049,
+   "weekday2w": 432,
+   "weekend2w": 461,
+   "recentMin": 372,
+   "recentMax": 904
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154948-d293175-Reviews-Four_Seasons_Resort_Whistler-Whistler_British_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Resort Whistler",
+    "url": "https://us.trip.com/hotels/whistler-hotel-detail-2226073/four-seasons-resort-whistler/"
+   }
+  ]
+ },
+ "HIR-169": {
+  "address": "833 West Pender Street, Vancouver, BC V6C 1K7, Canada",
+  "keys": 104,
+  "keysNote": "104 rooms",
+  "keysCheck": "2 sources (Kayak 104, Trip.com 104); original data 158 corrected",
+  "amenities": {
+   "architecture": "Coal Harbour, downtown Vancouver",
+   "dining": "2 restaurants and 2 bars/lounges (Kayak, Trip.com; not named)",
+   "other": "No on-site gym or pool; complimentary use of a nearby fitness facility (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Vancouver-Hotels-Azur-Legacy-Collection-Hotel.9906490.ksp",
+   "cheapMonth": "January",
+   "low": 254,
+   "peakMonth": "September",
+   "high": 649,
+   "weekday2w": 292,
+   "weekend2w": 694,
+   "recentMin": 493,
+   "recentMax": 1793
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154943-d26592015-Reviews-Azur_Legacy_Collection_Hotel-Vancouver_British_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Azur Legacy Collection Hotel",
+    "url": "https://us.trip.com/hotels/vancouver-hotel-detail-106407252/azur-legacy-collection-hotel/"
+   }
+  ]
+ },
+ "HIR-044": {
+  "address": "1038 Canada Place, Vancouver, BC V6C 0B9, Canada",
+  "keys": 377,
+  "keysNote": "377 rooms (Wikipedia); Trip.com lists 367",
+  "keysCheck": "Wikipedia 377 matches original data; Trip.com 367",
+  "opened": "Opened February 4, 2010 (Wikipedia)",
+  "owner": "Developed by Westbank and the Peterson Group; operated by Fairmont (Wikipedia)",
+  "amenities": {
+   "architecture": "44-storey, 139.6 m tower by James KM Cheng Architects; 22 hotel floors with 175 condominium residences above; attached to the West Building of the Vancouver Convention Centre (Wikipedia)",
+   "dining": "Botanist; Giovane Cafe + Eatery + Market; Lobby Lounge & Rawbar; Gold Lounge (Kayak, Trip.com)",
+   "spa": "On-site spa",
+   "pool": "Rooftop heated outdoor pool",
+   "fitness": "Gym",
+   "meeting": "Conference and multi-function rooms, business centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Vancouver-Hotels-Fairmont-Pacific-Rim.311230.ksp",
+   "cheapMonth": "March",
+   "low": 415,
+   "peakMonth": "July",
+   "high": 831,
+   "weekday2w": 493,
+   "weekend2w": 532,
+   "recentMin": 373,
+   "recentMax": 1035
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154943-d1485977-Reviews-Fairmont_Pacific_Rim-Vancouver_British_Columbia.html",
+  "sources": [
+   {
+    "label": "Wikipedia — Fairmont Pacific Rim",
+    "url": "https://en.wikipedia.org/wiki/Fairmont_Pacific_Rim"
+   },
+   {
+    "label": "Trip.com — Fairmont Pacific Rim",
+    "url": "https://us.trip.com/hotels/vancouver-hotel-detail-756430/fairmont-pacific-rim/"
+   }
+  ]
+ },
+ "HIR-165": {
+  "address": "900 Canada Place, Vancouver, BC V6C 3L5, Canada",
+  "keys": 489,
+  "keysNote": "489 rooms",
+  "keysCheck": "1 source (Trip.com 489, matches original data)",
+  "opened": "Opened 1991; renovated 2016 (Trip.com)",
+  "amenities": {
+   "architecture": "Beside the Canada Place cruise ship terminal and the Vancouver Convention Centre (Trip.com)",
+   "dining": "ARC Restaurant + Bar (Pacific Northwest)",
+   "spa": "Spa and massage room",
+   "pool": "Heated rooftop pool",
+   "fitness": "Gym",
+   "meeting": "Conference and multi-function rooms, business centre",
+   "other": "Rooftop garden and honeybee apiary (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Vancouver-Hotels-Fairmont-Waterfront.34380.ksp",
+   "cheapMonth": "January",
+   "low": 258,
+   "peakMonth": "July",
+   "high": 710,
+   "weekday2w": 427,
+   "weekend2w": 314,
+   "recentMin": 263,
+   "recentMax": 626
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154943-d182554-Reviews-Fairmont_Waterfront-Vancouver_British_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Fairmont Waterfront",
+    "url": "https://us.trip.com/hotels/vancouver-hotel-detail-2195217/fairmont-waterfront/"
+   }
+  ]
+ },
+ "HIR-047": {
+  "address": "39 Smithe Street, Vancouver, BC V6B 0R3, Canada",
+  "keys": 329,
+  "keysNote": "329 rooms",
+  "keysCheck": "1 source (Trip.com 329, matches original data)",
+  "opened": "Opened 2017 (Trip.com)",
+  "amenities": {
+   "architecture": "Part of the Parq Vancouver complex next to the casino; about 0.2 km from BC Place (Trip.com)",
+   "dining": "The Victor; D/6 rooftop lounge (Kayak); Honey Salt (Trip.com)",
+   "spa": "Spa by JW",
+   "fitness": "Gym",
+   "meeting": "56,717 sq ft (5,269 m²) of event space (Trip.com)",
+   "other": "No pool (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Vancouver-Hotels-JW-Marriott-Parq-Vancouver.2847124.ksp",
+   "cheapMonth": "January",
+   "low": 279,
+   "peakMonth": "June",
+   "high": 642,
+   "weekday2w": 388,
+   "weekend2w": 383,
+   "recentMin": 296,
+   "recentMax": 554
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154943-d12619570-Reviews-JW_Marriott_Parq_Vancouver-Vancouver_British_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — JW Marriott Parq Vancouver",
+    "url": "https://us.trip.com/hotels/vancouver-hotel-detail-10888912/jw-marriott-parq-vancouver/"
+   }
+  ]
+ },
+ "HIR-168": {
+  "address": "1177 Melville Street, Vancouver, BC V6E 0A3, Canada",
+  "keys": 77,
+  "keysNote": "77 guest rooms (Trip.com description; listing shows 76)",
+  "keysCheck": "1 source (Trip.com 77 / 76, matches original data)",
+  "opened": "Opened 2009 (Trip.com)",
+  "amenities": {
+   "architecture": "Coal Harbour",
+   "dining": "Tableau Bar Bistro (French; breakfast, brunch, lunch and dinner)",
+   "spa": "Full-service spa (massages, body treatments, facials)",
+   "fitness": "24-hour fitness centre",
+   "meeting": "Conference and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Vancouver-Hotels-Loden-Hotel.177164.ksp",
+   "cheapMonth": "January",
+   "low": 337,
+   "peakMonth": "May",
+   "high": 682,
+   "weekday2w": 493,
+   "weekend2w": 400,
+   "recentMin": 420,
+   "recentMax": 645
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154943-d677531-Reviews-Loden_Hotel-Vancouver_British_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Loden Vancouver",
+    "url": "https://us.trip.com/hotels/vancouver-hotel-detail-2545329/loden-vancouver/"
+   }
+  ]
+ },
+ "HIR-167": {
+  "address": "322 Davie Street, Vancouver, BC V6B 5Z6, Canada",
+  "keys": 96,
+  "keysNote": "96 rooms",
+  "keysCheck": "2 sources (Kayak 96, Trip.com 96)",
+  "opened": "Opened 2002; renovated 2013 (Trip.com)",
+  "amenities": {
+   "architecture": "Boutique hotel in Yaletown, about 50 m from Yaletown–Roundhouse station (Trip.com)",
+   "dining": "Capo pizzeria; The Spritz 22-seat cocktail bar (Trip.com). Kayak lists La Pentola and OPUS Bar",
+   "spa": "Massage room and spa",
+   "fitness": "Gym",
+   "meeting": "Conference and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Vancouver-Hotels-Opus-Hotel-Vancouver.3319.ksp",
+   "cheapMonth": "January",
+   "low": 205,
+   "peakMonth": "July",
+   "high": 467,
+   "weekday2w": 358,
+   "weekend2w": 320,
+   "recentMin": 262,
+   "recentMax": 579
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154943-d224689-Reviews-OPUS_Vancouver-Vancouver_British_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Opus Vancouver",
+    "url": "https://us.trip.com/hotels/vancouver-hotel-detail-2545327/opus-vancouver/"
+   }
+  ]
+ },
+ "HIR-171": {
+  "address": "999 Canada Place, Suite 300, Vancouver, BC V6C 3B5, Canada",
+  "keys": 503,
+  "keysNote": "503 rooms",
+  "keysCheck": "2 sources (Kayak 503, Trip.com 503)",
+  "opened": "Opened 1986; renovated 2017 (Trip.com)",
+  "amenities": {
+   "architecture": "Steps from the Canada Place cruise ship terminal (Trip.com)",
+   "dining": "Five Sails; Oceans 999; Coal Harbour Bar; Patio Terrace (Kayak)",
+   "spa": "Spa Utopia, 12,000 sq ft (Kayak)",
+   "pool": "Outdoor heated saltwater pool",
+   "fitness": "Gym",
+   "meeting": "Conference and multi-function rooms, business centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Vancouver-Hotels-Pan-Pacific-Vancouver.33161.ksp",
+   "cheapMonth": "January",
+   "low": 229,
+   "peakMonth": "July",
+   "high": 659,
+   "weekday2w": 413,
+   "weekend2w": 443,
+   "recentMin": 235,
+   "recentMax": 629
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154943-d155558-Reviews-Pan_Pacific_Vancouver-Vancouver_British_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Pan Pacific Vancouver",
+    "url": "https://www.trip.com/hotels/vancouver-hotel-detail-1635326/pan-pacific-vancouver/"
+   }
+  ]
+ },
+ "HIR-048": {
+  "address": "1161 West Georgia Street, Vancouver, BC V6E 0C6, Canada",
+  "keys": 147,
+  "keysNote": "147 rooms",
+  "keysCheck": "2 sources (Kayak 147, Trip.com 147)",
+  "opened": "Opened 2022 under the Paradox name (Trip.com); Kayak's listing ID is the former Trump International Hotel & Tower Vancouver",
+  "amenities": {
+   "architecture": "Tower hotel in Coal Harbour with Paradox Residences",
+   "dining": "Mott 32 Vancouver (Chinese); Karma Lounge; Mansion Nightclub",
+   "spa": "Xylia Natural Spa",
+   "pool": "Indoor heated pool and outdoor Jacuzzi",
+   "fitness": "Fitness centre shared with Paradox Residences",
+   "meeting": "Conference and multi-function rooms, exhibition space"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Vancouver-Hotels-Trump-International-Hotel-Tower-Vancouver.2401069.ksp",
+   "cheapMonth": "March",
+   "low": 233,
+   "peakMonth": "August",
+   "high": 489,
+   "weekday2w": 429,
+   "weekend2w": 622,
+   "recentMin": 439,
+   "recentMax": 866
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154943-d23881204-Reviews-Paradox_Hotel_Vancouver-Vancouver_British_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Paradox Hotel Vancouver",
+    "url": "https://www.trip.com/hotels/vancouver-hotel-detail-5707419/paradox-hotel-vancouver/"
+   }
+  ]
+ },
+ "HIR-045": {
+  "address": "801 West Georgia Street, Vancouver, BC V6C 1P7, Canada",
+  "keys": 156,
+  "keysNote": "156 guest rooms and suites",
+  "keysCheck": "2 sources (Wikipedia 156, Kayak 156)",
+  "opened": "Opened May 7, 1927; reopened as Rosewood July 10, 2011 after renovation that reduced rooms from 320 (Wikipedia)",
+  "owner": "Pacific Reach Properties (bought 2017) (Wikipedia)",
+  "amenities": {
+   "architecture": "12-storey 1927 hotel by Robert T. Garrow and John Graham Sr. (Wikipedia)",
+   "dining": "Hawksworth Restaurant; 1927 Lobby Lounge; Bel Café; Reflections garden terrace; Prophecy cocktail lounge (Kayak, Wikipedia)",
+   "spa": "On-site spa",
+   "pool": "Indoor saltwater lap pool"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Vancouver-Hotels-Rosewood-Hotel-Georgia.367239.ksp",
+   "cheapMonth": "November",
+   "low": 437,
+   "peakMonth": "August",
+   "high": 876,
+   "weekday2w": 696,
+   "weekend2w": 517,
+   "recentMin": 442,
+   "recentMax": 1262
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154943-d1063797-Reviews-Rosewood_Hotel_Georgia-Vancouver_British_Columbia.html",
+  "sources": [
+   {
+    "label": "Wikipedia — Hotel Georgia (Vancouver)",
+    "url": "https://en.wikipedia.org/wiki/Hotel_Georgia_(Vancouver)"
+   }
+  ]
+ },
+ "HIR-046": {
+  "address": "1128 West Georgia Street, Vancouver, BC V6E 0A8, Canada",
+  "keys": 119,
+  "keysNote": "119 rooms including a 15th-floor presidential suite",
+  "keysCheck": "2 sources (Wikipedia 119, Kayak 119)",
+  "opened": "Completed 2008. Stopped operating as Shangri-La on July 1, 2025 and became the Hyatt Vancouver Downtown Alberni (Wikipedia)",
+  "amenities": {
+   "architecture": "Hotel occupies the lower 15 floors of Living Shangri-La, Vancouver's tallest building (197 m to roof) by James K. M. Cheng Architects, with 307 residences above (Wikipedia). Now branded Hyatt Vancouver Downtown Alberni",
+   "dining": "Carlino (Italian) (Kayak)",
+   "spa": "CHI, The Spa",
+   "pool": "Heated outdoor pool"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Vancouver-Hotels-Shangri-La-Hotel-Vancouver.202144.ksp",
+   "cheapMonth": "January",
+   "low": 338,
+   "peakMonth": "July",
+   "high": 647,
+   "weekday2w": 625,
+   "weekend2w": 743,
+   "recentMin": 564,
+   "recentMax": 1042
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154943-d1176419-Reviews-Shangri_La_Vancouver-Vancouver_British_Columbia.html",
+  "sources": [
+   {
+    "label": "Wikipedia — Living Shangri-La",
+    "url": "https://en.wikipedia.org/wiki/Living_Shangri-La"
+   }
+  ]
+ },
+ "HIR-170": {
+  "address": "8499 Bridgeport Road, Richmond, BC V6V 1W1, Canada",
+  "keys": 100,
+  "keysNote": "100 rooms",
+  "keysCheck": "1 source (Trip.com 100); original data 90 corrected",
+  "opened": "Opened 2021 (Trip.com)",
+  "amenities": {
+   "architecture": "In Richmond near Vancouver International Airport (Trip.com)",
+   "dining": "One on-site restaurant (not named)",
+   "pool": "Rooftop heated saltwater pool and hot tub",
+   "fitness": "24-hour fitness centre",
+   "meeting": "Three meeting rooms and a banquet hall (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Richmond-Hotels.11469.hotel.ksp",
+   "unavailable": true,
+   "note": "No Kayak hotel page found for Versante Hotel"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g181716-d23401405-Reviews-Versante_Hotel-Richmond_British_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Versante Hotel",
+    "url": "https://www.trip.com/hotels/richmond-1-hotel-detail-72947442/versante-hotel/"
+   }
+  ]
+ },
+ "HIR-049": {
+  "address": "845 Hornby Street, Vancouver, BC V6Z 1V1, Canada",
+  "keys": 83,
+  "keysNote": "83 guest rooms and suites",
+  "keysCheck": "1 source (Kayak 83, matches original data)",
+  "amenities": {
+   "architecture": "Boutique hotel; Relais & Châteaux member (Trip.com listing name)",
+   "dining": "Bacchus Restaurant & Lounge",
+   "spa": "The Spa at the Wedgewood Hotel",
+   "accreditations": "Relais & Châteaux"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Vancouver-Hotels-Wedgewood-Hotel-Spa.20029.ksp",
+   "cheapMonth": "February",
+   "low": 279,
+   "peakMonth": "September",
+   "high": 626,
+   "weekday2w": 387,
+   "weekend2w": 343,
+   "recentMin": 213,
+   "recentMax": 707
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g154943-d156564-Reviews-Wedgewood_Hotel_Spa-Vancouver_British_Columbia.html",
+  "sources": [
+   {
+    "label": "Kayak — Wedgewood Hotel & Spa",
+    "url": "https://www.kayak.com/Vancouver-Hotels-Wedgewood-Hotel-Spa.20029.ksp"
+   },
+   {
+    "label": "Trip.com — Wedgewood Hotel & Spa – Relais & Châteaux",
+    "url": "https://ca.trip.com/hotels/vancouver-hotel-detail-2195205/wedgewood-hotel-and-spa/"
+   }
+  ]
+ },
+ "HIR-1316": {
+  "address": "200 C Street SE, Washington, DC 20003, USA",
+  "keys": 153,
+  "keysNote": "153 guest rooms",
+  "keysCheck": "2 sources (Kayak 153, Trip.com 153 / 150)",
+  "amenities": {
+   "architecture": "About 2,200 ft from the US Capitol (Trip.com)",
+   "dining": "Daily wine hour in the library; snack bar (Kayak)",
+   "fitness": "24-hour fitness centre",
+   "meeting": "Four meeting rooms and a business centre (Trip.com)",
+   "other": "Kitchenettes in rooms; some suites with full kitchens"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-Capitol-Hill-Hotel.7055.ksp",
+   "cheapMonth": "January",
+   "low": 161,
+   "peakMonth": "May",
+   "high": 319,
+   "weekday2w": 168,
+   "weekend2w": 207,
+   "recentMin": 172,
+   "recentMax": 398
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d84048-Reviews-Capitol_Hill_Hotel-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Kayak — Capitol Hill Hotel (room count)",
+    "url": "https://www.kayak.com/Washington-Hotels-Capitol-Hill-Hotel.7055.ksp"
+   },
+   {
+    "label": "Trip.com — Capitol Hill Hotel",
+    "url": "https://us.trip.com/hotels/washington-dc-hotel-detail-2562998/capitol-hill-hotel/"
+   }
+  ]
+ },
+ "HIR-067": {
+  "address": "950 New York Avenue NW, Washington, DC 20001, USA",
+  "keys": 360,
+  "keysNote": "360 rooms",
+  "keysCheck": "2 sources (Kayak 360, Trip.com 360)",
+  "opened": "Opened 2019 (Trip.com)",
+  "amenities": {
+   "architecture": "Steps from CityCenterDC; rooftop terrace and garden (Trip.com)",
+   "dining": "Estuary (American; breakfast, lunch, dinner); rooftop sky bar; lobby bar; Sakura Club lounge (Trip.com, Kayak)",
+   "fitness": "24-hour fitness centre",
+   "meeting": "10 meeting rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-Conrad-Washington-DC.4071124.ksp",
+   "cheapMonth": "December",
+   "low": 339,
+   "peakMonth": "February",
+   "high": 469,
+   "weekday2w": 586,
+   "weekend2w": 428,
+   "recentMin": 305,
+   "recentMax": 1207
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d14919467-Reviews-Conrad_Washington_DC-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Conrad Washington DC",
+    "url": "https://us.trip.com/hotels/washington-dc-hotel-detail-21890998/conrad-washington-dc/"
+   }
+  ]
+ },
+ "HIR-1318": {
+  "address": "1325 2nd Street NE, Washington, DC 20002, USA",
+  "keys": 213,
+  "keysNote": "213 rooms",
+  "keysCheck": "1 source (Trip.com 213); original data 207 and address (520 New Jersey Ave NW) corrected",
+  "opened": "Opened 2009; renovated 2018 (Trip.com)",
+  "amenities": {
+   "architecture": "About 70 m from NoMa–Gallaudet U Metro station (Trip.com)",
+   "dining": "The Bistro (breakfast and dinner); lobby bar; 24-hour convenience shop (Kayak)",
+   "pool": "Indoor pool",
+   "fitness": "24-hour fitness centre",
+   "meeting": "Conference room and boardroom"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-Courtyard-by-Marriott-Washington-DC-U-S-Capitol.207792.ksp",
+   "cheapMonth": "January",
+   "low": 108,
+   "peakMonth": "May",
+   "high": 236,
+   "weekday2w": 154,
+   "weekend2w": 147,
+   "recentMin": 114,
+   "recentMax": 231
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d1237013-Reviews-Courtyard_By_Marriott_Washington_Dc_u_s_Capitol-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Courtyard Washington, DC/U.S. Capitol",
+    "url": "https://us.trip.com/hotels/washington-dc-hotel-detail-2192923/courtyard-washington-dc-us-capitol/"
+   }
+  ]
+ },
+ "HIR-1317": {
+  "address": "1250 22nd Street NW, Washington, DC 20037, USA",
+  "keys": 195,
+  "keysNote": "195 rooms (Trip.com); Kayak states 318",
+  "keysCheck": "Conflicting (Trip.com 195, Kayak 318); original 197",
+  "opened": "Opened 1987; renovated 2016 (Trip.com)",
+  "amenities": {
+   "architecture": "All-suite hotel in the West End",
+   "dining": "Complimentary cooked-to-order breakfast and evening reception (Kayak)",
+   "pool": "Indoor heated pool and spa tub in the 24-hour health club",
+   "fitness": "24-hour health club",
+   "meeting": "Conference room and business centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-D-C--Hotels-Embassy-Suites-by-Hilton-Washington-DC-Georgetown.7307.ksp",
+   "cheapMonth": "January",
+   "low": 155,
+   "peakMonth": "May",
+   "high": 321,
+   "weekday2w": 352,
+   "weekend2w": 228,
+   "recentMin": 205,
+   "recentMax": 438
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d84064-Reviews-Embassy_Suites_By_Hilton_Washington_DC_Georgetown-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Embassy Suites Washington DC Georgetown",
+    "url": "https://us.trip.com/hotels/washington-dc-hotel-detail-2226585/embassy-suites-by-hilton-washington-dc-georgetown/"
+   }
+  ]
+ },
+ "HIR-065": {
+  "address": "2800 Pennsylvania Avenue NW, Washington, DC 20007, USA",
+  "keys": 222,
+  "keysNote": "222 rooms including 58 suites (Trip.com description; listing shows 212)",
+  "keysCheck": "1 source (Trip.com 222, matches original data)",
+  "opened": "Opened 1979; renovated 2016 (Trip.com)",
+  "amenities": {
+   "architecture": "On the edge of Rock Creek Parkway at the entrance to Georgetown (Trip.com)",
+   "dining": "Restaurant, bar and lobby bar (Bourbon Steak named in guest reviews)",
+   "spa": "Day spa, massage rooms and salon",
+   "pool": "Indoor saltwater pool (adults only)",
+   "fitness": "Gym",
+   "meeting": "Conference and multi-function rooms; wedding services"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-Four-Seasons-Hotel-Washington-D-C-.20684.ksp",
+   "cheapMonth": "August",
+   "low": 1119,
+   "peakMonth": "October",
+   "high": 2151,
+   "weekday2w": 2173,
+   "weekend2w": 1667,
+   "recentMin": 1571,
+   "recentMax": 2197
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d84065-Reviews-Four_Seasons_Hotel_Washington_DC-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Hotel Washington, D.C.",
+    "url": "https://us.trip.com/hotels/washington-dc-hotel-detail-2360839/four-seasons-hotel-washington-dc/"
+   }
+  ]
+ },
+ "HIR-1326": {
+  "address": "2505 Wisconsin Avenue NW, Washington, DC 20007, USA",
+  "keys": 154,
+  "keysNote": "154 guest rooms (Trip.com description; listing shows 155)",
+  "keysCheck": "1 source (Trip.com 154 / 155); original data 153",
+  "amenities": {
+   "architecture": "Traditional rooms and studio kitchenettes (Kayak)",
+   "dining": "Divino restaurant and bar (Trip.com); Kayak also lists Casolare and The Deck patio bar",
+   "spa": "Massage and body-care services",
+   "fitness": "Urban Athletic Club (Kayak); 24-hour health club",
+   "meeting": "About 2,500 sq ft including a conference centre and two meeting rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-D-C--Hotels-Glover-Park-Hotel-Georgetown.32143.ksp",
+   "cheapMonth": "January",
+   "low": 128,
+   "peakMonth": "May",
+   "high": 241,
+   "weekday2w": 272,
+   "weekend2w": 172,
+   "recentMin": 172,
+   "recentMax": 423
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d84127-Reviews-Glover_Park_Hotel_Georgetown-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Glover Park Hotel Georgetown",
+    "url": "https://www.trip.com/hotels/washington-dc-hotel-detail-733794/glover-park-hotel-georgetown/"
+   }
+  ]
+ },
+ "HIR-224": {
+  "address": "1000 H Street NW, Washington, DC 20001, USA",
+  "keys": 897,
+  "keysNote": "897 guest rooms and suites (Kayak); Trip.com lists 902",
+  "keysCheck": "2 sources (Kayak 897, Trip.com 902); original 902",
+  "opened": "Opened 1987; renovated 2013 (Trip.com)",
+  "amenities": {
+   "architecture": "12-storey atrium hotel with direct in-lobby access to Metro Center station (Trip.com, Kayak)",
+   "dining": "The Cure Bar & Bistro; CABINET (Kayak)",
+   "fitness": "Fitness centre",
+   "meeting": "Meeting and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-Grand-Hyatt-Washington.35557.ksp",
+   "cheapMonth": "December",
+   "low": 219,
+   "peakMonth": "June",
+   "high": 443,
+   "weekday2w": 477,
+   "weekend2w": 317,
+   "recentMin": 199,
+   "recentMax": 1115
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d84067-Reviews-Grand_Hyatt_Washington-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Grand Hyatt Washington",
+    "url": "https://au.trip.com/hotels/washington-dc-hotel-detail-2198023/grand-hyatt-washington/"
+   }
+  ]
+ },
+ "HIR-1310": {
+  "address": "1001 14th Street NW, Washington, DC 20005, USA",
+  "keys": 318,
+  "keysNote": "318 rooms (Trip.com description; listing shows 324)",
+  "keysCheck": "1 source (Trip.com 318 / 324, matches original data)",
+  "opened": "Opened 1921; renovated 2019 (Trip.com)",
+  "amenities": {
+   "architecture": "Historic 1921 building on 14th and K Streets (Trip.com, Kayak)",
+   "dining": "14K (classic American, Kayak); Via Sophia (Trip.com); on-site Starbucks",
+   "fitness": "24-hour fitness centre with Peloton bikes and treadmills",
+   "meeting": "Ballroom, conference and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-Hamilton-Hotel-Washington-DC.61545.ksp",
+   "cheapMonth": "January",
+   "low": 157,
+   "peakMonth": "April",
+   "high": 294,
+   "weekday2w": 287,
+   "weekend2w": 304,
+   "recentMin": 188,
+   "recentMax": 1027
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d120614-Reviews-Hamilton_Hotel_Washington_DC-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hamilton Hotel Washington DC",
+    "url": "https://us.trip.com/hotels/washington-dc-hotel-detail-2196773/hamilton-hotel-washington-dc/"
+   }
+  ]
+ },
+ "HIR-1328": {
+  "address": "901 6th Street NW, Washington, DC 20001, USA",
+  "keys": 228,
+  "keysNote": "228 rooms and suites",
+  "keysCheck": "2 sources (Kayak 228, Trip.com 228 / 227); original data 233 corrected",
+  "opened": "Opened 2005; renovated 2013 (Trip.com)",
+  "amenities": {
+   "architecture": "13-storey hotel two blocks from the Walter E. Washington Convention Center (Trip.com)",
+   "dining": "Complimentary buffet breakfast; Sixth Street Bar and Food (Kayak)",
+   "fitness": "Exercise room",
+   "meeting": "Conference room and business centre",
+   "other": "No pool (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-Hampton-Inn-Washington-Downtown-Convention-Center-DC.135608.ksp",
+   "cheapMonth": "December",
+   "low": 143,
+   "peakMonth": "March",
+   "high": 262,
+   "weekday2w": 244,
+   "weekend2w": 184,
+   "recentMin": 130,
+   "recentMax": 407
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d498949-Reviews-Hampton_Inn_Washington_Downtown_Convention_Center-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hampton Inn Washington-Downtown-Convention Center",
+    "url": "https://us.trip.com/hotels/washington-dc-hotel-detail-2193022/hampton-inn-washington-downtown-convention-center/"
+   }
+  ]
+ },
+ "HIR-1327": {
+  "address": "1225 First Street NE, Washington, DC 20002, USA",
+  "keys": 204,
+  "keysNote": "204 rooms over 13 floors",
+  "keysCheck": "2 sources (Kayak 204, Trip.com 204)",
+  "opened": "Opened 2011 (Trip.com)",
+  "amenities": {
+   "architecture": "13 floors; about one block from NoMa–Gallaudet U Metro (Kayak, Trip.com)",
+   "dining": "Garden Grill; bar and lobby bar (Trip.com)",
+   "pool": "Indoor heated pool",
+   "fitness": "24-hour gym and hot tub",
+   "meeting": "Meeting facilities for up to 300 (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-Hilton-Garden-Inn-Washington-DC-U-S-Capitol.372139.ksp",
+   "cheapMonth": "January",
+   "low": 105,
+   "peakMonth": "April",
+   "high": 221,
+   "weekday2w": 229,
+   "weekend2w": 221,
+   "recentMin": 118,
+   "recentMax": 425
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d2038749-Reviews-Hilton_Garden_Inn_Washington_DC_U_S_Capitol-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hilton Garden Inn Washington DC/US Capitol",
+    "url": "https://www.trip.com/hotels/washington-dc-hotel-detail-2192993/hilton-garden-inn-washington-dc-us-capitol/"
+   }
+  ]
+ },
+ "HIR-1308": {
+  "address": "480 L'Enfant Plaza SW, Washington, DC 20024, USA",
+  "keys": 367,
+  "keysNote": "367 rooms (Kayak); Trip.com lists 361",
+  "keysCheck": "Conflicting (Kayak 367, Trip.com 361); original 378",
+  "opened": "Opened 2019 under this name (Trip.com)",
+  "amenities": {
+   "architecture": "Above L'Enfant Plaza Metro with access to five of six lines (Trip.com)",
+   "dining": "L'Enfant Grill; L'Enfant Bar; Starbucks café (Kayak)",
+   "pool": "Seasonal 12th-floor rooftop pool",
+   "fitness": "Expanded fitness centre",
+   "meeting": "Conference, multi-function and event spaces"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-Hilton-Washington-DC-National-Mall.3827268.ksp",
+   "cheapMonth": "January",
+   "low": 161,
+   "peakMonth": "March",
+   "high": 392,
+   "weekday2w": 262,
+   "weekend2w": 268,
+   "recentMin": 208,
+   "recentMax": 628
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d13798670-Reviews-Hilton_Washington_DC_National_Mall_The_Wharf-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hilton Washington DC National Mall the Wharf",
+    "url": "https://us.trip.com/hotels/washington-dc-hotel-detail-3733652/hilton-washington-dc-national-mall/"
+   }
+  ]
+ },
+ "HIR-1324": {
+  "address": "50 M Street SE, Washington, DC 20003, USA",
+  "keys": 191,
+  "keysNote": "191 suites",
+  "keysCheck": "1 source (Trip.com 191); original data 154 and address (71 Potomac Ave SW) corrected",
+  "opened": "Opened 2016 (Trip.com)",
+  "amenities": {
+   "architecture": "All-suite hotel; about 0.4 km from Nationals Park; rooftop terrace (Trip.com)",
+   "dining": "Snack bar and convenience shop",
+   "pool": "Indoor pool",
+   "fitness": "Gym",
+   "meeting": "Over 1,000 sq ft for up to 60 guests (Trip.com)",
+   "other": "Fully equipped kitchen in every suite (Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-Homewood-Suites-by-Hilton-Washington-DC-Capitol-Navy-Yard.2681598.ksp",
+   "cheapMonth": "December",
+   "low": 143,
+   "peakMonth": "April",
+   "high": 275,
+   "weekday2w": 319,
+   "weekend2w": 226,
+   "recentMin": 191,
+   "recentMax": 424
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d10729435-Reviews-Homewood_Suites_By_Hilton_Washington_Dc_Capitol_navy_Yard-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Homewood Suites Washington DC Capitol-Navy Yard",
+    "url": "https://www.trip.com/hotels/washington-dc-hotel-detail-9106202/homewood-suites-by-hilton-washington-dc-capitol-navy-yard/"
+   }
+  ]
+ },
+ "HIR-1320": {
+  "address": "1155 14th Street NW, Washington, DC 20005, USA",
+  "keys": 193,
+  "keysNote": "193 rooms (Trip.com); Kayak states 191",
+  "keysCheck": "2 sources (Trip.com 193, Kayak 191); matches original data",
+  "amenities": {
+   "architecture": "Art-led design celebrating women (Kayak)",
+   "dining": "Restaurant, bar and lobby bar",
+   "pool": "Seasonal rooftop pool and terrace",
+   "fitness": "24-hour fitness centre",
+   "meeting": "Meeting and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-D-C--Hotels-Hotel-Zena-Washington-DC.5391124.ksp",
+   "cheapMonth": "December",
+   "low": 209,
+   "peakMonth": "April",
+   "high": 403,
+   "weekday2w": 268,
+   "weekend2w": 253,
+   "recentMin": 209,
+   "recentMax": 389
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d939976-Reviews-Hotel_Zena_Washington_Dc-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hotel Zena",
+    "url": "https://sg.trip.com/hotels/washington-dc-hotel-detail-2193587/kimpton-donovan-hotel/"
+   }
+  ]
+ },
+ "HIR-1319": {
+  "address": "725 Wharf Street SW, Washington, DC 20024, USA",
+  "keys": 237,
+  "keysNote": "237 rooms",
+  "keysCheck": "2 sources (Trip.com 237, Kayak FAQ 237; Kayak overview 164); original data 196 corrected",
+  "opened": "Opened 2017 (Trip.com)",
+  "amenities": {
+   "architecture": "In The District Wharf, about 200 ft from The Wharf (Trip.com)",
+   "dining": "Ellipse Rooftop Bar; H Bar; The Morning Spread breakfast; 24/7 Gallery market (Kayak)",
+   "pool": "Rooftop pool",
+   "fitness": "24-hour gym",
+   "meeting": "Conference room and business centre",
+   "other": "Full kitchens in suites"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-D-C--Hotels-Hyatt-House-Washington-DC-The-Wharf.3212394.ksp",
+   "cheapMonth": "January",
+   "low": 171,
+   "peakMonth": "March",
+   "high": 386,
+   "weekday2w": 343,
+   "weekend2w": 263,
+   "recentMin": 150,
+   "recentMax": 615
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d12912835-Reviews-Hyatt_House_Washington_DC_The_Wharf-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hyatt House Washington DC/The Wharf",
+    "url": "https://us.trip.com/hotels/washington-dc-hotel-detail-11555255/hyatt-house-washington-dc-the-wharf/"
+   }
+  ]
+ },
+ "HIR-1309": {
+  "address": "801 Wharf Street SW, Washington, DC 20024, USA",
+  "keys": 278,
+  "keysNote": "278 rooms",
+  "keysCheck": "1 source (Trip.com 278, matches original data)",
+  "opened": "Opened 2017 (Trip.com)",
+  "amenities": {
+   "architecture": "Overlooks The Wharf with Potomac River views (Trip.com)",
+   "dining": "Restaurant and bar/lounge",
+   "spa": "On-site spa with massage and beauty services",
+   "pool": "Rooftop pool",
+   "fitness": "Fitness room",
+   "meeting": "Meeting and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-Intercontinental-Hotels-Washington-D-C---The-Wharf.2908273.ksp",
+   "cheapMonth": "November",
+   "low": 270,
+   "peakMonth": "March",
+   "high": 472,
+   "weekday2w": 357,
+   "weekend2w": 377,
+   "recentMin": 265,
+   "recentMax": 979
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d11717432-Reviews-InterContinental_Washington_D_C_The_Wharf-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — InterContinental Washington D.C. – The Wharf",
+    "url": "https://sg.trip.com/hotels/washington-dc-hotel-detail-9147661/intercontinental-hotels-washington-dc-the-wharf-by-ihg/"
+   }
+  ]
+ },
+ "HIR-223": {
+  "address": "1331 Pennsylvania Avenue NW, Washington, DC 20004, USA",
+  "keys": 777,
+  "keysNote": "777 rooms",
+  "keysCheck": "1 source (Trip.com 777, matches original data)",
+  "opened": "Opened 1984; renovated 2015 (Trip.com)",
+  "amenities": {
+   "architecture": "On Pennsylvania Avenue, about 600 ft from the National Theatre (Trip.com)",
+   "dining": "1331 Bar & Lounge; on-site Starbucks; grill with terrace (Kayak)",
+   "pool": "Heated indoor pool and hot tub (Kayak)",
+   "fitness": "24-hour fitness centre and sauna",
+   "meeting": "34,696 sq ft of event space; 21 meeting rooms (Trip.com, Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-JW-Marriott-Washington-DC.11206.ksp",
+   "cheapMonth": "August",
+   "low": 255,
+   "peakMonth": "March",
+   "high": 492,
+   "weekday2w": 484,
+   "weekend2w": 318,
+   "recentMin": 267,
+   "recentMax": 718
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d84079-Reviews-JW_Marriott_Washington_DC-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — JW Marriott Washington, DC",
+    "url": "https://us.trip.com/hotels/washington-dc-hotel-detail-2192885/jw-marriott-washington-dc/"
+   }
+  ]
+ },
+ "HIR-1333": {
+  "address": "800 Florida Avenue NE, Washington, DC 20002, USA",
+  "keys": 195,
+  "keysNote": "195 (original data); Trip.com shows 16 in its listing and 122 in its description",
+  "keysCheck": "Unconfirmed (Trip.com 16 / 122 conflict); original figure kept; address (227 Massachusetts Ave NE) corrected",
+  "opened": "Opened 1995; renovated 2015 (Trip.com)",
+  "amenities": {
+   "architecture": "On the Gallaudet University campus in Northeast Washington (Trip.com)",
+   "dining": "The Bistro with bar/lounge; coffee shop",
+   "fitness": "24-hour fitness centre",
+   "meeting": "17,000 sq ft conference centre with 10 meeting rooms (Trip.com, Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-Kellogg-Conference-Hotel-at-Gallaudet-University.37238.ksp",
+   "cheapMonth": "December",
+   "low": 114,
+   "peakMonth": "June",
+   "high": 202,
+   "weekday2w": 219,
+   "weekend2w": 188,
+   "recentMin": 86,
+   "recentMax": 317
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d308189-Reviews-Kellogg_Conference_Hotel_At_Gallaudet_University-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Kellogg Conference Hotel at Gallaudet University",
+    "url": "https://us.trip.com/hotels/washington-dc-hotel-detail-2884362/kellogg-conference-hotel-capitol-hill-at-gallaudet-university/"
+   }
+  ]
+ },
+ "HIR-1322": {
+  "address": "1731 New Hampshire Avenue NW, Washington, DC 20009, USA",
+  "keys": 196,
+  "keysNote": "196 rooms",
+  "keysCheck": "2 sources (Kayak 196, Trip.com 196); original data 51 corrected",
+  "opened": "Opened 2021 under the Lyle name (Trip.com)",
+  "amenities": {
+   "architecture": "Art Deco building in Dupont Circle (Trip.com)",
+   "dining": "Lyle's (American) with bar; lobby bar; coffee shop",
+   "fitness": "24-hour fitness centre",
+   "other": "Some rooms with kitchenettes"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-D-C--Hotels-Lyle-Washington-DC.7439177.ksp",
+   "cheapMonth": "January",
+   "low": 164,
+   "peakMonth": "September",
+   "high": 438,
+   "weekday2w": 379,
+   "weekend2w": 323,
+   "recentMin": 235,
+   "recentMax": 965
+  },
+  "sources": [
+   {
+    "label": "Trip.com — Lyle Washington DC",
+    "url": "https://us.trip.com/hotels/washington-dc-hotel-detail-715693/kimpton-carlyle-hotel-dupont-circle/"
+   }
+  ]
+ },
+ "HIR-1325": {
+  "address": "2430 Pennsylvania Avenue NW, Washington, DC 20037, USA",
+  "keys": 240,
+  "keysNote": "240 rooms",
+  "keysCheck": "2 sources (Kayak 240, Trip.com 240)",
+  "opened": "Opened 1940; renovated 2013 (Trip.com)",
+  "amenities": {
+   "dining": "Jardenea restaurant; lounge bar (Kayak)",
+   "fitness": "Fitness centre and sauna"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-D-C--Hotels-Melrose-Georgetown-Hotel.32860.ksp",
+   "cheapMonth": "December",
+   "low": 122,
+   "peakMonth": "October",
+   "high": 217,
+   "weekday2w": 272,
+   "weekend2w": 255,
+   "recentMin": 211,
+   "recentMax": 471
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d266091-Reviews-Melrose_Georgetown_Hotel-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Melrose Georgetown Hotel",
+    "url": "https://in.trip.com/hotels/washington-dc-hotel-detail-2390723/the-melrose-georgetown-hotel/"
+   }
+  ]
+ },
+ "HIR-1321": {
+  "address": "627 H Street NW, Washington, DC 20001, USA",
+  "keys": 245,
+  "keysNote": "245 rooms",
+  "keysCheck": "2 sources (Kayak 245, Trip.com 245); original data 241 and address (575 7th St NW) corrected",
+  "opened": "Opened 2020 under the Motto name (Trip.com); Kayak listing is the former Pod DC",
+  "amenities": {
+   "architecture": "Chinatown; rooftop lounge with sunset views (Trip.com)",
+   "dining": "Crimson Diner; Crimson View rooftop; Crimson Whiskey Bar (Kayak)",
+   "fitness": "Gym",
+   "meeting": "Conference room and business centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-Pod-DC.2681606.ksp",
+   "cheapMonth": "December",
+   "low": 99,
+   "peakMonth": "March",
+   "high": 226,
+   "weekday2w": 203,
+   "weekend2w": 229,
+   "recentMin": 126,
+   "recentMax": 463
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d12100637-Reviews-Motto_by_Hilton_Washington_DC_City_Center-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Motto by Hilton Washington DC City Center",
+    "url": "https://www.trip.com/hotels/washington-dc-hotel-detail-8628428/motto-by-hilton-washington-dc-city-center/"
+   }
+  ]
+ },
+ "HIR-069": {
+  "address": "655 Water Street SW, Washington, DC 20024, USA",
+  "keys": 131,
+  "keysNote": "131 rooms (93 guest rooms + 38 suites)",
+  "keysCheck": "2 sources (Kayak 131, Trip.com description 93+38); original address (1401 L St NW) corrected",
+  "opened": "Opened 2022 (Trip.com)",
+  "amenities": {
+   "architecture": "On the Potomac River in The Wharf, overlooking the Washington Channel (Trip.com)",
+   "dining": "Moonraker rooftop restaurant and bar; lobby bar; poolside bar",
+   "spa": "Spa Pendry (full-service)",
+   "pool": "Seasonal outdoor pool with spa bath",
+   "fitness": "24-hour fitness centre",
+   "meeting": "Three meeting spaces including a ballroom with floor-to-ceiling windows"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-D-C--Hotels-Pendry-Washington-DC---The-Wharf.8883683.ksp",
+   "cheapMonth": "November",
+   "low": 460,
+   "peakMonth": "July",
+   "high": 630,
+   "weekday2w": 803,
+   "weekend2w": 750,
+   "recentMin": 472,
+   "recentMax": 874
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d24798480-Reviews-Pendry_Washington_DC_The_Wharf-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Pendry Washington DC – The Wharf",
+    "url": "https://us.trip.com/hotels/washington-dc-hotel-detail-96123610/pendry-washington-dc-the-wharf/"
+   }
+  ]
+ },
+ "HIR-1312": {
+  "address": "520 North Capitol Street NW, Washington, DC 20001, USA",
+  "keys": 149,
+  "keysNote": "149 rooms",
+  "keysCheck": "1 source (Trip.com 149); original 150",
+  "amenities": {
+   "architecture": "Historic hotel a short walk from Union Station (Trip.com)",
+   "dining": "The Dubliner pub (Kayak, Trip.com)",
+   "fitness": "24-hour fitness centre",
+   "meeting": "5 meeting rooms and a ballroom (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-Phoenix-Park-Hotel.32634.ksp",
+   "cheapMonth": "December",
+   "low": 165,
+   "peakMonth": "March",
+   "high": 267,
+   "weekday2w": 193,
+   "weekend2w": 184,
+   "recentMin": 142,
+   "recentMax": 533
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d84041-Reviews-Phoenix_Park_Hotel-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Phoenix Park Hotel",
+    "url": "https://us.trip.com/hotels/washington-dc-hotel-detail-2193596/phoenix-park-hotel-washington/"
+   }
+  ]
+ },
+ "HIR-070": {
+  "address": "900 F Street NW, Washington, DC 20004, USA",
+  "keys": 181,
+  "keysNote": "181 rooms",
+  "keysCheck": "2 sources (Kayak 181, Trip.com 181)",
+  "opened": "Opened 2020 (Trip.com)",
+  "amenities": {
+   "architecture": "Century-old former bank building, described as a Belle Époque hotel (Trip.com)",
+   "dining": "Café Riggs (brasserie and bar); basement bar",
+   "fitness": "24-hour health club",
+   "meeting": "About 2,500 sq ft of conference space and 2 meeting rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-D-C--Hotels-Riggs-Washington-DC.5269548.ksp",
+   "cheapMonth": "January",
+   "low": 242,
+   "peakMonth": "April",
+   "high": 532,
+   "weekday2w": 697,
+   "weekend2w": 529,
+   "recentMin": 338,
+   "recentMax": 1157
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d19343251-Reviews-Riggs_Washington_DC-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Riggs Washington DC",
+    "url": "https://au.trip.com/hotels/washington-dc-hotel-detail-2309999/riggs-washington-dc/"
+   }
+  ]
+ },
+ "HIR-063": {
+  "address": "1330 Maryland Avenue SW, Washington, DC 20024, USA",
+  "keys": 377,
+  "keysNote": "377 rooms",
+  "keysCheck": "1 source (Trip.com 377); original 373",
+  "opened": "Opened 2004; renovated 2023 (Trip.com). Now operating as The Potomac Hotel, Autograph Collection (Kayak, Trip.com, Hotel Management)",
+  "amenities": {
+   "architecture": "Former Mandarin Oriental and Salamander, rebranded The Potomac Hotel, Autograph Collection",
+   "dining": "Dōgon by Chef Kwame Onwuachi; bar and lobby bar (Trip.com)",
+   "spa": "The Spa at The Potomac",
+   "pool": "Heated indoor pool",
+   "fitness": "Gym",
+   "meeting": "Conference and multi-function rooms; weddings"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-Mandarin-Oriental-Washington-D-C-.66818.ksp",
+   "cheapMonth": "December",
+   "low": 316,
+   "peakMonth": "September",
+   "high": 541,
+   "weekday2w": 355,
+   "weekend2w": 468,
+   "recentMin": 343,
+   "recentMax": 1006
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d295751-Reviews-Salamander_Washington_DC-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Potomac Hotel, Autograph Collection",
+    "url": "https://www.trip.com/hotels/washington-dc-hotel-detail-2363149/mandarin-oriental-washington-dc/"
+   },
+   {
+    "label": "Hotel Management — Former D.C. Salamander rebrands as Potomac Hotel",
+    "url": "https://www.hotelmanagement.net/conversions/former-salamander-washington-dc-converts-potomac-hotel"
+   }
+  ]
+ },
+ "HIR-1311": {
+  "address": "1515 Rhode Island Avenue NW, Washington, DC 20005, USA",
+  "keys": 226,
+  "keysNote": "226 rooms",
+  "keysCheck": "1 source (Trip.com 226, matches original data)",
+  "opened": "Renovated 2017 (Trip.com)",
+  "amenities": {
+   "dining": "Gerrard Street Kitchen (Kayak)",
+   "fitness": "Gym",
+   "meeting": "Over 7,000 sq ft of meeting and event space (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-The-Darcy-Hotel.135606.ksp",
+   "cheapMonth": "January",
+   "low": 134,
+   "peakMonth": "April",
+   "high": 299,
+   "weekday2w": 262,
+   "weekend2w": 201,
+   "recentMin": 159,
+   "recentMax": 776
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d120559-Reviews-The_Darcy_Hotel-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Darcy Washington DC",
+    "url": "https://us.trip.com/hotels/washington-d.c.-hotel-detail-1611031/the-darcy-washington-dc/"
+   }
+  ]
+ },
+ "HIR-066": {
+  "address": "1200 16th Street NW, Washington, DC 20036, USA",
+  "keys": 99,
+  "keysNote": "99 rooms including 20 suites",
+  "keysCheck": "1 source (Wikipedia 99, matches original data)",
+  "opened": "Built 1922–23; fully a hotel since 1955 (Wikipedia)",
+  "owner": "DC CAP Hotelier (since 2005) (Wikipedia)",
+  "amenities": {
+   "architecture": "8-storey Beaux-Arts building by Jules Henri de Sibour (Wikipedia)",
+   "dining": "Plume (Michelin star, 2017 guide); The Greenhouse; Quill cocktail lounge (Wikipedia, Kayak)",
+   "spa": "On-site spa",
+   "fitness": "Fitness centre",
+   "accreditations": "Forbes Travel Guide four stars (2016) (Wikipedia)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-The-Jefferson-Washington-DC.61555.ksp",
+   "cheapMonth": "January",
+   "low": 528,
+   "peakMonth": "October",
+   "high": 752,
+   "weekday2w": 712,
+   "weekend2w": 534,
+   "recentMin": 524,
+   "recentMax": 644
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d84118-Reviews-The_Jefferson_Washington_DC-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Wikipedia — The Jefferson",
+    "url": "https://en.wikipedia.org/wiki/The_Jefferson"
+   }
+  ]
+ },
+ "HIR-071": {
+  "address": "1770 Euclid Street NW, Washington, DC 20009, USA",
+  "keys": 220,
+  "keysNote": "220 guest rooms (Trip.com description); Kayak states 212",
+  "keysCheck": "Conflicting (Trip.com 220, Kayak 212); matches original data",
+  "amenities": {
+   "architecture": "Housed in the 1912 First Church of Christ, Scientist building in Adams Morgan (Kayak)",
+   "dining": "Brothers and Sisters; A Rake's Bar and A Rake's Progress; Cup We All Race coffee; Full Service Radio studio (Kayak); No Goodbyes (Trip.com)",
+   "fitness": "24-hour gym; Saturday HIIT classes with Urban Athletic Club (Kayak)",
+   "meeting": "Conference room and business centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-The-Line-Hotel-DC.2773958.ksp",
+   "cheapMonth": "August",
+   "low": 132,
+   "peakMonth": "May",
+   "high": 297,
+   "weekday2w": 322,
+   "weekend2w": 197,
+   "recentMin": 134,
+   "recentMax": 557
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d11985029-Reviews-The_LINE_DC-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Line Hotel DC",
+    "url": "https://us.trip.com/hotels/washington-dc-hotel-detail-10734144/the-line-hotel-dc/"
+   }
+  ]
+ },
+ "HIR-1329": {
+  "address": "2118 Wyoming Avenue NW, Washington, DC 20008, USA",
+  "keys": 75,
+  "keysNote": "75 guest rooms (Trip.com description; listing shows 32)",
+  "keysCheck": "1 source with internal conflict (Trip.com 75 / 32); matches original data",
+  "amenities": {
+   "architecture": "About 0.8 km from Dupont Circle Metro (Trip.com)",
+   "dining": "Daily breakfast 7:00–10:00; complimentary evening wine and cheese hour (Kayak, Trip.com)",
+   "other": "No fitness centre listed"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-The-Normandy-Hotel.34485.ksp",
+   "cheapMonth": "January",
+   "low": 112,
+   "peakMonth": "October",
+   "high": 217,
+   "weekday2w": 248,
+   "weekend2w": 255,
+   "recentMin": 103,
+   "recentMax": 437
+  },
+  "sources": [
+   {
+    "label": "Trip.com — The Normandy Hotel",
+    "url": "https://us.trip.com/hotels/washington-dc-hotel-detail-2470549/the-normandy-washington/"
+   }
+  ]
+ },
+ "HIR-1332": {
+  "address": "1823 L Street NW, Washington, DC 20036, USA",
+  "keys": 99,
+  "keysNote": "99 rooms",
+  "keysCheck": "1 source (Trip.com 99, matches original data)",
+  "opened": "Opened 1963; renovated 2023 (Trip.com). Now The Quincy, an Ascend Hotel Collection member",
+  "amenities": {
+   "dining": "Pisco y Nasca; two bars/lounges and a lobby café (Trip.com)",
+   "fitness": "24-hour fitness centre plus passes to nearby gyms",
+   "other": "Rooms with kitchens (full-size fridge/freezer and stovetop) (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-Hotel-Rl-Washington-DC.32678.ksp",
+   "cheapMonth": "January",
+   "low": 131,
+   "peakMonth": "March",
+   "high": 274,
+   "weekday2w": 272,
+   "weekend2w": 331,
+   "recentMin": 308,
+   "recentMax": 402
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d84080-Reviews-Sonder_The_Quincy-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Quincy, Ascend Hotel Collection",
+    "url": "https://in.trip.com/hotels/washington-dc-hotel-detail-80958510/the-quincy/"
+   }
+  ]
+ },
+ "HIR-068": {
+  "address": "3100 South Street NW, Washington, DC 20007, USA",
+  "keys": 86,
+  "keysNote": "86 (original data); not stated on Kayak",
+  "keysCheck": "Unconfirmed — original figure kept",
+  "amenities": {
+   "architecture": "Industrial building from 1932 with an iconic smokestack (Kayak)",
+   "dining": "Restaurant and bar/lounge",
+   "spa": "On-site spa",
+   "fitness": "Fitness centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-The-Ritz-Carlton-Georgetown-Washington-DC.61552.ksp",
+   "cheapMonth": "January",
+   "low": 567,
+   "peakMonth": "February",
+   "high": 582,
+   "weekday2w": 581,
+   "weekend2w": 1077,
+   "recentMin": 466,
+   "recentMax": 1488
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d253068-Reviews-The_Ritz_Carlton_Georgetown_Washington_D_C-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Kayak — The Ritz-Carlton Georgetown",
+    "url": "https://www.kayak.com/Washington-Hotels-The-Ritz-Carlton-Georgetown-Washington-DC.61552.ksp"
+   }
+  ]
+ },
+ "HIR-1235": {
+  "address": "1150 22nd Street NW, Washington, DC 20037, USA",
+  "keys": 300,
+  "keysNote": "300 rooms (267 deluxe rooms + 33 suites)",
+  "keysCheck": "2 sources (Kayak 267+33, Trip.com 300)",
+  "opened": "Opened 2000; renovated 2016 (Trip.com)",
+  "amenities": {
+   "dining": "The Saga (Latin/Spanish, Trip.com); Westend Bistro and The Quadrant bar (Kayak)",
+   "spa": "On-site spa and salon",
+   "fitness": "Fitness room; Equinox Sports Club next door (Kayak)",
+   "meeting": "Meeting and multi-function rooms, business centre"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Washington-Hotels-The-Ritz-Carlton-Washington-DC.61556.ksp",
+   "cheapMonth": "September",
+   "low": 319,
+   "peakMonth": "October",
+   "high": 453,
+   "weekday2w": 781,
+   "weekend2w": 661,
+   "recentMin": 414,
+   "recentMax": 1008
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g28970-d225100-Reviews-The_Ritz_Carlton_Washington_DC-Washington_DC_District_of_Columbia.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Ritz-Carlton, Washington, D.C.",
+    "url": "https://sg.trip.com/hotels/washington-dc-hotel-detail-2364207/the-ritz-carlton-washington-dc/"
+   }
+  ]
  }
 }
