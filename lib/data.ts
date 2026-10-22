@@ -18,11 +18,6 @@ export type Hotel = {
   adr: number;
   otaLow: number;
   otaHigh: number;
-  occ: number;
-  revpar: number;
-  oar: number;
-  value: number;
-  valuePerKey: number;
   seasonal: Seasonal[];
   verified: string | null;
 };

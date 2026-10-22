@@ -1,7 +1,7 @@
 'use client';
 import Link from 'next/link';
 import { useMemo, useState } from 'react';
-import { COUNTRIES, FLAGS, Hotel, TIERS, money, pct, usd } from '@/lib/data';
+import { COUNTRIES, FLAGS, Hotel, TIERS, usd } from '@/lib/data';
 import { useSort } from './useSort';
 
 const PER = 50;
@@ -29,7 +29,7 @@ export default function HotelsTable({ hotels }: { hotels: Hotel[] }) {
     );
   }, [hotels, q, country, city, tier]);
 
-  const { sorted, toggle, arrow } = useSort<Hotel>(filtered, 'value');
+  const { sorted, toggle, arrow } = useSort<Hotel>(filtered, 'keys');
   const pages = Math.max(1, Math.ceil(sorted.length / PER));
   const rows = sorted.slice(page * PER, page * PER + PER);
 
@@ -46,22 +46,18 @@ export default function HotelsTable({ hotels }: { hotels: Hotel[] }) {
     { key: 'city', label: 'Market' },
     { key: 'tier', label: 'Tier' },
     { key: 'keys', label: 'Keys', right: true },
-    { key: 'adr', label: 'ADR', right: true },
-    { key: 'occ', label: 'Occ.', right: true },
-    { key: 'revpar', label: 'RevPAR', right: true },
-    { key: 'oar', label: 'Cap rate', right: true },
-    { key: 'value', label: 'Est. value', right: true },
-    { key: 'valuePerKey', label: 'Value / key', right: true },
+    { key: 'otaLow', label: 'OTA low', right: true },
+    { key: 'otaHigh', label: 'OTA high', right: true },
+    { key: 'adr', label: 'Blended ADR', right: true },
   ];
 
   return (
     <div className="space-y-4">
-      <div className="grid grid-cols-2 gap-3 md:grid-cols-5">
+      <div className="grid grid-cols-2 gap-3 md:grid-cols-4">
         <Stat label="Hotels" value={filtered.length.toLocaleString()} />
         <Stat label="Keys" value={totKeys.toLocaleString()} />
-        <Stat label="Avg ADR" value={usd(avg((h) => h.adr))} />
-        <Stat label="Avg occupancy" value={pct(avg((h) => h.occ), 1)} />
-        <Stat label="Avg cap rate" value={`${avg((h) => h.oar).toFixed(2)}%`} />
+        <Stat label="Avg blended ADR" value={usd(avg((h) => h.adr))} />
+        <Stat label="Verified" value={filtered.filter((h) => h.verified).length.toLocaleString()} />
       </div>
 
       <div className="card grid grid-cols-1 gap-3 p-3 sm:grid-cols-2 lg:grid-cols-4">
@@ -124,12 +120,9 @@ export default function HotelsTable({ hotels }: { hotels: Hotel[] }) {
                 </td>
                 <td className="td text-gray-700">{h.tier}</td>
                 <td className="td text-right">{h.keys.toLocaleString()}</td>
-                <td className="td text-right">{usd(h.adr)}</td>
-                <td className="td text-right">{pct(h.occ)}</td>
-                <td className="td text-right">{usd(h.revpar)}</td>
-                <td className="td text-right">{h.oar.toFixed(2)}%</td>
-                <td className="td text-right font-semibold">{money(h.value)}</td>
-                <td className="td text-right">{money(h.valuePerKey)}</td>
+                <td className="td text-right">{usd(h.otaLow)}</td>
+                <td className="td text-right">{usd(h.otaHigh)}</td>
+                <td className="td text-right font-semibold">{usd(h.adr)}</td>
               </tr>
             ))}
             {!rows.length && (

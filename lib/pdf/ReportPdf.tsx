@@ -1,22 +1,21 @@
 /* eslint-disable react/no-array-index-key */
-import path from 'path';
 import React from 'react';
 import { Document, Font, Link, Page, StyleSheet, Text, View } from '@react-pdf/renderer';
 import { HTMLElement, Node, parse } from 'node-html-parser';
 import type { Hotel } from '@/lib/data';
 import type { Section } from '@/lib/reports';
+import { SANS_BOLD, SANS_ITALIC, SANS_REGULAR, SERIF_BOLD } from './fonts';
 
-// ── Fonts ──────────────────────────────────────────────────────────
-const FONT_DIR = path.join(process.cwd(), 'assets', 'fonts');
+// ── Fonts (embedded, see ./fonts.ts) ───────────────────────────────
 Font.register({
   family: 'Sans',
   fonts: [
-    { src: path.join(FONT_DIR, 'LiberationSans-Regular.ttf') },
-    { src: path.join(FONT_DIR, 'LiberationSans-Bold.ttf'), fontWeight: 'bold' },
-    { src: path.join(FONT_DIR, 'LiberationSans-Italic.ttf'), fontStyle: 'italic' },
+    { src: SANS_REGULAR },
+    { src: SANS_BOLD, fontWeight: 'bold' },
+    { src: SANS_ITALIC, fontStyle: 'italic' },
   ],
 });
-Font.register({ family: 'Serif', src: path.join(FONT_DIR, 'LiberationSerif-Bold.ttf'), fontWeight: 'bold' });
+Font.register({ family: 'Serif', src: SERIF_BOLD, fontWeight: 'bold' });
 Font.registerHyphenationCallback((w) => [w]); // never hyphenate words
 
 const NAVY = '#1A3A5C';
@@ -232,7 +231,7 @@ export function ReportPdf({ hotel: h, sections }: { hotel: Hotel; sections: Sect
 
         {sections.map((sec, i) => (
           <View key={i}>
-            <Text style={s.h1} minPresenceAhead={140}>{i + 1}. {clean(sec.title)}</Text>
+            <Text style={s.h1} minPresenceAhead={200}>{i + 1}. {clean(sec.title)}</Text>
             {blocks(parse(sec.html).childNodes, `s${i}`)}
           </View>
         ))}

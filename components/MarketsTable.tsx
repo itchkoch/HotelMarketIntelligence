@@ -1,6 +1,6 @@
 'use client';
 import { useMemo, useState } from 'react';
-import { COUNTRIES, FLAGS, money, pct, usd } from '@/lib/data';
+import { COUNTRIES, FLAGS, money, usd } from '@/lib/data';
 import { useSort } from './useSort';
 
 export type MarketRow = {
@@ -11,10 +11,6 @@ export type MarketRow = {
   hotels: number;
   keys: number;
   adr: number;
-  occ: number;
-  revpar: number;
-  oarMin: number;
-  oarMax: number;
   txns: number;
   medPpk: number | null;
 };
@@ -28,10 +24,7 @@ export default function MarketsTable({ rows }: { rows: MarketRow[] }) {
     { key: 'city', label: 'Market' },
     { key: 'hotels', label: 'Hotels', right: true },
     { key: 'keys', label: 'Keys', right: true },
-    { key: 'adr', label: 'Avg ADR', right: true },
-    { key: 'occ', label: 'Avg occ.', right: true },
-    { key: 'revpar', label: 'Avg RevPAR', right: true },
-    { key: 'oarMin', label: 'Cap rate range', right: true },
+    { key: 'adr', label: 'Avg blended ADR', right: true },
     { key: 'txns', label: 'Sales', right: true },
     { key: 'medPpk', label: 'Median sale $/key', right: true },
   ];
@@ -71,11 +64,6 @@ export default function MarketsTable({ rows }: { rows: MarketRow[] }) {
                 <td className="td text-right">{r.hotels}</td>
                 <td className="td text-right">{r.keys.toLocaleString()}</td>
                 <td className="td text-right">{usd(r.adr)}</td>
-                <td className="td text-right">{pct(r.occ, 1)}</td>
-                <td className="td text-right">{usd(r.revpar)}</td>
-                <td className="td text-right">
-                  {r.oarMin === r.oarMax ? `${r.oarMin.toFixed(2)}%` : `${r.oarMin.toFixed(2)}–${r.oarMax.toFixed(2)}%`}
-                </td>
                 <td className="td text-right">{r.txns || '—'}</td>
                 <td className="td text-right">{money(r.medPpk)}</td>
               </tr>

@@ -5,9 +5,15 @@ import { loadSections } from '@/lib/reports';
 import { ReportPdf } from '@/lib/pdf/ReportPdf';
 
 export const runtime = 'nodejs';
-export const dynamic = 'force-dynamic';
+// Every report is rendered once at build time and served as a static file.
+export const dynamic = 'force-static';
+export const dynamicParams = false;
 
-// GET /reports/hir-010.pdf → PDF generated on demand, then cached by Vercel's CDN.
+export function generateStaticParams() {
+  return hotels.map((h) => ({ file: `${h.slug}.pdf` }));
+}
+
+// GET /reports/hir-010.pdf
 export async function GET(_req: Request, { params }: { params: { file: string } }) {
   const slug = params.file.replace(/\.pdf$/i, '').toLowerCase();
   const hotel = hotels.find((h) => h.slug === slug);
@@ -21,8 +27,6 @@ export async function GET(_req: Request, { params }: { params: { file: string } 
     headers: {
       'Content-Type': 'application/pdf',
       'Content-Disposition': `inline; filename="${slug}.pdf"`,
-      // cache for a day at the edge; redeploys refresh it
-      'Cache-Control': 'public, max-age=0, s-maxage=86400, stale-while-revalidate=604800',
     },
   });
 }

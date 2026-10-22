@@ -1,6 +1,6 @@
 # Hotel Intelligence — Canada, USA & Mexico
 
-Next.js 14 + TypeScript + Tailwind rebuild of HISV (Hotel Data and Speculative Valuation), limited to North America.
+Next.js 14 + TypeScript + Tailwind rebuild of HISV, limited to North America (Canada, USA, Mexico).
 
 ## Pages
 
@@ -29,15 +29,15 @@ Next.js 14 + TypeScript + Tailwind rebuild of HISV (Hotel Data and Speculative V
 
 All data is static JSON in `data/`. Nothing is fetched at runtime.
 
-- `data/hotels.json`: one row per hotel (keys, OTA low/high/blended ADR, occupancy, RevPAR, cap rate, est. value).
+- `data/hotels.json`: one row per hotel (address, tier, keys, owner, brand, OTA low/high/blended ADR, verified date).
 - `data/reports.json`: the report sections for every hotel (keyed by id), taken from the original HISV v11 report pages.
 - `data/verified.json`: hotels re-checked against current sources (address, rooms, opening date, amenities, Kayak prices), with the source URLs and check date. Verified hotels show a green **Verified** badge and list their sources in the report's Data Sources section.
-- PDFs are not stored in the repo. `app/reports/[file]/route.ts` builds each one on request with `@react-pdf/renderer` (fonts in `assets/fonts`), and Vercel caches it for a day.
+- PDFs are not stored in the repo. `app/reports/[file]/route.ts` builds each one on request with `@react-pdf/renderer` (fonts are embedded in `lib/pdf/fonts.ts`, so no font files are needed on the server), and Vercel caches it for a day.
 - `data/transactions.json`: hotel sales. `url` is `null` when no article link was on record; the app labels those "No source".
 
 OTA prices for verified hotels come from Kayak.com (USD), last-12-months figures: low = cheapest-month average, high = most-expensive-month average, blended ADR = average of the two.
 
-Estimated value in the hotel list = keys × 365 × occupancy × blended OTA ADR × (1 + non-room ratio) × (1 − expense ratio) ÷ cap rate.
+Occupancy, RevPAR, cap rates, estimated value and value per key have been removed from the project. Sale price per key on the Transactions page is kept, because it comes from recorded sales.
 
 ## Deploy
 

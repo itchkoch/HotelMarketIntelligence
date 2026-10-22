@@ -4,7 +4,7 @@ import Nav from '@/components/Nav';
 
 export const metadata: Metadata = {
   title: 'Hotel Intelligence — Canada, USA & Mexico',
-  description: 'Hotel rates, occupancy, cap rates, speculative values and transactions across North America.',
+  description: 'Hotel rates, property data and transactions across Canada, the USA and Mexico.',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -22,8 +22,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </header>
         <main className="mx-auto max-w-[1500px] px-4 py-6">{children}</main>
         <footer className="no-print mx-auto max-w-[1500px] px-4 pb-10 text-xs leading-relaxed text-gray-500">
-          All figures in USD. Values are speculative estimates for preliminary research only, not appraisals.
-          Rates from OTA research (Kayak, Booking.com, HotelPlanner) 2025–2026; cap rates from CBRE / JLL 2025 surveys.
+          All figures in USD. Research data for preliminary investigation only, not an appraisal.
+          Room rates from OTA research (Kayak, Booking.com, HotelPlanner) 2025–2026; verified hotels use Kayak.com last-12-month prices.
           <br />
           Contact: itchkochapps@gmail.com
         </footer>
