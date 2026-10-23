@@ -208,12 +208,12 @@
 "country": "USA",
 "tier": "Upscale",
 "keys": 245,
-"address": "401 Hennepin Avenue, Minneapolis, MN 55401",
+"address": "401 Hennepin Avenue, Minneapolis, MN 55401, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "AC Hotels by Marriott (Marriott International, NASDAQ: MAR)",
-"adr": 158.0,
-"otaLow": 123.0,
-"otaHigh": 208.0,
+"adr": 169.5,
+"otaLow": 135,
+"otaHigh": 204,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -246,7 +246,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -358,12 +358,12 @@
 "country": "USA",
 "tier": "Ultra-Luxury",
 "keys": 59,
-"address": "48123 Highway 1, Big Sur, CA 93920",
+"address": "48123 Highway 1, Big Sur, CA 93920, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Alila Hotels (World of Hyatt, NYSE: H)",
-"adr": 1844.0,
-"otaLow": 1438.0,
-"otaHigh": 2434.0,
+"adr": 2519.5,
+"otaLow": 2159,
+"otaHigh": 2880,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -396,7 +396,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -507,13 +507,13 @@
 "state": "HI",
 "country": "USA",
 "tier": "Luxury",
-"keys": 320,
-"address": "3550 Wailea Alanui Drive, Wailea, HI 96753",
+"keys": 325,
+"address": "3550 Wailea Alanui Drive, Wailea, HI 96753, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Andaz Hotels (Hyatt Hotels Corporation, NYSE: H)",
-"adr": 811.0,
-"otaLow": 632.0,
-"otaHigh": 1070.0,
+"adr": 1060.0,
+"otaLow": 933,
+"otaHigh": 1187,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -546,7 +546,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -808,12 +808,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 200,
-"address": "97000 Overseas Highway, Key Largo, FL 33037",
+"address": "97000 Overseas Highway, Key Largo, FL 33037, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Curio Collection by Hilton (Hilton Worldwide, NYSE: HLT)",
-"adr": 440.0,
-"otaLow": 343.0,
-"otaHigh": 580.0,
+"adr": 568.0,
+"otaLow": 368,
+"otaHigh": 768,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -846,7 +846,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -1058,12 +1058,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 220,
-"address": "717 Orleans Avenue, New Orleans, LA 70116",
+"address": "717 Orleans Street, New Orleans, LA 70116, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Autograph Collection Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 239.0,
-"otaLow": 186.0,
-"otaHigh": 315.0,
+"adr": 260.5,
+"otaLow": 171,
+"otaHigh": 350,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -1096,7 +1096,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -1107,13 +1107,13 @@
 "state": "TX",
 "country": "USA",
 "tier": "Luxury",
-"keys": 75,
-"address": "509 Commerce Street, Fort Worth, TX 76102",
+"keys": 106,
+"address": "3700 Camp Bowie Boulevard, Fort Worth, TX 76107, USA",
 "owner": "Auberge Resorts Collection",
 "brand": "Bowie House, Auberge Resorts Collection (Auberge Resorts, private)",
-"adr": 440.0,
-"otaLow": 343.0,
-"otaHigh": 580.0,
+"adr": 633.5,
+"otaLow": 473,
+"otaHigh": 794,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -1146,7 +1146,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -1358,12 +1358,12 @@
 "country": "Mexico",
 "tier": "Upper-Upscale",
 "keys": 712,
-"address": "Horacio 282, Polanco, 11550 CDMX",
+"address": "Calz. Gral. Mariano Escobedo 700, Anzures, Miguel Hidalgo, 11590 Mexico City, Mexico",
 "owner": "Grupo Real Turismo (private)",
 "brand": "Camino Real Hotels (Grupo Real Turismo, private)",
-"adr": 260.0,
-"otaLow": 202.0,
-"otaHigh": 343.0,
+"adr": 299.0,
+"otaLow": 204,
+"otaHigh": 394,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -1396,7 +1396,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -1508,12 +1508,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 142,
-"address": "601 Murray Circle, Fort Baker, Sausalito, CA 94965",
+"address": "601 Murray Circle, Sausalito, CA 94965, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Cavallo Point (independent — member of The Leading Hotels of the World)",
-"adr": 591.0,
-"otaLow": 460.0,
-"otaHigh": 780.0,
+"adr": 650.0,
+"otaLow": 565,
+"otaHigh": 735,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -1546,7 +1546,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -1608,12 +1608,12 @@
 "country": "USA",
 "tier": "Upscale",
 "keys": 117,
-"address": "163 Chico Road, Pray, MT 59065",
+"address": "163 Chico Road, Pray, MT 59065, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Chico Hot Springs (independent — historic Montana resort)",
-"adr": 225.0,
-"otaLow": 175.0,
-"otaHigh": 297.0,
+"adr": 147.0,
+"otaLow": 76,
+"otaHigh": 218,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -1646,7 +1646,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -1707,13 +1707,13 @@
 "state": "IN",
 "country": "USA",
 "tier": "Luxury",
-"keys": 241,
-"address": "50 West Washington Street, Indianapolis, IN 46204",
+"keys": 247,
+"address": "50 West Washington Street, Indianapolis, IN 46204, USA",
 "owner": "White Lodging / Hilton",
 "brand": "Conrad Hotels & Resorts (Hilton Worldwide, NYSE: HLT)",
-"adr": 310.0,
-"otaLow": 241.0,
-"otaHigh": 409.0,
+"adr": 296.5,
+"otaLow": 220,
+"otaHigh": 373,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -1746,7 +1746,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -2407,13 +2407,13 @@
 "state": "MD",
 "country": "USA",
 "tier": "Upscale",
-"keys": 272,
-"address": "4250 North Fairfax Drive, Bethesda, MD 20814",
+"keys": 271,
+"address": "6711 Democracy Boulevard, Bethesda, MD 20817, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Embassy Suites by Hilton (Hilton Worldwide, NYSE: HLT)",
-"adr": 166.0,
-"otaLow": 129.0,
-"otaHigh": 219.0,
+"adr": 167.0,
+"otaLow": 125,
+"otaHigh": 209,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -2446,7 +2446,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -2958,12 +2958,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 450,
-"address": "4100 Wailea Alanui Drive, Wailea, HI 96753",
+"address": "4100 Wailea Alanui Drive, Wailea, HI 96753, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Fairmont Hotels & Resorts (Accor Hotels, EPA: AC)",
-"adr": 948.0,
-"otaLow": 739.0,
-"otaHigh": 1251.0,
+"adr": 1320.0,
+"otaLow": 970,
+"otaHigh": 1670,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -2996,7 +2996,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -3357,13 +3357,13 @@
 "state": "OK",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 120,
-"address": "25 East Sheridan Avenue, Oklahoma City, OK 73104",
+"keys": 135,
+"address": "900 West Main Street, Oklahoma City, OK 73106, USA",
 "owner": "Hiltower (private)",
 "brand": "Fordson Hotel (independent — Tapestry Collection by Hilton, NYSE: HLT)",
-"adr": 280.0,
-"otaLow": 218.0,
-"otaHigh": 369.0,
+"adr": 234.5,
+"otaLow": 180,
+"otaHigh": 289,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -3396,7 +3396,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -3658,12 +3658,12 @@
 "country": "Mexico",
 "tier": "Ultra-Luxury",
 "keys": 240,
-"address": "Paseo de la Reforma 500, Col. Juárez, CDMX, Mexico City, Mexico",
+"address": "Paseo de la Reforma 500, Juárez, Cuauhtémoc, 06600 Mexico City, Mexico",
 "owner": "Four Seasons Hotels & Resorts / ICA Group",
 "brand": "Four Seasons Hotels & Resorts (private — Bill Gates / Kingdom Holdings)",
-"adr": 450.0,
-"otaLow": 351.0,
-"otaHigh": 594.0,
+"adr": 1328.5,
+"otaLow": 745,
+"otaHigh": 1912,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -3696,7 +3696,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -3758,12 +3758,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 219,
-"address": "1 North 19th Street, Philadelphia, PA 19103",
+"address": "One North 19th Street, Philadelphia, PA 19103, USA",
 "owner": "Comcast Corporation / Four Seasons",
 "brand": "Four Seasons Hotels & Resorts (private — Bill Gates / Kingdom Holdings)",
-"adr": 540.0,
-"otaLow": 421.0,
-"otaHigh": 712.0,
+"adr": 1313.5,
+"otaLow": 1131,
+"otaHigh": 1496,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -3796,7 +3796,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -3957,13 +3957,13 @@
 "state": "FL",
 "country": "USA",
 "tier": "Luxury",
-"keys": 444,
-"address": "10100 Dream Tree Boulevard, Lake Buena Vista, FL 32836",
+"keys": 443,
+"address": "10100 Dream Tree Boulevard, Lake Buena Vista, FL 32836, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Four Seasons Hotels & Resorts (private — Bill Gates / Kingdom Holdings)",
-"adr": 1242.0,
-"otaLow": 968.0,
-"otaHigh": 1639.0,
+"adr": 1467.0,
+"otaLow": 1091,
+"otaHigh": 1843,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -3996,7 +3996,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -4007,13 +4007,13 @@
 "state": "WY",
 "country": "USA",
 "tier": "Ultra-Luxury",
-"keys": 125,
-"address": "7680 Granite Loop Road, Teton Village, WY 83025",
+"keys": 157,
+"address": "7680 Granite Loop Road, Teton Village, WY 83025, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Four Seasons Hotels & Resorts (private — Bill Gates / Kingdom Holdings)",
-"adr": 1566.0,
-"otaLow": 1221.0,
-"otaHigh": 2067.0,
+"adr": 1577.0,
+"otaLow": 652,
+"otaHigh": 2502,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -4046,7 +4046,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -4207,13 +4207,13 @@
 "state": "HI",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 2860,
+"keys": 2886,
 "address": "2005 Kalia Road, Honolulu, HI 96815, USA",
 "owner": "Hilton Worldwide / owner varies",
 "brand": "Hilton Hotels & Resorts",
-"adr": 280.0,
-"otaLow": 218.0,
-"otaHigh": 369.0,
+"adr": 377.5,
+"otaLow": 334,
+"otaHigh": 421,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -4246,7 +4246,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -4458,12 +4458,12 @@
 "country": "USA",
 "tier": "Upscale",
 "keys": 106,
-"address": "1405 Reynolds Street, Key West, FL 33040",
+"address": "3420 North Roosevelt Boulevard, Key West, FL 33040, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Tapestry Collection by Hilton (Hilton Worldwide, NYSE: HLT)",
-"adr": 269.0,
-"otaLow": 209.0,
-"otaHigh": 355.0,
+"adr": 349.5,
+"otaLow": 216,
+"otaHigh": 483,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -4496,7 +4496,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -4557,13 +4557,13 @@
 "state": "FL",
 "country": "USA",
 "tier": "Luxury",
-"keys": 270,
-"address": "200 Henderson Resort Way, Destin, FL 32541",
+"keys": 170,
+"address": "200 Henderson Resort Way, Destin, FL 32541, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Henderson Beach Resort (independent / Salamander Hotels)",
-"adr": 379.0,
-"otaLow": 295.0,
-"otaHigh": 500.0,
+"adr": 497.0,
+"otaLow": 344,
+"otaHigh": 650,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -4596,7 +4596,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -4608,12 +4608,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 37,
-"address": "2700 Scenic Highway 98, Destin, FL 32541",
+"address": "2700 Scenic Highway 98, Destin, FL 32541, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Henderson Park Inn (independent / adults-only boutique)",
-"adr": 574.0,
-"otaLow": 447.0,
-"otaHigh": 757.0,
+"adr": 667.5,
+"otaLow": 434,
+"otaHigh": 901,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -4646,7 +4646,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -4907,13 +4907,13 @@
 "state": "VT",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 258,
-"address": "110 Battery Street, Burlington, VT 05401",
+"keys": 250,
+"address": "60 Battery Street, Burlington, VT 05401, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Curio Collection by Hilton (Hilton Worldwide, NYSE: HLT)",
-"adr": 225.0,
-"otaLow": 175.0,
-"otaHigh": 297.0,
+"adr": 299.0,
+"otaLow": 178,
+"otaHigh": 420,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -4946,7 +4946,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -5008,12 +5008,12 @@
 "country": "Mexico",
 "tier": "Luxury",
 "keys": 40,
-"address": "Av. Veracruz 102, Condesa, 06700 CDMX",
+"address": "Av. Veracruz 102, Condesa / Roma Norte, Cuauhtémoc, 06700 Mexico City, Mexico",
 "owner": "Grupo Habita (private)",
 "brand": "Condesa DF (Grupo Habita, private — Design Hotels)",
-"adr": 520.0,
-"otaLow": 405.0,
-"otaHigh": 686.0,
+"adr": 577.5,
+"otaLow": 438,
+"otaHigh": 717,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -5046,7 +5046,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -5107,13 +5107,13 @@
 "state": "TX",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 200,
-"address": "200 Exchange Avenue, Fort Worth, TX 76164",
+"keys": 187,
+"address": "200 Mule Alley Drive, Fort Worth, TX 76164, USA",
 "owner": "Majestic Realty / Autograph Collection",
 "brand": "Hotel Drover (Marriott Autograph Collection, NASDAQ: MAR)",
-"adr": 340.0,
-"otaLow": 265.0,
-"otaHigh": 448.0,
+"adr": 824.5,
+"otaLow": 626,
+"otaHigh": 1023,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -5146,7 +5146,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -5308,12 +5308,12 @@
 "country": "Mexico",
 "tier": "Luxury",
 "keys": 36,
-"address": "Av. Presidente Masaryk 201, Polanco, 11560 CDMX",
+"address": "Av. Presidente Masaryk 201, Polanco, Miguel Hidalgo, 11560 Mexico City, Mexico",
 "owner": "Habita Hotels (private)",
 "brand": "Habita Hotels (private)",
-"adr": 480.0,
-"otaLow": 374.0,
-"otaHigh": 633.0,
+"adr": 290.0,
+"otaLow": 239,
+"otaHigh": 341,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -5346,7 +5346,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -5458,12 +5458,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 149,
-"address": "50 West Broad Street, Columbus, OH 43215",
+"address": "50 West Broad Street, Columbus, OH 43215, USA",
 "owner": "Continental Real Estate Companies",
 "brand": "Hotel LeVeque (Autograph Collection by Marriott, NASDAQ: MAR)",
-"adr": 260.0,
-"otaLow": 202.0,
-"otaHigh": 343.0,
+"adr": 285.0,
+"otaLow": 240,
+"otaHigh": 330,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -5496,7 +5496,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -5507,13 +5507,13 @@
 "state": null,
 "country": "Mexico",
 "tier": "Luxury",
-"keys": 206,
-"address": "Paseo de la Reforma 465, Col. Cuauhtémoc, 06500 CDMX",
+"keys": 219,
+"address": "Paseo de la Reforma 465, Cuauhtémoc, 06500 Mexico City, Mexico",
 "owner": "Independent Mexican ownership",
 "brand": "Marquis Reforma (independent — Leading Hotels of the World)",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
+"adr": 277.0,
+"otaLow": 195,
+"otaHigh": 359,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -5546,7 +5546,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -5657,13 +5657,13 @@
 "state": "CA",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 212,
-"address": "355 Santana Row, San Jose, CA 95128",
+"keys": 215,
+"address": "355 Santana Row, San Jose, CA 95128, USA",
 "owner": "Federal Realty Investment Trust (NYSE: FRT)",
 "brand": "Hotel Valencia (independent — Federal Realty)",
-"adr": 290.0,
-"otaLow": 226.0,
-"otaHigh": 382.0,
+"adr": 386.0,
+"otaLow": 340,
+"otaHigh": 432,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -5696,7 +5696,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -5958,12 +5958,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 462,
-"address": "5001 Coconut Road, Bonita Springs, FL 34134",
+"address": "5001 Coconut Road, Bonita Springs, FL 34134, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Hyatt Regency Hotels (Hyatt Hotels Corporation, NYSE: H)",
-"adr": 291.0,
-"otaLow": 226.0,
-"otaHigh": 384.0,
+"adr": 682.0,
+"otaLow": 403,
+"otaHigh": 961,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -5996,7 +5996,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -6057,13 +6057,13 @@
 "state": "HI",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 810,
-"address": "200 Nohea Kai Drive, Lahaina, HI 96761",
+"keys": 806,
+"address": "200 Nohea Kai Drive, Lahaina, HI 96761, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Hyatt Regency Hotels (Hyatt Hotels Corporation, NYSE: H)",
-"adr": 409.0,
-"otaLow": 319.0,
-"otaHigh": 539.0,
+"adr": 800.0,
+"otaLow": 603,
+"otaHigh": 997,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -6096,7 +6096,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -6108,12 +6108,12 @@
 "country": "Mexico",
 "tier": "Upper-Upscale",
 "keys": 755,
-"address": "Campos Eliseos 204, Polanco, CDMX, Mexico City, Mexico",
+"address": "Campos Elíseos 204, Polanco, Miguel Hidalgo, 11560 Mexico City, Mexico",
 "owner": "Hyatt Hotels Corporation (NYSE: H)",
 "brand": "Hyatt Regency Hotels (Hyatt Hotels Corporation, NYSE: H)",
-"adr": 280.0,
-"otaLow": 218.0,
-"otaHigh": 369.0,
+"adr": 456.5,
+"otaLow": 316,
+"otaHigh": 597,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -6146,7 +6146,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -6247,7 +6247,7 @@
 }
 ],
 "verified": null,
-"flag": null
+"flag": "Duplicate of HIR-1586 (InterContinental Presidente Mexico City, Campos Elíseos 218)"
 },
 {
 "id": "HIR-123",
@@ -6407,13 +6407,13 @@
 "state": null,
 "country": "Mexico",
 "tier": "Luxury",
-"keys": 312,
-"address": "Paseo de la Reforma 465, Col. Cuauhtémoc, CDMX, Mexico City, Mexico",
+"keys": 314,
+"address": "Andrés Bello 29, Polanco IV Secc, Miguel Hidalgo, 11560 Mexico City, Mexico",
 "owner": "Marriott International (NASDAQ: MAR)",
 "brand": "JW Marriott Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
+"adr": 756.5,
+"otaLow": 477,
+"otaHigh": 1036,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -6446,7 +6446,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -6457,13 +6457,13 @@
 "state": "IN",
 "country": "USA",
 "tier": "Luxury",
-"keys": 1005,
-"address": "10 South West Street, Indianapolis, IN 46204",
+"keys": 1013,
+"address": "10 South West Street, Indianapolis, IN 46204, USA",
 "owner": "White Lodging",
 "brand": "JW Marriott Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 290.0,
-"otaLow": 226.0,
-"otaHigh": 382.0,
+"adr": 249.5,
+"otaLow": 237,
+"otaHigh": 262,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -6496,7 +6496,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -6758,12 +6758,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 96,
-"address": "321 North Fort Lauderdale Beach Boulevard, Fort Lauderdale, FL 33304",
+"address": "2900 Riomar Street, Fort Lauderdale, FL 33304, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Kimpton Hotels & Restaurants (IHG, NYSE: IHG)",
-"adr": 203.0,
-"otaLow": 158.0,
-"otaHigh": 267.0,
+"adr": 299.5,
+"otaLow": 176,
+"otaHigh": 423,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -6796,7 +6796,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -6807,13 +6807,13 @@
 "state": "CA",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 157,
-"address": "500 Pacific Coast Highway, Huntington Beach, CA 92648",
+"keys": 153,
+"address": "500 Pacific Coast Highway, Huntington Beach, CA 92648, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Kimpton Hotels & Restaurants (IHG, NYSE: IHG)",
-"adr": 301.0,
-"otaLow": 234.0,
-"otaHigh": 397.0,
+"adr": 416.5,
+"otaLow": 291,
+"otaHigh": 542,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -6846,7 +6846,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -6857,13 +6857,13 @@
 "state": "AZ",
 "country": "USA",
 "tier": "Luxury",
-"keys": 158,
-"address": "301 L'Auberge Lane, Sedona, AZ 86336",
+"keys": 88,
+"address": "301 L'Auberge Lane, Sedona, AZ 86336, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "L'Auberge de Sedona (independent — member of The Leading Hotels of the World)",
-"adr": 734.0,
-"otaLow": 572.0,
-"otaHigh": 968.0,
+"adr": 765.0,
+"otaLow": 500,
+"otaHigh": 1030,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -6896,7 +6896,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -7058,12 +7058,12 @@
 "country": "Mexico",
 "tier": "Ultra-Luxury",
 "keys": 35,
-"address": "Av. Presidente Masaryk 390, Polanco, CDMX, Mexico City, Mexico",
+"address": "Av. Presidente Masaryk 390, Polanco III Secc, Miguel Hidalgo, 11560 Mexico City, Mexico",
 "owner": "Grupo Las Alcobas (private) / Marriott International",
 "brand": "The Luxury Collection (Marriott International, NASDAQ: MAR)",
-"adr": 580.0,
-"otaLow": 452.0,
-"otaHigh": 765.0,
+"adr": 815.0,
+"otaLow": 531,
+"otaHigh": 1099,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -7096,7 +7096,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -7258,12 +7258,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 135,
-"address": "620 North High Street, Columbus, OH 43215",
+"address": "620 North High Street, Columbus, OH 43215, USA",
 "owner": "Jeffrey Schottenstein (private)",
 "brand": "Le Méridien Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 280.0,
-"otaLow": 218.0,
-"otaHigh": 369.0,
+"adr": 321.5,
+"otaLow": 254,
+"otaHigh": 389,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -7296,7 +7296,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -7357,13 +7357,13 @@
 "state": null,
 "country": "Mexico",
 "tier": "Upper-Upscale",
-"keys": 148,
-"address": "Calle de Durango 223, Colonia Roma, 06700 CDMX",
+"keys": 128,
+"address": "Paseo de los Tamarindos 98, Bosques de las Lomas, Cuajimalpa de Morelos, 05120 Mexico City, Mexico",
 "owner": "Grupo Posadas (BMV: POSADAS)",
 "brand": "Live Aqua Hotels & Resorts (Grupo Posadas, BMV: POSADAS)",
-"adr": 360.0,
-"otaLow": 280.0,
-"otaHigh": 475.0,
+"adr": 593.5,
+"otaLow": 297,
+"otaHigh": 890,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -7396,7 +7396,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -7808,12 +7808,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 186,
-"address": "1435 Simonton Street, Key West, FL 33040",
+"address": "2001 South Roosevelt Boulevard, Key West, FL 33040, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Margaritaville Hotels & Resorts (IHG, NYSE: IHG)",
-"adr": 377.0,
-"otaLow": 294.0,
-"otaHigh": 497.0,
+"adr": 496.0,
+"otaLow": 282,
+"otaHigh": 710,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -7846,7 +7846,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -8508,12 +8508,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 605,
-"address": "100 West Oklahoma City Boulevard, Oklahoma City, OK 73102",
+"address": "100 West Oklahoma City Boulevard, Oklahoma City, OK 73109, USA",
 "owner": "Omni Hotels & Resorts (TRT Holdings, private)",
 "brand": "Omni Hotels & Resorts (TRT Holdings / Robert Rowling, private)",
-"adr": 270.0,
-"otaLow": 210.0,
-"otaHigh": 356.0,
+"adr": 282.5,
+"otaLow": 229,
+"otaHigh": 336,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -8546,7 +8546,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -8657,13 +8657,13 @@
 "state": "FL",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 2004,
-"address": "8701 World Center Drive, Orlando, FL 32821",
+"keys": 2010,
+"address": "8701 World Center Drive, Orlando, FL 32821, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Marriott Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 238.0,
-"otaLow": 185.0,
-"otaHigh": 314.0,
+"adr": 348.0,
+"otaLow": 243,
+"otaHigh": 453,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -8696,7 +8696,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -10007,13 +10007,13 @@
 "state": "CA",
 "country": "USA",
 "tier": "Ultra-Luxury",
-"keys": 161,
-"address": "1759 S Jameson Ln, Montecito, CA",
+"keys": 153,
+"address": "1759 South Jameson Lane, Montecito, CA 93108, USA",
 "owner": "Rosewood Hotel Group (New World Development)",
 "brand": "Rosewood Hotels & Resorts",
-"adr": 1800.0,
-"otaLow": 1404.0,
-"otaHigh": 2376.0,
+"adr": 2120.0,
+"otaLow": 1719,
+"otaHigh": 2521,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -10046,7 +10046,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -10157,13 +10157,13 @@
 "state": "UT",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 510,
-"address": "75 South West Temple, Salt Lake City, UT 84101",
+"keys": 525,
+"address": "75 South West Temple, Salt Lake City, UT 84101, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Marriott Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 203.0,
-"otaLow": 158.0,
-"otaHigh": 267.0,
+"adr": 221.5,
+"otaLow": 179,
+"otaHigh": 264,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -10196,7 +10196,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -10358,12 +10358,12 @@
 "country": "USA",
 "tier": "Ultra-Luxury",
 "keys": 96,
-"address": "1 Keomoku Highway, Lanai City, HI",
+"address": "1 Keomoku Highway, Lanai City, HI 96763, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 1800.0,
-"otaLow": 1404.0,
-"otaHigh": 2376.0,
+"adr": 1366.5,
+"otaLow": 1034,
+"otaHigh": 1699,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -10396,7 +10396,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -10658,12 +10658,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 805,
-"address": "170 South Market Street, San Jose, CA 95113",
+"address": "170 South Market Street, San Jose, CA 95113, USA",
 "owner": "Hilton Worldwide (NYSE: HLT)",
 "brand": "Signia by Hilton (Hilton Worldwide, NYSE: HLT)",
-"adr": 300.0,
-"otaLow": 234.0,
-"otaHigh": 396.0,
+"adr": 299.0,
+"otaLow": 244,
+"otaHigh": 354,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -10696,7 +10696,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -10908,12 +10908,12 @@
 "country": "Mexico",
 "tier": "Ultra-Luxury",
 "keys": 189,
-"address": "Paseo de la Reforma 439, Col. Cuauhtémoc, CDMX, Mexico City, Mexico",
+"address": "Paseo de la Reforma 439, Cuauhtémoc, 06500 Mexico City, Mexico",
 "owner": "Marriott International (NASDAQ: MAR) / IDEAL Group",
 "brand": "St. Regis Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 520.0,
-"otaLow": 405.0,
-"otaHigh": 686.0,
+"adr": 1214.0,
+"otaLow": 436,
+"otaHigh": 1992,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -10946,7 +10946,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -11108,12 +11108,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 173,
-"address": "412 Williamson Street, Savannah, GA 31401",
+"address": "412 Williamson Street, Savannah, GA 31401, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Tribute Portfolio (Marriott International, NASDAQ: MAR)",
-"adr": 254.0,
-"otaLow": 198.0,
-"otaHigh": 335.0,
+"adr": 392.5,
+"otaLow": 298,
+"otaHigh": 487,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -11146,7 +11146,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -11457,13 +11457,13 @@
 "state": "FL",
 "country": "USA",
 "tier": "Luxury",
-"keys": 348,
-"address": "3400 Gulf Boulevard, St. Pete Beach, FL 33706",
+"keys": 277,
+"address": "3400 Gulf Boulevard, St. Pete Beach, FL 33706, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Autograph Collection Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 394.0,
-"otaLow": 307.0,
-"otaHigh": 520.0,
+"adr": 547.0,
+"otaLow": 400,
+"otaHigh": 694,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -11496,7 +11496,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -11908,12 +11908,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 344,
-"address": "715 West Lionshead Circle, Vail, CO 81657",
-"owner": "DiamondRock Hospitality Company (NYSE: DRH)",
+"address": "715 West Lionshead Circle, Vail, CO 81657, USA",
+"owner": "DiamondRock Hospitality Company (Hotel Online)",
 "brand": "Luxury Collection (Marriott International, NASDAQ: MAR)",
-"adr": 435.0,
-"otaLow": 339.0,
-"otaHigh": 574.0,
+"adr": 704.5,
+"otaLow": 348,
+"otaHigh": 1061,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -11946,7 +11946,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -12108,12 +12108,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 82,
-"address": "4104 Lake Tahoe Boulevard, South Lake Tahoe, CA 96150",
+"address": "4104 Lakeshore Boulevard, South Lake Tahoe, CA 96150, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "The Landing (independent boutique resort)",
-"adr": 421.0,
-"otaLow": 328.0,
-"otaHigh": 555.0,
+"adr": 595.5,
+"otaLow": 340,
+"otaHigh": 851,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -12146,7 +12146,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -12208,12 +12208,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 167,
-"address": "125 Calhoun Street, Charleston, SC 29403",
+"address": "68 Wentworth Street, Charleston, SC 29401, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Renaissance Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 346.0,
-"otaLow": 269.0,
-"otaHigh": 456.0,
+"adr": 428.0,
+"otaLow": 305,
+"otaHigh": 551,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -12246,7 +12246,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -12308,12 +12308,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 182,
-"address": "1325 Broadway, Sonoma, CA 95476",
+"address": "1325 Broadway, Sonoma, CA 95476, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Autograph Collection Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 421.0,
-"otaLow": 328.0,
-"otaHigh": 555.0,
+"adr": 577.0,
+"otaLow": 379,
+"otaHigh": 775,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -12346,7 +12346,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -12357,13 +12357,13 @@
 "state": "PA",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 391,
-"address": "One Logan Square, Philadelphia, PA 19103",
+"keys": 390,
+"address": "One Logan Square, Philadelphia, PA 19103, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Curio Collection by Hilton (Hilton Worldwide, NYSE: HLT)",
-"adr": 245.0,
-"otaLow": 191.0,
-"otaHigh": 323.0,
+"adr": 283.5,
+"otaLow": 204,
+"otaHigh": 363,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -12396,7 +12396,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -12807,13 +12807,13 @@
 "state": "PA",
 "country": "USA",
 "tier": "Luxury",
-"keys": 98,
-"address": "210 West Rittenhouse Square, Philadelphia, PA 19103",
+"keys": 118,
+"address": "210 West Rittenhouse Square, Philadelphia, PA 19103, USA",
 "owner": null,
 "brand": "The Rittenhouse Hotel (independent — Five-Star Alliance)",
-"adr": 490.0,
-"otaLow": 382.0,
-"otaHigh": 646.0,
+"adr": 590.5,
+"otaLow": 499,
+"otaHigh": 682,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -12846,7 +12846,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -12908,12 +12908,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 146,
-"address": "201 East Trade Street, Charlotte, NC 28202",
+"address": "201 East Trade Street, Charlotte, NC 28202, USA",
 "owner": "DiamondRock Hospitality (NYSE: DRH)",
 "brand": "The Ritz-Carlton Hotel Company (Marriott International, NASDAQ: MAR)",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
+"adr": 769.5,
+"otaLow": 690,
+"otaHigh": 849,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -12946,7 +12946,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -13108,12 +13108,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 295,
-"address": "2600 Tiburon Drive, Naples, FL 34109",
+"address": "2600 Tiburon Drive, Naples, FL 34109, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "The Ritz-Carlton Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 558.0,
-"otaLow": 435.0,
-"otaHigh": 736.0,
+"adr": 885.5,
+"otaLow": 485,
+"otaHigh": 1286,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -13146,7 +13146,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -13207,13 +13207,13 @@
 "state": null,
 "country": "Mexico",
 "tier": "Ultra-Luxury",
-"keys": 160,
-"address": "Paseo de la Reforma 277, Col. Juárez, CDMX, Mexico City, Mexico",
+"keys": 156,
+"address": "Paseo de la Reforma 509, Cuauhtémoc, 06500 Mexico City, Mexico",
 "owner": "Marriott International (NASDAQ: MAR)",
 "brand": "The Ritz-Carlton Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 490.0,
-"otaLow": 382.0,
-"otaHigh": 646.0,
+"adr": 960.0,
+"otaLow": 424,
+"otaHigh": 1496,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -13246,7 +13246,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -13258,12 +13258,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 474,
-"address": "280 Vanderbilt Beach Road, Naples, FL 34108",
+"address": "280 Vanderbilt Beach Road, Naples, FL 34108, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "The Ritz-Carlton Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 909.0,
-"otaLow": 709.0,
-"otaHigh": 1199.0,
+"adr": 1449.0,
+"otaLow": 900,
+"otaHigh": 1998,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -13296,7 +13296,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -13308,12 +13308,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 450,
-"address": "57-091 Kamehameha Highway, Kahuku, HI 96731",
+"address": "57-091 Kamehameha Highway, Kahuku, HI 96731, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "The Ritz-Carlton Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 829.0,
-"otaLow": 646.0,
-"otaHigh": 1094.0,
+"adr": 1037.0,
+"otaLow": 877,
+"otaHigh": 1197,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -13346,7 +13346,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -13357,13 +13357,13 @@
 "state": "PA",
 "country": "USA",
 "tier": "Luxury",
-"keys": 299,
-"address": "10 Avenue of the Arts, Philadelphia, PA 19102",
+"keys": 287,
+"address": "10 Avenue of the Arts, Philadelphia, PA 19102, USA",
 "owner": "Host Hotels & Resorts (NASDAQ: HST)",
 "brand": "The Ritz-Carlton Hotel Company (Marriott International, NASDAQ: MAR)",
-"adr": 420.0,
-"otaLow": 327.0,
-"otaHigh": 554.0,
+"adr": 339.5,
+"otaLow": 293,
+"otaHigh": 386,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -13396,7 +13396,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -13408,12 +13408,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 398,
-"address": "1700 Tysons Boulevard, McLean, VA 22102",
+"address": "1700 Tysons Boulevard, McLean, VA 22102, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "The Ritz-Carlton Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 337.0,
-"otaLow": 262.0,
-"otaHigh": 444.0,
+"adr": 373.0,
+"otaLow": 355,
+"otaHigh": 391,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -13446,7 +13446,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -13558,12 +13558,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 223,
-"address": "2885 North Ocean Boulevard, Fort Lauderdale, FL 33308",
+"address": "3700 North Ocean Drive, Riviera Beach (Singer Island), FL 33404, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Curio Collection by Hilton (Hilton Worldwide, NYSE: HLT)",
-"adr": 270.0,
-"otaLow": 210.0,
-"otaHigh": 356.0,
+"adr": 402.0,
+"otaLow": 254,
+"otaHigh": 550,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -13596,7 +13596,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -13658,12 +13658,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 225,
-"address": "One Park Avenue, Oklahoma City, OK 73102",
+"address": "One Park Avenue, Oklahoma City, OK 73102, USA",
 "owner": "American Realty Advisors / Hilton",
 "brand": "Hilton Hotels & Resorts (Hilton Worldwide, NYSE: HLT)",
-"adr": 260.0,
-"otaLow": 202.0,
-"otaHigh": 343.0,
+"adr": 232.5,
+"otaLow": 182,
+"otaHigh": 283,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -13696,7 +13696,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -14558,12 +14558,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 103,
-"address": "2600 Overseas Highway, Marathon, FL 33050",
+"address": "2600 Overseas Highway, Marathon, FL 33050, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Tranquility Bay (independent — boutique resort)",
-"adr": 599.0,
-"otaLow": 467.0,
-"otaHigh": 790.0,
+"adr": 500.5,
+"otaLow": 306,
+"otaHigh": 695,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -14596,7 +14596,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -14908,12 +14908,12 @@
 "country": "Mexico",
 "tier": "Upper-Upscale",
 "keys": 237,
-"address": "Campos Eliseos 252, Polanco, CDMX, Mexico City, Mexico",
+"address": "Campos Elíseos 252, Polanco, Miguel Hidalgo, 11560 Mexico City, Mexico",
 "owner": "Marriott International (NASDAQ: MAR)",
 "brand": "W Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 350.0,
-"otaLow": 273.0,
-"otaHigh": 462.0,
+"adr": 575.0,
+"otaLow": 330,
+"otaHigh": 820,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -14946,7 +14946,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -15257,13 +15257,13 @@
 "state": "FL",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 432,
-"address": "321 North Fort Lauderdale Beach Boulevard, Fort Lauderdale, FL 33304",
+"keys": 433,
+"address": "321 North Fort Lauderdale Beach Boulevard, Fort Lauderdale, FL 33304, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Westin Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 254.0,
-"otaLow": 198.0,
-"otaHigh": 335.0,
+"adr": 366.0,
+"otaLow": 218,
+"otaHigh": 514,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -15296,7 +15296,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -15408,12 +15408,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 504,
-"address": "200 Main Street, Fort Worth, TX 76102",
+"address": "200 Main Street, Fort Worth, TX 76102, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Renaissance Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 202.0,
-"otaLow": 157.0,
-"otaHigh": 266.0,
+"adr": 274.5,
+"otaLow": 215,
+"otaHigh": 334,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -15446,7 +15446,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -15457,13 +15457,13 @@
 "state": "UT",
 "country": "USA",
 "tier": "Ultra-Luxury",
-"keys": 18,
-"address": "1 Kayenta Rd, Canyon Point, UT 84741",
+"keys": 34,
+"address": "1 Kayenta Road, Canyon Point, UT 84741, USA",
 "owner": "Aman Resorts International (Vladislav Doronin)",
 "brand": "Aman Hotels & Resorts",
-"adr": 1800.0,
-"otaLow": 1404.0,
-"otaHigh": 2376.0,
+"adr": 6919.5,
+"otaLow": 5936,
+"otaHigh": 7903,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -15496,7 +15496,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -15508,7 +15508,7 @@
 "country": "USA",
 "tier": "Ultra-Luxury",
 "keys": 40,
-"address": "1535 North East Butte Rd, Jackson Hole, WY",
+"address": "1535 North East Butte Road, Jackson, WY 83001, USA",
 "owner": "Aman Resorts International (Vladislav Doronin)",
 "brand": "Aman Hotels & Resorts",
 "adr": 1800.0,
@@ -15546,7 +15546,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -15608,12 +15608,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 256,
-"address": "200 International Drive, Baltimore, MD 21202",
+"address": "200 International Drive, Baltimore, MD 21202, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 450.0,
-"otaLow": 351.0,
-"otaHigh": 594.0,
+"adr": 568.0,
+"otaLow": 484,
+"otaHigh": 652,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -15646,7 +15646,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -15707,13 +15707,13 @@
 "state": "FL",
 "country": "USA",
 "tier": "Luxury",
-"keys": 130,
-"address": "525 N Fort Lauderdale Beach Blvd, Fort Lauderdale, FL",
+"keys": 189,
+"address": "525 North Fort Lauderdale Beach Boulevard, Fort Lauderdale, FL 33304, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 450.0,
-"otaLow": 351.0,
-"otaHigh": 594.0,
+"adr": 898.0,
+"otaLow": 520,
+"otaHigh": 1276,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -15746,7 +15746,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -15758,12 +15758,12 @@
 "country": "USA",
 "tier": "Ultra-Luxury",
 "keys": 243,
-"address": "72-100 Ka'upulehu Drive, Kailua-Kona, HI",
+"address": "72-100 Ka'upulehu Drive, Kailua-Kona, HI 96740, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 1800.0,
-"otaLow": 1404.0,
-"otaHigh": 2376.0,
+"adr": 1840.5,
+"otaLow": 1483,
+"otaHigh": 2198,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -15796,7 +15796,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -15808,12 +15808,12 @@
 "country": "USA",
 "tier": "Ultra-Luxury",
 "keys": 213,
-"address": "1 Manele Bay Rd, Lanai City, HI",
+"address": "1 Manele Bay Road, Lanai City, HI 96763, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 1800.0,
-"otaLow": 1404.0,
-"otaHigh": 2376.0,
+"adr": 1693.5,
+"otaLow": 1569,
+"otaHigh": 1818,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -15846,7 +15846,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -15858,12 +15858,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 424,
-"address": "3960 S Las Vegas Blvd, Las Vegas, NV 89119, USA",
+"address": "3960 South Las Vegas Boulevard, Las Vegas, NV 89119, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 450.0,
-"otaLow": 351.0,
-"otaHigh": 594.0,
+"adr": 530.5,
+"otaLow": 398,
+"otaHigh": 663,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -15896,7 +15896,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -15907,13 +15907,13 @@
 "state": "CA",
 "country": "USA",
 "tier": "Luxury",
-"keys": 264,
-"address": "2 Dole Drive, Westlake Village, CA",
+"keys": 269,
+"address": "2 Dole Drive, Westlake Village, CA 91362, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 450.0,
-"otaLow": 351.0,
-"otaHigh": 594.0,
+"adr": 642.5,
+"otaLow": 557,
+"otaHigh": 728,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -15946,7 +15946,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -15957,13 +15957,13 @@
 "state": null,
 "country": "Mexico",
 "tier": "Ultra-Luxury",
-"keys": 130,
-"address": "Calle Eureka S/N, La Ribera, BCS, Mexico",
+"keys": 141,
+"address": "Calle Hacienda Eureka, Costa Palmas, La Ribera, B.C.S. 23570, Mexico",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 680.0,
-"otaLow": 530.0,
-"otaHigh": 897.0,
+"adr": 1387.5,
+"otaLow": 927,
+"otaHigh": 1848,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -15996,7 +15996,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -16007,13 +16007,13 @@
 "state": null,
 "country": "Mexico",
 "tier": "Ultra-Luxury",
-"keys": 76,
-"address": "Carr. Transpeninsular Km 10.3, Cabo San Lucas",
+"keys": 96,
+"address": "Carretera Transpeninsular Km 10.3, Cabo del Sol, Cabo San Lucas, B.C.S. 23455, Mexico",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 680.0,
-"otaLow": 530.0,
-"otaHigh": 897.0,
+"adr": 1824.5,
+"otaLow": 980,
+"otaHigh": 2669,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -16046,7 +16046,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -16057,13 +16057,13 @@
 "state": "HI",
 "country": "USA",
 "tier": "Ultra-Luxury",
-"keys": 380,
-"address": "3900 Wailea Alanui Dr, Kihei, HI",
+"keys": 383,
+"address": "3900 Wailea Alanui Drive, Wailea (Kihei), HI 96753, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 1800.0,
-"otaLow": 1404.0,
-"otaHigh": 2376.0,
+"adr": 1356.0,
+"otaLow": 1099,
+"otaHigh": 1613,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -16096,7 +16096,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -16108,12 +16108,12 @@
 "country": "USA",
 "tier": "Ultra-Luxury",
 "keys": 77,
-"address": "9011 Collins Ave, Surfside, FL",
+"address": "9011 Collins Avenue, Surfside, FL 33154, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 1800.0,
-"otaLow": 1404.0,
-"otaHigh": 2376.0,
+"adr": 2130.5,
+"otaLow": 1378,
+"otaHigh": 2883,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -16146,7 +16146,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -16158,12 +16158,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 222,
-"address": "245 Hennepin Ave, Minneapolis, MN",
+"address": "245 Hennepin Avenue, Minneapolis, MN 55401, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 450.0,
-"otaLow": 351.0,
-"otaHigh": 594.0,
+"adr": 619.0,
+"otaLow": 492,
+"otaHigh": 746,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -16196,7 +16196,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -16208,12 +16208,12 @@
 "country": "USA",
 "tier": "Ultra-Luxury",
 "keys": 85,
-"address": "400 Silverado Trail N, Calistoga, CA",
+"address": "400 Silverado Trail North, Calistoga, CA 94515, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 1800.0,
-"otaLow": 1404.0,
-"otaHigh": 2376.0,
+"adr": 1492.0,
+"otaLow": 1003,
+"otaHigh": 1981,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -16246,7 +16246,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -16257,13 +16257,13 @@
 "state": "FL",
 "country": "USA",
 "tier": "Ultra-Luxury",
-"keys": 219,
-"address": "851 Gulf Shore Blvd N, Naples, FL",
+"keys": 220,
+"address": "801 Gulf Shore Boulevard North, Naples, FL 34102, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 1800.0,
-"otaLow": 1404.0,
-"otaHigh": 2376.0,
+"adr": 1516.5,
+"otaLow": 908,
+"otaHigh": 2125,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -16296,7 +16296,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -16358,12 +16358,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 341,
-"address": "2 Canal St, New Orleans, LA 70130",
+"address": "2 Canal Street, New Orleans, LA 70130, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 450.0,
-"otaLow": 351.0,
-"otaHigh": 594.0,
+"adr": 621.5,
+"otaLow": 467,
+"otaHigh": 776,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -16396,7 +16396,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -16458,12 +16458,12 @@
 "country": "USA",
 "tier": "Ultra-Luxury",
 "keys": 371,
-"address": "92-1001 Olani St, Kapolei, HI",
+"address": "92-1001 Olani Street, Kapolei, HI 96707, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 1800.0,
-"otaLow": 1404.0,
-"otaHigh": 2376.0,
+"adr": 1193.5,
+"otaLow": 979,
+"otaHigh": 1408,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -16496,7 +16496,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -16508,12 +16508,12 @@
 "country": "USA",
 "tier": "Ultra-Luxury",
 "keys": 210,
-"address": "2800 S Ocean Blvd, Palm Beach, FL",
+"address": "2800 South Ocean Boulevard, Palm Beach, FL 33480, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 1800.0,
-"otaLow": 1404.0,
-"otaHigh": 2376.0,
+"adr": 1708.5,
+"otaLow": 833,
+"otaHigh": 2584,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -16546,7 +16546,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -16557,13 +16557,13 @@
 "state": "PR",
 "country": "USA",
 "tier": "Ultra-Luxury",
-"keys": 128,
-"address": "100 Coco Beach Blvd, Rio Grande, PR 00745, USA",
+"keys": 139,
+"address": "State Road 187 Km 4.2, Río Grande, PR 00745, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 1800.0,
-"otaLow": 1404.0,
-"otaHigh": 2376.0,
+"adr": 1465.0,
+"otaLow": 806,
+"otaHigh": 2124,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -16596,7 +16596,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -16608,12 +16608,12 @@
 "country": "Mexico",
 "tier": "Ultra-Luxury",
 "keys": 173,
-"address": "Bahía de Banderas, Nayarit 63734, Mexico",
+"address": "Punta Mita, Bahía de Banderas, Nayarit 63734, Mexico",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 680.0,
-"otaLow": 530.0,
-"otaHigh": 897.0,
+"adr": 1569.0,
+"otaLow": 944,
+"otaHigh": 2194,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -16646,7 +16646,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -16658,12 +16658,12 @@
 "country": "Mexico",
 "tier": "Ultra-Luxury",
 "keys": 15,
-"address": "Bahía de Banderas, Nayarit 63734, Mexico",
+"address": "Lote H-2, Carretera Federal 200 Km 19.5, Punta de Mita, Nayarit 63734, Mexico",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 680.0,
-"otaLow": 530.0,
-"otaHigh": 897.0,
+"adr": 4499.5,
+"otaLow": 4342,
+"otaHigh": 4657,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -16696,7 +16696,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -16757,8 +16757,8 @@
 "state": "CA",
 "country": "USA",
 "tier": "Ultra-Luxury",
-"keys": 207,
-"address": "1260 Channel Dr, Santa Barbara, CA",
+"keys": 206,
+"address": "1260 Channel Drive, Santa Barbara, CA 93108, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
 "adr": 1800.0,
@@ -16796,7 +16796,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -16808,12 +16808,12 @@
 "country": "USA",
 "tier": "Ultra-Luxury",
 "keys": 65,
-"address": "198 State Rd 592, Santa Fe, NM",
+"address": "198 State Road 592, Santa Fe, NM 87506, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 1800.0,
-"otaLow": 1404.0,
-"otaHigh": 2376.0,
+"adr": 954.5,
+"otaLow": 615,
+"otaHigh": 1294,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -16846,7 +16846,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -16908,12 +16908,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 200,
-"address": "2050 University Ave, East Palo Alto, CA",
+"address": "2050 University Avenue, East Palo Alto, CA 94303, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 450.0,
-"otaLow": 351.0,
-"otaHigh": 594.0,
+"adr": 680.5,
+"otaLow": 512,
+"otaHigh": 849,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -16946,7 +16946,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -16958,12 +16958,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 200,
-"address": "999 N 2nd St, St. Louis, MO",
+"address": "999 North 2nd Street, St. Louis, MO 63102, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 450.0,
-"otaLow": 351.0,
-"otaHigh": 594.0,
+"adr": 494.5,
+"otaLow": 415,
+"otaHigh": 574,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -16996,7 +16996,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -17007,13 +17007,13 @@
 "state": null,
 "country": "Mexico",
 "tier": "Ultra-Luxury",
-"keys": 73,
-"address": "K.M. 7.5 Carretera Federal 200, La Manzanilla",
+"keys": 157,
+"address": "Km 7.5 Carretera Federal 200, Barra de Navidad, La Huerta, Jalisco 48898, Mexico",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 680.0,
-"otaLow": 530.0,
-"otaHigh": 897.0,
+"adr": 1477.0,
+"otaLow": 964,
+"otaHigh": 1990,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -17046,7 +17046,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -17058,12 +17058,12 @@
 "country": "USA",
 "tier": "Ultra-Luxury",
 "keys": 121,
-"address": "1 Vail Rd, Vail, CO",
+"address": "1 Vail Road, Vail, CO 81657, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 1800.0,
-"otaLow": 1404.0,
-"otaHigh": 2376.0,
+"adr": 1430.0,
+"otaLow": 509,
+"otaHigh": 2351,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -17096,7 +17096,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -17157,13 +17157,13 @@
 "state": "FL",
 "country": "USA",
 "tier": "Ultra-Luxury",
-"keys": 72,
-"address": "363 Cocoanut Row, Palm Beach, FL",
+"keys": 37,
+"address": "363 Cocoanut Row, Palm Beach, FL 33480, USA",
 "owner": null,
 "brand": "The Vineta Hotel",
-"adr": 1800.0,
-"otaLow": 1404.0,
-"otaHigh": 2376.0,
+"adr": 1562.0,
+"otaLow": 1253,
+"otaHigh": 1871,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -17196,7 +17196,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -17207,13 +17207,13 @@
 "state": null,
 "country": "Mexico",
 "tier": "Ultra-Luxury",
-"keys": 130,
-"address": "Carretera Federal Cancún-Playa del Carmen Km 298, 77710 Playa del Carmen, Mexico",
+"keys": 153,
+"address": "Carretera Federal Cancún–Playa del Carmen Km 298, Solidaridad, Q.R. 77710, Mexico",
 "owner": "Rosewood Hotel Group (New World Development)",
 "brand": "Rosewood Hotels & Resorts",
-"adr": 680.0,
-"otaLow": 530.0,
-"otaHigh": 897.0,
+"adr": 1503.0,
+"otaLow": 850,
+"otaHigh": 2156,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -17246,7 +17246,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -17958,12 +17958,12 @@
 "country": "USA",
 "tier": "Ultra-Luxury",
 "keys": 463,
-"address": "One Ritz Carlton Dr, Lahaina, HI 96761",
+"address": "1 Ritz-Carlton Drive, Kapalua, HI 96761, USA",
 "owner": null,
 "brand": "Marriott International",
-"adr": 900.0,
-"otaLow": 702.0,
-"otaHigh": 1188.0,
+"adr": 1115.5,
+"otaLow": 771,
+"otaHigh": 1460,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -17996,7 +17996,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -18007,13 +18007,13 @@
 "state": "OH",
 "country": "USA",
 "tier": "Luxury",
-"keys": 205,
-"address": "1515 W 3rd St, Cleveland, OH 44113",
+"keys": 206,
+"address": "1515 West 3rd Street, Cleveland, OH 44113, USA",
 "owner": null,
 "brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
+"adr": 308.0,
+"otaLow": 276,
+"otaHigh": 340,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -18046,7 +18046,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -18057,13 +18057,13 @@
 "state": "VA",
 "country": "USA",
 "tier": "Luxury",
-"keys": 366,
-"address": "1250 S Hayes St, Arlington, VA 22202",
+"keys": 365,
+"address": "1250 South Hayes Street, Arlington, VA 22202, USA",
 "owner": null,
 "brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
+"adr": 334.5,
+"otaLow": 290,
+"otaHigh": 379,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -18096,7 +18096,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -18207,13 +18207,13 @@
 "state": "UT",
 "country": "USA",
 "tier": "Ultra-Luxury",
-"keys": 181,
-"address": "2300 Deer Valley Dr S, Park City, UT 84060",
+"keys": 177,
+"address": "2300 Deer Valley Drive East, Park City, UT 84060, USA",
 "owner": null,
 "brand": "Marriott International",
-"adr": 900.0,
-"otaLow": 702.0,
-"otaHigh": 1188.0,
+"adr": 1650.5,
+"otaLow": 573,
+"otaHigh": 2728,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -18246,7 +18246,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -18457,13 +18457,13 @@
 "state": null,
 "country": "Mexico",
 "tier": "Luxury",
-"keys": 365,
-"address": "Blvd Kukulcan Km 13.5, Zona Hotelera, Cancun, Mexico",
+"keys": 363,
+"address": "Retorno del Rey 36, Zona Hotelera, Cancún, Q.R. 77500, Mexico",
 "owner": null,
 "brand": "Marriott International",
-"adr": 280.0,
-"otaLow": 218.0,
-"otaHigh": 369.0,
+"adr": 534.0,
+"otaLow": 364,
+"otaHigh": 704,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -18496,7 +18496,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -18657,13 +18657,13 @@
 "state": "GA",
 "country": "USA",
 "tier": "Luxury",
-"keys": 167,
-"address": "256 Bull Street, Savannah, GA 31401, USA",
+"keys": 155,
+"address": "256 East Perry Street, Savannah, GA 31401, USA",
 "owner": null,
 "brand": "Perry Hotels",
-"adr": 480.0,
-"otaLow": 374.0,
-"otaHigh": 633.0,
+"adr": 498.0,
+"otaLow": 325,
+"otaHigh": 671,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -18696,7 +18696,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -18761,9 +18761,9 @@
 "address": "201 South 11th Street, Minneapolis, MN 55403, USA",
 "owner": null,
 "brand": "Hotel Hotels",
-"adr": 480.0,
-"otaLow": 374.0,
-"otaHigh": 633.0,
+"adr": 326.5,
+"otaLow": 245,
+"otaHigh": 408,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -18796,7 +18796,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -19011,9 +19011,9 @@
 "address": "525 SW Morrison Street, Portland, OR 97204, USA",
 "owner": null,
 "brand": null,
-"adr": 480.0,
-"otaLow": 374.0,
-"otaHigh": 633.0,
+"adr": 251.0,
+"otaLow": 228,
+"otaHigh": 274,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -19046,7 +19046,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -19157,13 +19157,13 @@
 "state": "MO",
 "country": "USA",
 "tier": "Luxury",
-"keys": 301,
-"address": "100 Carondelet Plaza, St. Louis, MO 63105, USA",
+"keys": 299,
+"address": "100 Carondelet Plaza, Clayton (St. Louis), MO 63105, USA",
 "owner": "Marriott International / institutional owner",
 "brand": "The Ritz-Carlton Hotel Company (Marriott)",
-"adr": 480.0,
-"otaLow": 374.0,
-"otaHigh": 633.0,
+"adr": 430.5,
+"otaLow": 278,
+"otaHigh": 583,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -19196,7 +19196,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -22158,14 +22158,14 @@
 "country": "Mexico",
 "tier": "Ultra-Luxury",
 "keys": 67,
-"address": "Nemesio Diez 11, San Miguel de Allende, GTO 37700",
+"address": "Nemesio Diez 11, Zona Centro, San Miguel de Allende, Gto. 37700, Mexico",
 "owner": "Rosewood Hotel Group",
 "brand": "Rosewood Hotels",
-"adr": 680.0,
-"otaLow": 530.0,
-"otaHigh": 918.0,
+"adr": 807.5,
+"otaLow": 621,
+"otaHigh": 994,
 "seasonal": [],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -22185,7 +22185,7 @@
 "otaHigh": 594.0,
 "seasonal": [],
 "verified": null,
-"flag": null
+"flag": "Duplicate of HIR-403 (The St. Regis Mexico City, same address)"
 },
 {
 "id": "HIR-1586",
@@ -22196,14 +22196,14 @@
 "country": "Mexico",
 "tier": "Luxury",
 "keys": 659,
-"address": "Campos Eliseos 218, Polanco, CDMX",
+"address": "Campos Elíseos 218, Polanco, Miguel Hidalgo, 11560 Mexico City, Mexico",
 "owner": "Grupo Presidente",
 "brand": "IHG Hotels",
-"adr": 220.0,
-"otaLow": 172.0,
-"otaHigh": 297.0,
+"adr": 462.5,
+"otaLow": 293,
+"otaHigh": 632,
 "seasonal": [],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -22215,14 +22215,14 @@
 "country": "Mexico",
 "tier": "Luxury",
 "keys": 213,
-"address": "Sonora 45, Hipodromo Condesa, CDMX",
+"address": "Aguascalientes 158, Colonia Condesa, Cuauhtémoc, 06100 Mexico City, Mexico",
 "owner": "Hyatt Hotels Corp.",
 "brand": "Andaz Hotels",
-"adr": 240.0,
-"otaLow": 187.0,
-"otaHigh": 324.0,
+"adr": 378.0,
+"otaLow": 318,
+"otaHigh": 438,
 "seasonal": [],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -22233,15 +22233,15 @@
 "state": null,
 "country": "Mexico",
 "tier": "Ultra-Luxury",
-"keys": 71,
-"address": "Km 19.5, Carr. Transpeninsular, San Jose del Cabo",
+"keys": 83,
+"address": "Carretera Transpeninsular Km 19.5, Cabo Real, San José del Cabo, B.C.S. 23405, Mexico",
 "owner": "Rosewood Hotel Group",
 "brand": "Rosewood Hotels",
-"adr": 1100.0,
-"otaLow": 858.0,
-"otaHigh": 1485.0,
+"adr": 1730.5,
+"otaLow": 1206,
+"otaHigh": 2255,
 "seasonal": [],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -22252,15 +22252,15 @@
 "state": null,
 "country": "Mexico",
 "tier": "Ultra-Luxury",
-"keys": 173,
-"address": "Km 7.5, Carr. Transpeninsular, San Jose del Cabo",
+"keys": 174,
+"address": "Carretera Transpeninsular Km 7.5, San José del Cabo, B.C.S. 23400, Mexico",
 "owner": "Kerzner International",
 "brand": "One and Only Resorts",
-"adr": 920.0,
-"otaLow": 718.0,
-"otaHigh": 1242.0,
+"adr": 1659.5,
+"otaLow": 1034,
+"otaHigh": 2285,
 "seasonal": [],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -22272,14 +22272,14 @@
 "country": "Mexico",
 "tier": "Ultra-Luxury",
 "keys": 122,
-"address": "Playa El Tule, Santa Maria Bay, San Jose del Cabo",
+"address": "Twin Dolphin, Carretera Transpeninsular Km 12.5, Bahía Santa María, Cabo San Lucas, B.C.S. 23450, Mexico",
 "owner": "Cabo Resorts Development",
 "brand": "Montage Hotels",
-"adr": 860.0,
-"otaLow": 671.0,
-"otaHigh": 1161.0,
+"adr": 1466.0,
+"otaLow": 996,
+"otaHigh": 1936,
 "seasonal": [],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -22291,14 +22291,14 @@
 "country": "Mexico",
 "tier": "Ultra-Luxury",
 "keys": 307,
-"address": "Carr. Transpeninsular Km 17.3, San Jose del Cabo",
+"address": "Carretera Transpeninsular Km 17, Corredor Turístico, San José del Cabo, B.C.S. 23405, Mexico",
 "owner": "Grupo Velas",
 "brand": "Grand Velas Resorts",
-"adr": 780.0,
-"otaLow": 608.0,
-"otaHigh": 1053.0,
+"adr": 1595.0,
+"otaLow": 1280,
+"otaHigh": 1910,
 "seasonal": [],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -22310,14 +22310,14 @@
 "country": "Mexico",
 "tier": "Luxury",
 "keys": 200,
-"address": "Paseo Malecon San Jose s/n, San Jose del Cabo",
+"address": "Polígono 1, Fracción D, Fraccionamiento Diamante, Cabo San Lucas, B.C.S. 23473, Mexico",
 "owner": "Nobu Hospitality",
 "brand": "Nobu Hotels",
-"adr": 520.0,
-"otaLow": 406.0,
-"otaHigh": 702.0,
+"adr": 617.0,
+"otaLow": 410,
+"otaHigh": 824,
 "seasonal": [],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -22337,7 +22337,7 @@
 "otaHigh": 1188.0,
 "seasonal": [],
 "verified": null,
-"flag": null
+"flag": "Duplicate of HIR-1211 (Rosewood Mayakoba, same property)"
 },
 {
 "id": "HIR-1594",
@@ -22347,15 +22347,15 @@
 "state": null,
 "country": "Mexico",
 "tier": "Ultra-Luxury",
-"keys": 120,
-"address": "Carretera Federal Chetumal, Playa del Carmen",
+"keys": 160,
+"address": "Carretera Federal Chetumal–Puerto Juárez Km 298, Mayakoba, Playa del Carmen, Q.R. 77710, Mexico",
 "owner": "Banyan Tree Group",
 "brand": "Banyan Tree Hotels",
-"adr": 680.0,
-"otaLow": 530.0,
-"otaHigh": 918.0,
+"adr": 1120.5,
+"otaLow": 678,
+"otaHigh": 1563,
 "seasonal": [],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -22366,15 +22366,15 @@
 "state": null,
 "country": "Mexico",
 "tier": "Luxury",
-"keys": 448,
-"address": "Boulevard Kukulcan Km 14.5, Cancun",
+"keys": 425,
+"address": "Blvd. Kukulcán Km 14.5, Lote 40-A, Zona Hotelera, Cancún, Q.R. 77500, Mexico",
 "owner": "Marriott International",
 "brand": "JW Marriott",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 513.0,
+"adr": 469.0,
+"otaLow": 323,
+"otaHigh": 615,
 "seasonal": [],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -22385,15 +22385,15 @@
 "state": null,
 "country": "Mexico",
 "tier": "Ultra-Luxury",
-"keys": 274,
-"address": "Boulevard Kukulcan Km 21.2, Cancun",
+"keys": 246,
+"address": "Blvd. Kukulcán Km 21.26, Punta Nizuc, Cancún, Q.R. 77500, Mexico",
 "owner": "Grupo Araneda",
 "brand": "Design Hotels",
-"adr": 620.0,
-"otaLow": 484.0,
-"otaHigh": 837.0,
+"adr": 745.5,
+"otaLow": 547,
+"otaHigh": 944,
 "seasonal": [],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -22404,15 +22404,15 @@
 "state": null,
 "country": "Mexico",
 "tier": "Luxury",
-"keys": 214,
-"address": "Carretera Federal Chetumal-Puerto Juarez, Playa del Carmen",
+"keys": 218,
+"address": "Carretera Federal Cancún–Tulum Km 298, Mayakoba, Solidaridad, Q.R. 77710, Mexico",
 "owner": "Hyatt Hotels Corp.",
 "brand": "Andaz Hotels",
-"adr": 480.0,
-"otaLow": 374.0,
-"otaHigh": 648.0,
+"adr": 972.0,
+"otaLow": 470,
+"otaHigh": 1474,
 "seasonal": [],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -22423,15 +22423,15 @@
 "state": null,
 "country": "Mexico",
 "tier": "Luxury",
-"keys": 474,
-"address": "Prolongacion Bonampak S/N, Cancun",
+"keys": 450,
+"address": "Prolongación Bonampak Mz 1 Lt 10, Playa Mujeres, Cancún, Q.R. 77400, Mexico",
 "owner": "Karisma Hotels",
 "brand": "Excellence Resorts",
-"adr": 460.0,
-"otaLow": 359.0,
-"otaHigh": 621.0,
+"adr": 716.0,
+"otaLow": 519,
+"otaHigh": 913,
 "seasonal": [],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -22443,14 +22443,14 @@
 "country": "Mexico",
 "tier": "Ultra-Luxury",
 "keys": 37,
-"address": "Hospicio 35, San Miguel de Allende, GTO 37700",
+"address": "Hospicio 35, Zona Centro, San Miguel de Allende, Gto. 37700, Mexico",
 "owner": "LVMH Belmond",
 "brand": "Belmond Hotels",
-"adr": 560.0,
-"otaLow": 437.0,
-"otaHigh": 756.0,
+"adr": 799.0,
+"otaLow": 670,
+"otaHigh": 928,
 "seasonal": [],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -22470,7 +22470,7 @@
 "otaHigh": 324.0,
 "seasonal": [],
 "verified": null,
-"flag": null
+"flag": "Not a hotel: Hacienda de los Morales is a restaurant and event venue (OpenTable restaurant listing); no lodging listing on Kayak or Trip.com"
 },
 {
 "id": "HIR-1684",
@@ -22481,14 +22481,14 @@
 "country": "Mexico",
 "tier": "Luxury",
 "keys": 371,
-"address": "Boulevard Kukulcan Km 12.5, Cancun",
+"address": "Blvd. Kukulcán Km 12.5, Zona Hotelera, Cancún, Q.R. 77500, Mexico",
 "owner": "Grupo Posadas",
 "brand": "Posadas Hotels",
-"adr": 420.0,
-"otaLow": 328.0,
-"otaHigh": 567.0,
+"adr": 624.5,
+"otaLow": 440,
+"otaHigh": 809,
 "seasonal": [],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -22500,14 +22500,14 @@
 "country": "Mexico",
 "tier": "Luxury",
 "keys": 468,
-"address": "Boulevard Kukulcan Km 8.5, Cancun",
+"address": "Blvd. Kukulcán Km 5.5, Lote 6-C, Zona Hotelera, Cancún, Q.R. 77500, Mexico",
 "owner": "Riu Hotels Group",
 "brand": "Riu Hotels",
-"adr": 340.0,
-"otaLow": 265.0,
-"otaHigh": 459.0,
+"adr": 452.5,
+"otaLow": 340,
+"otaHigh": 565,
 "seasonal": [],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -22518,15 +22518,15 @@
 "state": null,
 "country": "Mexico",
 "tier": "Upper-Upscale",
-"keys": 601,
-"address": "Boulevard Kukulcan Km 14.5, Cancun",
+"keys": 600,
+"address": "Blvd. Kukulcán Km 14.5, Zona Hotelera, Cancún, Q.R. 77500, Mexico",
 "owner": "Palladium Hotel Group",
 "brand": "Hard Rock Hotels",
-"adr": 280.0,
-"otaLow": 218.0,
-"otaHigh": 378.0,
+"adr": 572.5,
+"otaLow": 400,
+"otaHigh": 745,
 "seasonal": [],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -22537,15 +22537,15 @@
 "state": null,
 "country": "Mexico",
 "tier": "Ultra-Luxury",
-"keys": 65,
-"address": "Km 51 Carretera Chetumal Puerto Juarez, Riviera Maya",
+"keys": 72,
+"address": "Carretera Cancún–Tulum Km 51, Riviera Maya, Solidaridad, Q.R. 77710, Mexico",
 "owner": "LVMH Belmond",
 "brand": "Belmond Hotels",
-"adr": 920.0,
-"otaLow": 718.0,
-"otaHigh": 1242.0,
+"adr": 1406.0,
+"otaLow": 843,
+"otaHigh": 1969,
 "seasonal": [],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -22556,15 +22556,15 @@
 "state": null,
 "country": "Mexico",
 "tier": "Luxury",
-"keys": 16,
-"address": "Aldama 53, Centro, San Miguel de Allende",
+"keys": 32,
+"address": "Aldama 53, Zona Centro, San Miguel de Allende, Gto. 37700, Mexico",
 "owner": null,
 "brand": "Independent",
-"adr": 420.0,
-"otaLow": 328.0,
-"otaHigh": 567.0,
+"adr": 543.5,
+"otaLow": 455,
+"otaHigh": 632,
 "seasonal": [],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 }
 ]

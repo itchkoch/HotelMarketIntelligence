@@ -10448,5 +10448,4237 @@
     "url": "https://uk.trip.com/hotels/charlotte-hotel-detail-3732945/the-ballantyne-a-luxury-collection-hotel-charlotte/"
    }
   ]
+ },
+ "HIR-122": {
+  "address": "201 East Trade Street, Charlotte, NC 28202, USA",
+  "keys": 146,
+  "keysNote": "146 rooms",
+  "keysCheck": "Kayak and Trip.com 146, match original data",
+  "opened": "Opened 2009; renovated 2025 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "The Fifth Fork; Sweet July Cafe (Trip.com)",
+   "spa": "Spa with five treatment rooms and a pink Himalayan salt lounge (Kayak)",
+   "pool": "Indoor heated pool",
+   "fitness": "Fitness center",
+   "meeting": "Banquet room and conference facilities"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Charlotte-Hotels-The-Ritz-Carlton-Charlotte.315866.ksp",
+   "cheapMonth": "January",
+   "low": 690,
+   "peakMonth": "May",
+   "high": 849,
+   "weekday2w": 1094,
+   "weekend2w": 795,
+   "recentMin": 587,
+   "recentMax": 1710,
+   "note": "Kayak's FAQ (used here) and its season table disagree; recent range shown is Kayak's current listed rates"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g49022-d1510383-Reviews-The_Ritz_Carlton_Charlotte-Charlotte_North_Carolina.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Ritz-Carlton, Charlotte",
+    "url": "https://us.trip.com/hotels/charlotte-hotel-detail-2248681/the-ritz-carlton-charlotte/"
+   }
+  ]
+ },
+ "HIR-1112": {
+  "address": "525 North Fort Lauderdale Beach Boulevard, Fort Lauderdale, FL 33304, USA",
+  "keys": 189,
+  "keysNote": "189 rooms",
+  "keysCheck": "Kayak and Trip.com description 189 vs original data 130; 189 used",
+  "opened": "Opened 2021; renovated 2022 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Beachfront on Fort Lauderdale Beach Boulevard",
+   "dining": "Evelyn's (Mediterranean); MAASS; coffee shop; 2 bars/lounges (Trip.com)",
+   "spa": "Full-service spa",
+   "pool": "Two outdoor pools",
+   "fitness": "24-hour fitness center and sauna",
+   "meeting": "Conference and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Fort-Lauderdale-Hotels-Four-Seasons-Hotel-and-Residences-Fort-Lauderdale.1070334249.ksp",
+   "cheapMonth": "September",
+   "low": 520,
+   "peakMonth": "February",
+   "high": 1276,
+   "weekday2w": 694,
+   "weekend2w": 746,
+   "recentMin": 537,
+   "recentMax": 1944,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g34227-d23912860-Reviews-Four_Seasons_Hotel_and_Residences_Fort_Lauderdale-Fort_Lauderdale_Broward_County_Florida.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Hotel and Residences Fort Lauderdale",
+    "url": "https://www.trip.com/hotels/fort-lauderdale-hotel-detail-83422686/four-seasons-hotel-and-residences-fort-lauderdale/"
+   }
+  ]
+ },
+ "HIR-244": {
+  "address": "2900 Riomar Street, Fort Lauderdale, FL 33304, USA",
+  "keys": 96,
+  "keysNote": "96 rooms",
+  "keysCheck": "Trip.com 96, matches original data. Address corrected from 321 North Fort Lauderdale Beach Boulevard (Kayak, Trip.com)",
+  "opened": "Building opened 1949; renovated 2022 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Restaurant, café and rooftop bar/lounge (Kayak)",
+   "pool": "Outdoor pool and rooftop pool",
+   "fitness": "Fitness center",
+   "meeting": "Conference and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Fort-Lauderdale-Hotels-The-Kimpton-Shorebreak-Fort-Lauderdale-Beach-Resort.5635076.ksp",
+   "cheapMonth": "September",
+   "low": 176,
+   "peakMonth": "February",
+   "high": 423,
+   "weekday2w": 207,
+   "weekend2w": 223,
+   "recentMin": 142,
+   "recentMax": 543,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g34227-d23355657-Reviews-Kimpton_Shorebreak_Fort_Lauderdale_by_IHG-Fort_Lauderdale_Broward_County_Florida.html",
+  "sources": [
+   {
+    "label": "Trip.com — Kimpton Shorebreak Fort Lauderdale",
+    "url": "https://www.trip.com/hotels/fort-lauderdale-hotel-detail-74748708/kimpton-goodland-fort-lauderdale-beach/"
+   }
+  ]
+ },
+ "HIR-236": {
+  "address": "3700 North Ocean Drive, Riviera Beach (Singer Island), FL 33404, USA",
+  "keys": 223,
+  "keysNote": "223 rooms",
+  "keysCheck": "Trip.com 223, matches original data. Address corrected from 2885 North Ocean Boulevard, Fort Lauderdale — the hotel is on Singer Island in Riviera Beach (Kayak, Trip.com)",
+  "opened": "Opened 2000; renovated 2012 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Oceanfront on Singer Island, Palm Beach County (not Fort Lauderdale)",
+   "dining": "Caretta Caretta; The Market (grab-and-go); Top Shell beachfront bar; pool and lobby bars (Trip.com)",
+   "pool": "Heated outdoor pool, hot tub and children's pool",
+   "fitness": "Gym",
+   "meeting": "Conference and multi-function rooms; The Canopy oceanfront venue (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Riviera-Beach-Hotels-The-Singer-Oceanfront-Resort-Singer-Island-Curio-by-Hilton.36337.ksp",
+   "cheapMonth": "September",
+   "low": 254,
+   "peakMonth": "March",
+   "high": 550,
+   "weekday2w": 369,
+   "weekend2w": 395,
+   "recentMin": 256,
+   "recentMax": 496,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g1079181-d213861-Reviews-The_Singer_Oceanfront_Resort_Curio_Collection_By_Hilton-Singer_Island_Riviera_Beach_Florida.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Singer Oceanfront Resort",
+    "url": "https://us.trip.com/hotels/riviera-beach-hotel-detail-2230186/the-singer-oceanfront-resort-singer-island-curio-by-hilton/"
+   }
+  ]
+ },
+ "HIR-243": {
+  "address": "321 North Fort Lauderdale Beach Boulevard, Fort Lauderdale, FL 33304, USA",
+  "keys": 433,
+  "keysNote": "433 rooms",
+  "keysCheck": "Kayak and Trip.com 433 vs original data 432",
+  "opened": "Opened 2009; renovated 2018 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Tinta; Lona Cocina Tequileria; Waves Bar & Grill; beachfront Starbucks (Kayak, Trip.com)",
+   "spa": "Full-service spa",
+   "pool": "Outdoor pool with pool bar",
+   "fitness": "Fitness center",
+   "meeting": "35,000 sq ft of venue space including a grand ballroom and Sky Terrace (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Fort-Lauderdale-Hotels-The-Westin-Fort-Lauderdale-Beach-Resort.32985.ksp",
+   "cheapMonth": "August",
+   "low": 218,
+   "peakMonth": "February",
+   "high": 514,
+   "weekday2w": 251,
+   "weekend2w": 268,
+   "recentMin": 194,
+   "recentMax": 345,
+   "note": "Kayak's season table names January as most expensive; FAQ names February"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g34227-d1190286-Reviews-The_Westin_Fort_Lauderdale_Beach_Resort-Fort_Lauderdale_Broward_County_Florida.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Westin Fort Lauderdale Beach Resort",
+    "url": "https://us.trip.com/hotels/fort-lauderdale-hotel-detail-1961125/the-westin-fort-lauderdale-beach-resort/"
+   }
+  ]
+ },
+ "HIR-116": {
+  "address": "One North 19th Street, Philadelphia, PA 19103, USA",
+  "keys": 219,
+  "keysNote": "219 rooms",
+  "keysCheck": "Kayak and Trip.com 219, match original data",
+  "opened": "Opened 2019 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Occupies the upper floors of the Comcast Technology Center; rooms on floors 48–56, lobby and SkyHigh restaurant on the 60th floor (Kayak, Trip.com)",
+   "dining": "SkyHigh (Jean-Georges Vongerichten); Japanese restaurant by Greg Vernick (Trip.com)",
+   "spa": "Spa on the 57th floor",
+   "pool": "Indoor infinity pool on the 57th floor",
+   "fitness": "24-hour fitness center",
+   "meeting": "Conference and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Philadelphia-Hotels-Four-Seasons-Hotel-Philadelphia-at-Comcast-Center.5272148.ksp",
+   "cheapMonth": "September",
+   "low": 1131,
+   "peakMonth": "November",
+   "high": 1496,
+   "weekday2w": 406,
+   "weekend2w": 1664,
+   "recentMin": 406,
+   "recentMax": 1862,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g60795-d17761366-Reviews-Four_Seasons_Hotel_Philadelphia_at_Comcast_Center-Philadelphia_Pennsylvania.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Hotel Philadelphia at Comcast Center",
+    "url": "https://us.trip.com/hotels/philadelphia-hotel-detail-35471348/four-seasons-hotel-philadelphia-at-comcast-center/"
+   }
+  ]
+ },
+ "HIR-232": {
+  "address": "One Logan Square, Philadelphia, PA 19103, USA",
+  "keys": 390,
+  "keysNote": "390 rooms",
+  "keysCheck": "Trip.com 390; Kayak 364; original data 391",
+  "opened": "Opened 2015 as The Logan (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Urban Farmer steakhouse; Fountain Restaurant; Assembly Rooftop Lounge; Commons Lounge (Kayak)",
+   "spa": "Spa",
+   "pool": "Heated indoor pool",
+   "fitness": "Fitness center",
+   "meeting": "Ballroom seating 550 for conferences (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Philadelphia-Hotels-The-Logan-Philadelphia-Curio-Collection-by-Hilton.12240.ksp",
+   "cheapMonth": "December",
+   "low": 204,
+   "peakMonth": "May",
+   "high": 363,
+   "weekday2w": 360,
+   "weekend2w": 345,
+   "recentMin": 228,
+   "recentMax": 511,
+   "note": "Kayak's season table names January as cheapest; FAQ names December"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g60795-d112124-Reviews-The_Logan_Philadelphia_Curio_Collection_by_Hilton-Philadelphia_Pennsylvania.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Logan Philadelphia",
+    "url": "https://ae.trip.com/hotels/philadelphia-hotel-detail-2190466/the-logan-philadelphia-curio-collection-by-hilton/"
+   }
+  ]
+ },
+ "HIR-118": {
+  "address": "210 West Rittenhouse Square, Philadelphia, PA 19103, USA",
+  "keys": 118,
+  "keysNote": "118 rooms",
+  "keysCheck": "Trip.com 118 vs original data 98; single source",
+  "opened": "",
+  "owner": "",
+  "amenities": {
+   "architecture": "On Rittenhouse Square",
+   "dining": "Lacroix; Scarpetta; Library Bar; lobby bar (Trip.com)",
+   "spa": "Spa with sauna and steam room",
+   "pool": "Heated indoor pool",
+   "fitness": "Health club with Pilates reformer",
+   "meeting": "8,740 sq ft of conference and meeting space (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Philadelphia-Hotels-The-Rittenhouse-Philadelphia.39764.ksp",
+   "cheapMonth": "August",
+   "low": 499,
+   "peakMonth": "October",
+   "high": 682,
+   "weekday2w": 621,
+   "weekend2w": 812,
+   "recentMin": 461,
+   "recentMax": 3859,
+   "note": "Kayak's season table names May as most expensive; FAQ names October"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g60795-d96735-Reviews-The_Rittenhouse_Hotel-Philadelphia_Pennsylvania.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Rittenhouse Hotel",
+    "url": "https://www.trip.com/hotels/philadelphia-hotel-detail-2888665/the-rittenhouse-hotel/"
+   }
+  ]
+ },
+ "HIR-117": {
+  "address": "10 Avenue of the Arts, Philadelphia, PA 19102, USA",
+  "keys": 287,
+  "keysNote": "287 rooms",
+  "keysCheck": "Trip.com 287 vs original data 299; single source",
+  "opened": "Opened 2000 in a 1908 neoclassical bank building; renovated 2016 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "1908 neoclassical bank building across from City Hall (Kayak, Trip.com)",
+   "dining": "Aqimero (Latin-inspired, raw bar) (Kayak)",
+   "spa": "Spa with salon",
+   "fitness": "24/7 gym",
+   "meeting": "Conference and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Philadelphia-Hotels-The-Ritz-Carlton-Philadelphia.65438.ksp",
+   "cheapMonth": "February",
+   "low": 293,
+   "peakMonth": "May",
+   "high": 386,
+   "weekday2w": 379,
+   "weekend2w": 544,
+   "recentMin": 293,
+   "recentMax": 767,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g60795-d122332-Reviews-The_Ritz_Carlton_Philadelphia-Philadelphia_Pennsylvania.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Ritz-Carlton, Philadelphia",
+    "url": "https://us.trip.com/hotels/philadelphia-hotel-detail-2527419/the-ritz-carlton-philadelphia/"
+   }
+  ]
+ },
+ "HIR-255": {
+  "address": "401 Hennepin Avenue, Minneapolis, MN 55401, USA",
+  "keys": 245,
+  "keysNote": "245 rooms",
+  "keysCheck": "Kayak and Trip.com 245, match original data",
+  "opened": "Opened 2016 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Nine floors (Kayak)",
+   "dining": "AC Kitchen; AC Lounge",
+   "pool": "No pool (Trip.com)",
+   "fitness": "Fitness center",
+   "meeting": "Four meeting rooms and a business center (Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Minneapolis-Hotels-AC-Hotel-by-Marriott-Minneapolis-Downtown.2653451.ksp",
+   "cheapMonth": "December",
+   "low": 135,
+   "peakMonth": "October",
+   "high": 204,
+   "weekday2w": 173,
+   "weekend2w": 197,
+   "recentMin": 171,
+   "recentMax": 338,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g43323-d10806729-Reviews-AC_Hotel_by_Marriott_Minneapolis_Downtown-Minneapolis_Minnesota.html",
+  "sources": [
+   {
+    "label": "Trip.com — AC Hotel Minneapolis Downtown",
+    "url": "https://us.trip.com/hotels/minneapolis-hotel-detail-6350396/ac-hotel-by-marriott-minneapolis-downtown/"
+   }
+  ]
+ },
+ "HIR-1122": {
+  "address": "245 Hennepin Avenue, Minneapolis, MN 55401, USA",
+  "keys": 222,
+  "keysNote": "222 rooms",
+  "keysCheck": "Kayak and Trip.com 222, match original data",
+  "opened": "Opened 2022 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Restaurants by chef Gavin Kaysen including a rooftop restaurant and sky bar (Trip.com)",
+   "spa": "Full-service spa",
+   "pool": "Indoor pool and seasonal outdoor pool plaza",
+   "fitness": "Health club with steam room",
+   "meeting": "Conference and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Minneapolis-Hotels-Four-Seasons-Hotel-Minneapolis.8553781.ksp",
+   "cheapMonth": "January",
+   "low": 492,
+   "peakMonth": "August",
+   "high": 746,
+   "weekday2w": 740,
+   "weekend2w": 816,
+   "recentMin": 507,
+   "recentMax": 1434,
+   "note": "Kayak's season table names December as cheapest; FAQ names January"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g43323-d23947747-Reviews-Four_Seasons_Hotel_Minneapolis-Minneapolis_Minnesota.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Hotel Minneapolis",
+    "url": "https://us.trip.com/hotels/minneapolis-hotel-detail-88966323/four-seasons-hotel-minneapolis/"
+   }
+  ]
+ },
+ "HIR-1294": {
+  "address": "201 South 11th Street, Minneapolis, MN 55403, USA",
+  "keys": 136,
+  "keysNote": "136 rooms",
+  "keysCheck": "Trip.com 136, matches original data",
+  "opened": "Opened 2008; renovated 2024 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Monello; Constantine; The Bar (Kayak); Breva Bar & Grill; Masa & Agave basement cantina (Trip.com)",
+   "spa": "Anda Spa",
+   "fitness": "Anda Fitness Center",
+   "meeting": "Conference and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Minneapolis-Hotels-Hotel-Ivy-a-Luxury-Collection-Hotel-Minneapolis.190452.ksp",
+   "cheapMonth": "January",
+   "low": 245,
+   "peakMonth": "October",
+   "high": 408,
+   "weekday2w": 355,
+   "weekend2w": 309,
+   "recentMin": 223,
+   "recentMax": 877,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g43323-d982749-Reviews-Hotel_Ivy_A_Luxury_Collection_Hotel_Minneapolis-Minneapolis_Minnesota.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hotel Ivy, Minneapolis",
+    "url": "https://us.trip.com/hotels/minneapolis-hotel-detail-3727093/hotel-ivy-a-luxury-collection-hotel-minneapolis/"
+   }
+  ]
+ },
+ "HIR-1234": {
+  "address": "1250 South Hayes Street, Arlington, VA 22202, USA",
+  "keys": 365,
+  "keysNote": "365 rooms",
+  "keysCheck": "Trip.com 365 vs original data 366",
+  "opened": "Opened 1990; renovated 2017 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Pentagon City, Arlington",
+   "dining": "Santé (Mediterranean); Lobby Lounge with afternoon tea (Trip.com, Kayak)",
+   "spa": "Spa",
+   "fitness": "Fitness center",
+   "meeting": "Conference and multi-function rooms; business center"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Arlington-Hotels-The-Ritz-Carlton-Pentagon-City.38406.ksp",
+   "cheapMonth": "July",
+   "low": 290,
+   "peakMonth": "April",
+   "high": 379,
+   "weekday2w": 370,
+   "weekend2w": 306,
+   "recentMin": 284,
+   "recentMax": 876,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g30242-d83956-Reviews-The_Ritz_Carlton_Pentagon_City-Arlington_Virginia.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Ritz-Carlton, Pentagon City",
+    "url": "https://www.trip.com/hotels/arlington-1-hotel-detail-2236127/the-ritz-carlton-pentagon-city/"
+   }
+  ]
+ },
+ "HIR-1107": {
+  "address": "200 International Drive, Baltimore, MD 21202, USA",
+  "keys": 256,
+  "keysNote": "256 rooms including 45 suites",
+  "keysCheck": "Kayak and Trip.com 256, match original data",
+  "opened": "",
+  "owner": "",
+  "amenities": {
+   "architecture": "Harbor East, overlooking the Inner Harbor",
+   "dining": "The Bygone (29th floor, 1920s-themed); Splash Terrace poolside restaurant (Kayak)",
+   "spa": "Spa of about 10,200 sq ft with 11 treatment rooms, Finnish sauna and aromatherapy steam room (Trip.com, Kayak)",
+   "pool": "Fourth-floor outdoor lap pool on the Splash Terrace with cabanas",
+   "fitness": "24-hour fitness center of about 1,800 sq ft",
+   "meeting": "Over 20,000 sq ft of indoor and outdoor event space; Grand Ballroom for over 400 (Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Baltimore-Hotels-Four-Seasons-Hotel-Baltimore.442926.ksp",
+   "cheapMonth": "March",
+   "low": 484,
+   "peakMonth": "August",
+   "high": 652,
+   "weekday2w": 466,
+   "weekend2w": 711,
+   "recentMin": 276,
+   "recentMax": 1011,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g60811-d2322597-Reviews-Four_Seasons_Hotel_Baltimore-Baltimore_Maryland.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Hotel Baltimore",
+    "url": "https://us.trip.com/hotels/baltimore-hotel-detail-2865592/four-seasons-baltimore/"
+   }
+  ]
+ },
+ "HIR-251": {
+  "address": "6711 Democracy Boulevard, Bethesda, MD 20817, USA",
+  "keys": 271,
+  "keysNote": "271 rooms",
+  "keysCheck": "Trip.com 271 vs original data 272. Address corrected from 4250 North Fairfax Drive (Kayak, Trip.com)",
+  "opened": "Trip.com lists 2022 as opening year as Embassy Suites by Hilton Bethesda Washington DC",
+  "owner": "",
+  "amenities": {
+   "dining": "Restaurant, bar and snack bar",
+   "pool": "Indoor and outdoor pools",
+   "fitness": "24-hour gym",
+   "meeting": "Meeting rooms and conference facilities; business center"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Bethesda-Hotels-Embassy-Suites-by-Hilton-Bethesda.15010.ksp",
+   "cheapMonth": "January",
+   "low": 125,
+   "peakMonth": "May",
+   "high": 209,
+   "weekday2w": 200,
+   "weekend2w": 201,
+   "recentMin": 157,
+   "recentMax": 330,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g41293-d83964-Reviews-Embassy_Suites_By_Hilton_Bethesda_Washington_DC-North_Bethesda_Montgomery_County_Maryland.html",
+  "sources": [
+   {
+    "label": "Trip.com — Embassy Suites by Hilton Bethesda Washington DC",
+    "url": "https://us.trip.com/hotels/bethesda-hotel-detail-2233619/embassy-suites-by-hilton-bethesda-washington-dc/"
+   }
+  ]
+ },
+ "HIR-200": {
+  "address": "48123 Highway 1, Big Sur, CA 93920, USA",
+  "keys": 59,
+  "keysNote": "59 rooms, 25 of them suites",
+  "keysCheck": "Kayak 59, matches original data; Trip.com lists 60 and 54",
+  "opened": "Opened 2019 as Alila Ventana (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Coastal resort above the Big Sur coast",
+   "dining": "The Sur House restaurant; Ocean Meadow Poolside Dining; poolside bar (Kayak, Trip.com). Inclusive meal plan (Trip.com)",
+   "spa": "Full-service spa",
+   "pool": "Two outdoor pools and Japanese heated baths",
+   "fitness": "Fitness center; daily yoga, Pilates or Tai Chi",
+   "meeting": "About 12,000 sq ft of meeting facilities (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Big-Sur-Hotels-Ventana-Big-Sur-an-Alila-Resort---Adults-Only.188376.ksp",
+   "cheapMonth": "January",
+   "low": 2159,
+   "peakMonth": "August",
+   "high": 2880,
+   "weekday2w": 3102,
+   "weekend2w": 2908,
+   "recentMin": 2947,
+   "recentMax": 3378
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g240329-d143905-Reviews-Alila_Ventana_Big_Sur-Big_Sur_California.html",
+  "sources": [
+   {
+    "label": "Trip.com — Alila Ventana Big Sur",
+    "url": "https://us.trip.com/hotels/big-sur-hotel-detail-3055642/alila-ventana-big-sur-inclusive-resort/"
+   }
+  ]
+ },
+ "HIR-208": {
+  "address": "5001 Coconut Road, Bonita Springs, FL 34134, USA",
+  "keys": 462,
+  "keysNote": "462 guest rooms",
+  "keysCheck": "Trip.com 462 matches original data; Kayak 454",
+  "opened": "Opened 2001 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Tanglewood; Tarpon; Corkscrew Poolside Bar & Grill; The Belvedere Room (Kayak)",
+   "spa": "Stillwater Spa",
+   "pool": "Pools including a family pool with waterslide, waterfall pool and adults-only lap pool; water park (Kayak, Trip.com)",
+   "fitness": "Fitness center and rock-climbing wall",
+   "meeting": "About 82,500 sq ft; Calusa Ballroom of over 14,000 sq ft for 1,000+ (Kayak, Trip.com)",
+   "other": "18-hole golf course (Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Bonita-Springs-Hotels-Hyatt-Regency-Coconut-Point-Resort-Spa.35812.ksp",
+   "cheapMonth": "September",
+   "low": 403,
+   "peakMonth": "February",
+   "high": 961,
+   "weekday2w": 526,
+   "weekend2w": 554,
+   "recentMin": 396,
+   "recentMax": 624,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g34091-d231916-Reviews-Hyatt_Regency_Coconut_Point_Resort_And_Spa-Bonita_Springs_Florida.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hyatt Regency Coconut Point",
+    "url": "https://www.trip.com/hotels/estero-hotel-detail-2878773/hyatt-regency-coconut-point-resort-spa-near-naples/"
+   }
+  ]
+ },
+ "HIR-252": {
+  "address": "60 Battery Street, Burlington, VT 05401, USA",
+  "keys": 250,
+  "keysNote": "250 rooms",
+  "keysCheck": "Trip.com 250 vs original data 258. Street number corrected from 110 to 60 Battery Street (Kayak, Trip.com)",
+  "opened": "Trip.com lists 2007; now Hotel Champlain Burlington, Curio Collection by Hilton",
+  "owner": "",
+  "amenities": {
+   "architecture": "On the Lake Champlain waterfront",
+   "dining": "Mounted Cat Restaurant & Bar (Kayak); Lily Mays Cafe; Original Skiff Fish/Oysters (Trip.com)",
+   "pool": "Indoor and outdoor pools (Kayak)",
+   "fitness": "Lake-view fitness center",
+   "meeting": "Conference and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Burlington-Hotels-Hotel-Champlain-Burlington-Curio-Collection-by-Hilton.66728.ksp",
+   "cheapMonth": "March",
+   "low": 178,
+   "peakMonth": "October",
+   "high": 420,
+   "weekday2w": 357,
+   "weekend2w": 362,
+   "recentMin": 185,
+   "recentMax": 576,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g57201-d125117-Reviews-Hotel_Champlain_Burlington_Curio_Collection_By_Hilton-Burlington_Vermont.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hotel Champlain Burlington",
+    "url": "https://www.trip.com/hotels/burlington-6-hotel-detail-2375220/hotel-champlain-burlington-curio-collection-by-hilton/"
+   }
+  ]
+ },
+ "HIR-1123": {
+  "address": "400 Silverado Trail North, Calistoga, CA 94515, USA",
+  "keys": 85,
+  "keysNote": "85 rooms including 17 one-bedroom suites and a three-bedroom suite",
+  "keysCheck": "Kayak and Trip.com 85, match original data",
+  "opened": "Opened 2021 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Resort with an on-site winery on a 5.6-acre vineyard (Trip.com)",
+   "dining": "Auro (named in guest reviews); pool grill; general store; bar",
+   "spa": "Spa with eight treatment rooms, relaxation lounge, nail salon and two vineyard cabanas",
+   "pool": "Family pool and adults-only pool",
+   "fitness": "24-hour fitness centre with terrace",
+   "meeting": "Indoor-outdoor event spaces for 10–200 guests (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Calistoga-Hotels-Four-Seasons-Resort-and-Residences-Napa-Valley.4848962.ksp",
+   "cheapMonth": "January",
+   "low": 1003,
+   "peakMonth": "October",
+   "high": 1981,
+   "weekday2w": 1825,
+   "weekend2w": 2610,
+   "recentMin": 1417,
+   "recentMax": 3082,
+   "note": "Kayak's season table names November as most expensive; FAQ names October"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g32143-d16669524-Reviews-Four_Seasons_Resort_and_Residences_Napa_Valley-Calistoga_Napa_Valley_California.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Resort Napa Valley",
+    "url": "https://us.trip.com/hotels/calistoga-hotel-detail-33520936/four-seasons-resort-and-residences-napa-valley/"
+   }
+  ]
+ },
+ "HIR-1061": {
+  "address": "1 Kayenta Road, Canyon Point, UT 84741, USA",
+  "keys": 34,
+  "keysNote": "34 guest rooms (Kayak); Trip.com lists 44 including Camp Sarika tented pavilions",
+  "keysCheck": "Kayak 34; Trip.com 44; original data 18; unconfirmed",
+  "opened": "Opened 2009; renovated 2024 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Modernist suites on 920 acres of red-rock country, with tented pavilions at nearby Camp Sarika (Trip.com)",
+   "dining": "Restaurant and bar; outdoor dining rooms at Amangiri and Camp Sarika",
+   "spa": "Spa with water pavilion, sauna, steam room, flotation therapy and cold plunge (Kayak)",
+   "pool": "Central heated outdoor pool",
+   "fitness": "Fitness center; yoga pavilion",
+   "other": "Horse riding, hiking and guided excursions"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Big-Water-Hotels-Amangiri.382011.ksp",
+   "basis": "2wk",
+   "cheapMonth": "March",
+   "low": 5936,
+   "peakMonth": "May",
+   "high": 7903,
+   "weekday2w": 5936,
+   "weekend2w": 7903,
+   "recentMin": 5527,
+   "recentMax": 8260,
+   "note": "Kayak shows no monthly averages for this hotel; low/high are the 2-week weeknight and weekend averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g56933-d1563873-Reviews-Amangiri-Big_Water_Utah.html",
+  "sources": [
+   {
+    "label": "Trip.com — Amangiri",
+    "url": "https://us.trip.com/hotels/canyon-point-hotel-detail-22999270/amangiri/"
+   }
+  ]
+ },
+ "HIR-264": {
+  "address": "68 Wentworth Street, Charleston, SC 29401, USA",
+  "keys": 167,
+  "keysNote": "167 rooms (unconfirmed)",
+  "keysCheck": "Unconfirmed: Trip.com lists 68; Kayak gives no count; original data 167 retained. Address corrected from 125 Calhoun Street (Kayak, Trip.com)",
+  "opened": "Opened 2001; renovated 2016 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Historic district; now The Lindy Renaissance Charleston Hotel",
+   "dining": "Handy & Hot café; restaurant and lobby bar (Kayak, Trip.com)",
+   "pool": "Rooftop pool (Kayak; reviewers report closures)",
+   "fitness": "Fitness center",
+   "meeting": "Meeting spaces with catering and AV support"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Charleston-Hotels-Renaissance-Charleston-Historic-District-Hotel.44441.ksp",
+   "cheapMonth": "January",
+   "low": 305,
+   "peakMonth": "April",
+   "high": 551,
+   "weekday2w": 515,
+   "weekend2w": 612,
+   "recentMin": 366,
+   "recentMax": 700,
+   "note": "Kayak's season table names December as cheapest; FAQ names January"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g54171-d217823-Reviews-The_Lindy_Renaissance_Charleston_Hotel-Charleston_South_Carolina.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Lindy Renaissance Charleston Hotel",
+    "url": "https://www.trip.com/hotels/charleston-hotel-detail-2224482/renaissance-charleston-historic-district-hotel/"
+   }
+  ]
+ },
+ "HIR-1233": {
+  "address": "1515 West 3rd Street, Cleveland, OH 44113, USA",
+  "keys": 206,
+  "keysNote": "206 guest rooms and suites",
+  "keysCheck": "Trip.com 206 vs original data 205",
+  "opened": "Opened 1990; renovated 2017 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Downtown at Tower City",
+   "dining": "All-day restaurant and lounge (Trip.com)",
+   "spa": "Spa and sauna",
+   "fitness": "Fitness center",
+   "meeting": "Conference and multi-function rooms; business center"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Cleveland-Hotels-The-Ritz-Carlton-Cleveland.38403.ksp",
+   "cheapMonth": "February",
+   "low": 276,
+   "peakMonth": "January",
+   "high": 340,
+   "weekday2w": 329,
+   "weekend2w": 1154,
+   "recentMin": 294,
+   "recentMax": 1291,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g50207-d95213-Reviews-The_Ritz_Carlton_Cleveland-Cleveland_Ohio.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Ritz-Carlton, Cleveland",
+    "url": "https://us.trip.com/hotels/cleveland-hotel-detail-2127424/the-ritz-carlton-cleveland/"
+   }
+  ]
+ },
+ "HIR-127": {
+  "address": "50 West Broad Street, Columbus, OH 43215, USA",
+  "keys": 149,
+  "keysNote": "149 rooms",
+  "keysCheck": "Kayak 149 matches original data; Trip.com 150",
+  "opened": "Opened 2017 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "In the historic LeVeque Tower downtown (Kayak, Trip.com)",
+   "dining": "The Keep Kitchen & Liquor Bar (modern French); lobby Starbucks (Trip.com, Kayak)",
+   "spa": "Spa and salon",
+   "fitness": "Gym with Peloton bikes",
+   "meeting": "Conference and multi-function rooms; event venues"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Columbus-Hotels-Hotel-LeVeque-Autograph-Collection.2492863.ksp",
+   "cheapMonth": "November",
+   "low": 240,
+   "peakMonth": "June",
+   "high": 330,
+   "weekday2w": 243,
+   "weekend2w": 386,
+   "recentMin": 239,
+   "recentMax": 498,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g50226-d10507713-Reviews-Hotel_Leveque_Autograph_Collection-Columbus_Ohio.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hotel LeVeque",
+    "url": "https://www.trip.com/hotels/columbus-hotel-detail-9825370/hotel-leveque-autograph-collection/"
+   }
+  ]
+ },
+ "HIR-126": {
+  "address": "620 North High Street, Columbus, OH 43215, USA",
+  "keys": 135,
+  "keysNote": "135 rooms",
+  "keysCheck": "Kayak and Trip.com 135, match original data",
+  "opened": "Opened 2015 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Short North arts district",
+   "dining": "The Guild House; Soul at the Joseph cocktail bar (Trip.com)",
+   "spa": "Spa suites",
+   "fitness": "24-hour gym",
+   "meeting": "Four event rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Columbus-Hotels-Le-Meridien-Columbus-The-Joseph.2204950.ksp",
+   "cheapMonth": "December",
+   "low": 254,
+   "peakMonth": "June",
+   "high": 389,
+   "weekday2w": 271,
+   "weekend2w": 377,
+   "recentMin": 181,
+   "recentMax": 632,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g50226-d7182317-Reviews-Le_Meridien_Columbus_The_Joseph-Columbus_Ohio.html",
+  "sources": [
+   {
+    "label": "Trip.com — Le Méridien Columbus, The Joseph",
+    "url": "https://us.trip.com/hotels/columbus-hotel-detail-2889044/le-mridien-columbus-the-joseph/"
+   }
+  ]
+ },
+ "HIR-253": {
+  "address": "200 Henderson Resort Way, Destin, FL 32541, USA",
+  "keys": 170,
+  "keysNote": "170 guest rooms (Trip.com description)",
+  "keysCheck": "Trip.com description 170, listing 162; original data 270; unconfirmed",
+  "opened": "Opened 2016 (Trip.com); now The Henderson Beach Resort & Spa",
+  "owner": "",
+  "amenities": {
+   "architecture": "Beachfront next to Henderson Beach State Park",
+   "dining": "Four restaurants, two cafés, beach bar, pool bar and two lounges (Trip.com)",
+   "spa": "Full-service spa",
+   "pool": "Two outdoor pools, a zero-entry pool and a lazy river",
+   "fitness": "24-hour fitness center",
+   "meeting": "About 10,000 sq ft across 7 meeting rooms (Trip.com); Crystal Ballroom for 300, Grand Plaza for 250 (Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Destin-Hotels-The-Henderson-Beach-Resort-Spa.2450803.ksp",
+   "cheapMonth": "December",
+   "low": 344,
+   "peakMonth": "July",
+   "high": 650,
+   "weekday2w": 437,
+   "weekend2w": 623,
+   "recentMin": 263,
+   "recentMax": 1238,
+   "note": "Kayak's season table names November as cheapest; FAQ names December"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g34182-d9589407-Reviews-Henderson_Beach_Resort-Destin_Florida.html",
+  "sources": [
+   {
+    "label": "Trip.com — Henderson Beach Resort",
+    "url": "https://us.trip.com/hotels/destin-hotel-detail-10000389/the-henderson-a-salamander-beach-and-spa-resort/"
+   }
+  ]
+ },
+ "HIR-254": {
+  "address": "2700 Scenic Highway 98, Destin, FL 32541, USA",
+  "keys": 37,
+  "keysNote": "37 rooms",
+  "keysCheck": "Trip.com 37, matches original data",
+  "opened": "",
+  "owner": "",
+  "amenities": {
+   "architecture": "Adults-only beachfront inn with private beach (Kayak, Trip.com)",
+   "dining": "Restaurant; Beach Walk Café, Tiki Bar and cabana bar named in guest reviews",
+   "pool": "No pool"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Destin-Hotels-Henderson-Park-Inn-B-B.94959.ksp",
+   "cheapMonth": "December",
+   "low": 434,
+   "peakMonth": "May",
+   "high": 901,
+   "weekday2w": 760,
+   "weekend2w": 831,
+   "recentMin": 664,
+   "recentMax": 862,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g34182-d673553-Reviews-Henderson_Park_Inn-Destin_Florida.html",
+  "sources": [
+   {
+    "label": "Trip.com — Henderson Park Inn",
+    "url": "https://us.trip.com/hotels/destin-hotel-detail-23582369/henderson-park-inn/"
+   }
+  ]
+ },
+ "HIR-1138": {
+  "address": "2050 University Avenue, East Palo Alto, CA 94303, USA",
+  "keys": 200,
+  "keysNote": "200 rooms",
+  "keysCheck": "Trip.com 200, matches original data",
+  "opened": "Opened 2005 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Restaurant, bar, lobby bar and café (Trip.com); outdoor firepit seating",
+   "pool": "Outdoor rooftop lap pool with whirlpool (Kayak; Trip.com's FAQ contradicts)",
+   "spa": "Spa (Trip.com lists it as off-site)",
+   "fitness": "Fitness centre",
+   "meeting": "Conference and multi-function rooms; coworking space"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Palo-Alto-Hotels-Four-Seasons-Hotel-Silicon-Valley-at-East-Palo-Alto.104242.ksp",
+   "cheapMonth": "January",
+   "low": 512,
+   "peakMonth": "June",
+   "high": 849,
+   "weekday2w": 665,
+   "weekend2w": 592,
+   "recentMin": 387,
+   "recentMax": 2682,
+   "note": "Kayak's season table names April as most expensive; FAQ names June"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g32326-d579049-Reviews-Four_Seasons_Hotel_Silicon_Valley_at_East_Palo_Alto-East_Palo_Alto_California.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Hotel Silicon Valley",
+    "url": "https://www.trip.com/hotels/east-palo-alto-hotel-detail-2198760/four-seasons-hotel-silicon-valley-at-east-palo-alto/"
+   }
+  ]
+ },
+ "HIR-130": {
+  "address": "3700 Camp Bowie Boulevard, Fort Worth, TX 76107, USA",
+  "keys": 106,
+  "keysNote": "106 rooms",
+  "keysCheck": "Kayak and Trip.com 106 vs original data 75. Address corrected from 509 Commerce Street (Kayak, Trip.com)",
+  "opened": "Opened 2023 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Cultural District; Bowie House, Auberge Collection",
+   "dining": "Bricks and Horses restaurant; poolside bar and two bars/lounges (Trip.com)",
+   "spa": "Full-service spa with sauna and steam room",
+   "pool": "Outdoor pool",
+   "fitness": "24-hour fitness center",
+   "meeting": "Conference and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Fort-Worth-Hotels-Bowie-House-Auberge-Collection.1070818929.ksp",
+   "cheapMonth": "December",
+   "low": 473,
+   "peakMonth": "April",
+   "high": 794,
+   "weekday2w": 554,
+   "weekend2w": 990,
+   "recentMin": 523,
+   "recentMax": 583,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g55857-d26864980-Reviews-Bowie_House_Auberge_Collection-Fort_Worth_Texas.html",
+  "sources": [
+   {
+    "label": "Trip.com — Bowie House, Auberge Collection",
+    "url": "https://www.trip.com/hotels/fort-worth-hotel-detail-111969481/hotel/"
+   }
+  ]
+ },
+ "HIR-131": {
+  "address": "200 Mule Alley Drive, Fort Worth, TX 76164, USA",
+  "keys": 187,
+  "keysNote": "187 rooms",
+  "keysCheck": "Trip.com 187 vs original data 200. Address corrected from 200 Exchange Avenue (Kayak, Trip.com)",
+  "opened": "Opened 2021 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "In the Fort Worth Stockyards, on Mule Alley",
+   "dining": "Restaurant and bar/lounge",
+   "pool": "Heated outdoor pool",
+   "fitness": "Fitness room",
+   "meeting": "Meeting and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Fort-Worth-Hotels-Hotel-Drover-Autograph-Collection.6463285.ksp",
+   "cheapMonth": "August",
+   "low": 626,
+   "peakMonth": "June",
+   "high": 1023,
+   "weekday2w": 720,
+   "weekend2w": 2805,
+   "recentMin": 610,
+   "recentMax": 2199,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g55857-d21309610-Reviews-Hotel_Drover_Autograph_Collection-Fort_Worth_Texas.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hotel Drover, Autograph Collection",
+    "url": "https://sg.trip.com/hotels/fort-worth-hotel-detail-70989291/hotel-drover-autograph-collection/"
+   }
+  ]
+ },
+ "HIR-241": {
+  "address": "200 Main Street, Fort Worth, TX 76102, USA",
+  "keys": 504,
+  "keysNote": "504 rooms",
+  "keysCheck": "Trip.com 504, matches original data",
+  "opened": "Opened 1999; renovated 2017 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Sundance Square, downtown",
+   "dining": "Vidalias; Lobby Lounge (Kayak)",
+   "spa": "Spa with hot tub and sauna",
+   "pool": "Indoor heated pool",
+   "fitness": "Large fitness center",
+   "meeting": "Meeting and banquet facilities, rooftop event venue (Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Fort-Worth-Hotels-The-Worthington-Renaissance-Fort-Worth-Hotel.43395.ksp",
+   "cheapMonth": "December",
+   "low": 215,
+   "peakMonth": "January",
+   "high": 334,
+   "weekday2w": 246,
+   "weekend2w": 238,
+   "recentMin": 212,
+   "recentMax": 287,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g55857-d98856-Reviews-The_Worthington_Renaissance_Fort_Worth_Hotel-Fort_Worth_Texas.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Worthington Renaissance",
+    "url": "https://us.trip.com/hotels/fort-worth-hotel-detail-2114143/the-worthington-renaissance-fort-worth-hotel/"
+   }
+  ]
+ },
+ "HIR-003": {
+  "address": "2005 Kalia Road, Honolulu, HI 96815, USA",
+  "keys": 2886,
+  "keysNote": "2,886 guest rooms and suites across five towers",
+  "keysCheck": "Trip.com 2,886 vs original data 2,860",
+  "opened": "Opened 1961; renovated 2025 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "22 oceanfront acres in Waikiki with five towers including the Rainbow Tower (Trip.com)",
+   "dining": "18 restaurants and bars, including Bali Steak and Seafood, Hau Tree Cantina and Rainbow Lanai (Trip.com, Kayak)",
+   "spa": "Mandara Spa",
+   "pool": "Five pools including Paradise Pool with a long waterslide; saltwater Duke Kahanamoku Lagoon",
+   "fitness": "Fitness center",
+   "meeting": "Conference and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Honolulu-Hotels-Hilton-Hawaiian-Village-Waikiki-Beach-Resort.143362.ksp",
+   "cheapMonth": "November",
+   "low": 334,
+   "peakMonth": "July",
+   "high": 421,
+   "weekday2w": 346,
+   "weekend2w": 347,
+   "recentMin": 277,
+   "recentMax": 664,
+   "note": "Kayak's season table names June as most expensive; FAQ names July"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g60982-d87016-Reviews-Hilton_Hawaiian_Village_Waikiki_Beach_Resort-Honolulu_Oahu_Hawaii.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hilton Hawaiian Village",
+    "url": "https://us.trip.com/hotels/honolulu-hotel-detail-1565696/hilton-hawaiian-village-waikiki-beach-resort/"
+   }
+  ]
+ },
+ "HIR-265": {
+  "address": "500 Pacific Coast Highway, Huntington Beach, CA 92648, USA",
+  "keys": 153,
+  "keysNote": "153 rooms",
+  "keysCheck": "Trip.com 153 vs original data 157",
+  "opened": "Opened 2008; renovated 2015 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Across from the beach at Main Street and PCH",
+   "dining": "Pacific Hideaway bar and restaurant",
+   "fitness": "Gym with climbing wall",
+   "meeting": "Conference rooms for up to 200 with AV, banquet facilities and outdoor courtyard (Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Huntington-Beach-Hotels-Kimpton-Shorebreak-Huntington-Beach-Resort.243940.ksp",
+   "cheapMonth": "December",
+   "low": 291,
+   "peakMonth": "July",
+   "high": 542,
+   "weekday2w": 397,
+   "weekend2w": 503,
+   "recentMin": 318,
+   "recentMax": 1127,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g32513-d1231115-Reviews-Kimpton_Shorebreak_Huntington_Beach_Resort-Huntington_Beach_California.html",
+  "sources": [
+   {
+    "label": "Trip.com — Kimpton Shorebreak Huntington Beach",
+    "url": "https://us.trip.com/hotels/huntington-beach-hotel-detail-735419/kimpton-shorebreak-huntington-beach-resort/"
+   }
+  ]
+ },
+ "HIR-124": {
+  "address": "50 West Washington Street, Indianapolis, IN 46204, USA",
+  "keys": 247,
+  "keysNote": "247 rooms and suites",
+  "keysCheck": "Kayak and Trip.com 247 vs original data 241",
+  "opened": "Opened 2006; renovated 2013 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "23 floors (Trip.com)",
+   "dining": "The Capital Grille; The Lounge (Trip.com)",
+   "spa": "Conrad Spa with sauna and steam room",
+   "pool": "Indoor pool",
+   "fitness": "Wellness center gym",
+   "meeting": "15,000 sq ft of meeting space (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Indianapolis-Hotels-Conrad-Indianapolis.129901.ksp",
+   "cheapMonth": "January",
+   "low": 220,
+   "peakMonth": "June",
+   "high": 373,
+   "weekday2w": 223,
+   "weekend2w": 263,
+   "recentMin": 189,
+   "recentMax": 1077,
+   "note": "Kayak's season table names March as cheapest; FAQ names January"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g37209-d576787-Reviews-Conrad_Indianapolis-Indianapolis_Indiana.html",
+  "sources": [
+   {
+    "label": "Trip.com — Conrad Indianapolis",
+    "url": "https://us.trip.com/hotels/indianapolis-hotel-detail-2232889/conrad-indianapolis/"
+   }
+  ]
+ },
+ "HIR-125": {
+  "address": "10 South West Street, Indianapolis, IN 46204, USA",
+  "keys": 1013,
+  "keysNote": "1,013 rooms",
+  "keysCheck": "Trip.com 1,013 vs original data 1,005",
+  "opened": "Opened 2011; renovated 2020 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Dean's Steak & Seafood; OP Italian; High Velocity sports bar; Starbucks (Kayak, Trip.com)",
+   "spa": "Spa",
+   "pool": "Indoor pool and whirlpool (Kayak)",
+   "fitness": "24-hour fitness center",
+   "meeting": "Extensive meeting space; conference and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Indianapolis-Hotels-JW-Marriott-Indianapolis.342875.ksp",
+   "cheapMonth": "November",
+   "low": 237,
+   "peakMonth": "April",
+   "high": 262,
+   "weekday2w": 258,
+   "weekend2w": 368,
+   "recentMin": 216,
+   "recentMax": 408,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g37209-d1762915-Reviews-JW_Marriott_Indianapolis-Indianapolis_Indiana.html",
+  "sources": [
+   {
+    "label": "Trip.com — JW Marriott Indianapolis",
+    "url": "https://us.trip.com/hotels/indianapolis-hotel-detail-2232577/jw-marriott-indianapolis/"
+   }
+  ]
+ },
+ "HIR-1062": {
+  "address": "1535 North East Butte Road, Jackson, WY 83001, USA",
+  "keys": 40,
+  "keysNote": "40 rooms",
+  "keysCheck": "Kayak and Trip.com 40, match original data",
+  "opened": "Opened 1998 (Trip.com). Guest reviews from March–April 2025 report a closure for extensive renovation; no reopening date given",
+  "owner": "",
+  "amenities": {
+   "architecture": "Rustic mountain retreat with Oklahoma sandstone columns and Pacific redwood beams (Trip.com)",
+   "dining": "The Grill (redwood-panelled); 2 bars/lounges",
+   "spa": "Spa",
+   "pool": "35-metre heated outdoor pool facing the Tetons",
+   "fitness": "24-hour fitness center and sauna"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Jackson-Hotels-Amangani.97119.ksp",
+   "unavailable": true,
+   "note": "Kayak shows no price history for this hotel"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g60491-d125178-Reviews-Amangani-Jackson_Jackson_Hole_Wyoming.html",
+  "sources": [
+   {
+    "label": "Trip.com — Amangani",
+    "url": "https://us.trip.com/hotels/jackson-2-hotel-detail-23010927/amangani/"
+   }
+  ]
+ },
+ "HIR-201": {
+  "address": "7680 Granite Loop Road, Teton Village, WY 83025, USA",
+  "keys": 157,
+  "keysNote": "157 guest rooms, suites and resort residences (Kayak)",
+  "keysCheck": "Kayak 157; Trip.com 180; original data 125; unconfirmed",
+  "opened": "Opened 2003; renovated 2022 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Ski-in/ski-out at the base of Jackson Hole Mountain Resort",
+   "dining": "Westbank Grill; The Handle Bar; Ascent Lounge; The Pool Cafe (Kayak)",
+   "spa": "Spa",
+   "pool": "Indoor and outdoor pools",
+   "fitness": "Fitness center",
+   "meeting": "10,900 sq ft for up to 400 (Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Teton-Village-Hotels-Four-Seasons-Resort-Jackson-Hole.38310.ksp",
+   "cheapMonth": "November",
+   "low": 652,
+   "peakMonth": "February",
+   "high": 2502,
+   "weekday2w": 1318,
+   "weekend2w": 1204,
+   "recentMin": 782,
+   "recentMax": 3618,
+   "note": "Kayak's season table names December as most expensive; FAQ names February"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g60562-d278382-Reviews-Four_Seasons_Resort_and_Residences_Jackson_Hole-Teton_Village_Jackson_Hole_Wyoming.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Resort Jackson Hole",
+    "url": "https://www.trip.com/hotels/teton-village-hotel-detail-2118427/four-seasons-resort-jackson-hole/"
+   }
+  ]
+ },
+ "HIR-213": {
+  "address": "57-091 Kamehameha Highway, Kahuku, HI 96731, USA",
+  "keys": 450,
+  "keysNote": "450 rooms (unconfirmed)",
+  "keysCheck": "Unconfirmed: Trip.com lists 320; Kayak gives no count; original data 450 retained",
+  "opened": "Formerly Turtle Bay Resort; Trip.com lists 2024 under the Ritz-Carlton name",
+  "owner": "",
+  "amenities": {
+   "architecture": "Oceanfront on O'ahu's North Shore",
+   "dining": "Pa'akai; The Point: Sunset & Pool Bar; The Surfer Bar; luau (Kayak)",
+   "spa": "Spa, including treatments for ages 7–17",
+   "pool": "Outdoor pool, kids' pool with slide, adults-only pool area; private pools in ocean villas",
+   "fitness": "Fitness center, classes and tennis",
+   "other": "Golf offered as an activity"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Kahuku-Hotels-Turtle-Bay-Resort.316996.ksp",
+   "cheapMonth": "October",
+   "low": 877,
+   "peakMonth": "April",
+   "high": 1197,
+   "weekday2w": 947,
+   "weekend2w": 937,
+   "recentMin": 636,
+   "recentMax": 1299,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g60651-d87158-Reviews-The_Ritz_Carlton_O_ahu_Turtle_Bay-Kahuku_Oahu_Hawaii.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Ritz-Carlton O'ahu, Turtle Bay",
+    "url": "https://us.trip.com/hotels/kawela-bay-hotel-detail-122136850/the-ritz-carlton-oahu-turtle-bay/"
+   }
+  ]
+ },
+ "HIR-212": {
+  "address": "200 Nohea Kai Drive, Lahaina, HI 96761, USA",
+  "keys": 806,
+  "keysNote": "806 rooms including 31 suites (Kayak)",
+  "keysCheck": "Kayak 806; Trip.com 1,004; original data 810",
+  "opened": "Opened 1980; renovated 2016 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "40 beachfront acres on Ka'anapali Beach (Trip.com)",
+   "dining": "Eight dining options including a steakhouse and swim-up bar (Kayak)",
+   "spa": "Oceanview spa and sauna",
+   "pool": "Six pool areas with waterfalls and a water slide",
+   "fitness": "24-hour Moana Athletic Club with daily classes",
+   "meeting": "Conference and multi-function rooms; business center"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Lahaina-Hotels-Hyatt-Regency-Maui-Resort-And-Spa.62488.ksp",
+   "cheapMonth": "June",
+   "low": 603,
+   "peakMonth": "December",
+   "high": 997,
+   "weekday2w": 681,
+   "weekend2w": 710,
+   "recentMin": 533,
+   "recentMax": 2960,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g60634-d101352-Reviews-Hyatt_Regency_Maui_Resort_And_Spa-Lahaina_Maui_Hawaii.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hyatt Regency Maui Resort & Spa",
+    "url": "https://us.trip.com/hotels/lahaina-hotel-detail-2193670/hyatt-regency-maui-resort-and-spa/"
+   }
+  ]
+ },
+ "HIR-1113": {
+  "address": "72-100 Ka'upulehu Drive, Kailua-Kona, HI 96740, USA",
+  "keys": 243,
+  "keysNote": "243 guest rooms and suites",
+  "keysCheck": "Trip.com description 243 (listing 249), matches original data",
+  "opened": "Opened 1996 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Three restaurants and two oceanside lounges (Trip.com, Kayak)",
+   "spa": "28,000 sq ft spa with lap pool, saunas, steam rooms and cold plunges (Trip.com)",
+   "pool": "Seven pools including a saltwater pool and an adults-only pool",
+   "fitness": "24/7 fitness center",
+   "other": "18-hole Jack Nicklaus signature Hualalai Golf Course"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Kailua-Kona-Hotels-Four-Seasons-Resort-Hualalai.90444.ksp",
+   "cheapMonth": "October",
+   "low": 1483,
+   "peakMonth": "February",
+   "high": 2198,
+   "weekday2w": 2015,
+   "weekend2w": 1512,
+   "recentMin": 1433,
+   "recentMax": 4548,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g60872-d111582-Reviews-Four_Seasons_Resort_Hualalai-Kailua_Kona_Island_of_Hawaii_Hawaii.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Resort Hualalai",
+    "url": "https://www.trip.com/hotels/the-big-island-hotel-detail-2105357/four-seasons-resort-hualalai/"
+   }
+  ]
+ },
+ "HIR-1129": {
+  "address": "92-1001 Olani Street, Kapolei, HI 96707, USA",
+  "keys": 371,
+  "keysNote": "371 guest rooms",
+  "keysCheck": "Kayak 371 matches original data; Trip.com lists 370 and 358",
+  "opened": "Opened 2016 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Oceanfront at Ko Olina; suites up to floors 12–17",
+   "dining": "Mina's Fish House; La Hiki; Noe (Italian); Waterman Bar & Grill; Hokulea (Kayak, Trip.com)",
+   "spa": "Naupaka Spa & Wellness",
+   "pool": "Family, Adult and Serenity pools including an infinity pool",
+   "fitness": "Fitness center and classes",
+   "meeting": "Conference and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Kapolei-Hotels-Four-Seasons-Resort-Oahu-At-Ko-Olina.2276401.ksp",
+   "cheapMonth": "September",
+   "low": 979,
+   "peakMonth": "December",
+   "high": 1408,
+   "weekday2w": 1157,
+   "weekend2w": 1260,
+   "recentMin": 895,
+   "recentMax": 1640,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g60654-d8684459-Reviews-Four_Seasons_Resort_Oahu_At_Ko_Olina-Kapolei_Oahu_Hawaii.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Resort Oahu at Ko Olina",
+    "url": "https://us.trip.com/hotels/kapolei-hotel-detail-5607433/four-seasons-resort-o-ahu-at-ko-olina/"
+   }
+  ]
+ },
+ "HIR-216": {
+  "address": "97000 Overseas Highway, Key Largo, FL 33037, USA",
+  "keys": 200,
+  "keysNote": "200 rooms",
+  "keysCheck": "Kayak and Trip.com 200, match original data",
+  "opened": "Trip.com lists 2008",
+  "owner": "",
+  "amenities": {
+   "dining": "Restaurant, bar and snack bar",
+   "spa": "Spa and salon",
+   "pool": "Outdoor pool and Jacuzzi",
+   "fitness": "Fitness center",
+   "meeting": "Over 27,000 sq ft of event space including a ballroom (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Key-Largo-Hotels-Baker-s-Cay-Resort-Key-Largo-Curio-Collection-by-Hilton.4633058.ksp",
+   "cheapMonth": "September",
+   "low": 368,
+   "peakMonth": "March",
+   "high": 768,
+   "weekday2w": 391,
+   "weekend2w": 555,
+   "recentMin": 307,
+   "recentMax": 638,
+   "note": "Kayak's season table names October as cheapest; FAQ names September"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g34344-d207829-Reviews-Baker_s_Cay_Resort_Key_Largo_Curio_Collection_by_Hilton-Key_Largo_Florida_Keys_Florida.html",
+  "sources": [
+   {
+    "label": "Trip.com — Baker's Cay Resort Key Largo",
+    "url": "https://www.trip.com/hotels/key-largo-hotel-detail-2143517/baker-s-cay-resort-key-largo-curio-collection-by-hilton/"
+   }
+  ]
+ },
+ "HIR-262": {
+  "address": "3420 North Roosevelt Boulevard, Key West, FL 33040, USA",
+  "keys": 106,
+  "keysNote": "106 rooms",
+  "keysCheck": "Trip.com 106, matches original data. Address corrected from 1405 Reynolds Street (Kayak, Trip.com)",
+  "opened": "",
+  "owner": "",
+  "amenities": {
+   "dining": "Restaurant, deli, bar/lounge and poolside bar; Floridita food truck (Kayak, Trip.com)",
+   "pool": "Large outdoor pool and hot tub",
+   "fitness": "No on-site gym; complimentary use of a nearby fitness facility (Trip.com)",
+   "other": "Free shuttle and on-site parking"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Key-West-Hotels-Havana-Cabana-at-Key-West.891322.ksp",
+   "cheapMonth": "September",
+   "low": 216,
+   "peakMonth": "March",
+   "high": 483,
+   "weekday2w": 307,
+   "weekend2w": 320,
+   "recentMin": 157,
+   "recentMax": 515,
+   "note": "Kayak's season table names December as most expensive; FAQ names March"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g34345-d209365-Reviews-Havana_Cabana-Key_West_Florida_Keys_Florida.html",
+  "sources": [
+   {
+    "label": "Trip.com — Havana Cabana at Key West",
+    "url": "https://www.trip.com/hotels/key-west-hotel-detail-3029341/havana-cabana-at-key-west/"
+   }
+  ]
+ },
+ "HIR-261": {
+  "address": "2001 South Roosevelt Boulevard, Key West, FL 33040, USA",
+  "keys": 186,
+  "keysNote": "186 rooms",
+  "keysCheck": "Trip.com 186, matches original data. Address corrected from 1435 Simonton Street (Kayak, Trip.com)",
+  "opened": "",
+  "owner": "",
+  "amenities": {
+   "architecture": "Across from Smathers Beach",
+   "dining": "Restaurant, bar/lounge and poolside bar",
+   "pool": "Heated outdoor pool and hot tub",
+   "fitness": "24-hour fitness center"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Key-West-Hotels-Margaritaville-Beach-House-Key-West.6598087.ksp",
+   "cheapMonth": "September",
+   "low": 282,
+   "peakMonth": "February",
+   "high": 710,
+   "weekday2w": 337,
+   "weekend2w": 370,
+   "recentMin": 242,
+   "recentMax": 503,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g34345-d126127-Reviews-Margaritaville_Beach_House_Key_West-Key_West_Florida_Keys_Florida.html",
+  "sources": [
+   {
+    "label": "Trip.com — Margaritaville Beach House Key West",
+    "url": "https://us.trip.com/hotels/key-west-hotel-detail-62396616/barbary-beach-house-key-west/"
+   }
+  ]
+ },
+ "HIR-1232": {
+  "address": "1 Ritz-Carlton Drive, Kapalua, HI 96761, USA",
+  "keys": 463,
+  "keysNote": "463 rooms",
+  "keysCheck": "Kayak 463 matches original data; Trip.com 470",
+  "opened": "Opened 1992; renovated 2017 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "'Olu Cafe; 'Olu Poolside; Burger Shack; The Banyan Tree; six restaurants in total (Trip.com, Kayak)",
+   "spa": "Spa",
+   "pool": "Outdoor pool and children's pool",
+   "fitness": "Fitness center",
+   "meeting": "Conference space for up to 100 and oval meeting room (Kayak)",
+   "other": "Access to 36 holes of golf at Kapalua (Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Kapalua-Hotels-The-Ritz-Carlton-Maui-Kapalua.206978.ksp",
+   "cheapMonth": "September",
+   "low": 771,
+   "peakMonth": "December",
+   "high": 1460,
+   "weekday2w": 936,
+   "weekend2w": 969,
+   "recentMin": 668,
+   "recentMax": 3571,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g209273-d111843-Reviews-The_Ritz_Carlton_Maui_Kapalua-Kapalua_Maui_Hawaii.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Ritz-Carlton Maui, Kapalua",
+    "url": "https://us.trip.com/hotels/kapalua-hotel-detail-2542805/the-ritz-carlton-kapalua/"
+   }
+  ]
+ },
+ "HIR-1114": {
+  "address": "1 Manele Bay Road, Lanai City, HI 96763, USA",
+  "keys": 213,
+  "keysNote": "213 rooms",
+  "keysCheck": "Trip.com listing 213 matches original data; Trip.com description 236",
+  "opened": "Opened 1991; renovated 2016 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Above Hulopoe Bay at Manele",
+   "dining": "Nobu; VIEWS; 9 restaurants and bars in total (Trip.com, Kayak)",
+   "spa": "Spa with 11 treatment rooms, saunas and steam rooms",
+   "pool": "Manele Bay pool with adjacent whirlpools",
+   "fitness": "Fitness center",
+   "other": "The Challenge at Manele golf course (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Lanai-City-Hotels-Four-Seasons-Resort-Lanai.62475.ksp",
+   "cheapMonth": "July",
+   "low": 1569,
+   "peakMonth": "January",
+   "high": 1818,
+   "weekday2w": 1680,
+   "weekend2w": 1507,
+   "recentMin": 1187,
+   "recentMax": 1935,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g60628-d87333-Reviews-Four_Seasons_Resort_Lanai-Lanai_City_Lanai_Hawaii.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Resort Lana'i",
+    "url": "https://www.trip.com/hotels/lanai-city-hotel-detail-1504811/four-seasons-resorts-lanai-at-manele-bay/"
+   }
+  ]
+ },
+ "HIR-1115": {
+  "address": "1 Keomoku Highway, Lanai City, HI 96763, USA",
+  "keys": 96,
+  "keysNote": "96 rooms",
+  "keysCheck": "Trip.com 96, matches original data",
+  "opened": "",
+  "owner": "",
+  "amenities": {
+   "architecture": "Wellness resort in Lanai's upcountry",
+   "dining": "Sensei by Nobu; bar; 24-hour room service (Trip.com)",
+   "spa": "Spa with private hale treatment spaces and sauna",
+   "pool": "Pool (sources conflict on indoor or outdoor)",
+   "fitness": "Fitness center",
+   "other": "Cavendish Golf Course nearby"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Lanai-City-Hotels-Four-Seasons-Resort-Lana-I-At-Koele.136520.ksp",
+   "cheapMonth": "September",
+   "low": 1034,
+   "peakMonth": "December",
+   "high": 1699,
+   "weekday2w": 1236,
+   "weekend2w": 1211,
+   "recentMin": 1043,
+   "recentMax": 1250,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g60628-d114056-Reviews-Sensei_Lanai_A_Four_Seasons_Resort-Lanai_City_Lanai_Hawaii.html",
+  "sources": [
+   {
+    "label": "Trip.com — Sensei Lanai, A Four Seasons Resort",
+    "url": "https://us.trip.com/hotels/lanai-city-hotel-detail-2117471/sensei-lanai-a-four-seasons-resort/"
+   }
+  ]
+ },
+ "HIR-1116": {
+  "address": "3960 South Las Vegas Boulevard, Las Vegas, NV 89119, USA",
+  "keys": 424,
+  "keysNote": "424 rooms (floors 35–39)",
+  "keysCheck": "Kayak and Trip.com 424, match original data",
+  "opened": "Opened 1999; renovated 2024 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Rooms on floors 35–39, adjacent to Mandalay Bay Resort & Casino (Trip.com)",
+   "dining": "Veranda (Italian); PRESS; Charlie Palmer Steak; lobby and pool bars (Trip.com, Kayak)",
+   "spa": "Forbes Five-Star spa",
+   "pool": "Private pool with cabanas, plus access to Mandalay Bay Beach",
+   "fitness": "10,700 sq ft fitness center (Kayak)",
+   "meeting": "28,300 sq ft of meeting space and a ballroom (Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Las-Vegas-Hotels-Four-Seasons-Hotel-Las-Vegas.12216.ksp",
+   "cheapMonth": "July",
+   "low": 398,
+   "peakMonth": "October",
+   "high": 663,
+   "weekday2w": 541,
+   "weekend2w": 626,
+   "recentMin": 434,
+   "recentMax": 1531,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g45963-d91674-Reviews-Four_Seasons_Hotel_Las_Vegas-Las_Vegas_Nevada.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Hotel Las Vegas",
+    "url": "https://us.trip.com/hotels/paradise-hotel-detail-2198766/four-seasons-hotel-las-vegas/"
+   }
+  ]
+ },
+ "HIR-268": {
+  "address": "2600 Overseas Highway, Marathon, FL 33050, USA",
+  "keys": 103,
+  "keysNote": "103 rooms",
+  "keysCheck": "Trip.com 103, matches original data",
+  "opened": "Opened 2005 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Butterfly Café; TJ's Tiki Bar; beach bar (Kayak, Trip.com)",
+   "pool": "Three outdoor pools, one heated",
+   "fitness": "Fitness center",
+   "meeting": "Conference and multi-function rooms; banquet hall",
+   "other": "Private beach"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Marathon-Hotels-Tranquility-Bay-Beachfront-Resort.129596.ksp",
+   "cheapMonth": "September",
+   "low": 306,
+   "peakMonth": "March",
+   "high": 695,
+   "weekday2w": 363,
+   "weekend2w": 361,
+   "recentMin": 236,
+   "recentMax": 583
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g34347-d571392-Reviews-Tranquility_Bay_Beachfront_Resort-Marathon_Florida_Keys_Florida.html",
+  "sources": [
+   {
+    "label": "Trip.com — Tranquility Bay Resort",
+    "url": "https://us.trip.com/hotels/marathon-hotel-detail-2880150/tranquility-bay-resort/"
+   }
+  ]
+ },
+ "HIR-1212": {
+  "address": "1759 South Jameson Lane, Montecito, CA 93108, USA",
+  "keys": 153,
+  "keysNote": "153 rooms",
+  "keysCheck": "Kayak and Trip.com 153 vs original data 161",
+  "opened": "Opened 2018 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Caruso's; four restaurants in total (Trip.com, Kayak)",
+   "spa": "Full-service spa, sauna and salon",
+   "pool": "Two outdoor pools, two hot tubs and a children's pool",
+   "fitness": "Fitness center",
+   "meeting": "Multi-function room"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Santa-Barbara-Hotels-Rosewood-Miramar-Beach.4252094.ksp",
+   "cheapMonth": "January",
+   "low": 1719,
+   "peakMonth": "July",
+   "high": 2521,
+   "weekday2w": 2122,
+   "weekend2w": 3863,
+   "recentMin": 1531,
+   "recentMax": 7743,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g32736-d1193143-Reviews-Rosewood_Miramar_Beach-Montecito_California.html",
+  "sources": [
+   {
+    "label": "Trip.com — Rosewood Miramar Beach",
+    "url": "https://us.trip.com/hotels/montecito-hotel-detail-24386651/rosewood-miramar-beach/"
+   }
+  ]
+ },
+ "HIR-1124": {
+  "address": "801 Gulf Shore Boulevard North, Naples, FL 34102, USA",
+  "keys": 220,
+  "keysNote": "220 guest rooms (Trip.com description)",
+  "keysCheck": "Trip.com description 220, listing 210; original data 219. Street number corrected from 851 to 801 (Kayak, Trip.com)",
+  "opened": "Opened 2025 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "HBs; two restaurants, bar/lounge, beach bar and café (Trip.com)",
+   "spa": "The Sanctuary Spa",
+   "pool": "Two outdoor pools and a children's pool",
+   "fitness": "Fitness center",
+   "meeting": "About 4,390 sq ft across 3 meeting rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Naples-Hotels-Naples-Beach-Club-A-Four-Seasons-Resort.1072597762.ksp",
+   "cheapMonth": "August",
+   "low": 908,
+   "peakMonth": "December",
+   "high": 2125,
+   "weekday2w": 2003,
+   "weekend2w": 1687,
+   "recentMin": 1227,
+   "recentMax": 7631,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g34467-d33228465-Reviews-Naples_Beach_Club_A_Four_Seasons_Resort-Naples_Florida.html",
+  "sources": [
+   {
+    "label": "Trip.com — Naples Beach Club, A Four Seasons Resort",
+    "url": "https://us.trip.com/hotels/naples-1-hotel-detail-2936866/naples-beach-club-a-four-seasons-resort/"
+   }
+  ]
+ },
+ "HIR-207": {
+  "address": "2600 Tiburon Drive, Naples, FL 34109, USA",
+  "keys": 295,
+  "keysNote": "295 rooms and suites",
+  "keysCheck": "Kayak 295, matches original data",
+  "opened": "",
+  "owner": "",
+  "amenities": {
+   "architecture": "Golf resort; now named The Ritz-Carlton Naples, Tiburón",
+   "pool": "Outdoor pool, children's pool; guests use a private beach (Kayak)",
+   "fitness": "Fitness center",
+   "meeting": "Meeting rooms",
+   "other": "Two golf courses (Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Naples-Hotels-The-Ritz-Carlton-Naples-Tiburon.61878.ksp",
+   "cheapMonth": "August",
+   "low": 485,
+   "peakMonth": "February",
+   "high": 1286,
+   "weekday2w": 914,
+   "weekend2w": 885,
+   "recentMin": 709,
+   "recentMax": 825,
+   "note": "Kayak's season table names September as cheapest; FAQ names August"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g34467-d225180-Reviews-The_Ritz_Carlton_Naples_Tiburon-Naples_Florida.html",
+  "sources": [
+   {
+    "label": "Kayak — The Ritz-Carlton Naples, Tiburón",
+    "url": "https://www.kayak.com/Naples-Hotels-The-Ritz-Carlton-Naples-Tiburon.61878.ksp"
+   }
+  ]
+ },
+ "HIR-206": {
+  "address": "280 Vanderbilt Beach Road, Naples, FL 34108, USA",
+  "keys": 474,
+  "keysNote": "474 rooms",
+  "keysCheck": "Trip.com 474 matches original data; Kayak 450",
+  "opened": "Opened 1985; renovated 2023 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Private beach area (Trip.com)",
+   "dining": "The Grill, Gumbo Limbo, DUSK, Terrazza, Nolita, Poolside Café, Lobby Lounge (Kayak, Trip.com)",
+   "spa": "Spa and salon",
+   "pool": "Two outdoor pools, one adults-only; children's splash pool",
+   "fitness": "Fitness center",
+   "meeting": "More than 42,000 sq ft including the 10,140 sq ft Ritz-Carlton Ballroom and 10,260 sq ft Vanderbilt Ballroom (Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Naples-Hotels-The-Ritz-Carlton-Naples.61877.ksp",
+   "cheapMonth": "August",
+   "low": 900,
+   "peakMonth": "March",
+   "high": 1998,
+   "weekday2w": 1300,
+   "weekend2w": 1382,
+   "recentMin": 1042,
+   "recentMax": 1708
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g34467-d85228-Reviews-The_Ritz_Carlton_Naples-Naples_Florida.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Ritz-Carlton, Naples",
+    "url": "https://us.trip.com/hotels/pelican-bay-hotel-detail-2188051/the-ritz-carlton-naples/"
+   }
+  ]
+ },
+ "HIR-257": {
+  "address": "717 Orleans Street, New Orleans, LA 70116, USA",
+  "keys": 220,
+  "keysNote": "220 guest rooms",
+  "keysCheck": "Trip.com 220, matches original data",
+  "opened": "Renovated 2024 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "French Quarter; rooms styled after 1800s French design (Kayak)",
+   "dining": "Roux on Orleans in the 1800s Roux House; Bourbon O Bar (Kayak)",
+   "pool": "Outdoor saltwater pool",
+   "fitness": "Fitness center",
+   "meeting": "4,514 sq ft across 6 meeting rooms for up to 300 (Trip.com, Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/New-Orleans-Hotels-Bourbon-Orleans-Hotel.34587.ksp",
+   "cheapMonth": "August",
+   "low": 171,
+   "peakMonth": "October",
+   "high": 350,
+   "weekday2w": 297,
+   "weekend2w": 311,
+   "recentMin": 129,
+   "recentMax": 627
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g60864-d89050-Reviews-Bourbon_Orleans_Hotel-New_Orleans_Louisiana.html",
+  "sources": [
+   {
+    "label": "Trip.com — Bourbon Orleans Hotel",
+    "url": "https://us.trip.com/hotels/new-orleans-hotel-detail-2871523/bourbon-orleans-hotel/"
+   }
+  ]
+ },
+ "HIR-1127": {
+  "address": "2 Canal Street, New Orleans, LA 70130, USA",
+  "keys": 341,
+  "keysNote": "341 rooms",
+  "keysCheck": "Kayak and Trip.com description 341 match original data; Trip.com listing 272",
+  "opened": "Opened 2021 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Chemin à la Mer; Miss River; Chandelier Bar; poolside bar (Trip.com, Kayak)",
+   "spa": "Full-service spa",
+   "pool": "Outdoor pool with poolside bar",
+   "fitness": "Fitness center and steam room",
+   "meeting": "29,000 sq ft across 9 meeting rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/New-Orleans-Hotels-Four-Seasons-Hotel-New-Orleans.7707267.ksp",
+   "cheapMonth": "August",
+   "low": 467,
+   "peakMonth": "April",
+   "high": 776,
+   "weekday2w": 797,
+   "weekend2w": 900,
+   "recentMin": 284,
+   "recentMax": 1125,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g60864-d23162833-Reviews-Four_Seasons_Hotel_New_Orleans-New_Orleans_Louisiana.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Hotel New Orleans",
+    "url": "https://us.trip.com/hotels/new-orleans-hotel-detail-75461311/four-seasons-hotel-new-orleans/"
+   }
+  ]
+ },
+ "HIR-134": {
+  "address": "900 West Main Street, Oklahoma City, OK 73106, USA",
+  "keys": 135,
+  "keysNote": "135 rooms",
+  "keysCheck": "Kayak and Trip.com description 135 vs original data 120. Address corrected from 25 East Sheridan Avenue (Kayak, Trip.com)",
+  "opened": "Trip.com lists 2023 as opening under the Fordson name (Unbound Collection by Hyatt)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Former Ford Motor Company assembly plant, listed on the National Register of Historic Places (Trip.com)",
+   "dining": "Mary Eddy's Dining Room; Pool Bar; Bodega (Trip.com)",
+   "pool": "Outdoor saltwater pool",
+   "fitness": "24-hour fitness center",
+   "meeting": "Conference and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Oklahoma-City-Hotels-Fordson-Hotel.10139797.ksp",
+   "cheapMonth": "January",
+   "low": 180,
+   "peakMonth": "April",
+   "high": 289,
+   "weekday2w": 230,
+   "weekend2w": 310,
+   "recentMin": 167,
+   "recentMax": 271,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g51560-d10128409-Reviews-Fordson_Hotel-Oklahoma_City_Oklahoma.html",
+  "sources": [
+   {
+    "label": "Trip.com — Fordson Hotel",
+    "url": "https://us.trip.com/hotels/oklahoma-city-hotel-detail-5705394/21c-museum-hotel-oklahoma-city/"
+   }
+  ]
+ },
+ "HIR-136": {
+  "address": "100 West Oklahoma City Boulevard, Oklahoma City, OK 73109, USA",
+  "keys": 605,
+  "keysNote": "605 rooms",
+  "keysCheck": "Kayak and Trip.com 605, match original data",
+  "opened": "",
+  "owner": "",
+  "amenities": {
+   "dining": "Bob's Chop House; Park Grounds; 3 restaurants, 2 bars and a poolside bar (Kayak, Trip.com)",
+   "spa": "Full-service spa",
+   "pool": "Heated rooftop pool and hot tub",
+   "fitness": "24-hour fitness center",
+   "meeting": "77,000 sq ft across 46 meeting rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Oklahoma-City-Hotels-Omni-Oklahoma-City-Hotel.7130023.ksp",
+   "cheapMonth": "January",
+   "low": 229,
+   "peakMonth": "April",
+   "high": 336,
+   "weekday2w": 247,
+   "weekend2w": 317,
+   "recentMin": 182,
+   "recentMax": 361,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g51560-d21511318-Reviews-Omni_Oklahoma_City_Hotel-Oklahoma_City_Oklahoma.html",
+  "sources": [
+   {
+    "label": "Trip.com — Omni Oklahoma City Hotel",
+    "url": "https://us.trip.com/hotels/oklahoma-city-hotel-detail-69331830/omni-oklahoma-city-hotel/"
+   }
+  ]
+ },
+ "HIR-135": {
+  "address": "One Park Avenue, Oklahoma City, OK 73102, USA",
+  "keys": 225,
+  "keysNote": "225 guest rooms",
+  "keysCheck": "Trip.com description 225 (listing 141), matches original data",
+  "opened": "Over a century of service (Kayak); Trip.com lists reopening 2007, renovated 2016",
+  "owner": "",
+  "amenities": {
+   "architecture": "Historic landmark; Historic Hotels of America member (Trip.com)",
+   "dining": "Perle Mesta (chef Andrew Black); Red Piano Lounge; Boomtown Creamery (Trip.com)",
+   "pool": "Indoor pool",
+   "fitness": "Fitness center",
+   "meeting": "18,500 sq ft of function space (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Oklahoma-City-Hotels-The-Skirvin-Hilton-Oklahoma-City.160210.ksp",
+   "cheapMonth": "December",
+   "low": 182,
+   "peakMonth": "May",
+   "high": 283,
+   "weekday2w": 228,
+   "weekend2w": 235,
+   "recentMin": 170,
+   "recentMax": 484,
+   "note": "Kayak's season table names June as cheapest; FAQ names December"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g51560-d635098-Reviews-Skirvin_Oklahoma_City_a_Hilton_Hotel-Oklahoma_City_Oklahoma.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Skirvin Hilton",
+    "url": "https://www.trip.com/hotels/oklahoma-city-hotel-detail-2173829/the-skirvin-hilton-oklahoma-city/"
+   }
+  ]
+ },
+ "HIR-202": {
+  "address": "10100 Dream Tree Boulevard, Lake Buena Vista, FL 32836, USA",
+  "keys": 443,
+  "keysNote": "443 rooms",
+  "keysCheck": "Trip.com 443 vs original data 444",
+  "opened": "Opened 2014 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Capa (rooftop lounge, Spanish cuisine); Ravello; PB&G; 5 restaurants and 5 bars (Kayak, Trip.com)",
+   "spa": "Spa",
+   "pool": "Three outdoor pools including an adults-only pool and a splash zone",
+   "fitness": "Fitness center, tennis, basketball and volleyball",
+   "meeting": "37,749 sq ft of conference and meeting space (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Orlando-Hotels-Four-Seasons-Resort-Orlando-at-Walt-Disney-World-Resort.741440.ksp",
+   "cheapMonth": "August",
+   "low": 1091,
+   "peakMonth": "February",
+   "high": 1843,
+   "weekday2w": 2422,
+   "weekend2w": 2208,
+   "recentMin": 1426,
+   "recentMax": 8368,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g34515-d6523102-Reviews-Four_Seasons_Resort_Orlando_at_Walt_Disney_WorldR_Resort-Orlando_Florida.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Resort Orlando",
+    "url": "https://us.trip.com/hotels/bay-lake-hotel-detail-2198921/four-seasons-resort-orlando-at-walt-disney-world-resort/"
+   }
+  ]
+ },
+ "HIR-203": {
+  "address": "8701 World Center Drive, Orlando, FL 32821, USA",
+  "keys": 2010,
+  "keysNote": "2,010 rooms",
+  "keysCheck": "Trip.com 2,010 vs original data 2,004",
+  "opened": "Opened 1986; renovated 2021 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Latitude and Longitude, High Velocity, Siro Urban Italian Kitchen, Mikado Japanese Steakhouse, Central Pantry; 10 outlets (Kayak, Trip.com)",
+   "spa": "Full-service spa",
+   "pool": "Falls Pool Oasis with waterslides, 575-ft lazy river and splash park",
+   "fitness": "Fitness center",
+   "meeting": "Conference and multi-function rooms; banquet halls",
+   "other": "Championship golf course and Jack Nicklaus Academy"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Orlando-Hotels-Orlando-World-Center-Marriott.9355.ksp",
+   "cheapMonth": "September",
+   "low": 243,
+   "peakMonth": "February",
+   "high": 453,
+   "weekday2w": 277,
+   "weekend2w": 231,
+   "recentMin": 192,
+   "recentMax": 575,
+   "note": "Kayak's season table names May as most expensive; FAQ names February"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g34515-d120202-Reviews-Orlando_World_Center_Marriott-Orlando_Florida.html",
+  "sources": [
+   {
+    "label": "Trip.com — Orlando World Center Marriott",
+    "url": "https://us.trip.com/hotels/orlando-hotel-detail-2107177/orlando-world-center-marriott/"
+   }
+  ]
+ },
+ "HIR-1130": {
+  "address": "2800 South Ocean Boulevard, Palm Beach, FL 33480, USA",
+  "keys": 210,
+  "keysNote": "210 guest rooms and suites",
+  "keysCheck": "Trip.com description 210 matches original data; Kayak 209; Trip.com listing 205",
+  "opened": "Opened 1989; renovated 2018 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Ocean views of 180 degrees from the pool (Trip.com)",
+   "dining": "Seaway; Florie's; bar (Kayak)",
+   "spa": "About 11,000 sq ft spa (Trip.com)",
+   "pool": "Ocean-view outdoor pool with cabanas, heated in winter",
+   "fitness": "24-hour gym and classes",
+   "meeting": "Conference and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Palm-Beach-Hotels-Four-Seasons-Resort-Palm-Beach.84249.ksp",
+   "cheapMonth": "September",
+   "low": 833,
+   "peakMonth": "February",
+   "high": 2584,
+   "weekday2w": 1279,
+   "weekend2w": 1632,
+   "recentMin": 1063,
+   "recentMax": 1541,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g34530-d85517-Reviews-Four_Seasons_Resort_Palm_Beach-Palm_Beach_Florida.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Resort Palm Beach",
+    "url": "https://www.trip.com/hotels/palm-beach-1-hotel-detail-2173523/four-seasons-resort-palm-beach/"
+   }
+  ]
+ },
+ "HIR-1203": {
+  "address": "363 Cocoanut Row, Palm Beach, FL 33480, USA",
+  "keys": 37,
+  "keysNote": "37 rooms (Trip.com description)",
+  "keysCheck": "Trip.com 37 (listing 36); Kayak page (shared with The Chesterfield Palm Beach) 53; original data 72; unconfirmed",
+  "opened": "Trip.com lists 1926 for the building; operated as The Vineta Hotel, Oetker Hotels",
+  "owner": "",
+  "amenities": {
+   "dining": "Coco (fine dining) with bar/lounge; poolside bar; 24-hour room service (Trip.com)",
+   "pool": "Heated outdoor pool and Jacuzzi"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Palm-Beach-Hotels-The-Chesterfield-Palm-Beach.34875.ksp",
+   "basis": "2wk",
+   "cheapMonth": "September",
+   "low": 1253,
+   "peakMonth": "November",
+   "high": 1871,
+   "weekday2w": 1253,
+   "weekend2w": 1871,
+   "recentMin": 677,
+   "recentMax": 677,
+   "note": "Kayak shows no monthly averages for this hotel; low/high are the 2-week weeknight and weekend averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g34530-d33132246-Reviews-The_Vineta_Hotel-Palm_Beach_Florida.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Vineta Hotel",
+    "url": "https://www.trip.com/hotels/palm-beach-1-hotel-detail-132795580/the-vineta-hotel-oetker-hotels/"
+   }
+  ]
+ },
+ "HIR-1237": {
+  "address": "2300 Deer Valley Drive East, Park City, UT 84060, USA",
+  "keys": 177,
+  "keysNote": "177 rooms including 64 suites (Kayak)",
+  "keysCheck": "Kayak 177; Trip.com 180; original data 181",
+  "opened": "Opened 2009; renovated 2019 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Ski-in/ski-out at Deer Valley with private ski valet (Trip.com)",
+   "dining": "RIME; Brasserie 7452; St. Regis Bar (Trip.com reviews, TripAdvisor)",
+   "spa": "The St. Regis Spa with sauna and Turkish bath",
+   "pool": "Outdoor pool",
+   "fitness": "Fitness center",
+   "meeting": "Conference facilities, meeting rooms and banquet room"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Park-City-Hotels-The-St-Regis-Deer-Valley.315558.ksp",
+   "cheapMonth": "November",
+   "low": 573,
+   "peakMonth": "February",
+   "high": 2728,
+   "weekday2w": 1440,
+   "weekend2w": 822,
+   "recentMin": 593,
+   "recentMax": 751,
+   "note": "Kayak's season table names April as cheapest; FAQ names November"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g57097-d1555959-Reviews-The_St_Regis_Deer_Valley-Park_City_Utah.html",
+  "sources": [
+   {
+    "label": "Trip.com — The St. Regis Deer Valley",
+    "url": "https://us.trip.com/hotels/park-city-hotel-detail-2929959/st-regis-deer-valley/"
+   }
+  ]
+ },
+ "HIR-1299": {
+  "address": "525 SW Morrison Street, Portland, OR 97204, USA",
+  "keys": 331,
+  "keysNote": "331 rooms",
+  "keysCheck": "Trip.com 331, matches original data",
+  "opened": "Opened 2008; renovated 2016 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "In the historic Meier & Frank Building near Pioneer Courthouse Square; LEED Silver (Kayak, Trip.com)",
+   "dining": "Departure (15th-floor rooftop restaurant and lounge); Urban Farmer steakhouse in the atrium",
+   "fitness": "24-hour fitness center",
+   "meeting": "Conference and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Portland-Hotels-The-Nines-a-Luxury-Collection-Hotel-Portland.201582.ksp",
+   "cheapMonth": "January",
+   "low": 228,
+   "peakMonth": "September",
+   "high": 274,
+   "weekday2w": 249,
+   "weekend2w": 311,
+   "recentMin": 188,
+   "recentMax": 524,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g52024-d1144098-Reviews-The_Nines_A_Luxury_Collection_Hotel_Portland-Portland_Oregon.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Nines",
+    "url": "https://www.trip.com/hotels/portland-hotel-detail-4372422/the-nines-a-luxury-collection-hotel-portland/"
+   }
+  ]
+ },
+ "HIR-1131": {
+  "address": "State Road 187 Km 4.2, Río Grande, PR 00745, USA",
+  "keys": 139,
+  "keysNote": "139 rooms and suites (Kayak)",
+  "keysCheck": "Kayak 139; Trip.com 150 and 123; original data 128; unconfirmed",
+  "opened": "Formerly The St. Regis Bahia Beach Resort (Kayak); Trip.com lists 2010 as opening year",
+  "owner": "",
+  "amenities": {
+   "dining": "Paros (Mediterranean); Seagrapes; El Cocoteros Grill; Sand Dollar; beach and pool bars (Kayak, Trip.com)",
+   "spa": "Full-service spa",
+   "pool": "Seaside pool and infinity pool",
+   "fitness": "Fitness center",
+   "other": "Ocean-view golf course"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Rio-Grande-Hotels-The-St-Regis-Bahia-Beach-Resort-Puerto-Rico.349738.ksp",
+   "cheapMonth": "August",
+   "low": 806,
+   "peakMonth": "January",
+   "high": 2124,
+   "weekday2w": 994,
+   "weekend2w": 1059,
+   "recentMin": 806,
+   "recentMax": 1361,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g1006845-d34064847-Reviews-Four_Seasons_Resort_and_Residences_Puerto_Rico-Rio_Grande_Puerto_Rico.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Resort and Residences Puerto Rico",
+    "url": "https://www.trip.com/hotels/cienaga-baja-hotel-detail-2567780/four-seasons-resort-and-residence-puerto-rico/"
+   }
+  ]
+ },
+ "HIR-240": {
+  "address": "75 South West Temple, Salt Lake City, UT 84101, USA",
+  "keys": 525,
+  "keysNote": "525 rooms",
+  "keysCheck": "Trip.com 525 vs original data 510",
+  "opened": "Opened 1981; renovated 2023 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "The Salt Stone; Destinations Lounge (Trip.com)",
+   "pool": "Indoor pool and sauna (Kayak)",
+   "fitness": "Fitness center",
+   "meeting": "Conference and multi-function rooms; business center"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Salt-Lake-City-Hotels-Salt-Lake-Marriott-Downtown-at-City-Creek.66508.ksp",
+   "cheapMonth": "December",
+   "low": 179,
+   "peakMonth": "October",
+   "high": 264,
+   "weekday2w": 224,
+   "weekend2w": 209,
+   "recentMin": 142,
+   "recentMax": 328,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g60922-d99945-Reviews-Salt_Lake_Marriott_Downtown_at_City_Creek-Salt_Lake_City_Utah.html",
+  "sources": [
+   {
+    "label": "Trip.com — Salt Lake Marriott Downtown at City Creek",
+    "url": "https://us.trip.com/hotels/salt-lake-city-hotel-detail-2236390/salt-lake-marriott-downtown-at-city-creek/"
+   }
+  ]
+ },
+ "HIR-133": {
+  "address": "355 Santana Row, San Jose, CA 95128, USA",
+  "keys": 215,
+  "keysNote": "215 rooms",
+  "keysCheck": "Kayak and Trip.com 215 vs original data 212",
+  "opened": "Opened 2003; renovated 2014 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Oveja Negro; VBar; Cielo (Kayak)",
+   "pool": "Outdoor pool",
+   "fitness": "Fitness center",
+   "meeting": "3 meeting rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/San-Jose-Hotels-Hotel-Valencia-Santana-Row.26068.ksp",
+   "cheapMonth": "December",
+   "low": 340,
+   "peakMonth": "January",
+   "high": 432,
+   "weekday2w": 432,
+   "weekend2w": 443,
+   "recentMin": 385,
+   "recentMax": 419,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g33020-d256800-Reviews-Hotel_Valencia_Santana_Row-San_Jose_California.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hotel Valencia Santana Row",
+    "url": "https://www.trip.com/hotels/san-jose-1-hotel-detail-2878381/hotel-valencia-santana-row/"
+   }
+  ]
+ },
+ "HIR-132": {
+  "address": "170 South Market Street, San Jose, CA 95113, USA",
+  "keys": 805,
+  "keysNote": "805 guest rooms (Trip.com description)",
+  "keysCheck": "Trip.com description 805 matches original data; Trip.com listing 550",
+  "opened": "Trip.com lists 2022 as opening year under the Signia by Hilton name",
+  "owner": "",
+  "amenities": {
+   "dining": "AJI Bar & Robata; two restaurants and a lobby bar (Trip.com)",
+   "pool": "Outdoor rooftop pool",
+   "fitness": "Fitness facilities",
+   "meeting": "55,000–65,000 sq ft of meeting and function space (Kayak, Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/San-Jose-Hotels-Signia-by-Hilton-San-Jose.8469452.ksp",
+   "cheapMonth": "December",
+   "low": 244,
+   "peakMonth": "January",
+   "high": 354,
+   "weekday2w": 343,
+   "weekend2w": 309,
+   "recentMin": 213,
+   "recentMax": 1234,
+   "note": "Kayak's season table names July as cheapest; FAQ names December"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g33020-d23820757-Reviews-Signia_by_Hilton_San_Jose-San_Jose_California.html",
+  "sources": [
+   {
+    "label": "Trip.com — Signia by Hilton San Jose",
+    "url": "https://us.trip.com/hotels/san-jose-1-hotel-detail-2193828/the-fairmont-san-jose/"
+   }
+  ]
+ },
+ "HIR-1135": {
+  "address": "1260 Channel Drive, Santa Barbara, CA 93108, USA",
+  "keys": 206,
+  "keysNote": "206 guest rooms",
+  "keysCheck": "Trip.com 206 vs original data 207",
+  "opened": "Opened 1927; renovated 2018 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Three restaurants including Ty Lounge; poolside bar (Trip.com)",
+   "spa": "12,000 sq ft spa with eleven treatment rooms (Kayak)",
+   "pool": "Two outdoor pools",
+   "meeting": "Conference areas and meeting rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Santa-Barbara-Hotels-Four-Seasons-Resort-The-Biltmore-Santa-Barbara.179278.ksp",
+   "unavailable": true,
+   "note": "Kayak shows no price history for this hotel"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g33045-d147443-Reviews-Four_Seasons_Resort_The_Biltmore_Santa_Barbara-Santa_Barbara_California.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Resort The Biltmore Santa Barbara",
+    "url": "https://us.trip.com/hotels/montecito-hotel-detail-2127257/four-seasons-resort-the-biltmore-santa-barbara/"
+   }
+  ]
+ },
+ "HIR-1136": {
+  "address": "198 State Road 592, Santa Fe, NM 87506, USA",
+  "keys": 65,
+  "keysNote": "65 casita guest rooms and suites",
+  "keysCheck": "Trip.com 65, matches original data",
+  "opened": "Opened 2008 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Casitas on 57 acres in the Sangre de Cristo foothills (Trip.com)",
+   "dining": "Terra restaurant; bar and lobby bar",
+   "spa": "Spa",
+   "pool": "Heated outdoor pool",
+   "fitness": "Fitness center",
+   "meeting": "Conference and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Santa-Fe-Hotels-Four-Seasons-Resort-Rancho-Encantado-Santa-Fe.135977.ksp",
+   "cheapMonth": "February",
+   "low": 615,
+   "peakMonth": "August",
+   "high": 1294,
+   "weekday2w": 1283,
+   "weekend2w": 1694,
+   "recentMin": 946,
+   "recentMax": 4170,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g60958-d1026062-Reviews-Four_Seasons_Resort_Rancho_Encantado_Santa_Fe-Santa_Fe_New_Mexico.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Resort Rancho Encantado",
+    "url": "https://us.trip.com/hotels/santa-fe-county-hotel-detail-2233659/four-seasons-resort-rancho-encantado-santa-fe/"
+   }
+  ]
+ },
+ "HIR-266": {
+  "address": "601 Murray Circle, Sausalito, CA 94965, USA",
+  "keys": 142,
+  "keysNote": "142 rooms (unconfirmed)",
+  "keysCheck": "Unconfirmed: Kayak gives no count; original data 142 retained",
+  "opened": "",
+  "owner": "",
+  "amenities": {
+   "architecture": "Historic lodging (Kayak)",
+   "dining": "Murray Circle Restaurant; Farley Bar (Kayak)",
+   "spa": "Spa",
+   "fitness": "Fitness center"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Sausalito-Hotels-Cavallo-Point.189735.ksp",
+   "cheapMonth": "January",
+   "low": 565,
+   "peakMonth": "June",
+   "high": 735,
+   "weekday2w": 940,
+   "weekend2w": 821,
+   "recentMin": 642,
+   "recentMax": 1434,
+   "note": "Kayak's FAQ (used here) and its season table disagree on the cheapest and most expensive months"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g33062-d1019362-Reviews-Cavallo_Point-Sausalito_Marin_County_California.html",
+  "sources": [
+   {
+    "label": "Kayak — Cavallo Point",
+    "url": "https://www.kayak.com/Sausalito-Hotels-Cavallo-Point.189735.ksp"
+   }
+  ]
+ },
+ "HIR-1292": {
+  "address": "256 East Perry Street, Savannah, GA 31401, USA",
+  "keys": 155,
+  "keysNote": "155 rooms",
+  "keysCheck": "Trip.com 155 vs original data 167. Address corrected from 256 Bull Street (Kayak, Trip.com)",
+  "opened": "Opened 2018 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "The Emporium Kitchen & Wine Market; The Wayward; Peregrin rooftop bar (Kayak)",
+   "spa": "In-room spa treatments",
+   "pool": "Heated rooftop pool",
+   "fitness": "Fitness center",
+   "meeting": "Conference and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Savannah-Hotels-Perry-Lane-Hotel-a-Luxury-Collection-Hotel-Savannah.3331140.ksp",
+   "cheapMonth": "August",
+   "low": 325,
+   "peakMonth": "April",
+   "high": 671,
+   "weekday2w": 455,
+   "weekend2w": 767,
+   "recentMin": 287,
+   "recentMax": 863,
+   "note": "Kayak's season table names June as cheapest; FAQ names August"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g60814-d13150813-Reviews-Perry_Lane_Hotel_A_Luxury_Collection_Hotel-Savannah_Georgia.html",
+  "sources": [
+   {
+    "label": "Trip.com — Perry Lane Hotel",
+    "url": "https://us.trip.com/hotels/savannah-hotel-detail-13661730/perry-lane-hotel-a-luxury-collection-hotel-savannah/"
+   }
+  ]
+ },
+ "HIR-235": {
+  "address": "412 Williamson Street, Savannah, GA 31401, USA",
+  "keys": 173,
+  "keysNote": "173 rooms",
+  "keysCheck": "Kayak and Trip.com 173, match original data",
+  "opened": "Opened 2018; renovated 2023 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Rhett; The Trade Room lobby bar; The Lost Square rooftop bar (Trip.com)",
+   "pool": "Heated saltwater rooftop pool",
+   "fitness": "Fitness center",
+   "meeting": "Conference and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Savannah-Hotels-The-Alida-Savannah-a-Tribute-Portfolio-Hotel.892883.ksp",
+   "cheapMonth": "June",
+   "low": 298,
+   "peakMonth": "March",
+   "high": 487,
+   "weekday2w": 369,
+   "weekend2w": 507,
+   "recentMin": 299,
+   "recentMax": 591
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g60814-d14947811-Reviews-The_Alida_Savannah_A_Tribute_Portfolio_Hotel-Savannah_Georgia.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Alida, Savannah",
+    "url": "https://us.trip.com/hotels/savannah-hotel-detail-22154174/the-alida-savannah-a-tribute-portfolio-hotel/"
+   }
+  ]
+ },
+ "HIR-260": {
+  "address": "301 L'Auberge Lane, Sedona, AZ 86336, USA",
+  "keys": 88,
+  "keysNote": "88 rooms and cottages",
+  "keysCheck": "Kayak and Trip.com description 88 vs original data 158; Trip.com listing 129",
+  "opened": "Opened 1983 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Cress on Oak Creek; Etch Kitchen and Bar; 89 Agave Cantina (Kayak)",
+   "spa": "Spa",
+   "pool": "Outdoor pool and hot tub",
+   "fitness": "Fitness center",
+   "meeting": "Meeting and multi-function rooms"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Sedona-Hotels-L-auberge-De-Sedona.60745.ksp",
+   "cheapMonth": "August",
+   "low": 500,
+   "peakMonth": "April",
+   "high": 1030,
+   "weekday2w": 1005,
+   "weekend2w": 1637,
+   "recentMin": 700,
+   "recentMax": 3570,
+   "note": "Kayak's season table names February as cheapest; FAQ names August"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g31352-d115335-Reviews-L_Auberge_De_Sedona-Sedona_Arizona.html",
+  "sources": [
+   {
+    "label": "Trip.com — L'Auberge de Sedona",
+    "url": "https://uk.trip.com/hotels/sedona-hotel-detail-2878207/l-auberge-de-sedona/"
+   }
+  ]
+ },
+ "HIR-267": {
+  "address": "163 Chico Road, Pray, MT 59065, USA",
+  "keys": 117,
+  "keysNote": "117 accommodations (Kayak)",
+  "keysCheck": "Kayak 117; original data 117; matches",
+  "opened": "",
+  "owner": "",
+  "amenities": {
+   "dining": "Restaurant, bar/lounge and coffee shop/cafe (Kayak)",
+   "spa": "Full-service spa (Kayak)",
+   "pool": "Outdoor pool (Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Pray-Hotels-Chico-Hot-Springs-Resort.1072797689.ksp",
+   "cheapMonth": "February",
+   "low": 76,
+   "peakMonth": "November",
+   "high": 218,
+   "weekday2w": 275,
+   "weekend2w": 499,
+   "recentMin": 164,
+   "recentMax": 288,
+   "note": "Kayak's season table names different months (January low, July high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g45316-d147109-Reviews-Chico_Hot_Springs_Resort_Day_Spa-Pray_Montana.html",
+  "sources": [
+   {
+    "label": "Trip.com — Chico Hot Springs Resort",
+    "url": "https://www.trip.com/hotels/park-county-1-hotel-detail-123086704/chico-hot-springs-resort/"
+   }
+  ]
+ },
+ "HIR-263": {
+  "address": "1325 Broadway, Sonoma, CA 95476, USA",
+  "keys": 182,
+  "keysNote": "182 rooms (Trip.com)",
+  "keysCheck": "Trip.com 182; original data 182; matches",
+  "opened": "Opened 2001; renovated 2017 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Benecia's Kitchen; Wit & Wisdom; bar, snack bar and room service (Trip.com)",
+   "spa": "Raindance Spa, with sauna and salon (Kayak, Trip.com)",
+   "pool": "Heated outdoor pool",
+   "fitness": "Fitness center",
+   "meeting": "Ballroom, conference rooms, multi-function room and outdoor patio (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Sonoma-Hotels-The-Lodge-at-Sonoma-Renaissance-Resort-Spa.39513.ksp",
+   "cheapMonth": "December",
+   "low": 379,
+   "peakMonth": "October",
+   "high": 775,
+   "weekday2w": 541,
+   "weekend2w": 905,
+   "recentMin": 414,
+   "recentMax": 1121,
+   "note": "Kayak's season table names different months (January low, May high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g33107-d209404-Reviews.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Lodge at Sonoma Renaissance Resort & Spa",
+    "url": "https://www.trip.com/hotels/sonoma-hotel-detail-2247817/the-lodge-at-sonoma-renaissance-resort-and-spa/"
+   }
+  ]
+ },
+ "HIR-270": {
+  "address": "4104 Lakeshore Boulevard, South Lake Tahoe, CA 96150, USA",
+  "keys": 82,
+  "keysNote": "82 rooms (Trip.com property details)",
+  "keysCheck": "Trip.com 82 (its description says 88); original data 82",
+  "opened": "Opened 2013 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Lakeside beachfront restaurant with bar/lounge; Jimmy's (Kayak, Trip.com)",
+   "spa": "Full-service spa: massages, body treatments, facials (Trip.com)",
+   "pool": "Heated outdoor pool and hot tub",
+   "fitness": "Fitness center",
+   "other": "Private beach area, steps from Lakeside Beach (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/South-Lake-Tahoe-Hotels-The-Landing-Resort-And-Spa.61280.ksp",
+   "cheapMonth": "April",
+   "low": 340,
+   "peakMonth": "July",
+   "high": 851,
+   "weekday2w": 464,
+   "weekend2w": 449,
+   "recentMin": 309,
+   "recentMax": 738,
+   "note": "Kayak's season table names different months (March low); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g1798615-d5522648-Reviews-The_Landing_Lake_Tahoe_Resort_Spa-South_Lake_Tahoe_Lake_Tahoe_California_California.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Landing Resort and Spa",
+    "url": "https://us.trip.com/hotels/south-lake-tahoe-hotel-detail-2551638/the-landing-resort-and-spa/"
+   }
+  ]
+ },
+ "HIR-1139": {
+  "address": "999 North 2nd Street, St. Louis, MO 63102, USA",
+  "keys": 200,
+  "keysNote": "200 rooms (Trip.com)",
+  "keysCheck": "Trip.com 200; original data 200; matches",
+  "opened": "Opened 2008 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Restaurant, lobby bar and poolside bar; 24-hour room service (Trip.com)",
+   "spa": "On-site full-service spa",
+   "pool": "Heated rooftop outdoor pool",
+   "fitness": "Fitness center",
+   "meeting": "About 20,000 sq ft of conference and meeting space (Trip.com)",
+   "other": "Next to Lumiere Place Casino (Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/St-Louis-Hotels-Four-Seasons-Hotel-St-Louis.188251.ksp",
+   "cheapMonth": "May",
+   "low": 415,
+   "peakMonth": "July",
+   "high": 574,
+   "weekday2w": 371,
+   "weekend2w": 578,
+   "recentMin": 186,
+   "recentMax": 766,
+   "note": "Kayak's season table names different months (April low, June high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g44881-d940582-Reviews.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons St. Louis",
+    "url": "https://us.trip.com/hotels/saint-louis-hotel-detail-2360813/four-seasons-st-louis/"
+   }
+  ]
+ },
+ "HIR-1302": {
+  "address": "100 Carondelet Plaza, Clayton (St. Louis), MO 63105, USA",
+  "keys": 299,
+  "keysNote": "299 guest rooms (Kayak)",
+  "keysCheck": "Kayak 299; Trip.com 355; original data 301",
+  "opened": "Opened 1990; renovated 2019 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Casa Don Alfonso (Italian); The Lobby Lounge; cafe and room service (Trip.com)",
+   "spa": "Spa (Trip.com)",
+   "pool": "No pool listed (Trip.com)",
+   "fitness": "Fitness center",
+   "meeting": "Over 30,000 sq ft of event space; 10 meeting rooms, largest up to 1,200 people (Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/St-Louis-Hotels-The-Ritz-Carlton-St-Louis.14784.ksp",
+   "cheapMonth": "January",
+   "low": 278,
+   "peakMonth": "December",
+   "high": 583,
+   "weekday2w": 338,
+   "weekend2w": 890,
+   "recentMin": 278,
+   "recentMax": 1038,
+   "note": "Kayak's season table names different months (February low, November high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g44244-d91083-Reviews.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Ritz-Carlton, St. Louis",
+    "url": "https://www.trip.com/hotels/clayton-1-hotel-detail-2248407/the-ritz-carlton-st-louis/"
+   }
+  ]
+ },
+ "HIR-209": {
+  "address": "3400 Gulf Boulevard, St. Pete Beach, FL 33706, USA",
+  "keys": 277,
+  "keysNote": "277 guest rooms, 36 of them suites (Kayak, Trip.com)",
+  "keysCheck": "Kayak 277; Trip.com 277; original data 348 (corrected)",
+  "opened": "Built 1928; listed on the National Register of Historic Places (Kayak)",
+  "owner": "",
+  "amenities": {
+   "architecture": "'Pink Palace' Mediterranean-style resort (Kayak, Trip.com)",
+   "dining": "Maritana Grille; Sea Porch Café; Lobby Bar; The Rowe Bar (Kayak)",
+   "spa": "Full-service spa (Trip.com)",
+   "pool": "Heated outdoor pool and Jacuzzi",
+   "fitness": "Fitness center",
+   "meeting": "About 38,000 sq ft of meeting space including ballrooms and beachfront venues (Kayak, Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Saint-Pete-Beach-Hotels-The-Don-Cesar.37029.ksp",
+   "cheapMonth": "August",
+   "low": 400,
+   "peakMonth": "March",
+   "high": 694,
+   "weekday2w": 447,
+   "weekend2w": 511,
+   "recentMin": 315,
+   "recentMax": 767,
+   "note": "Kayak's season table names different months (May low); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g34606-d85782-Reviews.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Don CeSar",
+    "url": "https://us.trip.com/hotels/saint-pete-beach-hotel-detail-2564510/the-don-cesar/"
+   }
+  ]
+ },
+ "HIR-1121": {
+  "address": "9011 Collins Avenue, Surfside, FL 33154, USA",
+  "keys": 77,
+  "keysNote": "77 guest rooms (Trip.com)",
+  "keysCheck": "Trip.com 77; original data 77; matches",
+  "opened": "Opened 2016 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Russell Pancoast's restored 1930s Surf Club clubhouse with modern design by Richard Meier and Kobi Karp (Trip.com, Kayak)",
+   "dining": "Lido restaurant; The Surf Club restaurant; bar and lobby bar (Trip.com)",
+   "spa": "Spa with sauna and hammam (Trip.com)",
+   "pool": "Several pools including adults-only pool, children's pool and cabanas",
+   "fitness": "Fitness center"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Surfside-Hotels-Four-Seasons-Hotel-At-The-Surf-Club.2869978.ksp",
+   "cheapMonth": "August",
+   "low": 1378,
+   "peakMonth": "March",
+   "high": 2883,
+   "weekday2w": 2292,
+   "weekend2w": 2390,
+   "recentMin": 1472,
+   "recentMax": 2929,
+   "note": "Kayak's season table names different months (September high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g34671-d12095745-Reviews.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Hotel at The Surf Club",
+    "url": "https://us.trip.com/hotels/surfside-hotel-detail-6346903/four-seasons-hotel-at-the-surf-club/"
+   }
+  ]
+ },
+ "HIR-226": {
+  "address": "1700 Tysons Boulevard, McLean, VA 22102, USA",
+  "keys": 398,
+  "keysNote": "Almost 400 rooms and suites (Kayak); 398 per original data",
+  "keysCheck": "Kayak 'almost 400'; Trip.com 498; original data 398; unconfirmed",
+  "opened": "Opened 1991; renovated 2017 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Entyse Bistro; ENTYSE Espresso Bar; ENTYSE Wine Bar & Lounge (Kayak)",
+   "spa": "The Ritz-Carlton Spa (Kayak)",
+   "pool": "Indoor pool",
+   "fitness": "Fitness center",
+   "meeting": "Conference and multi-function rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/McLean-Hotels-The-Ritz-Carlton-Tysons-Corner.274346.ksp",
+   "cheapMonth": "November",
+   "low": 355,
+   "peakMonth": "February",
+   "high": 391,
+   "weekday2w": 376,
+   "weekend2w": 366,
+   "recentMin": 330,
+   "recentMax": 642,
+   "note": "Kayak's season table names different months (December low); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g60726-d84023-Reviews.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Ritz-Carlton, Tysons Corner",
+    "url": "https://www.trip.com/hotels/tysons-corner-hotel-detail-2233524/the-ritz-carlton-tysons-corner/"
+   }
+  ]
+ },
+ "HIR-1141": {
+  "address": "1 Vail Road, Vail, CO 81657, USA",
+  "keys": 121,
+  "keysNote": "121 guest rooms (Kayak)",
+  "keysCheck": "Kayak 121; original data 121; matches (Trip.com lists 37)",
+  "opened": "Opened 2011; renovated 2021 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Flame (steakhouse); The Remedy Bar; Bean and Gone (Kayak)",
+   "spa": "Vail Spa and Wellness, 13 treatment rooms (Kayak)",
+   "pool": "Heated outdoor pool",
+   "fitness": "Fitness center",
+   "meeting": "Conference and multi-function rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Vail-Hotels-Four-Seasons-Resort-Vail.335077.ksp",
+   "cheapMonth": "May",
+   "low": 509,
+   "peakMonth": "January",
+   "high": 2351,
+   "weekday2w": 644,
+   "weekend2w": 983,
+   "recentMin": 426,
+   "recentMax": 3309,
+   "note": "Kayak's season table names different months (November low, February high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g33676-d1687462-Reviews.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Resort Vail",
+    "url": "https://www.trip.com/hotels/vail-hotel-detail-2127263/four-seasons-resort-vail/"
+   }
+  ]
+ },
+ "HIR-246": {
+  "address": "715 West Lionshead Circle, Vail, CO 81657, USA",
+  "keys": 344,
+  "keysNote": "344 rooms (Hotel Online, DiamondRock opening release)",
+  "keysCheck": "Hotel Online 344; original data 344; matches (Trip.com lists 113)",
+  "opened": "Opened 2021 as The Hythe after conversion from Vail Marriott Mountain Resort; $8.4M incremental repositioning (Hotel Online)",
+  "owner": "DiamondRock Hospitality Company (Hotel Online)",
+  "amenities": {
+   "dining": "Margie's Haas (farm-to-table); four food and beverage concepts (Hotel Online, Trip.com)",
+   "spa": "Well & Being Spa with Himalayan Salt Lounge (Trip.com, Hotel Online)",
+   "pool": "Four-season outdoor pool (Trip.com)",
+   "fitness": "Fitness center",
+   "meeting": "About 29,000 sq ft of indoor and outdoor space, 20+ venues (Hotel Online)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Vail-Hotels-Vail-Marriott-Mountain-Resort.9220.ksp",
+   "cheapMonth": "May",
+   "low": 348,
+   "peakMonth": "February",
+   "high": 1061,
+   "weekday2w": 406,
+   "weekend2w": 536,
+   "recentMin": 294,
+   "recentMax": 442
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g33676-d85451-Reviews.html",
+  "sources": [
+   {
+    "label": "Hotel Online — DiamondRock debuts The Hythe Vail",
+    "url": "https://www.hotel-online.com/news/diamondrock-debuts-the-hythe-a-luxury-collection-resort-vail-colorado"
+   },
+   {
+    "label": "Trip.com — The Hythe Vail",
+    "url": "https://us.trip.com/hotels/vail-hotel-detail-2245452/vail-marriott-mountain-resort/"
+   }
+  ]
+ },
+ "HIR-210": {
+  "address": "3550 Wailea Alanui Drive, Wailea, HI 96753, USA",
+  "keys": 325,
+  "keysNote": "325 rooms (Trip.com)",
+  "keysCheck": "Trip.com 325; original data 320",
+  "opened": "Opened 2013 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Ka'ana Kitchen; Morimoto Maui; Lehua Lounge; The Feast at Mōkapu lu'au (Kayak, Trip.com)",
+   "spa": "Awili Spa and Salon, 15,000 sq ft (Kayak, Trip.com)",
+   "pool": "Five pools, three infinity-style (Kayak)",
+   "fitness": "24-hour fitness center"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Wailea-Hotels-Andaz-Maui-at-Wailea-Resort.548477.ksp",
+   "cheapMonth": "November",
+   "low": 933,
+   "peakMonth": "May",
+   "high": 1187,
+   "weekday2w": 1140,
+   "weekend2w": 1136,
+   "recentMin": 958,
+   "recentMax": 1308,
+   "note": "Kayak's season table names different months (April low, October high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g609129-d4459053-Reviews.html",
+  "sources": [
+   {
+    "label": "Trip.com — Andaz Maui at Wailea Resort",
+    "url": "https://us.trip.com/hotels/wailea-hotel-detail-2197728/andaz-maui-at-wailea-resort/"
+   }
+  ]
+ },
+ "HIR-211": {
+  "address": "4100 Wailea Alanui Drive, Wailea, HI 96753, USA",
+  "keys": 450,
+  "keysNote": "450 rooms including suites (Kayak; Trip.com description)",
+  "keysCheck": "Kayak 450; Trip.com description 450 (listing 413); original data 450; matches",
+  "opened": "Opened 1991; renovated 2023 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Ko; AMA Bar & Grill; Pilina; LUANA (Kayak, Trip.com)",
+   "spa": "Willow Stream Spa (Kayak)",
+   "pool": "Three pools: two family pools joined by 140-ft water slide, one adults-only (Kayak)",
+   "fitness": "Fitness center",
+   "meeting": "Over 42,000 sq ft of function space, receptions up to 650 (Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Wailea-Hotels-Fairmont-Kea-Lani---Maui.34009.ksp",
+   "cheapMonth": "September",
+   "low": 970,
+   "peakMonth": "December",
+   "high": 1670,
+   "weekday2w": 1216,
+   "weekend2w": 1217,
+   "recentMin": 977,
+   "recentMax": 2591,
+   "note": "Kayak's season table names different months (December low, April high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g609129-d87399-Reviews.html",
+  "sources": [
+   {
+    "label": "Trip.com — Fairmont Kea Lani, Maui",
+    "url": "https://us.trip.com/hotels/wailea-hotel-detail-2199649/the-fairmont-kea-lani-maui/"
+   }
+  ]
+ },
+ "HIR-1120": {
+  "address": "3900 Wailea Alanui Drive, Wailea (Kihei), HI 96753, USA",
+  "keys": 383,
+  "keysNote": "383 rooms (Trip.com property details)",
+  "keysCheck": "Trip.com 383 (description 379); Kayak 'more than 300'; original data 380",
+  "opened": "Opened 1990; renovated 2016 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "DUO Steak and Seafood; Ferraro's Bar e Ristorante; Spago; KOMO; Lobby Lounge (Kayak, Trip.com)",
+   "spa": "Spa (Trip.com)",
+   "pool": "Three heated pools including infinity pool and swim-up bar (Kayak, Trip.com)",
+   "fitness": "Fitness center",
+   "meeting": "About 38,998 sq ft of conference and meeting space (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Kihei-Hotels-Four-Seasons-Resort-Maui-At-Wailea.16888.ksp",
+   "cheapMonth": "December",
+   "low": 1099,
+   "peakMonth": "August",
+   "high": 1613,
+   "weekday2w": 1308,
+   "weekend2w": 1223,
+   "recentMin": 1045,
+   "recentMax": 3195,
+   "note": "Kayak's season table names different months (September low, March high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g609129-d87397-Reviews.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Resort Maui at Wailea",
+    "url": "https://www.trip.com/hotels/wailea-hotel-detail-1460915/four-seasons-resort-maui-at-wailea"
+   }
+  ]
+ },
+ "HIR-1117": {
+  "address": "2 Dole Drive, Westlake Village, CA 91362, USA",
+  "keys": 269,
+  "keysNote": "269 rooms (Trip.com)",
+  "keysCheck": "Trip.com 269; original data 264",
+  "opened": "Opened 2006 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "ONYX (Japanese); Hampton's; The Lookout; The Tasting Room; Stir (Kayak, Trip.com)",
+   "spa": "California Health & Longevity Institute spa and wellness center (Kayak)",
+   "pool": "Indoor and outdoor pools",
+   "fitness": "Fitness center",
+   "meeting": "Conference and multi-function rooms; wedding services (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Westlake-Village-Hotels-Four-Seasons-Hotel-Westlake-Village.180783.ksp",
+   "cheapMonth": "January",
+   "low": 557,
+   "peakMonth": "June",
+   "high": 728,
+   "weekday2w": 477,
+   "weekend2w": 711,
+   "recentMin": 248,
+   "recentMax": 727
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g33258-d623631-Reviews.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Hotel Westlake Village",
+    "url": "https://us.trip.com/hotels/westlake-village-hotel-detail-2198767/four-seasons-hotel-westlake-village/"
+   }
+  ]
+ },
+ "HIR-1587": {
+  "address": "Aguascalientes 158, Colonia Condesa, Cuauhtémoc, 06100 Mexico City, Mexico",
+  "keys": 213,
+  "keysNote": "213 rooms (Kayak; Trip.com 214)",
+  "keysCheck": "Kayak 213; Trip.com 214; original data 213; matches",
+  "opened": "Opened 2023 in a 1961 building formerly the Conjunto Aristos (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Restaurant, rooftop restaurant, sky bar, lobby bar and nightclub (Trip.com)",
+   "spa": "Full-service spa (Kayak)",
+   "pool": "Rooftop outdoor pool",
+   "fitness": "24-hour fitness center",
+   "meeting": "Conference room, multi-function room and coworking spaces (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Mexico-City-Hotels-Andaz-Mexico-City-Condesa.8980996.ksp",
+   "cheapMonth": "August",
+   "low": 318,
+   "peakMonth": "November",
+   "high": 438,
+   "weekday2w": 502,
+   "weekend2w": 1281,
+   "recentMin": 892,
+   "recentMax": 1510,
+   "note": "Kayak's season table names different months (December low, October high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150800-d24924697-Reviews-Andaz_Mexico_City_Condesa-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+  "sources": [
+   {
+    "label": "Trip.com — Andaz Condesa Mexico City",
+    "url": "https://us.trip.com/hotels/mexico-city-hotel-detail-97899536/andaz-condesa-mexico-city-by-hyatt/"
+   }
+  ]
+ },
+ "HIR-448": {
+  "address": "Calz. Gral. Mariano Escobedo 700, Anzures, Miguel Hidalgo, 11590 Mexico City, Mexico",
+  "keys": 712,
+  "keysNote": "712 guestrooms (Trip.com description)",
+  "keysCheck": "Trip.com description 712 (property details 703); original data 712; matches",
+  "opened": "Opened 1968; renovated 2022 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Six adjoining buildings (Kayak)",
+   "dining": "Morimoto (Japanese); Bistro; bar and cafe; 24-hour room service (Trip.com)",
+   "spa": "Spa with massage rooms and salon (Trip.com)",
+   "pool": "Three outdoor pools (Kayak)",
+   "fitness": "24/7 fitness center",
+   "meeting": "Conference center with 22 meeting rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Mexico-City-Hotels-Camino-Real-Polanco-Mexico.11220.ksp",
+   "cheapMonth": "January",
+   "low": 204,
+   "peakMonth": "June",
+   "high": 394,
+   "weekday2w": 284,
+   "weekend2w": 213,
+   "recentMin": 190,
+   "recentMax": 1133,
+   "note": "Kayak's season table names different months (August low, September high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150800-d156086-Reviews-Camino_Real_Polanco_Mexico-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+  "sources": [
+   {
+    "label": "Trip.com — Camino Real Polanco Mexico",
+    "url": "https://www.trip.com/hotels/mexico-city-hotel-detail-2195403/camino-real-polanco-mexico/"
+   }
+  ]
+ },
+ "HIR-402": {
+  "address": "Paseo de la Reforma 500, Juárez, Cuauhtémoc, 06600 Mexico City, Mexico",
+  "keys": 240,
+  "keysNote": "240 rooms (Trip.com)",
+  "keysCheck": "Trip.com 240; original data 240; matches",
+  "opened": "Opened 1994; renovated 2016; guest reviews from 2025–26 describe renovation work under way (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Zanaya; Il Becco (Italian); Fifty Mils (bar); Pan Dulce (Kayak, Trip.com)",
+   "spa": "Spa with sauna and salon (Trip.com)",
+   "pool": "Heated outdoor pool (reported closed for renovation in February 2026 review)",
+   "fitness": "Fitness center",
+   "meeting": "Conference and multi-function rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Mexico-City-Hotels-Four-Seasons-Hotel-Mexico-City.19513.ksp",
+   "cheapMonth": "August",
+   "low": 745,
+   "peakMonth": "June",
+   "high": 1912,
+   "weekday2w": 1545,
+   "weekend2w": 1538,
+   "recentMin": 1525,
+   "recentMax": 2124,
+   "note": "Kayak's season table names different months (October high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150800-d152463-Reviews-Four_Seasons_Hotel_Mexico_City-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Hotel Mexico City",
+    "url": "https://www.trip.com/hotels/mexico-city-hotel-detail-2135221/four-seasons-hotel-mexico-city/"
+   }
+  ]
+ },
+ "HIR-452": {
+  "address": "Av. Veracruz 102, Condesa / Roma Norte, Cuauhtémoc, 06700 Mexico City, Mexico",
+  "keys": 40,
+  "keysNote": "40 rooms (Trip.com)",
+  "keysCheck": "Trip.com 40; original data 40; matches",
+  "opened": "",
+  "owner": "",
+  "amenities": {
+   "dining": "El Patio (fusion); rooftop bar; 24-hour room service (Trip.com)",
+   "spa": "Massage room; sauna and Jacuzzi (Trip.com, Kayak)",
+   "pool": "No pool listed (Trip.com)",
+   "fitness": "Fitness center"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Mexico-City-Hotels-Condesa-df-Mexico-City-a-Member-of-Design-Hotels-.104234.ksp",
+   "cheapMonth": "August",
+   "low": 438,
+   "peakMonth": "June",
+   "high": 717,
+   "weekday2w": 550,
+   "weekend2w": 709,
+   "recentMin": 614,
+   "recentMax": 614,
+   "note": "Kayak's season table names different months (December high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150800-d518345-Reviews-Condesa_DF-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+  "sources": [
+   {
+    "label": "Trip.com — Condesa df",
+    "url": "https://us.trip.com/hotels/mexico-city-hotel-detail-2581059/condesa-df/"
+   }
+  ]
+ },
+ "HIR-451": {
+  "address": "Av. Presidente Masaryk 201, Polanco, Miguel Hidalgo, 11560 Mexico City, Mexico",
+  "keys": 36,
+  "keysNote": "36 rooms (Trip.com)",
+  "keysCheck": "Trip.com 36; original data 36; matches",
+  "opened": "Opened 2000 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Restaurant, bar/lounge and poolside bar; rooftop bar (Trip.com)",
+   "spa": "Spa: massages, body treatments, facials; sauna and Jacuzzi",
+   "pool": "Heated outdoor pool",
+   "fitness": "Fitness center",
+   "other": "Design Hotels member (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Mexico-City-Hotels-Habita-Mexico-City-a-Member-of-Design-Hotels-.17121.ksp",
+   "cheapMonth": "January",
+   "low": 239,
+   "peakMonth": "June",
+   "high": 341,
+   "weekday2w": 341,
+   "weekend2w": 239,
+   "recentMin": 254,
+   "recentMax": 463,
+   "note": "Kayak gives no monthly dollar averages (table: January low, June high); low/high are the 2-week weekend and weeknight averages",
+   "basis": "2wk"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150800-d254876-Reviews-Habita_Hotel-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+  "sources": [
+   {
+    "label": "Trip.com — Habita, Mexico City",
+    "url": "https://www.trip.com/hotels/mexico-city-hotel-detail-2582704/hotel-habita/"
+   }
+  ]
+ },
+ "HIR-447": {
+  "address": "Paseo de la Reforma 465, Cuauhtémoc, 06500 Mexico City, Mexico",
+  "keys": 219,
+  "keysNote": "219 rooms (Trip.com property details)",
+  "keysCheck": "Trip.com 219 (description 209); Kayak 'over 100'; original data 206",
+  "opened": "Opened 1991; renovated 2013 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Terraza Santino Reforma; Los Canarios; bar (Trip.com)",
+   "spa": "Day spa: massages and facials (Kayak)",
+   "pool": "Adults-only indoor pool and hot tub (Kayak)",
+   "fitness": "24/7 fitness center",
+   "meeting": "Conference center and meeting room (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Mexico-City-Hotels-Hotel-Marquis-Reforma.19482.ksp",
+   "cheapMonth": "April",
+   "low": 195,
+   "peakMonth": "June",
+   "high": 359,
+   "weekday2w": 286,
+   "weekend2w": 260,
+   "recentMin": 170,
+   "recentMax": 374,
+   "note": "Kayak's season table names different months (May low, January high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150800-d152470-Reviews-Marquis_Reforma-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hotel Marquis Reforma",
+    "url": "https://www.trip.com/hotels/mexico-city-hotel-detail-756958/hotel-marquis-reforma/"
+   }
+  ]
+ },
+ "HIR-1586": {
+  "address": "Campos Elíseos 218, Polanco, Miguel Hidalgo, 11560 Mexico City, Mexico",
+  "keys": 659,
+  "keysNote": "659 keys per original data",
+  "keysCheck": "Trip.com 900 (doubtful); Kayak no count; original data 659; unconfirmed",
+  "opened": "Opened 1977 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Seven specialty restaurants including Chapulín, Tokoya, The Palm, Café Urbano, Alfredo di Roma and Au Pied de Cochon (Trip.com); largest wine cellar in Latin America (Kayak)",
+   "spa": "Spa with massage room (Trip.com)",
+   "pool": "No guest pool (Trip.com FAQ)",
+   "fitness": "Fitness center",
+   "meeting": "More than 1,800 m² of meeting and event space (Kayak, Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Mexico-City-Hotels-Intercontinental-Presidente-Mexico-City-An-IHG-Hotel.4989021.ksp",
+   "cheapMonth": "September",
+   "low": 293,
+   "peakMonth": "June",
+   "high": 632,
+   "weekday2w": 375,
+   "weekend2w": 304,
+   "recentMin": 262,
+   "recentMax": 638,
+   "note": "Kayak's season table names different months (July low, September high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150800-d153936-Reviews-Intercontinental_Presidente_Mexico_City_By_IHG-Mexico_City_Central_Mexico_and_Gulf_Coas.html",
+  "sources": [
+   {
+    "label": "Trip.com — InterContinental Presidente Mexico City",
+    "url": "https://www.trip.com/hotels/mexico-city-hotel-detail-2577137/intercontinental-hotels-presidente-mexico-city-by-ihg/"
+   }
+  ]
+ },
+ "HIR-404": {
+  "address": "Campos Elíseos 204, Polanco, Miguel Hidalgo, 11560 Mexico City, Mexico",
+  "keys": 755,
+  "keysNote": "755 rooms: 737 guestrooms and 18 suites (Trip.com)",
+  "keysCheck": "Trip.com 755; original data 755; matches",
+  "opened": "Listed as opened 2012 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Rulfo Paraje Latino; Teppan Grill; two Japanese restaurants; bar and lobby bar (Kayak, Trip.com)",
+   "spa": "Spa with sauna (Trip.com)",
+   "pool": "Heated indoor pool",
+   "fitness": "Fitness center; outdoor tennis courts (Kayak)",
+   "meeting": "Conference and multi-function rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Mexico-City-Hotels-Hyatt-Regency-Mexico-City.9254.ksp",
+   "cheapMonth": "January",
+   "low": 316,
+   "peakMonth": "June",
+   "high": 597,
+   "weekday2w": 511,
+   "weekend2w": 336,
+   "recentMin": 401,
+   "recentMax": 1393,
+   "note": "Kayak's season table names different months (February low); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150800-d152469-Reviews-Hyatt_Regency_Mexico_City-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hyatt Regency Mexico City",
+    "url": "https://us.trip.com/hotels/mexico-city-hotel-detail-2195406/hyatt-regency-mexico-city/"
+   }
+  ]
+ },
+ "HIR-408": {
+  "address": "Andrés Bello 29, Polanco IV Secc, Miguel Hidalgo, 11560 Mexico City, Mexico",
+  "keys": 314,
+  "keysNote": "314 rooms (Trip.com)",
+  "keysCheck": "Trip.com 314; original data 312",
+  "opened": "Opened 1996; renovated 2024 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Tahona Mezcal Room; Archiebald Steak Home; Corsi Cucina Italiana; Chunky Dragon (Trip.com)",
+   "spa": "Spa with hammam and sauna (Trip.com)",
+   "pool": "Heated seventh-floor outdoor pool overlooking Chapultepec Park",
+   "fitness": "Fitness center",
+   "meeting": "Conference and multi-function rooms; wedding and corporate venues (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Mexico-City-Hotels-JW-Marriott-Hotel-Mexico-City.94906.ksp",
+   "cheapMonth": "September",
+   "low": 477,
+   "peakMonth": "June",
+   "high": 1036,
+   "weekday2w": 480,
+   "weekend2w": 631,
+   "recentMin": 436,
+   "recentMax": 701,
+   "note": "Kayak's season table names different months (January low, April high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150800-d185406-Reviews-JW_Marriott_Hotel_Mexico_City_Polanco-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+  "sources": [
+   {
+    "label": "Trip.com — JW Marriott Hotel Mexico City Polanco",
+    "url": "https://us.trip.com/hotels/mexico-city-hotel-detail-2238080/jw-marriott-hotel-mexico-city/"
+   }
+  ]
+ },
+ "HIR-405": {
+  "address": "Av. Presidente Masaryk 390, Polanco III Secc, Miguel Hidalgo, 11560 Mexico City, Mexico",
+  "keys": 35,
+  "keysNote": "35 rooms (Trip.com)",
+  "keysCheck": "Trip.com 35; original data 35; matches",
+  "opened": "Opened 2015 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Anatol en Las Alcobas; room service (Trip.com)",
+   "spa": "Spa with massage room (Trip.com)",
+   "fitness": "Fitness center (small, per review)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Mexico-City-Hotels-Las-Alcobas-a-Luxury-Collection-Hotel-Mexico-City.377628.ksp",
+   "cheapMonth": "July",
+   "low": 531,
+   "peakMonth": "June",
+   "high": 1099,
+   "weekday2w": 934,
+   "weekend2w": 974,
+   "recentMin": 881,
+   "recentMax": 1559,
+   "note": "Kayak's season table names different months (August low, November high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150800-d1652453-Reviews-Las_Alcobas_a_Luxury_Collection_Hotel_Mexico_City-Mexico_City_Central_Mexico_and_Gulf_.html",
+  "sources": [
+   {
+    "label": "Trip.com — Las Alcobas, a Luxury Collection Hotel",
+    "url": "https://www.trip.com/hotels/mexico-city-hotel-detail-3064645/las-alcobas-a-luxury-collection-hotel-mexico-city/"
+   }
+  ]
+ },
+ "HIR-450": {
+  "address": "Paseo de los Tamarindos 98, Bosques de las Lomas, Cuajimalpa de Morelos, 05120 Mexico City, Mexico",
+  "keys": 128,
+  "keysNote": "128 rooms (Trip.com property details); now Live Aqua Ciudad de México Bosques de las Lomas",
+  "keysCheck": "Trip.com 128 (description 135); original data 148; original address (Durango 223, Roma) not matched by Kayak or Trip.com",
+  "opened": "",
+  "owner": "",
+  "amenities": {
+   "dining": "Carnivore Prime Steakhouse; bar and coffee shop; 24-hour room service (Trip.com)",
+   "spa": "Spa: massages, body treatments, facials (Trip.com)",
+   "pool": "No pool (Trip.com)",
+   "fitness": "Fitness center",
+   "meeting": "About 10,710 sq ft of event space, seven meeting rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Mexico-City-Hotels-Live-Aqua-Urban-Resort-Mexico.469226.ksp",
+   "cheapMonth": "February",
+   "low": 297,
+   "peakMonth": "July",
+   "high": 890,
+   "weekday2w": 374,
+   "weekend2w": 635,
+   "recentMin": 502,
+   "recentMax": 682,
+   "note": "Kayak's season table names different months (August low, December high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150800-d3464247-Reviews-Live_Aqua_Urban_Resort_Mexico-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+  "sources": [
+   {
+    "label": "Trip.com — Live Aqua Ciudad de México Bosques de las Lomas",
+    "url": "https://us.trip.com/hotels/mexico-city-hotel-detail-3166302/live-aqua-urban-resort-mexico/"
+   }
+  ]
+ },
+ "HIR-403": {
+  "address": "Paseo de la Reforma 439, Cuauhtémoc, 06500 Mexico City, Mexico",
+  "keys": 189,
+  "keysNote": "189 rooms (Kayak, Trip.com)",
+  "keysCheck": "Kayak 189; Trip.com 189; original data 189; matches",
+  "opened": "Opened 2009 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "La Table Krug; King Cole Bar (Trip.com)",
+   "spa": "Spa with sauna and salon",
+   "pool": "Indoor pool and Jacuzzi; rooftop terrace (Kayak)",
+   "fitness": "Fitness center",
+   "meeting": "Conference and multi-function rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Mexico-City-Hotels-The-St-Regis-Mexico-City.281748.ksp",
+   "cheapMonth": "July",
+   "low": 436,
+   "peakMonth": "June",
+   "high": 1992,
+   "weekday2w": 756,
+   "weekend2w": 1144,
+   "recentMin": 418,
+   "recentMax": 1309,
+   "note": "Kayak's season table names different months (September low); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150800-d1235434-Reviews-The_St_Regis_Mexico_City-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+  "sources": [
+   {
+    "label": "Trip.com — The St. Regis Mexico City",
+    "url": "https://us.trip.com/hotels/mexico-city-hotel-detail-2195398/st-regis-mexico-city/"
+   }
+  ]
+ },
+ "HIR-407": {
+  "address": "Paseo de la Reforma 509, Cuauhtémoc, 06500 Mexico City, Mexico",
+  "keys": 156,
+  "keysNote": "156 rooms (Trip.com)",
+  "keysCheck": "Trip.com 156; original data 160; original address (Reforma 277) corrected to Reforma 509",
+  "opened": "Opened 2021 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Tower rising 58 stories above Chapultepec Park (Kayak, Trip.com)",
+   "dining": "Ling Ling by Hakkasan; Samos Sabores Míos; Carlotta Reforma; bar (Trip.com)",
+   "spa": "Spa with sauna (Kayak, Trip.com)",
+   "pool": "Heated indoor pool and plunge pool",
+   "fitness": "Fitness center",
+   "meeting": "Conference and multi-function rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Mexico-City-Hotels-The-Ritz-Carlton-Mexico-City.7507602.ksp",
+   "cheapMonth": "November",
+   "low": 424,
+   "peakMonth": "June",
+   "high": 1496,
+   "weekday2w": 715,
+   "weekend2w": 632,
+   "recentMin": 436,
+   "recentMax": 735,
+   "note": "Kayak's season table names different months (January low, February high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150800-d20098631-Reviews-The_Ritz_Carlton_Mexico_City-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+  "sources": [
+   {
+    "label": "Trip.com — The Ritz-Carlton, Mexico City",
+    "url": "https://us.trip.com/hotels/mexico-city-hotel-detail-65769393/the-ritz-carlton-mexico-city/"
+   }
+  ]
+ },
+ "HIR-406": {
+  "address": "Campos Elíseos 252, Polanco, Miguel Hidalgo, 11560 Mexico City, Mexico",
+  "keys": 237,
+  "keysNote": "237 guestrooms and suites (Kayak, Trip.com)",
+  "keysCheck": "Kayak 237; Trip.com 237; original data 237; matches",
+  "opened": "Opened 2003; renovated 2018 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Restaurant; Living Room Bar; 24-hour in-room dining (Trip.com, Kayak)",
+   "spa": "Spa with sauna and steam room",
+   "pool": "No pool (Trip.com)",
+   "fitness": "Fitness center",
+   "meeting": "Nine meeting studios, 7,700 sq ft, events for 10–340 guests (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Mexico-City-Hotels-W-Mexico-City.38283.ksp",
+   "cheapMonth": "March",
+   "low": 330,
+   "peakMonth": "June",
+   "high": 820,
+   "weekday2w": 523,
+   "weekend2w": 408,
+   "recentMin": 321,
+   "recentMax": 1708,
+   "note": "Kayak's season table names different months (May low, October high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150800-d275799-Reviews-W_Mexico_City-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+  "sources": [
+   {
+    "label": "Trip.com — W Mexico City",
+    "url": "https://us.trip.com/hotels/mexico-city-hotel-detail-2565055/w-mexico-city/"
+   }
+  ]
+ },
+ "HIR-1597": {
+  "address": "Carretera Federal Cancún–Tulum Km 298, Mayakoba, Solidaridad, Q.R. 77710, Mexico",
+  "keys": 218,
+  "keysNote": "218 rooms (Trip.com property details); now operating as Alila Mayakoba",
+  "keysCheck": "Trip.com 218 (description 214); original data 214; Kayak and TripAdvisor list the property as Alila Mayakoba",
+  "opened": "Opened 2016 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Sotavento; Casa Amate; VB; Cochina Milagro; Tinta del Pulpo (Kayak)",
+   "spa": "Naum Spa, two levels with spa suites (Kayak, Trip.com)",
+   "pool": "Lagoon-style outdoor pool; private plunge pools in some suites",
+   "fitness": "Fitness center",
+   "meeting": "Over 900 m² of event space including 618 m² Balum Ballroom and five studios (Trip.com, Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Playa-del-Carmen-Hotels-Andaz-Mayakoba-a-Concept-By-Hyatt---All-Inclusive.1070242989.ksp",
+   "cheapMonth": "October",
+   "low": 470,
+   "peakMonth": "February",
+   "high": 1474,
+   "weekday2w": 406,
+   "weekend2w": 593,
+   "recentMin": 327,
+   "recentMax": 675,
+   "note": "Kayak's season table names different months (September low, March high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150812-d11747186-Reviews-Andaz_Mayakoba_Resort_Riviera_Maya-Playa_del_Carmen_Yucatan_Peninsula.html",
+  "sources": [
+   {
+    "label": "Trip.com — Alila Mayakoba (formerly Andaz Mayakoba)",
+    "url": "https://www.trip.com/hotels/playa-del-carmen-hotel-detail-8339880/andaz-mayakoba-resort-riviera-maya-by-hyatt/"
+   }
+  ]
+ },
+ "HIR-1594": {
+  "address": "Carretera Federal Chetumal–Puerto Juárez Km 298, Mayakoba, Playa del Carmen, Q.R. 77710, Mexico",
+  "keys": 160,
+  "keysNote": "160 villas (Trip.com property details)",
+  "keysCheck": "Trip.com 160 (description 161); original data 120",
+  "opened": "Opened 2009; renovated 2025 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Saffron (Thai); Cello (Italian); Tomahawk; The Ember; Sands/Sur Beach Club; La Copa bar (Kayak, Trip.com)",
+   "spa": "Banyan Tree Spa (Kayak)",
+   "pool": "Outdoor and infinity pools; private villa pools",
+   "fitness": "Fitness center; PGA golf course and tennis (Kayak)",
+   "meeting": "3,310 sq ft, four meeting rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Playa-del-Carmen-Hotels-Banyan-Tree-Mayakoba.202939.ksp",
+   "cheapMonth": "August",
+   "low": 678,
+   "peakMonth": "February",
+   "high": 1563,
+   "weekday2w": 902,
+   "weekend2w": 1007,
+   "recentMin": 676,
+   "recentMax": 1120,
+   "note": "Kayak's season table names different months (December high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150812-d1218761-Reviews-Banyan_Tree_Mayakoba-Playa_del_Carmen_Yucatan_Peninsula.html",
+  "sources": [
+   {
+    "label": "Trip.com — Banyan Tree Mayakoba",
+    "url": "https://us.trip.com/hotels/playa-del-carmen-hotel-detail-2574595/banyan-tree-mayakoba/"
+   }
+  ]
+ },
+ "HIR-1840": {
+  "address": "Carretera Cancún–Tulum Km 51, Riviera Maya, Solidaridad, Q.R. 77710, Mexico",
+  "keys": 72,
+  "keysNote": "72 rooms (Trip.com); Kayak 63",
+  "keysCheck": "Trip.com 72; Kayak 63; original data 65; unconfirmed",
+  "opened": "Opened 1978; renovated 2023 (Trip.com); now Maroma, A Belmond Hotel",
+  "owner": "",
+  "amenities": {
+   "dining": "Woodend; Casa Mayor; K'Óben; Freddy's Bar; lobby bar (Trip.com)",
+   "spa": "Kinan Spa / The Maroma Spa (Kayak, Trip.com)",
+   "pool": "Infinity pools (two to three per sources)",
+   "fitness": "Fitness center"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Playa-del-Carmen-Hotels-Belmond-Maroma-Resort-Spa.1487.ksp",
+   "cheapMonth": "July",
+   "low": 843,
+   "peakMonth": "February",
+   "high": 1969,
+   "weekday2w": 1257,
+   "weekend2w": 1629,
+   "recentMin": 932,
+   "recentMax": 1698
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g4053317-d154422-Reviews-Maroma_A_Belmond_Hotel_Riviera_Maya-Playa_Maroma_Playa_del_Carmen_Yucatan_Peninsula.html",
+  "sources": [
+   {
+    "label": "Trip.com — Maroma, A Belmond Hotel",
+    "url": "https://ae.trip.com/hotels/solidaridad-hotel-detail-6173173/belmond-maroma-resort-and-spa/"
+   }
+  ]
+ },
+ "HIR-1598": {
+  "address": "Prolongación Bonampak Mz 1 Lt 10, Playa Mujeres, Cancún, Q.R. 77400, Mexico",
+  "keys": 450,
+  "keysNote": "450 suites (Kayak)",
+  "keysCheck": "Kayak 450; original data 474",
+  "opened": "",
+  "owner": "",
+  "amenities": {
+   "dining": "Ten restaurants including The Grill, Chez Isabelle, Toscana, Spice and Agave; eleven bars (Kayak); adults-only all-inclusive",
+   "spa": "Miile Spa with hydrotherapy suites (Kayak)",
+   "pool": "Seven outdoor pools (Kayak)",
+   "fitness": "24-hour fitness center; Playa Mujeres Golf Club nearby",
+   "meeting": "17,000 sq ft indoor meeting space, 10 boardrooms (Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Cancun-Hotels-Excellence-Playa-Mujeres---Adults-Only.168014.ksp",
+   "cheapMonth": "September",
+   "low": 519,
+   "peakMonth": "February",
+   "high": 913,
+   "weekday2w": 595,
+   "weekend2w": 595,
+   "recentMin": 402,
+   "recentMax": 684,
+   "note": "Kayak's season table names different months (May low); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://tripadvisor.com/Hotel_Review-g1229340-d649432-Reviews-Excellence_Playa_Mujeres-Playa_Mujeres_Yucatan_Peninsula.html",
+  "sources": []
+ },
+ "HIR-1686": {
+  "address": "Blvd. Kukulcán Km 14.5, Zona Hotelera, Cancún, Q.R. 77500, Mexico",
+  "keys": 600,
+  "keysNote": "600 rooms (Trip.com)",
+  "keysCheck": "Trip.com 600; original data 601",
+  "opened": "Opened 2009; renovated 2024 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "All-inclusive; The Market, Ciao, Toro, Pizzeto, Zen, Ipanema (Trip.com, Kayak)",
+   "spa": "Rock Spa (Kayak)",
+   "pool": "Lagoon-style and infinity pools with swim-up bars; children's pool",
+   "fitness": "Fitness center with classes",
+   "meeting": "Conference and multi-function rooms; coworking (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Cancun-Hotels-Hard-Rock-Hotel-Cancun.58567.ksp",
+   "cheapMonth": "September",
+   "low": 400,
+   "peakMonth": "December",
+   "high": 745,
+   "weekday2w": 593,
+   "weekend2w": 649,
+   "recentMin": 338,
+   "recentMax": 564,
+   "note": "Kayak's season table names different months (October low, September high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150807-d152896-Reviews-Hard_Rock_Hotel_Cancun-Cancun_Yucatan_Peninsula.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hard Rock Hotel Cancun",
+    "url": "https://us.trip.com/hotels/cancun-hotel-detail-2541566/hard-rock-hotel-cancun-all-inclusive"
+   }
+  ]
+ },
+ "HIR-1595": {
+  "address": "Blvd. Kukulcán Km 14.5, Lote 40-A, Zona Hotelera, Cancún, Q.R. 77500, Mexico",
+  "keys": 425,
+  "keysNote": "425 rooms (Trip.com)",
+  "keysCheck": "Trip.com 425; original data 448",
+  "opened": "Opened 2001; renovated 2019 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Gustino Italian Grill; Sasi Thai; Bravío; BeachWalk; 750° Pizzería; Lobby Bar; Champions Sports Bar (Trip.com, Kayak)",
+   "spa": "Sens-yah spa, Forbes Four-Star (Trip.com)",
+   "pool": "Indoor and outdoor pools; children's pool",
+   "fitness": "Fitness center with saunas",
+   "meeting": "Conference and multi-function rooms; wedding services (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Cancun-Hotels-JW-Marriott-Cancun-Resort-Spa.37733.ksp",
+   "cheapMonth": "August",
+   "low": 323,
+   "peakMonth": "December",
+   "high": 615,
+   "weekday2w": 341,
+   "weekend2w": 366,
+   "recentMin": 253,
+   "recentMax": 391,
+   "note": "Kayak's season table names different months (June low, April high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150807-d209428-Reviews-JW_Marriott_Cancun_Resort_Spa-Cancun_Yucatan_Peninsula.html",
+  "sources": [
+   {
+    "label": "Trip.com — JW Marriott Cancun Resort & Spa",
+    "url": "https://www.trip.com/hotels/cancun-hotel-detail-2238443/jw-marriott-cancun-resort-and-spa/"
+   }
+  ]
+ },
+ "HIR-1684": {
+  "address": "Blvd. Kukulcán Km 12.5, Zona Hotelera, Cancún, Q.R. 77500, Mexico",
+  "keys": 371,
+  "keysNote": "371 rooms (Trip.com)",
+  "keysCheck": "Trip.com 371; original data 371; matches",
+  "opened": "Opened 1999 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Adults-only all-inclusive; MB, The Azur, Varenna, Siete, Hidden Garden, Sushi Station, Akka Bar (Kayak, Trip.com)",
+   "spa": "Feel Harmony Spa (Kayak)",
+   "pool": "Infinity and heated outdoor pools",
+   "fitness": "Fitness center",
+   "meeting": "Almost 15,000 sq ft across 17 meeting rooms (Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Cancun-Hotels-Live-Aqua-Beach-Resort-Cancun.102192.ksp",
+   "cheapMonth": "September",
+   "low": 440,
+   "peakMonth": "February",
+   "high": 809,
+   "weekday2w": 636,
+   "weekend2w": 569,
+   "recentMin": 358,
+   "recentMax": 678
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150807-d506374-Reviews-Live_Aqua_Cancun-Cancun_Yucatan_Peninsula.html",
+  "sources": [
+   {
+    "label": "Trip.com — Live Aqua Beach Resort Cancun",
+    "url": "https://us.trip.com/hotels/cancun-hotel-detail-6521731/live-aqua-beach-resort-cancun/"
+   }
+  ]
+ },
+ "HIR-1596": {
+  "address": "Blvd. Kukulcán Km 21.26, Punta Nizuc, Cancún, Q.R. 77500, Mexico",
+  "keys": 246,
+  "keysNote": "246 rooms (Trip.com)",
+  "keysCheck": "Trip.com 246; original data 274",
+  "opened": "Opened 2012 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Café de la Playa; Ramona; NI (Peruvian); La Punta Grill & Lounge; Terranostra; Indochine (Trip.com)",
+   "spa": "Spa with hammam and sauna (Trip.com)",
+   "pool": "Infinity pools, including an adults-only pool (Trip.com, Kayak)",
+   "fitness": "Fitness center; yoga and paddleboard yoga",
+   "meeting": "Conference and multi-function rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Cancun-Hotels-Nizuc-Resort-and-Spa.479819.ksp",
+   "cheapMonth": "September",
+   "low": 547,
+   "peakMonth": "December",
+   "high": 944,
+   "weekday2w": 564,
+   "weekend2w": 545,
+   "recentMin": 397,
+   "recentMax": 1768
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150807-d3580898-Reviews-Nizuc_Resort_and_Spa-Cancun_Yucatan_Peninsula.html",
+  "sources": [
+   {
+    "label": "Trip.com — Nizuc Resort & Spa",
+    "url": "https://us.trip.com/hotels/cancun-hotel-detail-2562338/nizuc-resort-and-spa/"
+   }
+  ]
+ },
+ "HIR-1685": {
+  "address": "Blvd. Kukulcán Km 5.5, Lote 6-C, Zona Hotelera, Cancún, Q.R. 77500, Mexico",
+  "keys": 468,
+  "keysNote": "468 rooms per original data",
+  "keysCheck": "Trip.com 115 / 618 (conflicting); Kayak no count; original data 468; unconfirmed",
+  "opened": "Opened 2012 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "All-inclusive; Kulinarium (adults-only); Malecón; Japanese, Mexican, Italian, fusion and steakhouse restaurants; 24-hour sports bar (Kayak, Trip.com)",
+   "spa": "Spa with sauna and Jacuzzi",
+   "pool": "Four to five outdoor pools including a 450 m² adults-only pool (Kayak, Trip.com)",
+   "fitness": "Gym with group classes",
+   "meeting": "Conference and multi-function rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Cancun-Hotels-Riu-Palace-Peninsula.431509.ksp",
+   "cheapMonth": "October",
+   "low": 340,
+   "peakMonth": "December",
+   "high": 565,
+   "weekday2w": 370,
+   "weekend2w": 346,
+   "recentMin": 219,
+   "recentMax": 388,
+   "note": "Kayak's season table names different months (July high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150807-d2464153-Reviews-Hotel_Riu_Palace_Peninsula-Cancun_Yucatan_Peninsula.html",
+  "sources": [
+   {
+    "label": "Trip.com — Riu Palace Peninsula",
+    "url": "https://us.trip.com/hotels/cancun-hotel-detail-21117028/riu-palace-peninsula-all-inclusive/"
+   }
+  ]
+ },
+ "HIR-1211": {
+  "address": "Carretera Federal Cancún–Playa del Carmen Km 298, Solidaridad, Q.R. 77710, Mexico",
+  "keys": 153,
+  "keysNote": "153 rooms (Trip.com)",
+  "keysCheck": "Trip.com 153; Kayak 'over 120 suites'; original data 130",
+  "opened": "Opened 2006; renovated 2019 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "La Fondita; Italian restaurant; bar and lobby bar (Trip.com, Kayak)",
+   "spa": "Sense, A Rosewood Spa (Trip.com)",
+   "pool": "Three outdoor pools, one adults-only, including beachfront infinity pool",
+   "fitness": "24-hour fitness center",
+   "meeting": "Conference and multi-function rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Playa-del-Carmen-Hotels-Rosewood-Mayakoba.315506.ksp",
+   "cheapMonth": "September",
+   "low": 850,
+   "peakMonth": "February",
+   "high": 2156,
+   "weekday2w": 1832,
+   "weekend2w": 2084,
+   "recentMin": 784,
+   "recentMax": 1842,
+   "note": "Kayak's season table names different months (November high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150812-d754465-Reviews-Rosewood_Mayakoba-Playa_del_Carmen_Yucatan_Peninsula.html",
+  "sources": [
+   {
+    "label": "Trip.com — Rosewood Mayakoba",
+    "url": "https://us.trip.com/hotels/playa-del-carmen-hotel-detail-3158013/rosewood-mayakoba/"
+   }
+  ]
+ },
+ "HIR-1265": {
+  "address": "Retorno del Rey 36, Zona Hotelera, Cancún, Q.R. 77500, Mexico",
+  "keys": 363,
+  "keysNote": "363 rooms (Trip.com); now Kempinski Hotel Cancún",
+  "keysCheck": "Trip.com 363; original data 365; Kayak and Trip.com list the former Ritz-Carlton Cancun as Kempinski Hotel Cancún",
+  "opened": "Opened 1993; renovated 2015 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Fantino; The Club Grill & Jazz Supper Club; The Caribe Bar & Grill; Café Mexicano; D-Lounge; Casitas (Trip.com)",
+   "spa": "Spa with Mayan therapies (Trip.com)",
+   "pool": "Two pools and oceanfront whirlpool (Kayak)",
+   "fitness": "Fitness center",
+   "meeting": "Conference and multi-function rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Cancun-Hotels-Kempinski-Hotel-Cancun.31785.ksp",
+   "cheapMonth": "September",
+   "low": 364,
+   "peakMonth": "December",
+   "high": 704,
+   "weekday2w": 402,
+   "weekend2w": 404,
+   "recentMin": 339,
+   "recentMax": 460,
+   "note": "Kayak's season table names different months (May high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g150807-d152886-Reviews-Kempinski_Hotel_Cancun-Cancun_Yucatan_Peninsula.html",
+  "sources": [
+   {
+    "label": "Trip.com — Kempinski Hotel Cancún",
+    "url": "https://www.trip.com/hotels/cancun-hotel-detail-2192978/the-ritz-carlton-cancun/"
+   }
+  ]
+ },
+ "HIR-1119": {
+  "address": "Carretera Transpeninsular Km 10.3, Cabo del Sol, Cabo San Lucas, B.C.S. 23455, Mexico",
+  "keys": 96,
+  "keysNote": "96 rooms (Kayak, Trip.com)",
+  "keysCheck": "Kayak 96; Trip.com 96; original data 76 (corrected)",
+  "opened": "Opened 2024 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Palmerio (Mediterranean); three restaurants; Stargazing bar; adults-only pool bar (Trip.com)",
+   "spa": "Spa with massage rooms and salon (Trip.com)",
+   "pool": "Outdoor pools incl. adults-only pool; hot tubs and children's pool (Kayak, Trip.com)",
+   "fitness": "Fitness center and sauna",
+   "meeting": "Meeting room; wedding services (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Cabo-San-Lucas-Hotels-Four-Seasons-Resort-Cabo-Del-Sol.1071770666.ksp",
+   "cheapMonth": "September",
+   "low": 980,
+   "peakMonth": "February",
+   "high": 2669,
+   "weekday2w": 1577,
+   "weekend2w": 1626,
+   "recentMin": 994,
+   "recentMax": 7143,
+   "note": "Kayak's season table names different months (April high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g152515-d27476616-Reviews-Four_Seasons_Resort_Cabo_Del_Sol-Cabo_San_Lucas_Los_Cabos_Baja_California.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Resort Cabo del Sol",
+    "url": "https://sg.trip.com/hotels/los-cabos-hotel-detail-120649088/four-seasons-resort-and-residences-cabo-san-lucas-at-cabo-del-sol/"
+   }
+  ]
+ },
+ "HIR-1118": {
+  "address": "Calle Hacienda Eureka, Costa Palmas, La Ribera, B.C.S. 23570, Mexico",
+  "keys": 141,
+  "keysNote": "141 rooms (Kayak, Trip.com)",
+  "keysCheck": "Kayak 141; Trip.com 141; original data 130 (corrected)",
+  "opened": "Opened 2019 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Limón; Mozza (Italian); Chiki speakeasy; Japanese restaurant (Trip.com reviews); 8 restaurants, 4 bars (Kayak)",
+   "spa": "Four Seasons spa, 10 treatment rooms (Trip.com)",
+   "pool": "Seven outdoor pools including infinity pool; children's pool (Kayak)",
+   "fitness": "24-hour health club; 18-hole golf course (Kayak)",
+   "meeting": "5,856 sq ft indoor-outdoor ballroom (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/La-Ribera-Hotels-Four-Seasons-Resort-Los-Cabos-at-Costa-Palmas.4740411.ksp",
+   "cheapMonth": "August",
+   "low": 927,
+   "peakMonth": "January",
+   "high": 1848,
+   "weekday2w": 1158,
+   "weekend2w": 1417,
+   "recentMin": 833,
+   "recentMax": 2368,
+   "note": "Kayak's season table names different months (September low, June high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g3671641-d17784085-Reviews-Four_Seasons_Resort_Los_Cabos-La_Ribera_Los_Cabos_Baja_California.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Resort Los Cabos",
+    "url": "https://us.trip.com/hotels/la-ribera-hotel-detail-32608350/four-seasons-resort-los-cabos/"
+   }
+  ]
+ },
+ "HIR-1591": {
+  "address": "Carretera Transpeninsular Km 17, Corredor Turístico, San José del Cabo, B.C.S. 23405, Mexico",
+  "keys": 307,
+  "keysNote": "307 suites (Trip.com description)",
+  "keysCheck": "Trip.com description 307 (listing 378); original data 307; matches",
+  "opened": "Opened 2016 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "All-inclusive; Cocina de Autor; Cabrilla; Sen Lin; Loto Robata Grill; Velas10; 5 bars (Trip.com, Kayak)",
+   "spa": "SE Spa (Kayak)",
+   "pool": "Three outdoor pools incl. adults-only; children's pool",
+   "fitness": "Fitness center",
+   "meeting": "Conference and multi-function rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/San-Jose-del-Cabo-Hotels-Grand-Velas-Los-Cabos.2585842.ksp",
+   "cheapMonth": "September",
+   "low": 1280,
+   "peakMonth": "February",
+   "high": 1910,
+   "weekday2w": 1846,
+   "weekend2w": 1594,
+   "recentMin": 1508,
+   "recentMax": 1855,
+   "note": "Kayak's season table names different months (August low, December high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g152515-d10328794-Reviews-Grand_Velas_Los_Cabos-Cabo_San_Lucas_Los_Cabos_Baja_California.html",
+  "sources": [
+   {
+    "label": "Trip.com — Grand Velas Los Cabos",
+    "url": "https://us.trip.com/hotels/los-cabos-hotel-detail-10787783/grand-velas-los-cabos-all-inclusive/"
+   }
+  ]
+ },
+ "HIR-1588": {
+  "address": "Carretera Transpeninsular Km 19.5, Cabo Real, San José del Cabo, B.C.S. 23405, Mexico",
+  "keys": 83,
+  "keysNote": "83 rooms and suites (Trip.com)",
+  "keysCheck": "Trip.com 83; original data 71",
+  "opened": "Opened 1997; renovated 2016 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Arbol; El Restaurante; The Sea Grill and Ceviche Bar; La Cava; Taqueria; swim-up bar (Kayak)",
+   "spa": "Spa with sauna and salon",
+   "pool": "Infinity main pool, oasis pool and lazy river (Kayak)",
+   "fitness": "Fitness center with yoga and Pilates",
+   "meeting": "Conference and multi-function rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/San-Jose-del-Cabo-Hotels-Las-Ventanas-Al-Paraiso-A-Rosewood-Resort.156145.ksp",
+   "cheapMonth": "September",
+   "low": 1206,
+   "peakMonth": "February",
+   "high": 2255,
+   "weekday2w": 1408,
+   "weekend2w": 1559,
+   "recentMin": 1032,
+   "recentMax": 1877,
+   "note": "Kayak's season table names different months (June low, December high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g152516-d270473-Reviews-Las_Ventanas_Al_Paraiso_A_Rosewood_Resort-San_Jose_del_Cabo_Los_Cabos_Baja_California.html",
+  "sources": [
+   {
+    "label": "Trip.com — Las Ventanas al Paraíso, A Rosewood Resort",
+    "url": "https://us.trip.com/hotels/los-cabos-hotel-detail-3031217/las-ventanas-al-paraiso-a-rosewood-resort/"
+   }
+  ]
+ },
+ "HIR-1590": {
+  "address": "Twin Dolphin, Carretera Transpeninsular Km 12.5, Bahía Santa María, Cabo San Lucas, B.C.S. 23450, Mexico",
+  "keys": 122,
+  "keysNote": "122 guestrooms, suites and casas plus 52 residences (Kayak)",
+  "keysCheck": "Kayak 122 + 52 residences; Trip.com description 124 + 20 residences; original data 122; matches",
+  "opened": "Opened 2018 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Mezcal; Marea; Paletas (Kayak)",
+   "spa": "Spa Montage (Trip.com)",
+   "pool": "Infinity pools and two family pools (Kayak)",
+   "fitness": "Fitness center",
+   "meeting": "5,100 sq ft indoor meeting space plus beachside lawns (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Cabo-San-Lucas-Hotels-Montage-Los-Cabos.887880.ksp",
+   "cheapMonth": "September",
+   "low": 996,
+   "peakMonth": "February",
+   "high": 1936,
+   "weekday2w": 1249,
+   "weekend2w": 1940,
+   "recentMin": 843,
+   "recentMax": 12520,
+   "note": "Kayak's season table names different months (April low); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g152515-d13294609-Reviews-Montage_Los_Cabos-Cabo_San_Lucas_Los_Cabos_Baja_California.html",
+  "sources": [
+   {
+    "label": "Trip.com — Montage Los Cabos",
+    "url": "https://us.trip.com/hotels/los-cabos-hotel-detail-21843106/montage-los-cabos/"
+   }
+  ]
+ },
+ "HIR-1592": {
+  "address": "Polígono 1, Fracción D, Fraccionamiento Diamante, Cabo San Lucas, B.C.S. 23473, Mexico",
+  "keys": 200,
+  "keysNote": "200 rooms (Kayak; Trip.com description)",
+  "keysCheck": "Kayak 200; Trip.com description 200 (listing 299); original data 200; matches; original address (Paseo Malecón, San José del Cabo) corrected",
+  "opened": "",
+  "owner": "",
+  "amenities": {
+   "dining": "Nobu Restaurant; Pacific; Mani; six restaurants, four bars (Kayak, Trip.com)",
+   "spa": "Spa (Trip.com)",
+   "pool": "Four outdoor pools and hot tub",
+   "fitness": "Health club, fitness center and sauna",
+   "meeting": "Conference and multi-function rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Cabo-San-Lucas-Hotels-Nobu-Hotel-Los-Cabos.4203054.ksp",
+   "cheapMonth": "August",
+   "low": 410,
+   "peakMonth": "December",
+   "high": 824,
+   "weekday2w": 476,
+   "weekend2w": 521,
+   "recentMin": 305,
+   "recentMax": 627,
+   "note": "Kayak's season table names different months (July low); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g152515-d15752722-Reviews-Nobu_Hotel_Los_Cabos-Cabo_San_Lucas_Los_Cabos_Baja_California.html",
+  "sources": [
+   {
+    "label": "Trip.com — Nobu Hotel Los Cabos",
+    "url": "https://us.trip.com/hotels/los-cabos-hotel-detail-25823905/nobu-hotel-los-cabos/"
+   }
+  ]
+ },
+ "HIR-1589": {
+  "address": "Carretera Transpeninsular Km 7.5, San José del Cabo, B.C.S. 23400, Mexico",
+  "keys": 174,
+  "keysNote": "174 rooms (Trip.com)",
+  "keysCheck": "Trip.com 174; original data 173",
+  "opened": "Opened 1956; renovated 2015 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Old Mexico style with red-tiled roofs and whitewashed walls (Trip.com)",
+   "dining": "Seared; Agua by Larbi; Breeze; Suviche; Pelican Beach Grill (Kayak)",
+   "spa": "One&Only Spa with hammam and sauna (Trip.com)",
+   "pool": "Infinity, heated, adult and children's pools",
+   "fitness": "Fitness center",
+   "meeting": "Conference and multi-function rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/San-Jose-del-Cabo-Hotels-One-Only-Palmilla.80519.ksp",
+   "cheapMonth": "September",
+   "low": 1034,
+   "peakMonth": "March",
+   "high": 2285,
+   "weekday2w": 1519,
+   "weekend2w": 2025,
+   "recentMin": 921,
+   "recentMax": 2347,
+   "note": "Kayak's season table names different months (August low, December high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g152516-d185357-Reviews-One_Only_Palmilla-San_Jose_del_Cabo_Los_Cabos_Baja_California.html",
+  "sources": [
+   {
+    "label": "Trip.com — One&Only Palmilla",
+    "url": "https://us.trip.com/hotels/los-cabos-hotel-detail-1995360/oneandonly-palmilla"
+   }
+  ]
+ },
+ "HIR-1132": {
+  "address": "Punta Mita, Bahía de Banderas, Nayarit 63734, Mexico",
+  "keys": 173,
+  "keysNote": "173 casita-style accommodations (Trip.com description)",
+  "keysCheck": "Trip.com description 173 (listing 178); original data 173; matches",
+  "opened": "Opened 1999; renovated 2023 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "Dos Catrinas; Aramara; Bahia by Richard Sandoval; Tail of the Whale; Cora Lounge; Tamai and Nuna pool bars (Kayak)",
+   "spa": "Apuane Spa (Trip.com)",
+   "pool": "Infinity-edge pool; adults' complex with four pools and cabanas; lazy river (Trip.com)",
+   "fitness": "Fitness center; Four Seasons golf course nearby",
+   "meeting": "Conference and multi-function rooms (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Punta-de-Mita-Hotels-Four-Seasons-Resort-Punta-Mita.264824.ksp",
+   "cheapMonth": "August",
+   "low": 944,
+   "peakMonth": "March",
+   "high": 2194,
+   "weekday2w": 1296,
+   "weekend2w": 1085,
+   "recentMin": 846,
+   "recentMax": 1412,
+   "note": "Kayak's season table names different months (October low); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g499443-d153285-Reviews-Four_Seasons_Resort_Punta_Mita-Punta_de_Mita_Pacific_Coast.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Resort Punta Mita",
+    "url": "https://us.trip.com/hotels/bahia-de-banderas-hotel-detail-3040552/four-seasons-resort-punta-mita/"
+   }
+  ]
+ },
+ "HIR-1133": {
+  "address": "Lote H-2, Carretera Federal 200 Km 19.5, Punta de Mita, Nayarit 63734, Mexico",
+  "keys": 15,
+  "keysNote": "15 tents (TripAdvisor)",
+  "keysCheck": "TripAdvisor 15; original data 15; matches",
+  "opened": "",
+  "owner": "",
+  "amenities": {
+   "dining": "Restaurant and terrace (Kayak); adults-only (Kayak, TripAdvisor)",
+   "spa": "Spa and wellness centre (Kayak)",
+   "pool": "Outdoor and infinity pools"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Punta-de-Mita-Hotels-Naviva-A-Four-Seasons-Resort.1070820537.ksp",
+   "cheapMonth": "August",
+   "low": 4342,
+   "peakMonth": "December",
+   "high": 4657,
+   "weekday2w": 4342,
+   "weekend2w": 4657,
+   "recentMin": 3550,
+   "recentMax": 4662,
+   "note": "Kayak gives no monthly dollar averages (table: August low, December high); low/high are the 2-week weeknight and weekend averages",
+   "basis": "2wk"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g499443-d25326042-Reviews-Naviva_A_Four_Seasons_Resort_Punta_Mita_Mexico-Punta_de_Mita_Pacific_Coast.html",
+  "sources": [
+   {
+    "label": "TripAdvisor — Naviva, A Four Seasons Resort",
+    "url": "https://www.tripadvisor.com/Hotel_Review-g499443-d25326042-Reviews-Naviva_A_Four_Seasons_Resort_Punta_Mita_Mexico-Punta_de_Mita_Pacific_Coast.html"
+   }
+  ]
+ },
+ "HIR-1682": {
+  "address": "Hospicio 35, Zona Centro, San Miguel de Allende, Gto. 37700, Mexico",
+  "keys": 37,
+  "keysNote": "37 rooms (Trip.com)",
+  "keysCheck": "Trip.com 37; original data 37; matches",
+  "opened": "Opened 1997; renovated 2018 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "architecture": "Six colonial-style mansions in the Historic District (Trip.com)",
+   "dining": "Andanza; Restaurant del Parque / Casa del Parque; Bar Azul; Tunki rooftop bar (Trip.com, Kayak)",
+   "spa": "Laja Spa (Trip.com)",
+   "pool": "Heated outdoor pool",
+   "fitness": "Fitness center"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/San-Miguel-de-Allende-Hotels-Belmond-Casa-de-Sierra-Nevada.71133.ksp",
+   "cheapMonth": "August",
+   "low": 670,
+   "peakMonth": "April",
+   "high": 928,
+   "weekday2w": 751,
+   "weekend2w": 1278,
+   "recentMin": 688,
+   "recentMax": 1280,
+   "note": "Kayak's season table names different months (June low, September high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g151932-d152833-Reviews-Casa_de_Sierra_Nevada_A_Belmond_Hotel_San_Miguel_de_Allende-San_Miguel_de_Allende_Centr.html",
+  "sources": [
+   {
+    "label": "Trip.com — Casa de Sierra Nevada, A Belmond Hotel",
+    "url": "https://us.trip.com/hotels/san-miguel-de-allende-hotel-detail-4982045/belmond-casa-de-sierra-nevada-san-miguel-de-allende/"
+   }
+  ]
+ },
+ "HIR-1841": {
+  "address": "Aldama 53, Zona Centro, San Miguel de Allende, Gto. 37700, Mexico",
+  "keys": 32,
+  "keysNote": "32 rooms (Trip.com)",
+  "keysCheck": "Trip.com 32; original data 16",
+  "opened": "Opened 2010; renovated 2020 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "MOXI (Mediterranean); Bovine (French); bar (Trip.com)",
+   "spa": "Spa with Turkish steam bath (Trip.com, Kayak)",
+   "pool": "Outdoor pool",
+   "fitness": "Fitness center",
+   "other": "Design Hotels member (Kayak)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/San-Miguel-de-Allende-Hotels-Hotel-Matilda.46181.ksp",
+   "cheapMonth": "August",
+   "low": 455,
+   "peakMonth": "July",
+   "high": 632,
+   "weekday2w": 563,
+   "weekend2w": 622,
+   "recentMin": 651,
+   "recentMax": 651,
+   "note": "Kayak's season table names different months (September low, November high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g151932-d1898206-Reviews-Hotel_Matilda-San_Miguel_de_Allende_Central_Mexico_and_Gulf_Coast.html",
+  "sources": [
+   {
+    "label": "Trip.com — Hotel Matilda",
+    "url": "https://us.trip.com/hotels/san-miguel-de-allende-hotel-detail-3164843/hotel-matilda-a-member-of-design-hotels/"
+   }
+  ]
+ },
+ "HIR-1584": {
+  "address": "Nemesio Diez 11, Zona Centro, San Miguel de Allende, Gto. 37700, Mexico",
+  "keys": 67,
+  "keysNote": "67 guest rooms and suites (Kayak, Trip.com)",
+  "keysCheck": "Kayak 67; Trip.com 67; original data 67; matches",
+  "opened": "Opened 2011 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "1826 Restaurant and Tequila Bar; Luna Rooftop Tapas Bar; Los Pirules; Agua; La Cave (Kayak)",
+   "spa": "Sense, A Rosewood Spa",
+   "pool": "Three pools, Jacuzzi and cabanas (Kayak)",
+   "fitness": "Fitness center with yoga and Pilates",
+   "meeting": "Conference room and large event space (Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/San-Miguel-de-Allende-Hotels-Rosewood-San-Miguel-De-Allende.343682.ksp",
+   "cheapMonth": "July",
+   "low": 621,
+   "peakMonth": "March",
+   "high": 994,
+   "weekday2w": 816,
+   "weekend2w": 1022,
+   "recentMin": 502,
+   "recentMax": 3479,
+   "note": "Kayak's season table names different months (April high); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g151932-d1456570-Reviews-Rosewood_San_Miguel_de_Allende-San_Miguel_de_Allende_Central_Mexico_and_Gulf_Coast.html",
+  "sources": [
+   {
+    "label": "Trip.com — Rosewood San Miguel de Allende",
+    "url": "https://us.trip.com/hotels/san-miguel-de-allende-hotel-detail-3035749/rosewood-san-miguel/"
+   }
+  ]
+ },
+ "HIR-1140": {
+  "address": "Km 7.5 Carretera Federal 200, Barra de Navidad, La Huerta, Jalisco 48898, Mexico",
+  "keys": 157,
+  "keysNote": "157 rooms (Kayak, Trip.com)",
+  "keysCheck": "Kayak 157; Trip.com 157; original data 73 (corrected)",
+  "opened": "Opened 2022 (Trip.com)",
+  "owner": "",
+  "amenities": {
+   "dining": "SAL; Coyul; Nacho's taqueria; beach restaurant (Trip.com reviews); bar",
+   "spa": "Massage room (Trip.com)",
+   "pool": "Two outdoor pools incl. infinity pool; plunge pools in cliffside suites",
+   "fitness": "24-hour fitness center; 18-hole El Tamarindo golf course (Kayak, Trip.com)"
+  },
+  "kayak": {
+   "url": "https://www.kayak.com/Cihuatlan-Hotels-Four-Seasons-Resort-Tamarindo-Mexico.9107817.ksp",
+   "cheapMonth": "September",
+   "low": 964,
+   "peakMonth": "January",
+   "high": 1990,
+   "weekday2w": 2267,
+   "weekend2w": 1538,
+   "recentMin": 751,
+   "recentMax": 1183,
+   "note": "Kayak's season table names different months (August low); figures shown are Kayak's 12-month FAQ averages"
+  },
+  "tripadvisor": "https://www.tripadvisor.com/Hotel_Review-g793333-d25093824-Reviews-Four_Seasons_Resort_Tamarindo-La_Manzanilla_Costalegre.html",
+  "sources": [
+   {
+    "label": "Trip.com — Four Seasons Resort Tamarindo",
+    "url": "https://us.trip.com/hotels/la-huerta-hotel-detail-99539346/four-seasons-resort-tamarindo-mexico/"
+   }
+  ]
  }
 }
