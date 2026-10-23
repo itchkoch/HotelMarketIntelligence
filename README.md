@@ -6,7 +6,7 @@ Next.js 14 + TypeScript + Tailwind rebuild of HISV, limited to North America (Ca
 
 | Route | What it shows |
 |---|---|
-| `/` | 465 hotels: filter by country, market, tier; sort any column |
+| `/` | 444 hotels: filter by country, market, tier; sort any column |
 | `/reports/[id].pdf` | Per-hotel PDF report, generated on demand (opens when you click a hotel name) |
 | `/hotel/[id]` | Web version of the same report (11 sections, see below) |
 | `/markets` | Market averages calculated from the hotel and transaction data |

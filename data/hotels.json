@@ -6200,56 +6200,6 @@
 "flag": null
 },
 {
-"id": "HIR-449",
-"slug": "hir-449",
-"name": "InterContinental Presidente Mexico City",
-"city": "Mexico City",
-"state": null,
-"country": "Mexico",
-"tier": "Luxury",
-"keys": 659,
-"address": "Paseo de la Reforma 325, Col. Juárez, 06600 CDMX",
-"owner": "IHG Hotels & Resorts (NYSE: IHG)",
-"brand": "InterContinental Hotels & Resorts (IHG, NYSE: IHG)",
-"adr": 280.0,
-"otaLow": 218.0,
-"otaHigh": 369.0,
-"seasonal": [
-{
-"period": "Jan–Feb",
-"rate": 224.0,
-"note": "Low/shoulder"
-},
-{
-"period": "Mar–Apr",
-"rate": 252.0,
-"note": "Spring"
-},
-{
-"period": "May–Jun",
-"rate": 285.0,
-"note": "Summer"
-},
-{
-"period": "Jul–Aug",
-"rate": 322.0,
-"note": "Peak"
-},
-{
-"period": "Sep–Oct",
-"rate": 274.0,
-"note": "Fall"
-},
-{
-"period": "Nov–Dec",
-"rate": 252.0,
-"note": "Holiday"
-}
-],
-"verified": null,
-"flag": "Duplicate of HIR-1586 (InterContinental Presidente Mexico City, Campos Elíseos 218)"
-},
-{
 "id": "HIR-123",
 "slug": "hir-123",
 "name": "JW Marriott Charlotte",
@@ -8150,56 +8100,6 @@
 "flag": null
 },
 {
-"id": "HIR-059",
-"slug": "hir-059",
-"name": "Montage Beverly Hills",
-"city": "Los Angeles",
-"state": "CA",
-"country": "USA",
-"tier": "Luxury",
-"keys": 201,
-"address": "225 N Canon Drive, Beverly Hills, CA 90210, USA",
-"owner": "Ohana Real Estate Investors",
-"brand": "Montage Hotels & Resorts",
-"adr": 850.0,
-"otaLow": 663.0,
-"otaHigh": 1122.0,
-"seasonal": [
-{
-"period": "Jan–Feb",
-"rate": 680.0,
-"note": "Low/shoulder"
-},
-{
-"period": "Mar–Apr",
-"rate": 765.0,
-"note": "Spring"
-},
-{
-"period": "May–Jun",
-"rate": 867.0,
-"note": "Summer"
-},
-{
-"period": "Jul–Aug",
-"rate": 977.0,
-"note": "Peak"
-},
-{
-"period": "Sep–Oct",
-"rate": 833.0,
-"note": "Fall"
-},
-{
-"period": "Nov–Dec",
-"rate": 765.0,
-"note": "Holiday"
-}
-],
-"verified": null,
-"flag": "Duplicate record: Montage Beverly Hills at 225 North Canon Drive was acquired by Maybourne Hotel Group in 2019 and now operates as The Maybourne Beverly Hills, covered by HIR-144."
-},
-{
 "id": "HIR-053",
 "slug": "hir-053",
 "name": "Moose Hotel & Suites",
@@ -8907,7 +8807,7 @@
 "state": "IL",
 "country": "USA",
 "tier": "Luxury",
-"keys": 198,
+"keys": 182,
 "address": "800 North Michigan Avenue, Chicago, IL 60611, USA",
 "owner": "Pritzker family / Hyatt Hotels Corporation",
 "brand": "Park Hyatt Hotels & Resorts (Hyatt, NYSE: H)",
@@ -9307,7 +9207,7 @@
 "state": "NY",
 "country": "USA",
 "tier": "Luxury",
-"keys": 235,
+"keys": 219,
 "address": "700 Fifth Avenue at 55th Street, New York, NY 10019, USA",
 "owner": "Hongkong and Shanghai Hotels Ltd.",
 "brand": "The Peninsula Hotels",
@@ -9348,56 +9248,6 @@
 ],
 "verified": "2026-10-21",
 "flag": null
-},
-{
-"id": "HIR-034",
-"slug": "hir-034",
-"name": "The Peninsula Residences NY",
-"city": "New York",
-"state": "NY",
-"country": "USA",
-"tier": "Luxury",
-"keys": 78,
-"address": "700 5th Avenue, New York, NY 10019, USA",
-"owner": "Hongkong and Shanghai Hotels Ltd.",
-"brand": "The Peninsula Hotels",
-"adr": 1800.0,
-"otaLow": 1404.0,
-"otaHigh": 2376.0,
-"seasonal": [
-{
-"period": "Jan–Feb",
-"rate": 1440.0,
-"note": "Low/shoulder"
-},
-{
-"period": "Mar–Apr",
-"rate": 1620.0,
-"note": "Spring"
-},
-{
-"period": "May–Jun",
-"rate": 1836.0,
-"note": "Summer"
-},
-{
-"period": "Jul–Aug",
-"rate": 2070.0,
-"note": "Peak"
-},
-{
-"period": "Sep–Oct",
-"rate": 1764.0,
-"note": "Fall"
-},
-{
-"period": "Nov–Dec",
-"rate": 1620.0,
-"note": "Holiday"
-}
-],
-"verified": null,
-"flag": "No separate hotel called The Peninsula Residences was found at 700 Fifth Avenue; that address is The Peninsula New York (HIR-025), so this record appears to duplicate it."
 },
 {
 "id": "HIR-030",
@@ -11700,56 +11550,6 @@
 "flag": null
 },
 {
-"id": "HIR-151",
-"slug": "hir-151",
-"name": "The Gwen Luxury Collection Hotel",
-"city": "Chicago",
-"state": "IL",
-"country": "USA",
-"tier": "Luxury",
-"keys": 311,
-"address": "521 North Rush Street, Chicago, IL 60611",
-"owner": "Carey Watermark Investors / Marriott",
-"brand": "The Luxury Collection (Marriott International, NASDAQ: MAR)",
-"adr": 370.0,
-"otaLow": 288.0,
-"otaHigh": 488.0,
-"seasonal": [
-{
-"period": "Jan–Feb",
-"rate": 296.0,
-"note": "Low/shoulder"
-},
-{
-"period": "Mar–Apr",
-"rate": 333.0,
-"note": "Spring"
-},
-{
-"period": "May–Jun",
-"rate": 377.0,
-"note": "Summer"
-},
-{
-"period": "Jul–Aug",
-"rate": 425.0,
-"note": "Peak"
-},
-{
-"period": "Sep–Oct",
-"rate": 362.0,
-"note": "Fall"
-},
-{
-"period": "Nov–Dec",
-"rate": 333.0,
-"note": "Holiday"
-}
-],
-"verified": null,
-"flag": "Duplicate record: The Gwen, a Luxury Collection Hotel at 521 North Rush Street is already covered by HIR-1296."
-},
-{
 "id": "HIR-062",
 "slug": "hir-062",
 "name": "The Hay-Adams",
@@ -12457,7 +12257,7 @@
 "state": "NY",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 121,
+"keys": 128,
 "address": "114 East 32nd Street, New York, NY 10016, USA",
 "owner": "Marmara Hotel Enterprise (Turkish private — Istanbul-based)",
 "brand": "The Marmara Hotels (private — Istanbul/New York)",
@@ -17250,456 +17050,6 @@
 "flag": null
 },
 {
-"id": "HIR-1218",
-"slug": "hir-1218",
-"name": "The Whitley a Luxury Collection Hotel Atlanta Buckhead",
-"city": "Atlanta",
-"state": "GA",
-"country": "USA",
-"tier": "Luxury",
-"keys": 221,
-"address": "3434 Peachtree Rd NE, Atlanta, GA 30326",
-"owner": null,
-"brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
-"seasonal": [
-{
-"period": "Jan–Feb",
-"rate": 304.0,
-"note": "Low/shoulder"
-},
-{
-"period": "Mar–Apr",
-"rate": 342.0,
-"note": "Spring"
-},
-{
-"period": "May–Jun",
-"rate": 387.0,
-"note": "Summer"
-},
-{
-"period": "Jul–Aug",
-"rate": 436.0,
-"note": "Peak"
-},
-{
-"period": "Sep–Oct",
-"rate": 372.0,
-"note": "Fall"
-},
-{
-"period": "Nov–Dec",
-"rate": 342.0,
-"note": "Holiday"
-}
-],
-"verified": null,
-"flag": "Duplicate of HIR-1291 (The Whitley Atlanta Buckhead, same address)"
-},
-{
-"id": "HIR-1219",
-"slug": "hir-1219",
-"name": "Perry Lane Hotel a Luxury Collection Hotel Savannah",
-"city": "Savannah",
-"state": "GA",
-"country": "USA",
-"tier": "Luxury",
-"keys": 167,
-"address": "256 Bull St, Savannah, GA 31401",
-"owner": null,
-"brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
-"seasonal": [
-{
-"period": "Jan–Feb",
-"rate": 304.0,
-"note": "Low/shoulder"
-},
-{
-"period": "Mar–Apr",
-"rate": 342.0,
-"note": "Spring"
-},
-{
-"period": "May–Jun",
-"rate": 387.0,
-"note": "Summer"
-},
-{
-"period": "Jul–Aug",
-"rate": 436.0,
-"note": "Peak"
-},
-{
-"period": "Sep–Oct",
-"rate": 372.0,
-"note": "Fall"
-},
-{
-"period": "Nov–Dec",
-"rate": 342.0,
-"note": "Holiday"
-}
-],
-"verified": null,
-"flag": "Duplicate of HIR-1292 (Perry Lane Hotel Savannah, same address)"
-},
-{
-"id": "HIR-1220",
-"slug": "hir-1220",
-"name": "The Liberty a Luxury Collection Hotel Boston",
-"city": "Boston",
-"state": "MA",
-"country": "USA",
-"tier": "Luxury",
-"keys": 300,
-"address": "215 Charles St, Boston, MA 02114",
-"owner": null,
-"brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
-"seasonal": [
-{
-"period": "Jan–Feb",
-"rate": 304.0,
-"note": "Low/shoulder"
-},
-{
-"period": "Mar–Apr",
-"rate": 342.0,
-"note": "Spring"
-},
-{
-"period": "May–Jun",
-"rate": 387.0,
-"note": "Summer"
-},
-{
-"period": "Jul–Aug",
-"rate": 436.0,
-"note": "Peak"
-},
-{
-"period": "Sep–Oct",
-"rate": 372.0,
-"note": "Fall"
-},
-{
-"period": "Nov–Dec",
-"rate": 342.0,
-"note": "Holiday"
-}
-],
-"verified": null,
-"flag": "Duplicate record: The Liberty, a Luxury Collection Hotel at 215 Charles Street is already covered by HIR-1293."
-},
-{
-"id": "HIR-1221",
-"slug": "hir-1221",
-"name": "Hotel Ivy a Luxury Collection Hotel Minneapolis",
-"city": "Minneapolis",
-"state": "MN",
-"country": "USA",
-"tier": "Luxury",
-"keys": 136,
-"address": "201 S 11th St, Minneapolis, MN 55403",
-"owner": null,
-"brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
-"seasonal": [
-{
-"period": "Jan–Feb",
-"rate": 304.0,
-"note": "Low/shoulder"
-},
-{
-"period": "Mar–Apr",
-"rate": 342.0,
-"note": "Spring"
-},
-{
-"period": "May–Jun",
-"rate": 387.0,
-"note": "Summer"
-},
-{
-"period": "Jul–Aug",
-"rate": 436.0,
-"note": "Peak"
-},
-{
-"period": "Sep–Oct",
-"rate": 372.0,
-"note": "Fall"
-},
-{
-"period": "Nov–Dec",
-"rate": 342.0,
-"note": "Holiday"
-}
-],
-"verified": null,
-"flag": "Duplicate of HIR-1294 (Hotel Ivy Minneapolis, same address)"
-},
-{
-"id": "HIR-1222",
-"slug": "hir-1222",
-"name": "The St. Anthony a Luxury Collection Hotel San Antonio",
-"city": "San Antonio",
-"state": "TX",
-"country": "USA",
-"tier": "Luxury",
-"keys": 352,
-"address": "300 E Travis St, San Antonio, TX 78205",
-"owner": null,
-"brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
-"seasonal": [
-{
-"period": "Jan–Feb",
-"rate": 304.0,
-"note": "Low/shoulder"
-},
-{
-"period": "Mar–Apr",
-"rate": 342.0,
-"note": "Spring"
-},
-{
-"period": "May–Jun",
-"rate": 387.0,
-"note": "Summer"
-},
-{
-"period": "Jul–Aug",
-"rate": 436.0,
-"note": "Peak"
-},
-{
-"period": "Sep–Oct",
-"rate": 372.0,
-"note": "Fall"
-},
-{
-"period": "Nov–Dec",
-"rate": 342.0,
-"note": "Holiday"
-}
-],
-"verified": null,
-"flag": "Duplicate of HIR-1295 (The St. Anthony San Antonio, same address)"
-},
-{
-"id": "HIR-1223",
-"slug": "hir-1223",
-"name": "The Gwen a Luxury Collection Hotel Chicago",
-"city": "Chicago",
-"state": "IL",
-"country": "USA",
-"tier": "Luxury",
-"keys": 311,
-"address": "521 N Rush St, Chicago, IL 60611",
-"owner": null,
-"brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
-"seasonal": [
-{
-"period": "Jan–Feb",
-"rate": 304.0,
-"note": "Low/shoulder"
-},
-{
-"period": "Mar–Apr",
-"rate": 342.0,
-"note": "Spring"
-},
-{
-"period": "May–Jun",
-"rate": 387.0,
-"note": "Summer"
-},
-{
-"period": "Jul–Aug",
-"rate": 436.0,
-"note": "Peak"
-},
-{
-"period": "Sep–Oct",
-"rate": 372.0,
-"note": "Fall"
-},
-{
-"period": "Nov–Dec",
-"rate": 342.0,
-"note": "Holiday"
-}
-],
-"verified": null,
-"flag": "Duplicate record: The Gwen, a Luxury Collection Hotel at 521 North Rush Street is already covered by HIR-1296."
-},
-{
-"id": "HIR-1224",
-"slug": "hir-1224",
-"name": "The Joseph a Luxury Collection Hotel Nashville",
-"city": "Nashville",
-"state": "TN",
-"country": "USA",
-"tier": "Luxury",
-"keys": 297,
-"address": "201 N 16th St, Nashville, TN 37203",
-"owner": null,
-"brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
-"seasonal": [
-{
-"period": "Jan–Feb",
-"rate": 304.0,
-"note": "Low/shoulder"
-},
-{
-"period": "Mar–Apr",
-"rate": 342.0,
-"note": "Spring"
-},
-{
-"period": "May–Jun",
-"rate": 387.0,
-"note": "Summer"
-},
-{
-"period": "Jul–Aug",
-"rate": 436.0,
-"note": "Peak"
-},
-{
-"period": "Sep–Oct",
-"rate": 372.0,
-"note": "Fall"
-},
-{
-"period": "Nov–Dec",
-"rate": 342.0,
-"note": "Holiday"
-}
-],
-"verified": null,
-"flag": "Duplicate of HIR-1297 (The Joseph Nashville, same address)"
-},
-{
-"id": "HIR-1225",
-"slug": "hir-1225",
-"name": "The Ballantyne a Luxury Collection Hotel Charlotte",
-"city": "Charlotte",
-"state": "NC",
-"country": "USA",
-"tier": "Luxury",
-"keys": 249,
-"address": "10000 Ballantyne Commons Pkwy, Charlotte, NC 28277",
-"owner": null,
-"brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
-"seasonal": [
-{
-"period": "Jan–Feb",
-"rate": 304.0,
-"note": "Low/shoulder"
-},
-{
-"period": "Mar–Apr",
-"rate": 342.0,
-"note": "Spring"
-},
-{
-"period": "May–Jun",
-"rate": 387.0,
-"note": "Summer"
-},
-{
-"period": "Jul–Aug",
-"rate": 436.0,
-"note": "Peak"
-},
-{
-"period": "Sep–Oct",
-"rate": 372.0,
-"note": "Fall"
-},
-{
-"period": "Nov–Dec",
-"rate": 342.0,
-"note": "Holiday"
-}
-],
-"verified": null,
-"flag": "Duplicate of HIR-1298 (The Ballantyne Charlotte, same address)"
-},
-{
-"id": "HIR-1226",
-"slug": "hir-1226",
-"name": "The Nines a Luxury Collection Hotel Portland",
-"city": "Portland",
-"state": "OR",
-"country": "USA",
-"tier": "Luxury",
-"keys": 331,
-"address": "525 SW Morrison St, Portland, OR 97204",
-"owner": null,
-"brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
-"seasonal": [
-{
-"period": "Jan–Feb",
-"rate": 304.0,
-"note": "Low/shoulder"
-},
-{
-"period": "Mar–Apr",
-"rate": 342.0,
-"note": "Spring"
-},
-{
-"period": "May–Jun",
-"rate": 387.0,
-"note": "Summer"
-},
-{
-"period": "Jul–Aug",
-"rate": 436.0,
-"note": "Peak"
-},
-{
-"period": "Sep–Oct",
-"rate": 372.0,
-"note": "Fall"
-},
-{
-"period": "Nov–Dec",
-"rate": 342.0,
-"note": "Holiday"
-}
-],
-"verified": null,
-"flag": "Duplicate of HIR-1299 (The Nines Portland, same address)"
-},
-{
 "id": "HIR-1227",
 "slug": "hir-1227",
 "name": "The Luxury Collection Hotel Manhattan Midtown",
@@ -17900,56 +17250,6 @@
 "flag": null
 },
 {
-"id": "HIR-1231",
-"slug": "hir-1231",
-"name": "The Ritz-Carlton Dallas",
-"city": "Dallas",
-"state": "TX",
-"country": "USA",
-"tier": "Luxury",
-"keys": 218,
-"address": "2121 McKinney Ave, Dallas, TX 75201",
-"owner": null,
-"brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
-"seasonal": [
-{
-"period": "Jan–Feb",
-"rate": 304.0,
-"note": "Low/shoulder"
-},
-{
-"period": "Mar–Apr",
-"rate": 342.0,
-"note": "Spring"
-},
-{
-"period": "May–Jun",
-"rate": 387.0,
-"note": "Summer"
-},
-{
-"period": "Jul–Aug",
-"rate": 436.0,
-"note": "Peak"
-},
-{
-"period": "Sep–Oct",
-"rate": 372.0,
-"note": "Fall"
-},
-{
-"period": "Nov–Dec",
-"rate": 342.0,
-"note": "Holiday"
-}
-],
-"verified": null,
-"flag": "Duplicate of HIR-104 (Ritz-Carlton Dallas, same address)"
-},
-{
 "id": "HIR-1232",
 "slug": "hir-1232",
 "name": "The Ritz-Carlton Maui Kapalua",
@@ -18148,56 +17448,6 @@
 ],
 "verified": "2026-10-21",
 "flag": null
-},
-{
-"id": "HIR-1236",
-"slug": "hir-1236",
-"name": "The Ritz-Carlton Tysons Corner",
-"city": "Tysons Corner",
-"state": "VA",
-"country": "USA",
-"tier": "Luxury",
-"keys": 398,
-"address": "1700 Tysons Blvd, McLean, VA 22102",
-"owner": null,
-"brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
-"seasonal": [
-{
-"period": "Jan–Feb",
-"rate": 304.0,
-"note": "Low/shoulder"
-},
-{
-"period": "Mar–Apr",
-"rate": 342.0,
-"note": "Spring"
-},
-{
-"period": "May–Jun",
-"rate": 387.0,
-"note": "Summer"
-},
-{
-"period": "Jul–Aug",
-"rate": 436.0,
-"note": "Peak"
-},
-{
-"period": "Sep–Oct",
-"rate": 372.0,
-"note": "Fall"
-},
-{
-"period": "Nov–Dec",
-"rate": 342.0,
-"note": "Holiday"
-}
-],
-"verified": null,
-"flag": "Duplicate of HIR-226 (The Ritz-Carlton, Tysons Corner, same address)"
 },
 {
 "id": "HIR-1237",
@@ -19198,56 +18448,6 @@
 ],
 "verified": "2026-10-21",
 "flag": null
-},
-{
-"id": "HIR-1306",
-"slug": "hir-1306",
-"name": "The St. Regis Houston",
-"city": "Houston",
-"state": "TX",
-"country": "USA",
-"tier": "Luxury",
-"keys": 232,
-"address": "1919 Briar Oaks Lane, Houston, TX 77027, USA",
-"owner": "Marriott International / owner varies",
-"brand": "St. Regis Hotels & Resorts (Marriott)",
-"adr": 480.0,
-"otaLow": 374.0,
-"otaHigh": 633.0,
-"seasonal": [
-{
-"period": "Jan–Feb",
-"rate": 384.0,
-"note": "Low/shoulder"
-},
-{
-"period": "Mar–Apr",
-"rate": 432.0,
-"note": "Spring"
-},
-{
-"period": "May–Jun",
-"rate": 489.0,
-"note": "Summer"
-},
-{
-"period": "Jul–Aug",
-"rate": 552.0,
-"note": "Peak"
-},
-{
-"period": "Sep–Oct",
-"rate": 470.0,
-"note": "Fall"
-},
-{
-"period": "Nov–Dec",
-"rate": 432.0,
-"note": "Holiday"
-}
-],
-"verified": null,
-"flag": "Duplicate of HIR-085 (St. Regis Houston, same address)"
 },
 {
 "id": "HIR-1307",
@@ -20557,7 +19757,7 @@
 "state": "DC",
 "country": "USA",
 "tier": "Upscale",
-"keys": 195,
+"keys": 122,
 "address": "800 Florida Avenue NE, Washington, DC 20002, USA",
 "owner": "Kellogg Hotels / institutional owner",
 "brand": "Kellogg Hotels",
@@ -21400,56 +20600,6 @@
 "flag": null
 },
 {
-"id": "HIR-1350",
-"slug": "hir-1350",
-"name": "Sutton Place Hotel Toronto",
-"city": "Toronto",
-"state": "ON",
-"country": "Canada",
-"tier": "Upper-Upscale",
-"keys": 279,
-"address": "955 Bay Street, Toronto, ON M5S 2A2, Canada",
-"owner": "Sutton Hotels / institutional owner",
-"brand": "Sutton Hotels",
-"adr": 195.0,
-"otaLow": 152.0,
-"otaHigh": 257.0,
-"seasonal": [
-{
-"period": "Jan–Feb",
-"rate": 156.0,
-"note": "Low/shoulder"
-},
-{
-"period": "Mar–Apr",
-"rate": 175.0,
-"note": "Spring"
-},
-{
-"period": "May–Jun",
-"rate": 198.0,
-"note": "Summer"
-},
-{
-"period": "Jul–Aug",
-"rate": 224.0,
-"note": "Peak"
-},
-{
-"period": "Sep–Oct",
-"rate": 191.0,
-"note": "Fall"
-},
-{
-"period": "Nov–Dec",
-"rate": 175.0,
-"note": "Holiday"
-}
-],
-"verified": null,
-"flag": "Hotel no longer operating: the Sutton Place Hotel Toronto (Bay and Wellesley) closed on June 15, 2012; the building was converted into The Britt condominium tower, completed 2019."
-},
-{
 "id": "HIR-1351",
 "slug": "hir-1351",
 "name": "Holiday Inn Toronto Downtown Centre",
@@ -21950,56 +21100,6 @@
 "flag": null
 },
 {
-"id": "HIR-1361",
-"slug": "hir-1361",
-"name": "Staybridge Suites Toronto Airport",
-"city": "Toronto",
-"state": "ON",
-"country": "Canada",
-"tier": "Upscale",
-"keys": 178,
-"address": "66 Derry Road W, Mississauga, ON L5W 0E3, Canada",
-"owner": "Staybridge Hotels / institutional owner",
-"brand": "Staybridge Hotels",
-"adr": 153.0,
-"otaLow": 119.0,
-"otaHigh": 201.0,
-"seasonal": [
-{
-"period": "Jan–Feb",
-"rate": 122.0,
-"note": "Low/shoulder"
-},
-{
-"period": "Mar–Apr",
-"rate": 137.0,
-"note": "Spring"
-},
-{
-"period": "May–Jun",
-"rate": 156.0,
-"note": "Summer"
-},
-{
-"period": "Jul–Aug",
-"rate": 175.0,
-"note": "Peak"
-},
-{
-"period": "Sep–Oct",
-"rate": 149.0,
-"note": "Fall"
-},
-{
-"period": "Nov–Dec",
-"rate": 137.0,
-"note": "Holiday"
-}
-],
-"verified": null,
-"flag": "No hotel found at 66 Derry Road West, Mississauga (the record's address). The nearest real property is Staybridge Suites Toronto Airport East, 996 Martin Grove Road, Etobicoke (IHG) — not substituted without confirmation."
-},
-{
 "id": "HIR-1362",
 "slug": "hir-1362",
 "name": "Cambridge Suites Toronto",
@@ -22169,25 +21269,6 @@
 "flag": null
 },
 {
-"id": "HIR-1585",
-"slug": "hir-1585",
-"name": "The St. Regis Mexico City",
-"city": "Mexico City",
-"state": null,
-"country": "Mexico",
-"tier": "Ultra-Luxury",
-"keys": 189,
-"address": "Paseo de la Reforma 439, CDMX",
-"owner": "Marriott International",
-"brand": "St. Regis Hotels",
-"adr": 440.0,
-"otaLow": 343.0,
-"otaHigh": 594.0,
-"seasonal": [],
-"verified": null,
-"flag": "Duplicate of HIR-403 (The St. Regis Mexico City, same address)"
-},
-{
 "id": "HIR-1586",
 "slug": "hir-1586",
 "name": "Hotel Presidente InterContinental Mexico City",
@@ -22321,25 +21402,6 @@
 "flag": null
 },
 {
-"id": "HIR-1593",
-"slug": "hir-1593",
-"name": "Rosewood Mayakoba Riviera Maya",
-"city": "Cancun",
-"state": null,
-"country": "Mexico",
-"tier": "Ultra-Luxury",
-"keys": 130,
-"address": "Carretera Federal Chetumal, Playa del Carmen",
-"owner": "Kerzner International",
-"brand": "Rosewood Hotels",
-"adr": 880.0,
-"otaLow": 686.0,
-"otaHigh": 1188.0,
-"seasonal": [],
-"verified": null,
-"flag": "Duplicate of HIR-1211 (Rosewood Mayakoba, same property)"
-},
-{
 "id": "HIR-1594",
 "slug": "hir-1594",
 "name": "Banyan Tree Mayakoba Riviera Maya",
@@ -22452,25 +21514,6 @@
 "seasonal": [],
 "verified": "2026-10-21",
 "flag": null
-},
-{
-"id": "HIR-1683",
-"slug": "hir-1683",
-"name": "Hacienda de Los Morales Mexico City",
-"city": "Mexico City",
-"state": null,
-"country": "Mexico",
-"tier": "Luxury",
-"keys": 204,
-"address": "Vazquez de Mella 525, Lomas de Chapultepec, CDMX",
-"owner": "Grupo Anderson",
-"brand": "Independent",
-"adr": 240.0,
-"otaLow": 187.0,
-"otaHigh": 324.0,
-"seasonal": [],
-"verified": null,
-"flag": "Not a hotel: Hacienda de los Morales is a restaurant and event venue (OpenTable restaurant listing); no lodging listing on Kayak or Trip.com"
 },
 {
 "id": "HIR-1684",
