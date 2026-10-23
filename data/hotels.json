@@ -58,12 +58,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 229,
-"address": "1414 Avenue of the Americas, New York, NY 10019",
+"address": "1414 Avenue of the Americas, New York, NY 10019, USA",
 "owner": "Starwood Capital Group (private — Barry Sternlicht)",
 "brand": "1 Hotels (Starwood Capital Group, private)",
-"adr": 510.0,
-"otaLow": 397.0,
-"otaHigh": 673.0,
+"adr": 778.0,
+"otaLow": 559,
+"otaHigh": 997,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -96,7 +96,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -108,12 +108,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 215,
-"address": "1 Hotel Nashville, 328 Union Street, Nashville, TN 37201",
+"address": "710 Demonbreun Street, Nashville, TN 37203, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "1 Hotels (Starwood Capital Group / Barry Sternlicht, private)",
-"adr": 436.0,
-"otaLow": 340.0,
-"otaHigh": 575.0,
+"adr": 503.0,
+"otaLow": 370,
+"otaHigh": 636,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -146,7 +146,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -157,13 +157,13 @@
 "state": "FL",
 "country": "USA",
 "tier": "Luxury",
-"keys": 433,
-"address": "2341 Collins Ave, Miami Beach, FL 33139, USA",
+"keys": 426,
+"address": "2341 Collins Avenue, Miami Beach, FL 33139, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "1 Hotels (Starwood Capital Group / Barry Sternlicht, private)",
-"adr": 946.0,
-"otaLow": 737.0,
-"otaHigh": 1248.0,
+"adr": 1073.5,
+"otaLow": 683,
+"otaHigh": 1464,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -196,7 +196,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -458,7 +458,7 @@
 "country": "USA",
 "tier": "Ultra-Luxury",
 "keys": 83,
-"address": "One Vanderbilt Avenue, New York, NY 10017",
+"address": "730 Fifth Avenue (Crown Building), New York, NY 10019, USA",
 "owner": "Aman Resorts (private — Vladislav Doronin)",
 "brand": "Aman Hotels & Resorts",
 "adr": 2300.0,
@@ -496,7 +496,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -607,13 +607,13 @@
 "state": "AZ",
 "country": "USA",
 "tier": "Luxury",
-"keys": 703,
-"address": "2400 East Missouri Avenue, Phoenix, AZ 85016",
+"keys": 701,
+"address": "2400 East Missouri Avenue, Phoenix, AZ 85016, USA",
 "owner": "Henderson Park Capital Partners (acquired May 2024 for $705M)",
 "brand": "Waldorf Astoria Hotels & Resorts (Hilton, NYSE: HLT)",
-"adr": 420.0,
-"otaLow": 327.0,
-"otaHigh": 554.0,
+"adr": 618.0,
+"otaLow": 251,
+"otaHigh": 985,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -646,7 +646,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -658,12 +658,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 318,
-"address": "5765 Windward Parkway, Alpharetta, GA 30005",
+"address": "5750 Windward Parkway, Alpharetta, GA 30005, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Marriott Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 164.0,
-"otaLow": 127.0,
-"otaHigh": 216.0,
+"adr": 177.0,
+"otaLow": 149,
+"otaHigh": 205,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -696,7 +696,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -708,12 +708,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 244,
-"address": "600 West 2nd Street, Austin, TX 78701",
+"address": "600 West 2nd Street, Austin, TX 78701, USA",
 "owner": "Protocol Integrated Direct / Proper Hospitality",
 "brand": "Proper Hotels (private — Brad Korzen / Proper Hospitality)",
-"adr": 400.0,
-"otaLow": 312.0,
-"otaHigh": 528.0,
+"adr": 450.5,
+"otaLow": 351,
+"otaHigh": 550,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -746,7 +746,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -761,9 +761,9 @@
 "address": "28 West 53rd Street, New York, NY 10019, USA",
 "owner": null,
 "brand": "Baccarat Hotels & Resorts",
-"adr": 1150.0,
-"otaLow": 897.0,
-"otaHigh": 1518.0,
+"adr": 1530.5,
+"otaLow": 1088,
+"otaHigh": 1973,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -796,7 +796,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -861,9 +861,9 @@
 "address": "123 Nassau Street, New York, NY 10038, USA",
 "owner": null,
 "brand": "The Hotels & Resorts",
-"adr": 450.0,
-"otaLow": 351.0,
-"otaHigh": 594.0,
+"adr": 757.5,
+"otaLow": 561,
+"otaHigh": 954,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -896,7 +896,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -908,12 +908,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 395,
-"address": "9500 Wilshire Blvd, Beverly Hills, CA 90212, USA",
+"address": "9500 Wilshire Boulevard, Beverly Hills, CA 90212, USA",
 "owner": null,
 "brand": "Beverly Hotels & Resorts",
-"adr": 680.0,
-"otaLow": 530.0,
-"otaHigh": 897.0,
+"adr": 1014.5,
+"otaLow": 937,
+"otaHigh": 1092,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -946,7 +946,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -1007,13 +1007,13 @@
 "state": "MA",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 1145,
-"address": "110 Huntington Avenue, Boston, MA 02116",
+"keys": 1559,
+"address": "110 Huntington Avenue, Boston, MA 02116, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Marriott Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 304.0,
-"otaLow": 237.0,
-"otaHigh": 401.0,
+"adr": 372.5,
+"otaLow": 241,
+"otaHigh": 504,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -1046,7 +1046,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -1407,13 +1407,13 @@
 "state": "NY",
 "country": "USA",
 "tier": "Luxury",
-"keys": 190,
+"keys": 192,
 "address": "35 East 76th Street, New York, NY 10021, USA",
-"owner": "Rosewood Hotel Group / owner varies",
+"owner": "Operated by Rosewood Hotels & Resorts",
 "brand": "The Carlyle (Rosewood)",
-"adr": 970.0,
-"otaLow": 756.0,
-"otaHigh": 1280.0,
+"adr": 1381.0,
+"otaLow": 911,
+"otaHigh": 1851,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -1446,7 +1446,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -1457,13 +1457,13 @@
 "state": "CA",
 "country": "USA",
 "tier": "Luxury",
-"keys": 129,
-"address": "1910 Ocean Way, Santa Monica, CA 90405",
+"keys": 145,
+"address": "1910 Ocean Way, Santa Monica, CA 90405, USA",
 "owner": "Edward Thomas Hotels (private — Mani Brothers)",
 "brand": "Casa Del Mar (independent — Edward Thomas Hotels)",
-"adr": 580.0,
-"otaLow": 452.0,
-"otaHigh": 765.0,
+"adr": 834.0,
+"otaLow": 759,
+"otaHigh": 909,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -1496,7 +1496,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -1558,12 +1558,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 1200,
-"address": "540 North Michigan Avenue, Chicago, IL 60611",
+"address": "540 North Michigan Avenue, Chicago, IL 60611, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Marriott Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 263.0,
-"otaLow": 205.0,
-"otaHigh": 347.0,
+"adr": 327.0,
+"otaLow": 220,
+"otaHigh": 434,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -1596,7 +1596,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -1658,12 +1658,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 54,
-"address": "4100 Red River Street, Austin, TX 78751",
+"address": "4100 Red River Street, Austin, TX 78751, USA",
 "owner": "Liz Lambert / Bunkhouse Group (private)",
 "brand": "Commodore Perry Estate (independent — Bunkhouse Group)",
-"adr": 580.0,
-"otaLow": 452.0,
-"otaHigh": 765.0,
+"adr": 650.5,
+"otaLow": 482,
+"otaHigh": 819,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -1696,7 +1696,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -1808,12 +1808,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 300,
-"address": "2000 Second Street, Coronado, CA 92118",
+"address": "2000 Second Street, Coronado, CA 92118, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Marriott Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 311.0,
-"otaLow": 242.0,
-"otaHigh": 410.0,
+"adr": 498.5,
+"otaLow": 362,
+"otaHigh": 635,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -1846,7 +1846,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -1858,12 +1858,12 @@
 "country": "USA",
 "tier": "Upscale",
 "keys": 177,
-"address": "934 16th Street, Denver, CO 80202",
+"address": "934 16th Street, Denver, CO 80202, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Courtyard by Marriott (Marriott International, NASDAQ: MAR)",
-"adr": 212.0,
-"otaLow": 165.0,
-"otaHigh": 279.0,
+"adr": 216.5,
+"otaLow": 168,
+"otaHigh": 265,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -1896,7 +1896,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -1908,12 +1908,12 @@
 "country": "USA",
 "tier": "Upscale",
 "keys": 189,
-"address": "3 East 40th Street, New York, NY 10016",
+"address": "3 East 40th Street, New York, NY 10016, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Courtyard by Marriott (Marriott International, NASDAQ: MAR)",
-"adr": 326.0,
-"otaLow": 254.0,
-"otaHigh": 430.0,
+"adr": 379.5,
+"otaLow": 217,
+"otaHigh": 542,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -1946,7 +1946,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -1958,12 +1958,12 @@
 "country": "USA",
 "tier": "Upscale",
 "keys": 321,
-"address": "866 Third Avenue, New York, NY 10022",
+"address": "866 Third Avenue, New York, NY 10022, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Courtyard by Marriott (Marriott International, NASDAQ: MAR)",
-"adr": 356.0,
-"otaLow": 277.0,
-"otaHigh": 469.0,
+"adr": 484.5,
+"otaLow": 244,
+"otaHigh": 725,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -1996,7 +1996,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -2109,7 +2109,7 @@
 "tier": "Upper-Upscale",
 "keys": 225,
 "address": "601 Spadina Crescent East, Saskatoon, SK S7K 3G8, Canada",
-"owner": "Leadon Investment Inc.; managed by Delta Hotels (Marriott) (Wikipedia)",
+"owner": "Leadon Investment Inc.; managed by Delta Hotels (Marriott)",
 "brand": "Delta Hotels by Marriott (Marriott International, NASDAQ: MAR)",
 "adr": 212.5,
 "otaLow": 178,
@@ -2258,12 +2258,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 100,
-"address": "250 West Larned Street, Detroit, MI 48226",
+"address": "250 West Larned Street, Detroit, MI 48226, USA",
 "owner": "Aparium Hotel Group (private)",
 "brand": "Detroit Foundation Hotel (independent — Aparium Hotel Group)",
-"adr": 290.0,
-"otaLow": 226.0,
-"otaHigh": 382.0,
+"adr": 398.0,
+"otaLow": 335,
+"otaHigh": 461,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -2296,7 +2296,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -2307,13 +2307,13 @@
 "state": "MI",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 1298,
-"address": "400 Renaissance Drive, Detroit, MI 48243",
+"keys": 1328,
+"address": "400 Renaissance Drive, Detroit, MI 48243, USA",
 "owner": "General Motors / Host Hotels & Resorts (NASDAQ: HST)",
 "brand": "Marriott Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 230.0,
-"otaLow": 179.0,
-"otaHigh": 303.0,
+"adr": 303.5,
+"otaLow": 246,
+"otaHigh": 361,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -2346,7 +2346,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -2361,9 +2361,9 @@
 "address": "246 Spring Street, New York, NY 10013, USA",
 "owner": null,
 "brand": "The Hotels & Resorts",
-"adr": 495.0,
-"otaLow": 386.0,
-"otaHigh": 653.0,
+"adr": 782.5,
+"otaLow": 548,
+"otaHigh": 1017,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -2396,7 +2396,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -2457,13 +2457,13 @@
 "state": "TN",
 "country": "USA",
 "tier": "Upscale",
-"keys": 506,
-"address": "1726 Broadway, Nashville, TN 37203",
+"keys": 503,
+"address": "708 Demonbreun Street, Nashville, TN 37203, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Embassy Suites by Hilton (Hilton Worldwide, NYSE: HLT)",
-"adr": 307.0,
-"otaLow": 239.0,
-"otaHigh": 405.0,
+"adr": 399.0,
+"otaLow": 286,
+"otaHigh": 512,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -2496,7 +2496,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -2511,9 +2511,9 @@
 "address": "33 Hudson Yards, New York, NY 10001, USA",
 "owner": null,
 "brand": "Equinox Hotels & Resorts",
-"adr": 950.0,
-"otaLow": 741.0,
-"otaHigh": 1254.0,
+"adr": 1204.5,
+"otaLow": 925,
+"otaHigh": 1484,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -2546,7 +2546,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -2558,12 +2558,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 1048,
-"address": "101 Red River Street, Austin, TX 78701",
+"address": "101 Red River Street, Austin, TX 78701, USA",
 "owner": "Broadshore Capital Partners / AccorHotels",
 "brand": "Fairmont Hotels & Resorts (AccorHotels, EPA: AC)",
-"adr": 360.0,
-"otaLow": 280.0,
-"otaHigh": 475.0,
+"adr": 325.5,
+"otaLow": 243,
+"otaHigh": 408,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -2596,7 +2596,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -2607,7 +2607,7 @@
 "state": "AB",
 "country": "Canada",
 "tier": "Luxury",
-"keys": 757,
+"keys": 750,
 "address": "405 Spray Avenue, Banff, AB T1L 1J4, Canada",
 "owner": "Oxford Properties (since 2006)",
 "brand": "Fairmont Hotels & Resorts (AccorHotels)",
@@ -2709,7 +2709,7 @@
 "tier": "Luxury",
 "keys": 429,
 "address": "1 Rideau Street, Ottawa, ON K1N 8S7, Canada",
-"owner": "Capital Hotel L.P.; operated by Fairmont Hotels and Resorts (Wikipedia)",
+"owner": "Capital Hotel L.P.; operated by Fairmont Hotels and Resorts",
 "brand": "Fairmont Hotels & Resorts (Accor Hotels, EPA: AC)",
 "adr": 272.5,
 "otaLow": 197,
@@ -2757,13 +2757,13 @@
 "state": "TX",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 551,
-"address": "1717 North Akard Street, Dallas, TX 75201",
+"keys": 545,
+"address": "1717 North Akard Street, Dallas, TX 75201, USA",
 "owner": "AccorHotels (EPA: AC)",
 "brand": "Fairmont Hotels & Resorts (AccorHotels, EPA: AC)",
-"adr": 310.0,
-"otaLow": 241.0,
-"otaHigh": 409.0,
+"adr": 216.0,
+"otaLow": 170,
+"otaHigh": 262,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -2796,7 +2796,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -2808,12 +2808,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 249,
-"address": "5300 Grand Del Mar Court, San Diego, CA 92130",
+"address": "5300 Grand Del Mar Court, San Diego, CA 92130, USA",
 "owner": "AccorHotels / Grand Del Mar LLC",
 "brand": "Fairmont Hotels & Resorts (AccorHotels, EPA: AC)",
-"adr": 500.0,
-"otaLow": 390.0,
-"otaHigh": 660.0,
+"adr": 737.5,
+"otaLow": 556,
+"otaHigh": 919,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -2846,7 +2846,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -3009,7 +3009,7 @@
 "tier": "Luxury",
 "keys": 211,
 "address": "392 Rue Notre-Dame, Montebello, QC J0V 1L0, Canada",
-"owner": "In receivership since November 2025 (PwC receiver; former owner Evergrande Group); operated by Fairmont (Wikipedia)",
+"owner": "In receivership since November 2025 (PwC receiver; former owner Evergrande Group); operated by Fairmont",
 "brand": "Fairmont Hotels & Resorts (Accor Hotels, EPA: AC)",
 "adr": 356.0,
 "otaLow": 289,
@@ -3058,12 +3058,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 450,
-"address": "411 University Street, Seattle, WA 98101",
+"address": "411 University Street, Seattle, WA 98101, USA",
 "owner": "AccorHotels (EPA: AC) / Ivanhoe Cambridge",
 "brand": "Fairmont Hotels & Resorts (AccorHotels, EPA: AC)",
-"adr": 390.0,
-"otaLow": 304.0,
-"otaHigh": 514.0,
+"adr": 417.0,
+"otaLow": 330,
+"otaHigh": 504,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -3096,7 +3096,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -3109,7 +3109,7 @@
 "tier": "Luxury",
 "keys": 377,
 "address": "1038 Canada Place, Vancouver, BC V6C 0B9, Canada",
-"owner": "Developed by Westbank and the Peterson Group; operated by Fairmont (Wikipedia)",
+"owner": "Developed by Westbank and the Peterson Group; operated by Fairmont",
 "brand": "Fairmont Hotels & Resorts (Accor)",
 "adr": 623.0,
 "otaLow": 415,
@@ -3257,7 +3257,7 @@
 "state": "ON",
 "country": "Canada",
 "tier": "Luxury",
-"keys": 1363,
+"keys": 1343,
 "address": "100 Front Street West, Toronto, ON M5J 1E3, Canada",
 "owner": "Accor S.A. / owner varies",
 "brand": "Fairmont Hotels & Resorts (Accor)",
@@ -3408,12 +3408,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 291,
-"address": "98 San Jacinto Boulevard, Austin, TX 78701",
+"address": "98 San Jacinto Boulevard, Austin, TX 78701, USA",
 "owner": "Host Hotels & Resorts (NASDAQ: HST)",
 "brand": "Four Seasons Hotels & Resorts (private — Bill Gates / Kingdom Holdings)",
-"adr": 460.0,
-"otaLow": 358.0,
-"otaHigh": 607.0,
+"adr": 285.0,
+"otaLow": 260,
+"otaHigh": 310,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -3446,7 +3446,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -3458,12 +3458,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 345,
-"address": "120 E Delaware Place, Chicago, IL 60611, USA",
+"address": "120 East Delaware Place, Chicago, IL 60611, USA",
 "owner": "Ty Warner Hotels (private)",
 "brand": "Four Seasons Hotels & Resorts (private — Bill Gates / Kingdom Holdings)",
-"adr": 580.0,
-"otaLow": 452.0,
-"otaHigh": 765.0,
+"adr": 754.5,
+"otaLow": 522,
+"otaHigh": 987,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -3496,7 +3496,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -3508,12 +3508,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 239,
-"address": "1111 14th Street, Denver, CO 80202",
+"address": "1111 14th Street, Denver, CO 80202, USA",
 "owner": null,
 "brand": "Four Seasons Hotels & Resorts (private — Bill Gates / Kingdom Holdings)",
-"adr": 430.0,
-"otaLow": 335.0,
-"otaHigh": 567.0,
+"adr": 477.5,
+"otaLow": 316,
+"otaHigh": 639,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -3546,7 +3546,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -3561,9 +3561,9 @@
 "address": "1300 Lamar Street, Houston, TX 77010, USA",
 "owner": "Meadowbrook Capital Group",
 "brand": "Four Seasons Hotels & Resorts (private — Bill Gates / Kingdom Holdings)",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
+"adr": 518.0,
+"otaLow": 292,
+"otaHigh": 744,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -3596,7 +3596,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -3608,12 +3608,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 285,
-"address": "300 South Doheny Drive, Los Angeles, CA 90048",
+"address": "300 South Doheny Drive, Los Angeles, CA 90048, USA",
 "owner": "Comstock Real Estate Partners / private",
 "brand": "Four Seasons Hotels & Resorts (private — Bill Gates / Kingdom Holdings)",
-"adr": 590.0,
-"otaLow": 460.0,
-"otaHigh": 778.0,
+"adr": 944.0,
+"otaLow": 743,
+"otaHigh": 1145,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -3646,7 +3646,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -3709,11 +3709,11 @@
 "tier": "Ultra-Luxury",
 "keys": 368,
 "address": "57 East 57th Street, New York, NY 10022, USA",
-"owner": "Ty Warner Hotels & Resorts",
+"owner": "Ty Warner Hotels and Resorts",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 1400.0,
-"otaLow": 1092.0,
-"otaHigh": 1848.0,
+"adr": 2434.0,
+"otaLow": 1984,
+"otaHigh": 2884,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -3746,7 +3746,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -3808,12 +3808,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 147,
-"address": "99 Union Street, Seattle, WA 98101",
+"address": "99 Union Street, Seattle, WA 98101, USA",
 "owner": null,
 "brand": "Four Seasons Hotels & Resorts (private — Bill Gates / Kingdom Holdings)",
-"adr": 520.0,
-"otaLow": 405.0,
-"otaHigh": 686.0,
+"adr": 814.5,
+"otaLow": 591,
+"otaHigh": 1038,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -3846,7 +3846,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -4161,9 +4161,9 @@
 "address": "377 Greenwich Street, New York, NY 10013, USA",
 "owner": null,
 "brand": "The Hotels & Resorts",
-"adr": 850.0,
-"otaLow": 663.0,
-"otaHigh": 1122.0,
+"adr": 1607.0,
+"otaLow": 1290,
+"otaHigh": 1924,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -4196,7 +4196,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -4261,9 +4261,9 @@
 "address": "333 O'Farrell Street, San Francisco, CA 94102, USA",
 "owner": "Hilton Worldwide / owner varies",
 "brand": "Hilton Hotels & Resorts",
-"adr": 195.0,
-"otaLow": 152.0,
-"otaHigh": 257.0,
+"adr": 215.5,
+"otaLow": 175,
+"otaHigh": 256,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -4296,7 +4296,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -4311,9 +4311,9 @@
 "address": "495 Geary Street, San Francisco, CA 94102, USA",
 "owner": null,
 "brand": "The Hotels & Resorts",
-"adr": 265.0,
-"otaLow": 206.0,
-"otaHigh": 349.0,
+"adr": 252.0,
+"otaLow": 212,
+"otaHigh": 292,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -4346,7 +4346,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -4357,13 +4357,13 @@
 "state": "CA",
 "country": "USA",
 "tier": "Luxury",
-"keys": 591,
+"keys": 606,
 "address": "950 Mason Street, San Francisco, CA 94108, USA",
-"owner": "Accor S.A. / owner varies",
+"owner": "Mirae Asset Global Investments (since 2015)",
 "brand": "Fairmont Hotels & Resorts (Accor)",
-"adr": 385.0,
-"otaLow": 300.0,
-"otaHigh": 508.0,
+"adr": 394.5,
+"otaLow": 333,
+"otaHigh": 456,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -4396,7 +4396,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -4407,13 +4407,13 @@
 "state": "CA",
 "country": "USA",
 "tier": "Luxury",
-"keys": 155,
+"keys": 277,
 "address": "757 Market Street, San Francisco, CA 94103, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 540.0,
-"otaLow": 421.0,
-"otaHigh": 712.0,
+"adr": 582.5,
+"otaLow": 488,
+"otaHigh": 677,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -4446,7 +4446,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -4658,12 +4658,12 @@
 "country": "USA",
 "tier": "Upscale",
 "keys": 282,
-"address": "136 West 42nd Street, New York, NY 10036",
+"address": "136 West 42nd Street, New York, NY 10036, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Hilton Garden Inn (Hilton Worldwide, NYSE: HLT)",
-"adr": 296.0,
-"otaLow": 230.0,
-"otaHigh": 390.0,
+"adr": 367.0,
+"otaLow": 200,
+"otaHigh": 534,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -4696,7 +4696,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -4811,9 +4811,9 @@
 "address": "701 Stone Canyon Road, Los Angeles, CA 90077, USA",
 "owner": null,
 "brand": "Hotel Hotels & Resorts",
-"adr": 950.0,
-"otaLow": 741.0,
-"otaHigh": 1254.0,
+"adr": 1504.0,
+"otaLow": 1283,
+"otaHigh": 1725,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -4846,7 +4846,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -4958,12 +4958,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 199,
-"address": "150 Clayton Lane, Denver, CO 80206",
+"address": "150 Clayton Lane, Denver, CO 80206, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Luxury Collection (Marriott International, NASDAQ: MAR)",
-"adr": 316.0,
-"otaLow": 246.0,
-"otaHigh": 417.0,
+"adr": 382.5,
+"otaLow": 312,
+"otaHigh": 453,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -4996,7 +4996,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -5057,13 +5057,13 @@
 "state": "TX",
 "country": "USA",
 "tier": "Luxury",
-"keys": 220,
-"address": "400 Crescent Court, Dallas, TX 75201",
+"keys": 226,
+"address": "400 Crescent Court, Dallas, TX 75201, USA",
 "owner": "Crescent Real Estate",
 "brand": "Hotel Crescent Court (Marriott Autograph Collection, NASDAQ: MAR)",
-"adr": 390.0,
-"otaLow": 304.0,
-"otaHigh": 514.0,
+"adr": 618.0,
+"otaLow": 433,
+"otaHigh": 803,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -5096,7 +5096,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -5158,12 +5158,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 96,
-"address": "562 Sutter Street, San Francisco, CA 94102",
+"address": "562 Sutter Street, San Francisco, CA 94102, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Vignette Collection (IHG, NYSE: IHG)",
-"adr": 205.0,
-"otaLow": 159.0,
-"otaHigh": 270.0,
+"adr": 227.5,
+"otaLow": 186,
+"otaHigh": 269,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -5196,7 +5196,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -5207,13 +5207,13 @@
 "state": "TX",
 "country": "USA",
 "tier": "Luxury",
-"keys": 146,
-"address": "136 E. Grayson Street, San Antonio, TX 78215",
+"keys": 142,
+"address": "136 East Grayson Street, San Antonio, TX 78215, USA",
 "owner": "Silver Ventures (Christopher 'Kit' Goldsbury)",
 "brand": "Hotel Emma (independent — Pearl Brewery adaptive reuse)",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
+"adr": 761.0,
+"otaLow": 653,
+"otaHigh": 869,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -5246,7 +5246,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -5258,12 +5258,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 122,
-"address": "1080 Uptown Park Boulevard, Houston, TX 77056",
+"address": "1080 Uptown Park Boulevard, Houston, TX 77056, USA",
 "owner": "Ira Curry (private)",
 "brand": "Hotel Granduca (independent — Preferred Hotels)",
-"adr": 340.0,
-"otaLow": 265.0,
-"otaHigh": 448.0,
+"adr": 415.5,
+"otaLow": 308,
+"otaHigh": 523,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -5296,7 +5296,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -5708,12 +5708,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 319,
-"address": "605 Davis Street, Austin, TX 78701",
+"address": "605 Davis Street, Austin, TX 78701, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Autograph Collection Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 266.0,
-"otaLow": 207.0,
-"otaHigh": 351.0,
+"adr": 309.5,
+"otaLow": 231,
+"otaHigh": 388,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -5746,7 +5746,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -5807,13 +5807,13 @@
 "state": "CA",
 "country": "USA",
 "tier": "Luxury",
-"keys": 757,
-"address": "1500 Orange Avenue, Coronado, CA 92118",
-"owner": "Blackstone Real Estate (NYSE: BX)",
+"keys": 718,
+"address": "1500 Orange Avenue, Coronado, CA 92118, USA",
+"owner": "The Blackstone Group; operated as Curio Collection by Hilton",
 "brand": "Hotel del Coronado (Curio Collection by Hilton, NYSE: HLT)",
-"adr": 420.0,
-"otaLow": 327.0,
-"otaHigh": 554.0,
+"adr": 671.5,
+"otaLow": 513,
+"otaHigh": 830,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -5846,7 +5846,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -6007,13 +6007,13 @@
 "state": "FL",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 966,
-"address": "225 E Coastline Drive, Jacksonville, FL 32202",
+"keys": 951,
+"address": "225 E Coastline Drive, Jacksonville, FL 32202, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST) / local partner",
 "brand": "Hyatt Regency Hotels (Hyatt Hotels Corporation, NYSE: H)",
-"adr": 170.0,
-"otaLow": 132.0,
-"otaHigh": 224.0,
+"adr": 217.0,
+"otaLow": 189,
+"otaHigh": 245,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -6046,7 +6046,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -6157,13 +6157,13 @@
 "state": "CA",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 802,
+"keys": 804,
 "address": "5 Embarcadero Center, San Francisco, CA 94111, USA",
 "owner": "Hyatt Hotels Corporation / owner varies",
 "brand": "Hyatt Regency (Hyatt)",
-"adr": 295.0,
-"otaLow": 230.0,
-"otaHigh": 389.0,
+"adr": 334.5,
+"otaLow": 257,
+"otaHigh": 412,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -6196,7 +6196,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -6258,12 +6258,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 381,
-"address": "228 North Tryon Street, Charlotte, NC 28202",
+"address": "600 South College Street, Charlotte, NC 28202, USA",
 "owner": "Portman Holdings",
 "brand": "JW Marriott Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 310.0,
-"otaLow": 241.0,
-"otaHigh": 409.0,
+"adr": 395.5,
+"otaLow": 372,
+"otaHigh": 419,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -6296,7 +6296,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -6308,12 +6308,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 610,
-"address": "151 West Adams Street, Chicago, IL 60603",
+"address": "151 West Adams Street, Chicago, IL 60603, USA",
 "owner": "Moody National REIT / Marriott",
 "brand": "JW Marriott Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 330.0,
-"otaLow": 257.0,
-"otaHigh": 435.0,
+"adr": 389.5,
+"otaLow": 303,
+"otaHigh": 476,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -6346,7 +6346,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -6558,12 +6558,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 950,
-"address": "5350 East Marriott Drive, Phoenix, AZ 85054",
+"address": "5350 East Marriott Drive, Phoenix, AZ 85054, USA",
 "owner": "Ryman Hospitality Properties (NASDAQ: RHP) — acquired H1 2025 for $865M",
 "brand": "JW Marriott Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
+"adr": 599.0,
+"otaLow": 338,
+"otaHigh": 860,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -6596,7 +6596,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -6608,12 +6608,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 1002,
-"address": "23808 Resort Parkway, San Antonio, TX 78261",
+"address": "23808 Resort Parkway, San Antonio, TX 78261, USA",
 "owner": "Host Hotels & Resorts (NASDAQ: HST)",
 "brand": "JW Marriott Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 340.0,
-"otaLow": 265.0,
-"otaHigh": 448.0,
+"adr": 540.0,
+"otaLow": 478,
+"otaHigh": 602,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -6646,7 +6646,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -6708,12 +6708,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 242,
-"address": "2 East Jefferson Street, Phoenix, AZ 85004",
+"address": "2 East Jefferson Street, Phoenix, AZ 85004, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Kimpton Hotels & Restaurants (IHG, NYSE: IHG)",
-"adr": 241.0,
-"otaLow": 187.0,
-"otaHigh": 318.0,
+"adr": 288.5,
+"otaLow": 196,
+"otaHigh": 381,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -6746,7 +6746,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -6911,9 +6911,9 @@
 "address": "9291 Burton Way, Beverly Hills, CA 90210, USA",
 "owner": null,
 "brand": "L'Ermitage Hotels & Resorts",
-"adr": 800.0,
-"otaLow": 624.0,
-"otaHigh": 1056.0,
+"adr": 883.5,
+"otaLow": 735,
+"otaHigh": 1032,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -6946,7 +6946,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -6958,12 +6958,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 40,
-"address": "1705 South Quinlan Park Road, Austin, TX 78732",
+"address": "1705 South Quinlan Park Road, Austin, TX 78732, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Lake Austin Spa Resort (independent — member of Relais & Châteaux)",
-"adr": 1041.0,
-"otaLow": 811.0,
-"otaHigh": 1374.0,
+"adr": 2357.0,
+"otaLow": 2002,
+"otaHigh": 2712,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -6996,7 +6996,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -7008,12 +7008,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 251,
-"address": "400 5th Avenue, New York, NY 10018, USA",
+"address": "400 Fifth Avenue, New York, NY 10018, USA",
 "owner": "Great Eagle Holdings",
 "brand": "The Langham Hotels and Resorts",
-"adr": 850.0,
-"otaLow": 663.0,
-"otaHigh": 1122.0,
+"adr": 1050.0,
+"otaLow": 655,
+"otaHigh": 1445,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -7046,7 +7046,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -7458,12 +7458,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 452,
-"address": "85 East Wacker Drive, Chicago, IL 60601",
+"address": "85 East Wacker Drive, Chicago, IL 60601, USA",
 "owner": "Oxford Capital Group",
 "brand": "LondonHouse Chicago (Curio Collection by Hilton, NYSE: HLT)",
-"adr": 360.0,
-"otaLow": 280.0,
-"otaHigh": 475.0,
+"adr": 323.0,
+"otaLow": 172,
+"otaHigh": 474,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -7496,7 +7496,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -7558,12 +7558,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 189,
-"address": "809 5th Avenue, Seattle, WA 98104",
+"address": "809 5th Avenue, Seattle, WA 98104, USA",
 "owner": "Lotte Hotels & Resorts (Lotte Group, KRX: 000070)",
 "brand": "Lotte Hotel Seattle (Lotte Hotels & Resorts, South Korea)",
-"adr": 410.0,
-"otaLow": 319.0,
-"otaHigh": 541.0,
+"adr": 454.5,
+"otaLow": 336,
+"otaHigh": 573,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -7596,7 +7596,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -7607,13 +7607,13 @@
 "state": "NY",
 "country": "USA",
 "tier": "Luxury",
-"keys": 47,
+"keys": 74,
 "address": "28 East 63rd Street, New York, NY 10065, USA",
 "owner": null,
 "brand": "The Hotels & Resorts",
-"adr": 1100.0,
-"otaLow": 858.0,
-"otaHigh": 1452.0,
+"adr": 1712.5,
+"otaLow": 1417,
+"otaHigh": 2008,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -7646,7 +7646,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -7658,12 +7658,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 400,
-"address": "1777 3rd Street, Detroit, MI 48226",
+"address": "1777 3rd Street, Detroit, MI 48226, USA",
 "owner": "MGM Resorts International (NYSE: MGM)",
 "brand": "MGM Grand Hotels (MGM Resorts International, NYSE: MGM)",
-"adr": 280.0,
-"otaLow": 218.0,
-"otaHigh": 369.0,
+"adr": 354.5,
+"otaLow": 278,
+"otaHigh": 431,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -7696,7 +7696,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -7708,12 +7708,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 1628,
-"address": "1 Market Place, San Diego, CA 92101",
+"address": "1 Market Place, San Diego, CA 92101, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Grand Hyatt Hotels (Hyatt Hotels Corporation, NYSE: H)",
-"adr": 277.0,
-"otaLow": 216.0,
-"otaHigh": 365.0,
+"adr": 367.0,
+"otaLow": 259,
+"otaHigh": 475,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -7746,7 +7746,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -7757,13 +7757,13 @@
 "state": "NY",
 "country": "USA",
 "tier": "Luxury",
-"keys": 251,
+"keys": 244,
 "address": "80 Columbus Circle, New York, NY 10023, USA",
 "owner": "Mandarin Oriental International Ltd.",
 "brand": "Mandarin Oriental Hotel Group",
-"adr": 1020.0,
-"otaLow": 795.0,
-"otaHigh": 1346.0,
+"adr": 1449.0,
+"otaLow": 949,
+"otaHigh": 1949,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -7796,7 +7796,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -7858,12 +7858,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 370,
-"address": "13480 Maxella Avenue, Marina del Rey, CA 90292",
+"address": "4100 Admiralty Way, Marina del Rey, CA 90292, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Marriott Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 286.0,
-"otaLow": 223.0,
-"otaHigh": 377.0,
+"adr": 380.5,
+"otaLow": 319,
+"otaHigh": 442,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -7896,7 +7896,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -7907,13 +7907,13 @@
 "state": "NY",
 "country": "USA",
 "tier": "Luxury",
-"keys": 150,
+"keys": 152,
 "address": "25 East 77th Street, New York, NY 10075, USA",
 "owner": null,
 "brand": "The Hotels & Resorts",
-"adr": 990.0,
-"otaLow": 772.0,
-"otaHigh": 1306.0,
+"adr": 1505.0,
+"otaLow": 984,
+"otaHigh": 2026,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -7946,7 +7946,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -7958,12 +7958,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 1366,
-"address": "333 West Harbor Drive, San Diego, CA 92101",
+"address": "333 West Harbor Drive, San Diego, CA 92101, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Marriott Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 311.0,
-"otaLow": 242.0,
-"otaHigh": 410.0,
+"adr": 397.0,
+"otaLow": 267,
+"otaHigh": 527,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -7996,7 +7996,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -8011,9 +8011,9 @@
 "address": "1535 Broadway, New York, NY 10036, USA",
 "owner": "Marriott International / owner varies",
 "brand": "Marriott Hotels & Resorts",
-"adr": 375.0,
-"otaLow": 292.0,
-"otaHigh": 495.0,
+"adr": 603.5,
+"otaLow": 339,
+"otaHigh": 868,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -8046,7 +8046,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -8108,12 +8108,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 605,
-"address": "1633 North Bayshore Drive, Miami, FL 33132",
+"address": "1633 North Bayshore Drive, Miami, FL 33132, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Marriott Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 234.0,
-"otaLow": 182.0,
-"otaHigh": 308.0,
+"adr": 327.5,
+"otaLow": 200,
+"otaHigh": 455,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -8146,7 +8146,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -8197,7 +8197,7 @@
 }
 ],
 "verified": null,
-"flag": null
+"flag": "Duplicate record: Montage Beverly Hills at 225 North Canon Drive was acquired by Maybourne Hotel Group in 2019 and now operates as The Maybourne Beverly Hills, covered by HIR-144."
 },
 {
 "id": "HIR-053",
@@ -8307,13 +8307,13 @@
 "state": "NY",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 515,
+"keys": 513,
 "address": "85 West Street, New York, NY 10006, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Marriott Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 338.0,
-"otaLow": 263.0,
-"otaHigh": 446.0,
+"adr": 431.0,
+"otaLow": 324,
+"otaHigh": 538,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -8346,7 +8346,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -8358,12 +8358,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 115,
-"address": "155 North Peoria Street, Chicago, IL 60607",
+"address": "155 North Peoria Street, Chicago, IL 60607, USA",
 "owner": "Nobu Hospitality (Robert De Niro / Nobu Matsuhisa)",
 "brand": "Nobu Hotels (Nobu Hospitality, private)",
-"adr": 420.0,
-"otaLow": 327.0,
-"otaHigh": 554.0,
+"adr": 562.5,
+"otaLow": 408,
+"otaHigh": 717,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -8396,7 +8396,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -8457,13 +8457,13 @@
 "state": "FL",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 354,
-"address": "245 Water Street, Jacksonville, FL 32202",
+"keys": 300,
+"address": "245 Water Street, Jacksonville, FL 32202, USA",
 "owner": "Omni Hotels & Resorts (private — Rowling family / TRT Holdings)",
 "brand": "Omni Hotels & Resorts (private — TRT Holdings)",
-"adr": 165.0,
-"otaLow": 128.0,
-"otaHigh": 217.0,
+"adr": 215.5,
+"otaLow": 171,
+"otaHigh": 260,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -8496,7 +8496,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -8608,12 +8608,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 193,
-"address": "1 Ocean Boulevard, Atlantic Beach, FL 32233",
+"address": "1 Ocean Boulevard, Atlantic Beach, FL 32233, USA",
 "owner": "Riverside Hotel Group (Florida private)",
 "brand": "One Ocean Resort & Spa (independent boutique)",
-"adr": 280.0,
-"otaLow": 218.0,
-"otaHigh": 369.0,
+"adr": 294.5,
+"otaLow": 215,
+"otaHigh": 374,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -8646,7 +8646,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -8857,13 +8857,13 @@
 "state": "CA",
 "country": "USA",
 "tier": "Luxury",
-"keys": 327,
-"address": "7100 Four Seasons Point, Carlsbad, CA 92011",
+"keys": 344,
+"address": "7100 Aviara Resort Drive, Carlsbad, CA 92011, USA",
 "owner": "Host Hotels & Resorts (NASDAQ: HST)",
 "brand": "Park Hyatt Hotels & Resorts (Hyatt Hotels Corporation, NYSE: H)",
-"adr": 480.0,
-"otaLow": 374.0,
-"otaHigh": 633.0,
+"adr": 745.5,
+"otaLow": 580,
+"otaHigh": 911,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -8896,7 +8896,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -8908,12 +8908,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 198,
-"address": "800 North Michigan Avenue, Chicago, IL 60611",
+"address": "800 North Michigan Avenue, Chicago, IL 60611, USA",
 "owner": "Pritzker family / Hyatt Hotels Corporation",
 "brand": "Park Hyatt Hotels & Resorts (Hyatt, NYSE: H)",
-"adr": 530.0,
-"otaLow": 413.0,
-"otaHigh": 699.0,
+"adr": 714.5,
+"otaLow": 471,
+"otaHigh": 958,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -8946,7 +8946,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -8961,9 +8961,9 @@
 "address": "153 West 57th Street, New York, NY 10019, USA",
 "owner": "Hyatt Hotels Corporation / owner varies",
 "brand": "Park Hyatt (Hyatt)",
-"adr": 1070.0,
-"otaLow": 834.0,
-"otaHigh": 1412.0,
+"adr": 1609.0,
+"otaLow": 1088,
+"otaHigh": 2130,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -8996,7 +8996,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -9057,13 +9057,13 @@
 "state": "IL",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 228,
-"address": "230 North Michigan Avenue, Chicago, IL 60601",
+"keys": 364,
+"address": "230 North Michigan Avenue, Chicago, IL 60601, USA",
 "owner": "Carey Watermark / Montage International",
 "brand": "Pendry Hotels & Resorts (Montage International, private)",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
+"adr": 406.5,
+"otaLow": 229,
+"otaHigh": 584,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -9096,7 +9096,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -9108,12 +9108,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 317,
-"address": "550 J Street, San Diego, CA 92101",
+"address": "550 J Street, San Diego, CA 92101, USA",
 "owner": "Manchester Financial Group / Montage International",
 "brand": "Pendry Hotels & Resorts (Montage International, private)",
-"adr": 400.0,
-"otaLow": 312.0,
-"otaHigh": 528.0,
+"adr": 500.5,
+"otaLow": 397,
+"otaHigh": 604,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -9146,7 +9146,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -9208,12 +9208,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 149,
-"address": "8430 Sunset Boulevard, West Hollywood, CA 90069",
+"address": "8430 Sunset Boulevard, West Hollywood, CA 90069, USA",
 "owner": "Montage International / MSD Capital",
 "brand": "Pendry Hotels & Resorts (Montage International, private)",
-"adr": 450.0,
-"otaLow": 351.0,
-"otaHigh": 594.0,
+"adr": 525.5,
+"otaLow": 491,
+"otaHigh": 560,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -9246,7 +9246,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -9258,12 +9258,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 195,
-"address": "9882 Santa Monica Blvd, Beverly Hills, CA 90212, USA",
+"address": "9882 South Santa Monica Boulevard, Beverly Hills, CA 90212, USA",
 "owner": "Hongkong and Shanghai Hotels Ltd.",
 "brand": "The Peninsula Hotels",
-"adr": 950.0,
-"otaLow": 741.0,
-"otaHigh": 1254.0,
+"adr": 1110.0,
+"otaLow": 900,
+"otaHigh": 1320,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -9296,7 +9296,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -9308,12 +9308,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 235,
-"address": "700 5th Avenue, New York, NY 10019, USA",
+"address": "700 Fifth Avenue at 55th Street, New York, NY 10019, USA",
 "owner": "Hongkong and Shanghai Hotels Ltd.",
 "brand": "The Peninsula Hotels",
-"adr": 1050.0,
-"otaLow": 819.0,
-"otaHigh": 1386.0,
+"adr": 1461.5,
+"otaLow": 917,
+"otaHigh": 2006,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -9346,7 +9346,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -9397,7 +9397,7 @@
 }
 ],
 "verified": null,
-"flag": null
+"flag": "No separate hotel called The Peninsula Residences was found at 700 Fifth Avenue; that address is The Peninsula New York (HIR-025), so this record appears to duplicate it."
 },
 {
 "id": "HIR-030",
@@ -9409,7 +9409,7 @@
 "tier": "Luxury",
 "keys": 189,
 "address": "2 East 61st Street, New York, NY 10065, USA",
-"owner": null,
+"owner": "Taj Hotels Resorts and Palaces, lessee and operator since 2005",
 "brand": "The Hotels & Resorts",
 "adr": 900.0,
 "otaLow": 702.0,
@@ -9446,7 +9446,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -9458,12 +9458,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 282,
-"address": "768 5th Avenue, New York, NY 10019, USA",
-"owner": null,
+"address": "768 Fifth Avenue, New York, NY 10019, USA",
+"owner": "Katara Hospitality (since 2018); operated by Fairmont",
 "brand": "The Hotels & Resorts",
-"adr": 1100.0,
-"otaLow": 858.0,
-"otaHigh": 1452.0,
+"adr": 1908.5,
+"otaLow": 1220,
+"otaHigh": 2597,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -9496,7 +9496,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -9508,12 +9508,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 250,
-"address": "200 Ponte Vedra Boulevard, Ponte Vedra Beach, FL 32082",
+"address": "200 Ponte Vedra Boulevard, Ponte Vedra Beach, FL 32082, USA",
 "owner": "Ponte Vedra Corp (private — Florida)",
 "brand": "Ponte Vedra Inn & Club (independent — Historic Hotels of America)",
-"adr": 295.0,
-"otaLow": 230.0,
-"otaHigh": 389.0,
+"adr": 643.0,
+"otaLow": 530,
+"otaHigh": 756,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -9546,7 +9546,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -9711,9 +9711,9 @@
 "address": "50 Central Park South, New York, NY 10019, USA",
 "owner": "Varies — REIT, institutional, or private",
 "brand": "The Ritz-Carlton Hotel Company (Marriott)",
-"adr": 1220.0,
-"otaLow": 951.0,
-"otaHigh": 1610.0,
+"adr": 1222.5,
+"otaLow": 808,
+"otaHigh": 1637,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -9746,7 +9746,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -9758,12 +9758,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 218,
-"address": "2121 McKinney Avenue, Dallas, TX 75201",
+"address": "2121 McKinney Avenue, Dallas, TX 75201, USA",
 "owner": "Host Hotels & Resorts (NASDAQ: HST)",
 "brand": "The Ritz-Carlton Hotel Company (Marriott International, NASDAQ: MAR)",
-"adr": 440.0,
-"otaLow": 343.0,
-"otaHigh": 580.0,
+"adr": 885.5,
+"otaLow": 685,
+"otaHigh": 1086,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -9796,7 +9796,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -9909,7 +9909,7 @@
 "tier": "Luxury",
 "keys": 156,
 "address": "801 West Georgia Street, Vancouver, BC V6C 1P7, Canada",
-"owner": "Pacific Reach Properties (bought 2017) (Wikipedia)",
+"owner": "Pacific Reach Properties (bought 2017)",
 "brand": "Rosewood Hotels & Resorts",
 "adr": 656.5,
 "otaLow": 437,
@@ -9958,12 +9958,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 143,
-"address": "2821 Turtle Creek Boulevard, Dallas, TX 75219",
+"address": "2821 Turtle Creek Boulevard, Dallas, TX 75219, USA",
 "owner": "Rosewood Hotels & Resorts (Hong Kong private)",
 "brand": "Rosewood Hotels & Resorts (private — Rosewood Hotel Group, Hong Kong)",
-"adr": 510.0,
-"otaLow": 397.0,
-"otaHigh": 673.0,
+"adr": 823.5,
+"otaLow": 638,
+"otaHigh": 1009,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -9996,7 +9996,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -10058,12 +10058,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 119,
-"address": "5200 East Camelback Road, Phoenix, AZ 85018",
+"address": "5200 East Camelback Road, Phoenix, AZ 85018, USA",
 "owner": "Crescent Hotels & Resorts",
 "brand": "Royal Palms Resort & Spa (Unbound Collection by Hyatt, NYSE: H)",
-"adr": 430.0,
-"otaLow": 335.0,
-"otaHigh": 567.0,
+"adr": 525.0,
+"otaLow": 278,
+"otaHigh": 772,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -10096,7 +10096,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -10208,12 +10208,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 1500,
-"address": "780 Mission Street, San Francisco, CA 94103",
+"address": "780 Mission Street, San Francisco, CA 94103, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Marriott Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 292.0,
-"otaLow": 227.0,
-"otaHigh": 385.0,
+"adr": 343.0,
+"otaLow": 282,
+"otaHigh": 404,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -10246,7 +10246,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -10257,13 +10257,13 @@
 "state": "CA",
 "country": "USA",
 "tier": "Luxury",
-"keys": 271,
-"address": "700 Wilshire Boulevard, Santa Monica, CA 90401",
+"keys": 261,
+"address": "700 Wilshire Boulevard, Santa Monica, CA 90401, USA",
 "owner": "Protocol Integrated Direct / Proper Hospitality",
 "brand": "Proper Hotels (private — Brad Korzen / Proper Hospitality)",
-"adr": 420.0,
-"otaLow": 327.0,
-"otaHigh": 554.0,
+"adr": 700.5,
+"otaLow": 576,
+"otaHigh": 825,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -10296,7 +10296,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -10307,13 +10307,13 @@
 "state": "FL",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 508,
-"address": "1000 PGA Tour Boulevard, Ponte Vedra Beach, FL 32082",
+"keys": 514,
+"address": "1000 PGA Tour Boulevard, Ponte Vedra Beach, FL 32082, USA",
 "owner": "Host Hotels & Resorts (NASDAQ: HST)",
 "brand": "Marriott Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 320.0,
-"otaLow": 249.0,
-"otaHigh": 422.0,
+"adr": 381.0,
+"otaLow": 280,
+"otaHigh": 482,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -10346,7 +10346,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -10558,12 +10558,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 129,
-"address": "1400 Woodward Avenue, Detroit, MI 48226",
+"address": "1400 Woodward Avenue, Detroit, MI 48226, USA",
 "owner": "Shinola / Bedrock (Dan Gilbert — Bedrock Real Estate)",
 "brand": "Shinola Hotel (independent — Bedrock / Shinola brand partnership)",
-"adr": 320.0,
-"otaLow": 249.0,
-"otaHigh": 422.0,
+"adr": 535.0,
+"otaLow": 436,
+"otaHigh": 634,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -10596,7 +10596,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -10608,12 +10608,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 198,
-"address": "1 Pico Boulevard, Santa Monica, CA 90405",
+"address": "1 Pico Boulevard, Santa Monica, CA 90405, USA",
 "owner": "Edward Thomas Hotels (private — Mani Brothers)",
 "brand": "Shutters on the Beach (independent — Edward Thomas Hotels)",
-"adr": 620.0,
-"otaLow": 483.0,
-"otaHigh": 818.0,
+"adr": 918.5,
+"otaLow": 784,
+"otaHigh": 1053,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -10646,7 +10646,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -10807,13 +10807,13 @@
 "state": "IL",
 "country": "USA",
 "tier": "Luxury",
-"keys": 192,
-"address": "401 East Upper Wacker Drive, Chicago, IL 60601",
+"keys": 197,
+"address": "401 East Wacker Drive, Chicago, IL 60601, USA",
 "owner": "Magellan Development Group",
 "brand": "St. Regis Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 510.0,
-"otaLow": 397.0,
-"otaHigh": 673.0,
+"adr": 781.5,
+"otaLow": 555,
+"otaHigh": 1008,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -10846,7 +10846,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -10859,11 +10859,11 @@
 "tier": "Luxury",
 "keys": 232,
 "address": "1919 Briar Oaks Lane, Houston, TX 77027, USA",
-"owner": "Saddlebrook Equity (acquired Jan 2026 from Host Hotels at $51M)",
+"owner": "Saddlebrook Equity and Management (2026)",
 "brand": "St. Regis Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 310.0,
-"otaLow": 241.0,
-"otaHigh": 409.0,
+"adr": 383.0,
+"otaLow": 214,
+"otaHigh": 552,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -10896,7 +10896,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -10959,11 +10959,11 @@
 "tier": "Luxury",
 "keys": 238,
 "address": "2 East 55th Street, New York, NY 10022, USA",
-"owner": "Marriott International / owner varies",
+"owner": "Qatar Investment Authority; operated by Marriott International",
 "brand": "St. Regis Hotels & Resorts (Marriott)",
-"adr": 920.0,
-"otaLow": 717.0,
-"otaHigh": 1214.0,
+"adr": 1163.5,
+"otaLow": 652,
+"otaHigh": 1675,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -10996,7 +10996,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -11057,13 +11057,13 @@
 "state": "NY",
 "country": "USA",
 "tier": "Luxury",
-"keys": 76,
-"address": "20 East 76th Street at Madison Avenue, New York, NY 10021",
+"keys": 96,
+"address": "20 East 76th Street, New York, NY 10021, USA",
 "owner": "Corinthia Hotels Limited (Malta Stock Exchange)",
 "brand": "Corinthia Hotels (International Hotel Investments PLC, Malta)",
-"adr": 1050.0,
-"otaLow": 819.0,
-"otaHigh": 1386.0,
+"adr": 1470.5,
+"otaLow": 883,
+"otaHigh": 2058,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -11096,7 +11096,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -11207,13 +11207,13 @@
 "state": "IL",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 332,
-"address": "636 South Michigan Avenue, Chicago, IL 60605",
+"keys": 335,
+"address": "636 South Michigan Avenue, Chicago, IL 60605, USA",
 "owner": "Marriott International (NASDAQ: MAR)",
 "brand": "Autograph Collection Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 300.0,
-"otaLow": 234.0,
-"otaHigh": 396.0,
+"adr": 306.5,
+"otaLow": 181,
+"otaHigh": 432,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -11246,7 +11246,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -11258,12 +11258,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 241,
-"address": "321 17th Street, Denver, CO 80202",
-"owner": "Starwood Capital Group / Hilton",
+"address": "321 17th Street, Denver, CO 80202, USA",
+"owner": "Operated by Highgate; Autograph Collection since 2012",
 "brand": "Brown Palace Hotel & Spa (Autograph Collection by Marriott, NASDAQ: MAR)",
-"adr": 350.0,
-"otaLow": 273.0,
-"otaHigh": 462.0,
+"adr": 279.0,
+"otaLow": 246,
+"otaHigh": 312,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -11296,7 +11296,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -11308,12 +11308,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 76,
-"address": "130 West 44th Street, New York, NY 10036",
+"address": "130 West 44th Street, New York, NY 10036, USA",
 "owner": "Ben-Josef Group Holdings (acquired Oct 2025 from Narayan estate for $53.2M; ground lease — Metro NY District Church of the Nazarene owns land)",
 "brand": "The Unbound Collection by Hyatt (Hyatt Hotels Corporation, NYSE: H)",
-"adr": 660.0,
-"otaLow": 514.0,
-"otaHigh": 871.0,
+"adr": 811.0,
+"otaLow": 560,
+"otaHigh": 1062,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -11346,7 +11346,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -11358,12 +11358,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 112,
-"address": "1701 Wynkoop Street, Denver, CO 80202",
+"address": "1701 Wynkoop Street, Denver, CO 80202, USA",
 "owner": "Larimer Square Associates / Union Station Alliance",
 "brand": "The Crawford Hotel (independent — Union Station Denver)",
-"adr": 330.0,
-"otaLow": 257.0,
-"otaHigh": 435.0,
+"adr": 433.0,
+"otaLow": 379,
+"otaHigh": 487,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -11396,7 +11396,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -11408,12 +11408,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 403,
-"address": "1 Blossom Street, Boston, MA 02114",
+"address": "89 Broad Street, Boston, MA 02110, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Autograph Collection Hotels (Marriott International, NASDAQ: MAR)",
-"adr": 296.0,
-"otaLow": 230.0,
-"otaHigh": 390.0,
+"adr": 384.5,
+"otaLow": 207,
+"otaHigh": 562,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -11446,7 +11446,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -11508,12 +11508,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 189,
-"address": "604 Brazos Street, Austin, TX 78701",
-"owner": "Autograph Collection Hotels (Marriott International, NASDAQ: MAR)",
+"address": "604 Brazos Street, Austin, TX 78701, USA",
+"owner": "Sold by Hyatt to Woodbine Development in 2022",
 "brand": "The Driskill (Marriott Autograph Collection, NASDAQ: MAR)",
-"adr": 390.0,
-"otaLow": 304.0,
-"otaHigh": 514.0,
+"adr": 386.5,
+"otaLow": 295,
+"otaHigh": 478,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -11546,7 +11546,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -11558,12 +11558,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 223,
-"address": "2411 Alaskan Way Pier 67, Seattle, WA 98121",
+"address": "2411 Alaskan Way, Pier 67, Seattle, WA 98121, USA",
 "owner": "Noble House Hotels & Resorts",
 "brand": "The Edgewater (Noble House Hotels — Lark Hotels)",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
+"adr": 371.5,
+"otaLow": 222,
+"otaHigh": 521,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -11596,7 +11596,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -11608,12 +11608,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 141,
-"address": "4200 East Camelback Road, Phoenix, AZ 85018",
+"address": "4360 East Camelback Road, Phoenix, AZ 85018, USA",
 "owner": "Sam Fox (private — Flower Child / Fox Restaurant Concepts)",
 "brand": "The Global Ambassador (independent)",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
+"adr": 780.5,
+"otaLow": 423,
+"otaHigh": 1138,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -11646,7 +11646,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -11658,12 +11658,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 227,
-"address": "1401 Michigan Avenue, Detroit, MI 48216",
+"address": "1401 Michigan Avenue, Detroit, MI 48216, USA",
 "owner": "Oxford Capital Group (private)",
 "brand": "The Godfrey Hotel (independent — Oxford Capital Group)",
-"adr": 260.0,
-"otaLow": 202.0,
-"otaHigh": 343.0,
+"adr": 267.0,
+"otaLow": 179,
+"otaHigh": 355,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -11696,7 +11696,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -11747,7 +11747,7 @@
 }
 ],
 "verified": null,
-"flag": null
+"flag": "Duplicate record: The Gwen, a Luxury Collection Hotel at 521 North Rush Street is already covered by HIR-1296."
 },
 {
 "id": "HIR-062",
@@ -11761,9 +11761,9 @@
 "address": "800 16th Street NW, Washington, DC 20006, USA",
 "owner": "Orange Investments (private)",
 "brand": "The Hay-Adams (independent — Leading Hotels of the World)",
-"adr": 620.0,
-"otaLow": 483.0,
-"otaHigh": 818.0,
+"adr": 806.5,
+"otaLow": 610,
+"otaHigh": 1003,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -11796,7 +11796,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -11808,12 +11808,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 43,
-"address": "5532 North Palo Cristi Road, Paradise Valley, AZ 85253",
+"address": "5532 North Palo Cristi Road, Paradise Valley, AZ 85253, USA",
 "owner": "Herb Drinkwater Trust (private)",
 "brand": "The Hermosa Inn (independent — Relais & Châteaux)",
-"adr": 520.0,
-"otaLow": 405.0,
-"otaHigh": 686.0,
+"adr": 546.5,
+"otaLow": 335,
+"otaHigh": 758,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -11846,7 +11846,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -11959,7 +11959,7 @@
 "tier": "Luxury",
 "keys": 99,
 "address": "1200 16th Street NW, Washington, DC 20036, USA",
-"owner": "DC CAP Hotelier (since 2005) (Wikipedia)",
+"owner": "DC CAP Hotelier (since 2005)",
 "brand": "The Jefferson (independent — Preferred Hotels)",
 "adr": 640.0,
 "otaLow": 528,
@@ -12007,13 +12007,13 @@
 "state": "TX",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 161,
-"address": "1530 Main Street, Dallas, TX 75201",
+"keys": 160,
+"address": "1530 Main Street, Dallas, TX 75201, USA",
 "owner": "Dallas Arts District Holdings",
 "brand": "The Joule (independent — Dallas Arts District flagship)",
-"adr": 370.0,
-"otaLow": 288.0,
-"otaHigh": 488.0,
+"adr": 451.0,
+"otaLow": 334,
+"otaHigh": 568,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -12046,7 +12046,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -12058,12 +12058,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 330,
-"address": "6 Times Square, New York, NY 10036",
-"owner": "Highgate Hotels / Margaritaville Holdings (private)",
+"address": "6 Times Square (142 West 42nd Street), New York, NY 10036, USA",
+"owner": "FelCor Lodging Trust",
 "brand": "The Knickerbocker (independent — Highgate Hotels)",
-"adr": 430.0,
-"otaLow": 335.0,
-"otaHigh": 567.0,
+"adr": 541.0,
+"otaLow": 302,
+"otaHigh": 780,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -12096,7 +12096,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -12158,12 +12158,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 316,
-"address": "330 North Wabash Avenue, Chicago, IL 60611",
+"address": "330 North Wabash Avenue, Chicago, IL 60611, USA",
 "owner": "Great Eagle Holdings (HKEX: 0041)",
 "brand": "The Langham Hotels & Resorts (Langham Hospitality Group)",
-"adr": 540.0,
-"otaLow": 421.0,
-"otaHigh": 712.0,
+"adr": 799.0,
+"otaLow": 528,
+"otaHigh": 1070,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -12196,7 +12196,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -12408,12 +12408,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 226,
-"address": "1020 North San Vicente Boulevard, West Hollywood, CA 90069",
+"address": "1020 North San Vicente Boulevard, West Hollywood, CA 90069, USA",
 "owner": "Highgate Hotels",
 "brand": "The London West Hollywood (Curio Collection by Hilton, NYSE: HLT)",
-"adr": 400.0,
-"otaLow": 312.0,
-"otaHigh": 528.0,
+"adr": 534.5,
+"otaLow": 431,
+"otaHigh": 638,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -12446,7 +12446,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -12458,12 +12458,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 121,
-"address": "114 East 32nd Street, New York, NY 10016",
+"address": "114 East 32nd Street, New York, NY 10016, USA",
 "owner": "Marmara Hotel Enterprise (Turkish private — Istanbul-based)",
 "brand": "The Marmara Hotels (private — Istanbul/New York)",
-"adr": 360.0,
-"otaLow": 280.0,
-"otaHigh": 475.0,
+"adr": 507.0,
+"otaLow": 354,
+"otaHigh": 660,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -12496,7 +12496,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -12508,12 +12508,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 201,
-"address": "225 North Canon Drive, Beverly Hills, CA 90210",
+"address": "225 North Canon Drive, Beverly Hills, CA 90210, USA",
 "owner": "Maybourne Hotel Group (private — acquired 2019 from Ohana Real Estate Investors for $415M; $2,064,677/key — record California price/key at time)",
 "brand": "Maybourne Hotels (private — Claridge's, Connaught, Berkeley parent group)",
-"adr": 1100.0,
-"otaLow": 858.0,
-"otaHigh": 1452.0,
+"adr": 1304.5,
+"otaLow": 1103,
+"otaHigh": 1506,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -12546,7 +12546,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -12558,12 +12558,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 167,
-"address": "1170 Broadway, New York, NY 10001",
+"address": "1170 Broadway, New York, NY 10001, USA",
 "owner": "Hilton (NYSE: HLT) / Sydell Group — Hilton acquired Sydell Apr 2024 for $56M",
 "brand": "Ned Hotels (Sydell Group / Hilton, NYSE: HLT)",
-"adr": 560.0,
-"otaLow": 436.0,
-"otaHigh": 739.0,
+"adr": 866.0,
+"otaLow": 681,
+"otaHigh": 1051,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -12596,7 +12596,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -12658,12 +12658,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 339,
-"address": "108 East Superior Street, Chicago, IL 60611",
+"address": "108 East Superior Street, Chicago, IL 60611, USA",
 "owner": "The Hongkong and Shanghai Hotels Limited (HKEX: 0045)",
 "brand": "The Peninsula Hotels (HKEX: 0045)",
-"adr": 590.0,
-"otaLow": 460.0,
-"otaHigh": 778.0,
+"adr": 803.0,
+"otaLow": 616,
+"otaHigh": 990,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -12696,7 +12696,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -12708,12 +12708,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 645,
-"address": "6000 East Camelback Road, Scottsdale, AZ 85251",
+"address": "6000 East Camelback Road, Scottsdale, AZ 85251, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "The Luxury Collection (Marriott International, NASDAQ: MAR)",
-"adr": 493.0,
-"otaLow": 384.0,
-"otaHigh": 650.0,
+"adr": 709.5,
+"otaLow": 304,
+"otaHigh": 1115,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -12746,7 +12746,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -12758,12 +12758,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 250,
-"address": "1600 West Loop South, Houston, TX 77027",
+"address": "1600 West Loop South, Houston, TX 77027, USA",
 "owner": "Tilman Fertitta (private — Landry's Inc.)",
 "brand": "The Post Oak Hotel (independent — Tilman Fertitta)",
-"adr": 480.0,
-"otaLow": 374.0,
-"otaHigh": 633.0,
+"adr": 955.0,
+"otaLow": 631,
+"otaHigh": 1279,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -12796,7 +12796,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -12858,12 +12858,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 446,
-"address": "4750 Amelia Island Parkway, Fernandina Beach, FL 32034",
+"address": "4750 Amelia Island Parkway, Fernandina Beach, FL 32034, USA",
 "owner": "Host Hotels & Resorts (NASDAQ: HST)",
 "brand": "The Ritz-Carlton Hotel Company (Marriott International, NASDAQ: MAR)",
-"adr": 400.0,
-"otaLow": 312.0,
-"otaHigh": 528.0,
+"adr": 1252.0,
+"otaLow": 962,
+"otaHigh": 1542,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -12896,7 +12896,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -12957,13 +12957,13 @@
 "state": "IL",
 "country": "USA",
 "tier": "Luxury",
-"keys": 434,
-"address": "160 E Pearson Street, Chicago, IL 60611, USA",
+"keys": 432,
+"address": "160 East Pearson Street (Water Tower Place), Chicago, IL 60611, USA",
 "owner": "Braemar Hotels & Resorts (NYSE: BHR)",
 "brand": "The Ritz-Carlton Hotel Company (Marriott International, NASDAQ: MAR)",
-"adr": 490.0,
-"otaLow": 382.0,
-"otaHigh": 646.0,
+"adr": 515.5,
+"otaLow": 355,
+"otaHigh": 676,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -12996,7 +12996,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -13008,12 +13008,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 202,
-"address": "1881 Curtis Street, Denver, CO 80202",
+"address": "1881 Curtis Street, Denver, CO 80202, USA",
 "owner": "DiamondRock Hospitality (NYSE: DRH)",
 "brand": "The Ritz-Carlton Hotel Company (Marriott International, NASDAQ: MAR)",
-"adr": 390.0,
-"otaLow": 304.0,
-"otaHigh": 514.0,
+"adr": 436.5,
+"otaLow": 311,
+"otaHigh": 562,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -13046,7 +13046,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -13157,13 +13157,13 @@
 "state": "CA",
 "country": "USA",
 "tier": "Luxury",
-"keys": 304,
-"address": "4375 Admiralty Way, Marina del Rey, CA 90292",
+"keys": 316,
+"address": "4375 Admiralty Way, Marina del Rey, CA 90292, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "The Ritz-Carlton Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 431.0,
-"otaLow": 336.0,
-"otaHigh": 568.0,
+"adr": 580.0,
+"otaLow": 494,
+"otaHigh": 666,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -13196,7 +13196,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -13457,13 +13457,13 @@
 "state": "IL",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 69,
-"address": "2018 West North Avenue, Chicago, IL 60647",
+"keys": 89,
+"address": "2018 West North Avenue, Chicago, IL 60647, USA",
 "owner": "Grupo Habita (Mexico City, private)",
 "brand": "The Robey (independent — Grupo Habita)",
-"adr": 310.0,
-"otaLow": 241.0,
-"otaHigh": 409.0,
+"adr": 410.0,
+"otaLow": 252,
+"otaHigh": 568,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -13496,7 +13496,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -13608,12 +13608,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 106,
-"address": "1509 Broadway Street, Detroit, MI 48226",
+"address": "1509 Broadway Street, Detroit, MI 48226, USA",
 "owner": "Erica Ward Gerson / Aparium Hotel Group",
 "brand": "The Siren Hotel (independent — Aparium Hotel Group)",
-"adr": 240.0,
-"otaLow": 187.0,
-"otaHigh": 316.0,
+"adr": 259.0,
+"otaLow": 191,
+"otaHigh": 327,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -13646,7 +13646,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -13708,12 +13708,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 338,
-"address": "848 Washington Street, New York, NY 10014",
+"address": "848 Washington Street, New York, NY 10014, USA",
 "owner": "Sansiri PLC (Thailand) — Standard International acquired by Hyatt Oct 2024 for $150M base",
 "brand": "The Standard Hotels (Standard International / Hyatt Hotels Corporation, NYSE: H)",
-"adr": 420.0,
-"otaLow": 327.0,
-"otaHigh": 554.0,
+"adr": 577.5,
+"otaLow": 413,
+"otaHigh": 742,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -13746,7 +13746,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -13808,12 +13808,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 453,
-"address": "1114 Washington Boulevard, Detroit, MI 48226",
+"address": "1114 Washington Boulevard, Detroit, MI 48226, USA",
 "owner": "Marriott International / RIK Enterprises",
 "brand": "Westin Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 270.0,
-"otaLow": 210.0,
-"otaHigh": 356.0,
+"adr": 320.5,
+"otaLow": 247,
+"otaHigh": 394,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -13846,7 +13846,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -13857,13 +13857,13 @@
 "state": "IL",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 445,
-"address": "320 North Dearborn Street, Chicago, IL 60654",
+"keys": 429,
+"address": "320 North Dearborn Street, Chicago, IL 60654, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Westin Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 302.0,
-"otaLow": 235.0,
-"otaHigh": 398.0,
+"adr": 389.5,
+"otaLow": 267,
+"otaHigh": 512,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -13896,7 +13896,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -13957,13 +13957,13 @@
 "state": "DC",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 269,
-"address": "2350 M Street NW, Washington, DC 20037",
+"keys": 267,
+"address": "2350 M Street NW, Washington, DC 20037, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Westin Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 303.0,
-"otaLow": 236.0,
-"otaHigh": 399.0,
+"adr": 321.5,
+"otaLow": 226,
+"otaHigh": 417,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -13996,7 +13996,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -14007,9 +14007,9 @@
 "state": "FL",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 243,
-"address": "1515 Prudential Drive, Jacksonville, FL 32207",
-"owner": "Marriott International (NASDAQ: MAR)",
+"keys": 314,
+"address": "1515 Prudential Drive, Jacksonville, FL 32207, USA",
+"owner": "LexDevCo Jax LLC (2020)",
 "brand": "Westin Hotels & Resorts (Marriott International, NASDAQ: MAR)",
 "adr": 175.0,
 "otaLow": 136.0,
@@ -14046,7 +14046,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -14058,12 +14058,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 735,
-"address": "6902 East Greenway Parkway, Scottsdale, AZ 85254",
+"address": "6902 East Greenway Parkway, Scottsdale, AZ 85254, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Westin Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 340.0,
-"otaLow": 265.0,
-"otaHigh": 448.0,
+"adr": 570.5,
+"otaLow": 304,
+"otaHigh": 837,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -14096,7 +14096,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -14158,12 +14158,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 393,
-"address": "686 Anton Boulevard, Costa Mesa, CA 92626",
+"address": "686 Anton Boulevard, Costa Mesa, CA 92626, USA",
 "owner": "Host Hotels & Resorts (NYSE: HST)",
 "brand": "Westin Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 227.0,
-"otaLow": 177.0,
-"otaHigh": 299.0,
+"adr": 264.0,
+"otaLow": 234,
+"otaHigh": 294,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -14196,7 +14196,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -14261,9 +14261,9 @@
 "address": "18 West 56th Street, New York, NY 10019, USA",
 "owner": "Kit Kemp / Firmdale Hotels (private)",
 "brand": "Firmdale Hotels (Kit Kemp / Tim Kemp, private — UK)",
-"adr": 680.0,
-"otaLow": 530.0,
-"otaHigh": 897.0,
+"adr": 1577.5,
+"otaLow": 1145,
+"otaHigh": 2010,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -14296,7 +14296,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -14308,12 +14308,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 247,
-"address": "21 East Bellevue Place, Chicago, IL 60611",
+"address": "21 East Bellevue Place, Chicago, IL 60611, USA",
 "owner": "Hyatt Hotels Corporation (NYSE: H)",
 "brand": "Thompson Hotels (Hyatt Hotels Corporation, NYSE: H)",
-"adr": 350.0,
-"otaLow": 273.0,
-"otaHigh": 462.0,
+"adr": 335.5,
+"otaLow": 188,
+"otaHigh": 483,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -14346,7 +14346,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -14357,13 +14357,13 @@
 "state": "CO",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 196,
-"address": "1616 Glenarm Place, Denver, CO 80202",
+"keys": 216,
+"address": "1616 Market Street, Denver, CO 80202, USA",
 "owner": "Crescent Real Estate / Hyatt",
 "brand": "Thompson Hotels (Hyatt Hotels Corporation, NYSE: H)",
-"adr": 320.0,
-"otaLow": 249.0,
-"otaHigh": 422.0,
+"adr": 357.0,
+"otaLow": 288,
+"otaHigh": 426,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -14396,7 +14396,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -14408,12 +14408,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 172,
-"address": "815 Texas Avenue, Houston, TX 77002",
+"address": "1717 Allen Parkway, Houston, TX 77019, USA",
 "owner": "White Lodging / Hyatt",
 "brand": "Thompson Hotels (Hyatt Hotels Corporation, NYSE: H)",
-"adr": 310.0,
-"otaLow": 241.0,
-"otaHigh": 409.0,
+"adr": 450.0,
+"otaLow": 357,
+"otaHigh": 543,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -14446,7 +14446,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -14458,12 +14458,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 162,
-"address": "123 Losoya Street, San Antonio, TX 78205",
+"address": "115 Lexington Avenue, San Antonio, TX 78215, USA",
 "owner": "White Lodging / Hyatt",
 "brand": "Thompson Hotels (Hyatt Hotels Corporation, NYSE: H)",
-"adr": 330.0,
-"otaLow": 257.0,
-"otaHigh": 435.0,
+"adr": 301.0,
+"otaLow": 263,
+"otaHigh": 339,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -14496,7 +14496,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -14507,13 +14507,13 @@
 "state": "WA",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 110,
-"address": "110 Stewart Street, Seattle, WA 98101",
+"keys": 152,
+"address": "110 Stewart Street, Seattle, WA 98101, USA",
 "owner": "Hyatt Hotels Corporation (NYSE: H)",
 "brand": "Thompson Hotels (Hyatt Hotels Corporation, NYSE: H)",
-"adr": 370.0,
-"otaLow": 288.0,
-"otaHigh": 488.0,
+"adr": 418.5,
+"otaLow": 268,
+"otaHigh": 569,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -14546,7 +14546,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -14758,12 +14758,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 180,
-"address": "1118 North State Street, Chicago, IL 60610",
+"address": "1118 North State Street, Chicago, IL 60610, USA",
 "owner": "Starwood Capital Group",
 "brand": "Viceroy Hotels & Resorts (private)",
-"adr": 390.0,
-"otaLow": 304.0,
-"otaHigh": 514.0,
+"adr": 485.5,
+"otaLow": 293,
+"otaHigh": 678,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -14796,7 +14796,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -14808,12 +14808,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 250,
-"address": "203 North Wabash Avenue, Chicago, IL 60601",
+"address": "203 North Wabash Avenue, Chicago, IL 60601, USA",
 "owner": "Virgin Hotels (Sir Richard Branson / Castleton Hotel Investors)",
 "brand": "Virgin Hotels (private — Sir Richard Branson)",
-"adr": 310.0,
-"otaLow": 241.0,
-"otaHigh": 409.0,
+"adr": 288.5,
+"otaLow": 149,
+"otaHigh": 428,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -14846,7 +14846,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -14958,12 +14958,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 170,
-"address": "9850 Wilshire Blvd, Beverly Hills, CA 90210, USA",
+"address": "9850 Wilshire Boulevard, Beverly Hills, CA 90210, USA",
 "owner": "Hilton / owner varies",
 "brand": "Waldorf Astoria (Hilton)",
-"adr": 900.0,
-"otaLow": 702.0,
-"otaHigh": 1188.0,
+"adr": 1125.5,
+"otaLow": 924,
+"otaHigh": 1327,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -14996,7 +14996,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -15008,12 +15008,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 215,
-"address": "11 E Walton Street, Chicago, IL 60611, USA",
+"address": "11 East Walton Street, Chicago, IL 60611, USA",
 "owner": "Lightstone Group",
 "brand": "Waldorf Astoria Hotels & Resorts (Hilton, NYSE: HLT)",
-"adr": 570.0,
-"otaLow": 444.0,
-"otaHigh": 752.0,
+"adr": 738.0,
+"otaLow": 420,
+"otaHigh": 1056,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -15046,7 +15046,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -15061,9 +15061,9 @@
 "address": "301 Park Avenue, New York, NY 10022, USA",
 "owner": "Hilton / owner varies",
 "brand": "Waldorf Astoria (Hilton)",
-"adr": 1500.0,
-"otaLow": 1170.0,
-"otaHigh": 1980.0,
+"adr": 1690.0,
+"otaLow": 1277,
+"otaHigh": 2103,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -15096,7 +15096,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -15108,12 +15108,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 263,
-"address": "818 Connecticut Avenue NW, Washington, DC 20006",
+"address": "1100 Pennsylvania Avenue NW, Washington, DC 20004, USA",
 "owner": "RLJ Lodging Trust (NYSE: RLJ)",
 "brand": "Waldorf Astoria Hotels & Resorts (Hilton, NYSE: HLT)",
-"adr": 590.0,
-"otaLow": 460.0,
-"otaHigh": 778.0,
+"adr": 764.0,
+"otaLow": 555,
+"otaHigh": 973,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -15146,7 +15146,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -15207,13 +15207,13 @@
 "state": "MA",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 793,
-"address": "425 Summer Street, Boston, MA 02210",
+"keys": 786,
+"address": "425 Summer Street, Boston, MA 02210, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Westin Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 274.0,
-"otaLow": 213.0,
-"otaHigh": 361.0,
+"adr": 309.5,
+"otaLow": 191,
+"otaHigh": 428,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -15246,7 +15246,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -15308,12 +15308,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 436,
-"address": "1370 First Avenue, San Diego, CA 92101",
+"address": "1051 Columbia Street, San Diego, CA 92101, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Westin Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 224.0,
-"otaLow": 174.0,
-"otaHigh": 295.0,
+"adr": 271.0,
+"otaLow": 213,
+"otaHigh": 329,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -15346,7 +15346,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -15358,12 +15358,12 @@
 "country": "USA",
 "tier": "Upper-Upscale",
 "keys": 410,
-"address": "1400 M Street NW, Washington, DC 20005",
+"address": "1400 M Street NW, Washington, DC 20005, USA",
 "owner": "DiamondRock Hospitality Company (NYSE: DRH)",
 "brand": "Westin Hotels & Resorts (Marriott International, NASDAQ: MAR)",
-"adr": 255.0,
-"otaLow": 198.0,
-"otaHigh": 336.0,
+"adr": 234.0,
+"otaLow": 205,
+"otaHigh": 263,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -15396,7 +15396,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -15561,9 +15561,9 @@
 "address": "75 14th Street NE, Atlanta, GA 30309, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 450.0,
-"otaLow": 351.0,
-"otaHigh": 594.0,
+"adr": 441.0,
+"otaLow": 300,
+"otaHigh": 582,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -15596,7 +15596,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -15658,12 +15658,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 215,
-"address": "1 Dalton St, Boston, MA 02115",
+"address": "1 Dalton Street, Boston, MA 02115, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 450.0,
-"otaLow": 351.0,
-"otaHigh": 594.0,
+"adr": 914.5,
+"otaLow": 600,
+"otaHigh": 1229,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -15696,7 +15696,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -16311,9 +16311,9 @@
 "address": "100 Demonbreun Street, Nashville, TN 37201, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 450.0,
-"otaLow": 351.0,
-"otaHigh": 594.0,
+"adr": 758.0,
+"otaLow": 464,
+"otaHigh": 1052,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -16346,7 +16346,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -16411,9 +16411,9 @@
 "address": "27 Barclay Street, New York, NY 10007, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 450.0,
-"otaLow": 351.0,
-"otaHigh": 594.0,
+"adr": 1248.5,
+"otaLow": 924,
+"otaHigh": 1573,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -16446,7 +16446,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -16707,13 +16707,13 @@
 "state": "CA",
 "country": "USA",
 "tier": "Luxury",
-"keys": 277,
-"address": "222 Sansome St, San Francisco, CA",
+"keys": 155,
+"address": "222 Sansome Street, San Francisco, CA 94104, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 450.0,
-"otaLow": 351.0,
-"otaHigh": 594.0,
+"adr": 676.5,
+"otaLow": 571,
+"otaHigh": 782,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -16746,7 +16746,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -16858,12 +16858,12 @@
 "country": "USA",
 "tier": "Ultra-Luxury",
 "keys": 210,
-"address": "10600 E Crescent Moon Dr, Scottsdale, AZ",
+"address": "10600 East Crescent Moon Drive, Scottsdale, AZ 85262, USA",
 "owner": "Four Seasons Hotels Ltd. (Bill Gates / Kingdom Holding)",
 "brand": "Four Seasons Hotels and Resorts",
-"adr": 1800.0,
-"otaLow": 1404.0,
-"otaHigh": 2376.0,
+"adr": 1144.5,
+"otaLow": 530,
+"otaHigh": 1759,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -16896,7 +16896,7 @@
 "note": "Holiday/shoulder"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -17297,7 +17297,7 @@
 }
 ],
 "verified": null,
-"flag": null
+"flag": "Duplicate of HIR-1291 (The Whitley Atlanta Buckhead, same address)"
 },
 {
 "id": "HIR-1219",
@@ -17347,7 +17347,7 @@
 }
 ],
 "verified": null,
-"flag": null
+"flag": "Duplicate of HIR-1292 (Perry Lane Hotel Savannah, same address)"
 },
 {
 "id": "HIR-1220",
@@ -17397,7 +17397,7 @@
 }
 ],
 "verified": null,
-"flag": null
+"flag": "Duplicate record: The Liberty, a Luxury Collection Hotel at 215 Charles Street is already covered by HIR-1293."
 },
 {
 "id": "HIR-1221",
@@ -17447,7 +17447,7 @@
 }
 ],
 "verified": null,
-"flag": null
+"flag": "Duplicate of HIR-1294 (Hotel Ivy Minneapolis, same address)"
 },
 {
 "id": "HIR-1222",
@@ -17497,7 +17497,7 @@
 }
 ],
 "verified": null,
-"flag": null
+"flag": "Duplicate of HIR-1295 (The St. Anthony San Antonio, same address)"
 },
 {
 "id": "HIR-1223",
@@ -17547,7 +17547,7 @@
 }
 ],
 "verified": null,
-"flag": null
+"flag": "Duplicate record: The Gwen, a Luxury Collection Hotel at 521 North Rush Street is already covered by HIR-1296."
 },
 {
 "id": "HIR-1224",
@@ -17597,7 +17597,7 @@
 }
 ],
 "verified": null,
-"flag": null
+"flag": "Duplicate of HIR-1297 (The Joseph Nashville, same address)"
 },
 {
 "id": "HIR-1225",
@@ -17647,7 +17647,7 @@
 }
 ],
 "verified": null,
-"flag": null
+"flag": "Duplicate of HIR-1298 (The Ballantyne Charlotte, same address)"
 },
 {
 "id": "HIR-1226",
@@ -17697,7 +17697,7 @@
 }
 ],
 "verified": null,
-"flag": null
+"flag": "Duplicate of HIR-1299 (The Nines Portland, same address)"
 },
 {
 "id": "HIR-1227",
@@ -17707,13 +17707,13 @@
 "state": "NY",
 "country": "USA",
 "tier": "Luxury",
-"keys": 399,
-"address": "151 West 54th St, New York, NY 10019",
+"keys": 562,
+"address": "151 West 54th Street, New York, NY 10019, USA",
 "owner": null,
 "brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
+"adr": 647.0,
+"otaLow": 459,
+"otaHigh": 835,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -17746,7 +17746,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -17758,12 +17758,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 250,
-"address": "46 W 28th St, New York, NY 10001",
+"address": "25 West 28th Street, New York, NY 10001, USA",
 "owner": null,
 "brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
+"adr": 1171.0,
+"otaLow": 864,
+"otaHigh": 1478,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -17796,7 +17796,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -17807,13 +17807,13 @@
 "state": "FL",
 "country": "USA",
 "tier": "Luxury",
-"keys": 375,
-"address": "1 Lincoln Rd, Miami Beach, FL 33139",
+"keys": 376,
+"address": "1 Lincoln Road, Miami Beach, FL 33139, USA",
 "owner": null,
 "brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
+"adr": 781.5,
+"otaLow": 428,
+"otaHigh": 1135,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -17846,7 +17846,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -17858,12 +17858,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 444,
-"address": "181 Peachtree St NE, Atlanta, GA 30303",
+"address": "181 Peachtree Street NE, Atlanta, GA 30303, USA",
 "owner": null,
 "brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
+"adr": 315.5,
+"otaLow": 298,
+"otaHigh": 333,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -17896,7 +17896,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -17947,7 +17947,7 @@
 }
 ],
 "verified": null,
-"flag": null
+"flag": "Duplicate of HIR-104 (Ritz-Carlton Dallas, same address)"
 },
 {
 "id": "HIR-1232",
@@ -18197,7 +18197,7 @@
 }
 ],
 "verified": null,
-"flag": null
+"flag": "Duplicate of HIR-226 (The Ritz-Carlton, Tysons Corner, same address)"
 },
 {
 "id": "HIR-1237",
@@ -18257,13 +18257,13 @@
 "state": "FL",
 "country": "USA",
 "tier": "Luxury",
-"keys": 238,
-"address": "2201 N West Ave, Miami Beach, FL 33139",
+"keys": 146,
+"address": "485 Brickell Avenue, Miami, FL 33131, USA",
 "owner": null,
 "brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
+"adr": 333.0,
+"otaLow": 226,
+"otaHigh": 440,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -18296,7 +18296,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -18308,12 +18308,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 424,
-"address": "1112 Terry Ave, Seattle, WA 98101",
+"address": "1112 4th Avenue, Seattle, WA 98101, USA",
 "owner": null,
 "brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
+"adr": 315.0,
+"otaLow": 211,
+"otaHigh": 419,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -18346,7 +18346,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -18357,13 +18357,13 @@
 "state": "NY",
 "country": "USA",
 "tier": "Luxury",
-"keys": 270,
-"address": "201 Park Ave S, New York, NY 10003",
+"keys": 243,
+"address": "201 Park Avenue South, New York, NY 10003, USA",
 "owner": null,
 "brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
+"adr": 715.0,
+"otaLow": 492,
+"otaHigh": 938,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -18396,7 +18396,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -18407,13 +18407,13 @@
 "state": "AZ",
 "country": "USA",
 "tier": "Luxury",
-"keys": 228,
-"address": "7277 E Camelback Rd, Scottsdale, AZ 85251",
+"keys": 230,
+"address": "7277 East Camelback Road, Scottsdale, AZ 85251, USA",
 "owner": null,
 "brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
+"adr": 371.5,
+"otaLow": 218,
+"otaHigh": 525,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -18446,7 +18446,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -18508,12 +18508,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 313,
-"address": "255 Biscayne Blvd Way, Downtown Miami, FL 33131",
+"address": "255 Biscayne Boulevard Way, Miami, FL 33131, USA",
 "owner": null,
 "brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
+"adr": 412.0,
+"otaLow": 268,
+"otaHigh": 556,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -18546,7 +18546,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -18557,13 +18557,13 @@
 "state": "NY",
 "country": "USA",
 "tier": "Luxury",
-"keys": 273,
-"address": "5 Madison Ave, New York, NY 10010",
+"keys": 271,
+"address": "5 Madison Avenue, New York, NY 10010, USA",
 "owner": null,
 "brand": "Marriott International",
-"adr": 380.0,
-"otaLow": 296.0,
-"otaHigh": 501.0,
+"adr": 835.5,
+"otaLow": 623,
+"otaHigh": 1048,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -18596,7 +18596,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -18607,13 +18607,13 @@
 "state": "GA",
 "country": "USA",
 "tier": "Luxury",
-"keys": 221,
+"keys": 507,
 "address": "3434 Peachtree Road NE, Atlanta, GA 30326, USA",
 "owner": null,
 "brand": null,
-"adr": 480.0,
-"otaLow": 374.0,
-"otaHigh": 633.0,
+"adr": 261.0,
+"otaLow": 226,
+"otaHigh": 296,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -18646,7 +18646,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -18711,9 +18711,9 @@
 "address": "215 Charles Street, Boston, MA 02114, USA",
 "owner": null,
 "brand": null,
-"adr": 480.0,
-"otaLow": 374.0,
-"otaHigh": 633.0,
+"adr": 475.0,
+"otaLow": 284,
+"otaHigh": 666,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -18746,7 +18746,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -18807,13 +18807,13 @@
 "state": "TX",
 "country": "USA",
 "tier": "Luxury",
-"keys": 353,
+"keys": 277,
 "address": "300 East Travis Street, San Antonio, TX 78205, USA",
 "owner": null,
 "brand": null,
-"adr": 480.0,
-"otaLow": 374.0,
-"otaHigh": 633.0,
+"adr": 236.0,
+"otaLow": 178,
+"otaHigh": 294,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -18846,7 +18846,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -18861,9 +18861,9 @@
 "address": "521 North Rush Street, Chicago, IL 60611, USA",
 "owner": null,
 "brand": null,
-"adr": 480.0,
-"otaLow": 374.0,
-"otaHigh": 633.0,
+"adr": 429.5,
+"otaLow": 261,
+"otaHigh": 598,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -18896,7 +18896,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -18908,12 +18908,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 297,
-"address": "201 North 16th Street, Nashville, TN 37203, USA",
+"address": "401 Korean Veterans Boulevard, Nashville, TN 37203, USA",
 "owner": null,
 "brand": null,
-"adr": 480.0,
-"otaLow": 374.0,
-"otaHigh": 633.0,
+"adr": 465.0,
+"otaLow": 377,
+"otaHigh": 553,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -18946,7 +18946,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -18958,12 +18958,12 @@
 "country": "USA",
 "tier": "Luxury",
 "keys": 249,
-"address": "10000 Ballantyne Commons Pkwy, Charlotte, NC 28277, USA",
+"address": "10000 Ballantyne Commons Parkway, Charlotte, NC 28277, USA",
 "owner": null,
 "brand": null,
-"adr": 480.0,
-"otaLow": 374.0,
-"otaHigh": 633.0,
+"adr": 385.0,
+"otaLow": 330,
+"otaHigh": 440,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -18996,7 +18996,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -19061,9 +19061,9 @@
 "address": "600 Stockton Street, San Francisco, CA 94108, USA",
 "owner": "Marriott International / institutional owner",
 "brand": "The Ritz-Carlton Hotel Company (Marriott)",
-"adr": 480.0,
-"otaLow": 374.0,
-"otaHigh": 633.0,
+"adr": 565.0,
+"otaLow": 492,
+"otaHigh": 638,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -19096,7 +19096,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -19111,9 +19111,9 @@
 "address": "900 West Olympic Boulevard, Los Angeles, CA 90015, USA",
 "owner": "Marriott International / institutional owner",
 "brand": "The Ritz-Carlton Hotel Company (Marriott)",
-"adr": 480.0,
-"otaLow": 374.0,
-"otaHigh": 633.0,
+"adr": 774.0,
+"otaLow": 639,
+"otaHigh": 909,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -19146,7 +19146,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -19247,7 +19247,7 @@
 }
 ],
 "verified": null,
-"flag": null
+"flag": "Duplicate of HIR-085 (St. Regis Houston, same address)"
 },
 {
 "id": "HIR-1307",
@@ -19257,13 +19257,13 @@
 "state": "DC",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 336,
+"keys": 360,
 "address": "2650 Virginia Avenue NW, Washington, DC 20037, USA",
 "owner": "The Hotels / institutional owner",
 "brand": null,
-"adr": 230.0,
-"otaLow": 179.0,
-"otaHigh": 303.0,
+"adr": 291.0,
+"otaLow": 218,
+"otaHigh": 364,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -19296,7 +19296,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -19557,13 +19557,13 @@
 "state": "DC",
 "country": "USA",
 "tier": "Upper-Upscale",
-"keys": 314,
+"keys": 335,
 "address": "2121 P Street NW, Washington, DC 20037, USA",
 "owner": "The Hotels / institutional owner",
 "brand": null,
-"adr": 230.0,
-"otaLow": 179.0,
-"otaHigh": 303.0,
+"adr": 217.5,
+"otaLow": 128,
+"otaHigh": 307,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -19596,7 +19596,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -19607,13 +19607,13 @@
 "state": "DC",
 "country": "USA",
 "tier": "Upscale",
-"keys": 237,
+"keys": 373,
 "address": "415 New Jersey Avenue NW, Washington, DC 20001, USA",
 "owner": "YOTEL Hotels / institutional owner",
 "brand": "YOTEL Hotels",
-"adr": 180.0,
-"otaLow": 140.0,
-"otaHigh": 237.0,
+"adr": 192.5,
+"otaLow": 148,
+"otaHigh": 237,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -19646,7 +19646,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -19657,13 +19657,13 @@
 "state": "DC",
 "country": "USA",
 "tier": "Upscale",
-"keys": 217,
+"keys": 355,
 "address": "1143 New Hampshire Avenue NW, Washington, DC 20037, USA",
 "owner": "Yours Hotels / institutional owner",
 "brand": "Yours Hotels",
-"adr": 180.0,
-"otaLow": 140.0,
-"otaHigh": 237.0,
+"adr": 294.5,
+"otaLow": 182,
+"otaHigh": 407,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -19696,7 +19696,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -20057,13 +20057,13 @@
 "state": "DC",
 "country": "USA",
 "tier": "Upscale",
-"keys": 292,
-"address": "1000 New Jersey Avenue SE, Washington, DC 20003, USA",
+"keys": 252,
+"address": "550 School Street SW, Washington, DC 20024, USA",
 "owner": "citizenM Hotels / institutional owner",
 "brand": "citizenM Hotels",
-"adr": 180.0,
-"otaLow": 140.0,
-"otaHigh": 237.0,
+"adr": 178.5,
+"otaLow": 108,
+"otaHigh": 249,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -20096,7 +20096,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -20411,9 +20411,9 @@
 "address": "10 Thomas Circle NW, Washington, DC 20005, USA",
 "owner": "Washington Hotels / institutional owner",
 "brand": "Washington Hotels",
-"adr": 180.0,
-"otaLow": 140.0,
-"otaHigh": 237.0,
+"adr": 165.0,
+"otaLow": 115,
+"otaHigh": 215,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -20446,7 +20446,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -20457,13 +20457,13 @@
 "state": "DC",
 "country": "USA",
 "tier": "Upscale",
-"keys": 231,
+"keys": 233,
 "address": "2015 Massachusetts Avenue NW, Washington, DC 20036, USA",
 "owner": "The Hotels / institutional owner",
 "brand": null,
-"adr": 180.0,
-"otaLow": 140.0,
-"otaHigh": 237.0,
+"adr": 222.0,
+"otaLow": 162,
+"otaHigh": 282,
 "seasonal": [
 {
 "period": "Jan–Feb",
@@ -20496,7 +20496,7 @@
 "note": "Holiday"
 }
 ],
-"verified": null,
+"verified": "2026-10-21",
 "flag": null
 },
 {
@@ -21447,7 +21447,7 @@
 }
 ],
 "verified": null,
-"flag": "Hotel no longer operating: the Sutton Place Hotel Toronto (Bay and Wellesley) closed on June 15, 2012; the building was converted into The Britt condominium tower, completed 2019 (Wikipedia)."
+"flag": "Hotel no longer operating: the Sutton Place Hotel Toronto (Bay and Wellesley) closed on June 15, 2012; the building was converted into The Britt condominium tower, completed 2019."
 },
 {
 "id": "HIR-1351",
