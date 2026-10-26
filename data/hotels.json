@@ -15300,56 +15300,6 @@
 "flag": null
 },
 {
-"id": "HIR-1062",
-"slug": "hir-1062",
-"name": "Amangani",
-"city": "Jackson Hole",
-"state": "WY",
-"country": "USA",
-"tier": "Ultra-Luxury",
-"keys": 40,
-"address": "1535 North East Butte Road, Jackson, WY 83001, USA",
-"owner": "Aman Resorts International (Vladislav Doronin)",
-"brand": "Aman Hotels & Resorts",
-"adr": 1800.0,
-"otaLow": 1404.0,
-"otaHigh": 2376.0,
-"seasonal": [
-{
-"period": "Jan–Feb",
-"rate": 1476.0,
-"note": "Low/shoulder"
-},
-{
-"period": "Mar–Apr",
-"rate": 1656.0,
-"note": "Spring"
-},
-{
-"period": "May–Jun",
-"rate": 1890.0,
-"note": "Pre-peak"
-},
-{
-"period": "Jul–Aug",
-"rate": 2124.0,
-"note": "Peak"
-},
-{
-"period": "Sep–Oct",
-"rate": 1800.0,
-"note": "Fall"
-},
-{
-"period": "Nov–Dec",
-"rate": 1584.0,
-"note": "Holiday/shoulder"
-}
-],
-"verified": "2026-10-21",
-"flag": null
-},
-{
 "id": "HIR-1106",
 "slug": "hir-1106",
 "name": "Four Seasons Hotel Atlanta",
